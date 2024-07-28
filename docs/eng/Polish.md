@@ -194,7 +194,29 @@ Note how the **ł** changes to **l** in pisa**li**ście because of the following
 
 The formula is: verb stem + **ł** + gender marking (no ending, **-a-**, **-o-**, **-i-** or **-y-**) + personal ending (no ending, **-m**, **-ś**, **-śmy** or **-ście**).
 
-The present forms of perfective verbs are used to express the future tense. To express the future tense of imperfective verbs, use the present of the verb **być** ('to be') followed by the infinitive or the **ł** form of the verb.
+The verb **być** ('to be') is irregular in the present tense and has it's own future forms:
+
+| Present form | Meaning |
+|-----|-----|
+| **jestem** | 'I am' |
+| **jesteś** | 'you are' |
+| **jest** | 'he/she/it is' |
+| **jesteśmy** | 'we are' |
+| **jesteście** | 'you are' |
+| **są** | 'they are' |
+
+| Future form | Meaning |
+|-----|-----|
+| **będę** | 'I will be' |
+| **będziesz** | 'you will be' |
+| **będzie** | 'he/she/it will be' |
+| **będziemy** | 'we will be' |
+| **będziecie** | 'you will be' |
+| **będą** | 'they will be' |
+
+The past tense of **być** is **był** etc. E.g.: **byłam** ('I was', fem.), **było** ('it was'), etc.
+
+The present forms of perfective verbs are used to express the future tense. To express the future tense of imperfective verbs, use the future of the verb **być** ('to be') followed by the infinitive or the **ł** form of the verb.
  This gives these combinations for **robić** ('to do'):
 
 | Form | Meaning |
@@ -205,43 +227,28 @@ The present forms of perfective verbs are used to express the future tense. To e
 | robi**łem** (masc.) <br> robi**łam** (fem.) | 'I was doing' |
 | **z**robi**łem** (masc.) <br> **z**robi**łam** (fem.) | 'I did', 'I have done' |
 
+
 ### Imperative
 
-The imperative mood is formed differently depending on the verb. Here are some common patterns:
+The imperative is formed by using the verb stem. For verbs that end in **-a** in the 3rd person singular present, add **-j**. For first person plural, add **-my** after that, for second person plural, add **-cie**. Examples:
 
-1. For many verbs, remove the ending and add:
-   - -j for singular
-   - -jmy for 1st person plural
-   - -jcie for 2nd person plural
-
-   Example with "czytać" (to read):
-   - czyta**j** (read! - singular)
-   - czyta**jmy** (let's read!)
-   - czyta**jcie** (read! - plural)
-
-2. For verbs ending in -ić or -yć, remove -ć and add:
-   - nothing for singular
-   - -my for 1st person plural
-   - -cie for 2nd person plural
-
-   Example with "robić" (to do):
-   - rób (do! - singular)
-   - rób**my** (let's do!)
-   - rób**cie** (do! - plural)
-
+| Form | Meaning |
+|------|---------|
+| czyt**aj** | 'read' (masc. sg.) |
+| czyt**ajmy** | 'let's read' |
+| czyt**ajcie** | 'read' (pl.) |
+| zrób | 'do' (masc. sg.) |
+| zrób**my** | 'let's do' |
+| zrób**cie** | 'do' (pl.) |
 
 ### Conditional
-The conditional mood is formed using the past tense form of the verb plus the particle "by" and personal endings. For example, with "robić" (to do):
 
-- Singular:
-  - ja robił**bym** / robiła**bym** (I would do)
-  - ty robił**byś** / robiła**byś** (you would do)
-  - on robił**by** / ona robiła**by** / ono robiło**by** (he/she/it would do)
+The conditional is made by adding **by** after **-ł**/**-ła**/**-ło**/**-li**/**-ły** in the past tense, before any personal endings. Examples:
 
-- Plural:
-  - my robili**byśmy** / robiły**byśmy** (we would do)
-  - wy robili**byście** / robiły**byście** (you would do)
-  - oni robili**by** / one robiły**by** (they would do)
+| Form | Meaning |
+|------|---------|
+| pisał**by** | 'he would write' (masc.) |
+| pisała**by**m | 'I would write' (fem.) |
 
 ### Other forms
 
