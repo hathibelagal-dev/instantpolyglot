@@ -62,19 +62,25 @@ Note these spellings:
 -prz- | [pʂ]
 -trz- | [tʂ]
 
+
 ### Soft and hard consonants
 
 TODO
 
-### Othe sound changes
+### Other sound changes
 
-Some other sounds also change in certain contexts. Examples:
+Some vowels alternate in related words or different forms of the same word. Examples:
 
 **o** / **ó**:
-
-**o** / **a**:
+- samoch**ó**d (car) / samoch**o**dy (cars)
+- Krak**ó**w (Krakow) / w Krak**o**wie (in Krakow)
 
 **ą** / **ę**:
+- z**ą**b (tooth) / z**ę**by (teeth)
+- wzi**ą**ć (to take, perfective) / wzi**ę**li (they took)
+
+**a** / **e**:
+- swi**a**t (world) / swi**e**cie (world, locative)
 
 ### Stress
 
@@ -107,18 +113,17 @@ Given names are usually declined like common nouns, with the vocative being used
 
 Pronouns are declined like nouns, with some irregularities. The personal pronouns are:
 
-TODO
 
-| Case | 1st sg. | 2nd sg. | 3rd sg. masc. | 3rd sg. fem. | 3rd sg. neut. | 1st pl. | 2nd pl. | 3rd pl. |
-|------|---------|---------|---------------|--------------|--------------|---------|---------|---------|
-| Nominative | ja | ty | on | ona | ono | my | wy | oni |
-| Accusative | mnie | ciebie | (n)jego / go | (n)ją | (n)je | nas | was | ich |
-| Genitive | mnie | ciebie | (n)jego / go | (n)jej | (n)jego | nas | was | ich |
-| Dative | mi | tobie | (n)jemu | (n)jej | (n)jemu | nam | wam | im |
-| Locative | mnie | tobie | nim | niej | nim | nas | was | nich |
-| Instrumental | mną | tobą | nim | nią | nim | nami | wami | nimi |
+| Case | 1st sg. | 2nd sg. | 3rd sg. masc. | 3rd sg. fem. | 3rd sg. neut. | 1st pl. | 2nd pl. | 3rd pl. masc. | 3rd pl. non-masc. |
+|------|---------|---------|---------------|--------------|---------------|---------|---------|----------------|-------------------|
+| Nominative | ja | ty | on | ona | ono | my | wy | oni | one |
+| Accusative | mnie | ciebie / cię | jego / niego / go | ją /nią  | je / nie | nas | was | ich | je / nie |
+| Genitive | mnie | ciebie / cię | jego / niego / go | jej / niej | jego / niego / go | nas | was | ich / nich | ich / nich |
+| Dative | mi | tobie / ci | jemu / niemu / mu | jej / niej | jemu / niemu / mu | nam | wam | im / nim | im / nim |
+| Locative | mnie | tobie | nim | niej | nim | nas | was | nich | nich |
+| Instrumental | mną | tobą | (n)im | nią | (n)im | nami | wami | nimi | nimi |
 
-Third person pronouns starting with **j-** add **n-** if they follow a preposition. E.g. **przed nim** ('before him'), **dla niej** ('for her').
+Third person pronouns starting with **j-** or **i-** change to **ni-** if they follow a preposition. E.g. **przed nim** ('before him'), **dla niej** ('for her').
 
 ## Numbers
 
@@ -202,17 +207,70 @@ The present forms of perfective verbs are used to express the future tense. To e
 
 ### Imperative
 
-TODO
+The imperative mood is formed differently depending on the verb. Here are some common patterns:
+
+1. For many verbs, remove the ending and add:
+   - -j for singular
+   - -jmy for 1st person plural
+   - -jcie for 2nd person plural
+
+   Example with "czytać" (to read):
+   - czyta**j** (read! - singular)
+   - czyta**jmy** (let's read!)
+   - czyta**jcie** (read! - plural)
+
+2. For verbs ending in -ić or -yć, remove -ć and add:
+   - nothing for singular
+   - -my for 1st person plural
+   - -cie for 2nd person plural
+
+   Example with "robić" (to do):
+   - rób (do! - singular)
+   - rób**my** (let's do!)
+   - rób**cie** (do! - plural)
+
 
 ### Conditional
+The conditional mood is formed using the past tense form of the verb plus the particle "by" and personal endings. For example, with "robić" (to do):
 
-TODO
+- Singular:
+  - ja robił**bym** / robiła**bym** (I would do)
+  - ty robił**byś** / robiła**byś** (you would do)
+  - on robił**by** / ona robiła**by** / ono robiło**by** (he/she/it would do)
+
+- Plural:
+  - my robili**byśmy** / robiły**byśmy** (we would do)
+  - wy robili**byście** / robiły**byście** (you would do)
+  - oni robili**by** / one robiły**by** (they would do)
 
 ### Other forms
 
-TODO
+1. Present active participle: formed by adding **-ący** to the 3rd person plural present tense stem.
+   Example: **czytający** (reading) from **czytają** (they read)
+
+2. Past active participle: formed by adding **-wszy** to the past tense stem.
+   Example: **przeczytawszy** (having read) from **przeczytał** (he read)
+
+3. Present passive participle: formed by adding **-ny** or **-ty** to the infinitive stem.
+   Example: **czytany** (being read) from **czytać** (to read)
+
+4. Verbal noun: formed by adding **-nie** or **-cie** to the infinitive stem.
+   Example: **czytanie** (reading) from **czytać** (to read)
 
 ## Syntax
+
+The word order in Polish is relatively flexible due to the case system, but the most common order is Subject-Verb-Object (SVO). However, other orders are possible for emphasis or stylistic reasons.
+
+Example:
+- SVO: **Jan czyta książkę** (Jan reads a book)
+- OVS: **Książkę czyta Jan** (It's a book that Jan reads)
+
+Questions can be formed by adding the particle "czy" at the beginning of a statement or by using intonation:
+- **Czy mówisz po polsku?** (Do you speak Polish?)
+- **Mówisz po polsku?** (You speak Polish? / Do you speak Polish?)
+
+Negation is formed by placing **nie** before the verb:
+- **Nie** mówię po polsku (I don't speak Polish)
 
 There are no definite or indefinite articles in Polish. The definiteness is expressed by context or by the use of demonstratives or possessives. E.g. **widzę psa** ('I see a dog'), **widzę tego psa** ('I see this dog'), **widzę mojego psa** ('I see my dog').
 
@@ -262,4 +320,21 @@ The polite form of address is used with strangers, older people, and in formal s
 
 ## Vocabulary
 
-Loanwords are common, especially from Latin, French, German and English. Some examples: **telewizja** ('television'), **komputer** ('computer'), **telefon** ('telephone'), **internet** ('Internet').
+Polish vocabulary has been influenced by various languages throughout its history. Some common sources of loanwords include:
+
+1. Latin: often in scientific or academic terms
+   Example: **uniwersytet** (university)
+
+2. German: due to historical proximity and interaction
+   Example: **sznycel** (schnitzel)
+
+3. French: especially in areas of culture and cuisine
+   Example: **bagietka** (baguette)
+
+4. English: particularly in modern technology and pop culture
+   Example: **komputer** (computer)
+
+5. Czech: due to linguistic proximity
+   Example: **robot** (robot)
+
+Many Slavic roots are shared across Polish and other Slavic languages, which can be helpful for learners familiar with other languages in this family.
