@@ -109,6 +109,10 @@ Some points to note:
 
 Given names are usually declined like common nouns, with the vocative being used for direct address. E.g. nominative **Jan**, genitive **Jana** etc.
 
+## Diminutives
+
+
+
 ## Pronouns
 
 Pronouns are declined like nouns, with some irregularities. The personal pronouns are:
@@ -286,7 +290,7 @@ Verbal noun: formed by adding **-nie** or **-cie** to the infinitive stem:
 
 The word order in Polish is relatively flexible due to the case system, but the most common order is Subject-Verb-Object (SVO). However, other orders are possible for emphasis or stylistic reasons. E.g.:
 - SVO: **Jan czyta książkę** (Jan reads a book)
-- OVS: **Książkę czyta Jan** (It's a book that Jan reads)
+- OVS: **Książkę czyta Jan** (It's Jan who reads the book)
 
 Questions can be formed by adding the particle "czy" at the beginning of a statement or by using intonation:
 - **Czy mówisz po polsku?** (Do you speak Polish?)
@@ -346,6 +350,10 @@ The instrumental is used for
 * professions: **jestem nauczycielem** ('I am a teacher', masc.), **jestem lekarzką** ('I am a doctor', fem.).
 * permanent characteristics: **jestem polką** ('I am Polish', fem.), **jestem mężczyzną** ('I am a man').
 
+### Particles etc.
+
+**już** ('already') is used to indicate that an action has already taken place: **już przeczytałem tę książkę** ('I have already read this book') or TBD
+
 ## Usage notes
 
 ### Address
@@ -372,3 +380,6 @@ Polish vocabulary has been influenced by various languages throughout its histor
    Example: **robot** (robot)
 
 Many Slavic roots are shared across Polish and other Slavic languages, which can be helpful for learners familiar with other languages in this family.
+
+# Hypercorrections
+
