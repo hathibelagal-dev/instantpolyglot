@@ -127,15 +127,34 @@ Third person pronouns starting with **j-** or **i-** change to **ni-** if they f
 
 ## Numbers
 
-TODO
+Numbers are inflected for case, some even for gender:
+
+"1": **jeden** (masc.), **jedna** (fem.), **jedno** (neut*.) Case forms resemble pronouns and adjectives: **jednego** (masc. and neut. genitive), **jedną** (fem. accusative) etc.
+
+"2": **dwa** (masc.), **dwie** (fem.), **dwa** (neut.). Case forms resemble pronouns and adjectives: **dwóch** (masc. and neut. genitive), **dwie** (fem. genitive) etc.
+
+"3": **trzy** for all genders. Some case forms: **trzech** (masc. and neut. genitive), **trzy** (masc. accusative), **trzy** (neut. accusative), **trzy** (fem. accusative).
+
+TBD
 
 ## Adjectives
 
-TODO
+Basic patterns:
+
+| Case | Masc. sg. | Fem. sg. | Neut. sg. | Plural |
+|------|-----------|----------|-----------|--------|
+| Nominative | **duży** ('big') | **duża** | **duże** | **duzi** / **duże** |
+| Accusative | **duży** / **dużego** | **dużą** | **duże** | **dużych** / **duże** |
+| Genitive | **dużego** | **dużej** | **dużego** | **dużych** |
+| Dative | **dużemu** | **dużej** | **dużemu** | **dużym** |
+| Locative | **dużym** | **dużej** | **dużym** | **dużych** |
+| Instrumental | **dużym** | **dużą** | **dużym** | **dużymi** |
+
+TBD 
 
 ## Verbs
 
-The most striking feature of Polish verbs is the aspectual distinction between perfective and imperfective verbs. Perfective verbs denote a completed action, while imperfective verbs denote an ongoing or repeated action. The two aspects are often related and make pairs, with the perfective being derived from the imperfective. The perfective is often formed by adding a prefix to the imperfective verb.
+The most striking feature of Polish verbs is the aspectual distinction between perfective and imperfective verbs. Perfective verbs denote a completed action, while imperfective verbs denote an ongoing or repeated action. The two aspects are often related and make pairs, with the perfective being derived from the imperfective. The perfective can often be formed by adding a prefix to the imperfective verb, but there are several ways to form pairs.
 
 Examples of aspectual pairs:
 
@@ -216,8 +235,7 @@ The verb **być** ('to be') is irregular in the present tense and has it's own f
 
 The past tense of **być** is **był** etc. E.g.: **byłam** ('I was', fem.), **było** ('it was'), etc.
 
-The present forms of perfective verbs are used to express the future tense. To express the future tense of imperfective verbs, use the future of the verb **być** ('to be') followed by the infinitive or the **ł** form of the verb.
- This gives these combinations for **robić** ('to do'):
+The present forms of perfective verbs are used to express the future tense. To express the future tense of imperfective verbs, use the future of the verb **być** ('to be') followed by the infinitive or the **ł** form of the verb. This gives these combinations for **robić** ('to do'):
 
 | Form | Meaning |
 |------|---------|
@@ -243,7 +261,7 @@ The imperative is formed by using the verb stem. For verbs that end in **-a** in
 
 ### Conditional
 
-The conditional is made by adding **by** after **-ł**/**-ła**/**-ło**/**-li**/**-ły** in the past tense, before any personal endings. Examples:
+The conditional is made by adding **-by** after **-ł**/**-ła**/**-ło**/**-li**/**-ły** in the past tense, before any personal endings. Examples:
 
 | Form | Meaning |
 |------|---------|
@@ -252,23 +270,21 @@ The conditional is made by adding **by** after **-ł**/**-ła**/**-ło**/**-li**
 
 ### Other forms
 
-1. Present active participle: formed by adding **-ący** to the 3rd person plural present tense stem.
-   Example: **czytający** (reading) from **czytają** (they read)
+Present active participle: formed by adding **-ący** to the 3rd person plural present tense stem:
+- **czytający** (reading) from **czytają** (they read)
 
-2. Past active participle: formed by adding **-wszy** to the past tense stem.
-   Example: **przeczytawszy** (having read) from **przeczytał** (he read)
+Past active participle: formed by adding **-wszy** to the past tense stem:
+- **przeczytawszy** (having read) from **przeczytał** (he read)
 
-3. Present passive participle: formed by adding **-ny** or **-ty** to the infinitive stem.
-   Example: **czytany** (being read) from **czytać** (to read)
+Present passive participle: formed by adding **-ny** or **-ty** to the infinitive stem:
+- **czytany** (being read) from **czytać** (to read)
 
-4. Verbal noun: formed by adding **-nie** or **-cie** to the infinitive stem.
-   Example: **czytanie** (reading) from **czytać** (to read)
+Verbal noun: formed by adding **-nie** or **-cie** to the infinitive stem:
+- **czytanie** (reading) from **czytać** (to read)
 
 ## Syntax
 
-The word order in Polish is relatively flexible due to the case system, but the most common order is Subject-Verb-Object (SVO). However, other orders are possible for emphasis or stylistic reasons.
-
-Example:
+The word order in Polish is relatively flexible due to the case system, but the most common order is Subject-Verb-Object (SVO). However, other orders are possible for emphasis or stylistic reasons. E.g.:
 - SVO: **Jan czyta książkę** (Jan reads a book)
 - OVS: **Książkę czyta Jan** (It's a book that Jan reads)
 
@@ -279,11 +295,21 @@ Questions can be formed by adding the particle "czy" at the beginning of a state
 Negation is formed by placing **nie** before the verb:
 - **Nie** mówię po polsku (I don't speak Polish)
 
-There are no definite or indefinite articles in Polish. The definiteness is expressed by context or by the use of demonstratives or possessives. E.g. **widzę psa** ('I see a dog'), **widzę tego psa** ('I see this dog'), **widzę mojego psa** ('I see my dog').
+There are no definite or indefinite articles in Polish. The definiteness is expressed by context or by the use of demonstratives or possessives:
+- **widzę psa** ('I see a dog')
+- **widzę tego psa** ('I see this dog')
+- **widzę mojego psa** ('I see my dog').
 
-Personal pronouns are usually omitted if the subject is clear from the context. E.g. **jestem z Polski** ('I'm from Poland'). The pronoun is used for emphasis or contrast: **ja jestem z Polski** ('_I_ am from Poland').
+Personal pronouns are usually omitted if the subject is clear from the context:
+- **jestem z Polski** ('I'm from Poland').
 
-Adjectives can both precede and follow the noun, but the most common order is adjective + noun. Examples: **duży dom** ('big house'), **czerwony samochód** ('red car'), but **język polski** ('Polish language').
+The pronoun is used for emphasis or contrast:
+- **ja jestem z Polski** ('_I_ am from Poland').
+
+Adjectives can both precede and follow the noun, but the most common order is adjective + noun:
+- **duży dom** ('big house')
+- **czerwony samochód** ('red car')
+- but **język polski** ('Polish language').
 
 ### Case usage
 
@@ -317,7 +343,8 @@ The locative is used only after prepositions.
 
 The instrumental is used for
 * the means: **piszę długopisem** ('I write with a pen'), **jedziemy samochodem** ('we go by car').
-* professions: **jestem nauczycielem** ('I am a teacher'), **jestem lekarzem** ('I am a doctor').
+* professions: **jestem nauczycielem** ('I am a teacher', masc.), **jestem lekarzką** ('I am a doctor', fem.).
+* permanent characteristics: **jestem polką** ('I am Polish', fem.), **jestem mężczyzną** ('I am a man').
 
 ## Usage notes
 
