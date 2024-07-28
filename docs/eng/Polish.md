@@ -62,6 +62,7 @@ Note these spellings:
 -prz- | [pʂ]
 -trz- | [tʂ]
 
+### Assimilation
 
 ### Soft and hard consonants
 
@@ -106,6 +107,8 @@ Some typical inflection patterns:
 | Vocative | samocho**dzie** | samochod**y** | p**sie** | ps**y** | kobiet**o** | kobiet**y** | okn**o** | okn**a** |
 
 Some points to note:
+
+TBD about various endings
 
 Given names are usually declined like common nouns, with the vocative being used for direct address. E.g. nominative **Jan**, genitive **Jana** etc.
 
@@ -183,6 +186,7 @@ Some pairs have different roots:
 | Imperfective | Perfective | Meaning |
 |------------|--------------|---------|
 | widzieć | zobaczyć | 'to see' |
+| mówić | powiedzieć | 'to say' |
 
 The present is formed by adding personal endings to the verb stem. There are numerous patterns, but most are variations of the following two main patterns:
 
@@ -195,7 +199,7 @@ The present is formed by adding personal endings to the verb stem. There are num
 | czyt**acie** | 'you read' | rob**icie** | 'you do' |
 | czyt**ają** | 'they read' | rob**ią** [ˈrɔbʲɔ̃] | 'they do' |
 
-The past tense is formed by adding an **-ł** suffix to the verb stem,then adding the personal endings, which are inflected for person, number and gender. Examples of the past tense of the verb **pisać** ('to write'):
+The past tense is formed by adding an **-ł** suffix to the verb stem, then adding the personal endings, which are inflected for person, number and gender. Examples of the past tense of the verb **pisać** ('to write'):
 
 | Form | Meaning |
 |------|---------
@@ -213,9 +217,9 @@ The past tense is formed by adding an **-ł** suffix to the verb stem,then addin
 | pisa**li** | 'they wrote' (masc. or mixed) |
 | pisa**ły** | 'they wrote' (fem.) |
 
-Note how the **ł** changes to **l** in pisa**li**ście because of the following **i**.
+Note how the **ł** changes to **l** in pisa**li**(-śmy, -ście) because of the following **i**.
 
-The formula is: verb stem + **ł** + gender marking (no ending, **-a-**, **-o-**, **-i-** or **-y-**) + personal ending (no ending, **-m**, **-ś**, **-śmy** or **-ście**).
+The formula is: verb stem + **ł** + gender marking (no ending, **-a-**, **-o-**, **-i-** or **-y-**) + personal ending (no ending, **-(e)m**, **-(e)ś**, **-śmy** or **-ście**).
 
 The verb **być** ('to be') is irregular in the present tense and has it's own future forms:
 
@@ -286,6 +290,8 @@ Present passive participle: formed by adding **-ny** or **-ty** to the infinitiv
 Verbal noun: formed by adding **-nie** or **-cie** to the infinitive stem:
 - **czytanie** (reading) from **czytać** (to read)
 
+### Verbs of motion
+
 ## Syntax
 
 The word order in Polish is relatively flexible due to the case system, but the most common order is Subject-Verb-Object (SVO). However, other orders are possible for emphasis or stylistic reasons. E.g.:
@@ -347,7 +353,7 @@ The locative is used only after prepositions.
 
 The instrumental is used for
 * the means: **piszę długopisem** ('I write with a pen'), **jedziemy samochodem** ('we go by car').
-* professions: **jestem nauczycielem** ('I am a teacher', masc.), **jestem lekarzką** ('I am a doctor', fem.).
+* professions: **jestem nauczycielem** ('I am a teacher', masc.), **jestem lekarką** ('I am a doctor', fem.).
 * permanent characteristics: **jestem polką** ('I am Polish', fem.), **jestem mężczyzną** ('I am a man').
 
 ### Particles etc.
@@ -381,5 +387,5 @@ Polish vocabulary has been influenced by various languages throughout its histor
 
 Many Slavic roots are shared across Polish and other Slavic languages, which can be helpful for learners familiar with other languages in this family.
 
-# Hypercorrections
+## Hypercorrections
 
