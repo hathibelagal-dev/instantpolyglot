@@ -352,9 +352,7 @@ Hungarian vocabulary has been influenced by various languages throughout its his
    Examples: alma (apple), szakáll (beard), gyümölcs (fruit)
 
 2. Slavic languages: due to geographical proximity after settlement
-   Examples: szerda (Certainly, I'll continue with the Hungarian language overview:
-
-Wednesday), csinál (to do), galamb (pigeon)
+   Examples: szerda (Wednesday), csinál (to do), galamb (pigeon)
 
 3. German: due to historical ties with Austria and the Habsburg Empire
    Examples: sógor (brother-in-law), erkély (balcony), krumpli (potato)
