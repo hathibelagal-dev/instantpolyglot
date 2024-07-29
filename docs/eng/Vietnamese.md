@@ -127,19 +127,6 @@ Examples:
 5. Vowel reduction:
    - In rapid speech, some vowels in unstressed syllables may be reduced or centralized.
 
-### Syllable structure
-
-Vietnamese syllables typically follow this structure: (C)(w)V(C), where:
-- (C) is an optional initial consonant
-- (w) is an optional medial [w] sound
-- V is a required vowel or diphthong
-- (C) is an optional final consonant
-
-Examples:
-- **ba** [ɓa] ('three')
-- **quê** [kwe] ('hometown')
-- **không** [xoŋm] ('no')
-
 ### Stress
 
 Vietnamese words are generally monosyllabic, so stress is not a significant feature. In compound words, stress is typically even across syllables.
@@ -234,6 +221,12 @@ Adjectives in Vietnamese do not change form. They typically follow the noun they
 Some adjectives can also function as stative verbs:
 - **Tôi mệt.** ('I am tired.')
 
+The comparative form of adjectives is formed using "hơn" (more):
+- **đẹp hơn** ('more beautiful')
+
+The superlative form uses "nhất" (most):
+- **đẹp nhất** ('most beautiful')
+
 ### Verbs
 
 Vietnamese verbs do not conjugate for tense, person, or number. Tense and aspect are indicated by context or by using time words and particles.
@@ -241,19 +234,19 @@ Vietnamese verbs do not conjugate for tense, person, or number. Tense and aspect
 Present tense is usually unmarked:
 - **Tôi ăn cơm.** ('I eat rice.' or 'I am eating rice.')
 
-Past tense can be indicated with "đã":
+Past tense can be indicated with **đã**:
 - **Tôi đã ăn cơm.** ('I ate rice.' or 'I have eaten rice.')
 
-Future tense can be indicated with "sẽ":
+Future tense can be indicated with **sẽ**:
 - **Tôi sẽ ăn cơm.** ('I will eat rice.')
 
-Continuous aspect can be shown with "đang":
+Continuous aspect can be shown with **đang**:
 - **Tôi đang ăn cơm.** ('I am eating rice.')
 
-Completed action can be indicated with "xong" or "rồi":
+Completed action can be indicated with **xong** or **rồi**:
 - **Tôi ăn xong rồi.** ('I have finished eating.')
 
-Negation is formed by placing "không" before the verb:
+Negation is formed by placing **không** before the verb:
 - **Tôi không ăn cơm.** ('I don't eat rice.' or 'I am not eating rice.')
 
 ### Adverbs
@@ -261,14 +254,6 @@ Negation is formed by placing "không" before the verb:
 Adverbs typically precede the verb or adjective they modify:
 - **Tôi chậm ăn.** ('I eat slowly.')
 - **Cô ấy rất đẹp.** ('She is very beautiful.')
-
-### Comparatives and Superlatives
-
-Comparatives are formed using "hơn" (more) after the adjective:
-- **Anh ấy cao hơn tôi.** ('He is taller than me.')
-
-Superlatives use "nhất" (most) after the adjective:
-- **Cô ấy đẹp nhất.** ('She is the most beautiful.')
 
 ## Syntax
 
@@ -359,7 +344,7 @@ Some verbs require the complementizer "rằng" or "là":
 Imperatives can be formed simply by using the bare verb:
 - **Đi!** ('Go!')
 
-For more polite requests, "hãy" or "xin" can be used before the verb:
+For more polite requests, **hãy** or **xin** can be used before the verb:
 - **Hãy đợi tôi.** ('Please wait for me.')
 - **Xin vui lòng ngồi xuống.** ('Please sit down.')
 
@@ -379,18 +364,21 @@ Vietnamese doesn't have a true copula (like "to be" in English). For equational 
 For adjectival predicates, the adjective directly follows the subject:
 - **Hoa đẹp.** ('The flower [is] beautiful.')
 
+The particle "là" can be used for emphasis or clarity:
+- **Anh ấy là bác sĩ.** ('He is a doctor.')
+
 ### Causative constructions
 
-Causatives can be formed using verbs like "làm" (to make) or "khiến" (to cause):
+Causatives can be formed using verbs like **làm** (to make) or **khiến** (to cause):
 - **Cô ấy làm tôi cười.** ('She made me laugh.')
 - **Tiếng ồn khiến tôi không ngủ được.** ('The noise caused me to not be able to sleep.')
 
 ### Comparative constructions
 
-Comparatives use "hơn" after the adjective:
+Comparatives use **hơn** after the adjective:
 - **Anh ấy cao hơn tôi.** ('He is taller than me.')
 
-For equality, "bằng" is used:
+For equality, **bằng** is used:
 - **Cô ấy xinh bằng chị ấy.** ('She is as pretty as her older sister.')
 
 ### Resultative constructions
@@ -399,17 +387,17 @@ Resultative constructions often use serial verb constructions:
 - **Tôi ăn no rồi.** ('I ate [and became] full.')
 - **Cô ấy khóc đỏ mắt.** ('She cried [until her] eyes [became] red.')
 
-These syntactic constructions demonstrate the analytical nature of Vietnamese, where grammatical relationships are expressed through word order and particles rather than inflection. The differences between Northern and Southern dialects are primarily phonological, with some vocabulary variations, but the basic syntacticCertainly, I'll continue with more details on Vietnamese syntax and pronunciation differences between Northern and Southern dialects:
+These syntactic constructions demonstrate the analytical nature of Vietnamese, where grammatical relationships are expressed through word order and particles rather than inflection. The differences between Northern and Southern dialects are primarily phonological, with some vocabulary variations, but the basic syntactic
 
 ### Syntactic Variations between Northern and Southern Dialects
 
 While the core syntax remains the same, there are some notable differences between Northern and Southern Vietnamese:
 
-1. Use of "để" vs. "đặng":
+1. Use of **để** vs. **đặng**:
    Northern: **Tôi học để nói tiếng Việt.** ('I study to speak Vietnamese.')
    Southern: **Tôi học đặng nói tiếng Việt.**
 
-2. Placement of "rồi" (already):
+2. Placement of **rồi** (already):
    Northern: **Tôi ăn cơm rồi.** ('I have already eaten rice.')
    Southern: **Tôi ăn cơm rồi.** or **Tôi đã ăn cơm rồi.**
 
