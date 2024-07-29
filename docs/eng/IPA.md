@@ -2,19 +2,19 @@
 
 ## Plosive consonants
 
-/p/ - voiceless bilabial plosive (as in English "pat")
-/b/ - voiced bilabial plosive (as in English "bat")
-/t/ - voiceless alveolar plosive (as in English "top")
-/d/ - voiced alveolar plosive (as in English "dog")
-/ʈ/ - voiceless retroflex plosive (as in Hindi "ट")
-/ɖ/ - voiced retroflex plosive (as in Hindi "ड")
-/c/ - voiceless palatal plosive (as in Hungarian "tyúk")
-/ɟ/ - voiced palatal plosive (as in Hungarian "gyár")
-/k/ - voiceless velar plosive (as in English "cat")
-/g/ - voiced velar plosive (as in English "go")
-/q/ - voiceless uvular plosive (as in Arabic "قلب")
-/ɢ/ - voiced uvular plosive (rare, found in some Arabic dialects)
-/ʔ/ - glottal stop (as in English "uh-oh")
+/p/ - voiceless bilabial plosive (as in English "pat")  
+/b/ - voiced bilabial plosive (as in English "bat")  
+/t/ - voiceless alveolar plosive (as in English "top")  
+/d/ - voiced alveolar plosive (as in English "dog")  
+/ʈ/ - voiceless retroflex plosive (as in Hindi "ट")  
+/ɖ/ - voiced retroflex plosive (as in Hindi "ड")  
+/c/ - voiceless palatal plosive (as in Hungarian "tyúk")  
+/ɟ/ - voiced palatal plosive (as in Hungarian "gyár")  
+/k/ - voiceless velar plosive (as in English "cat")  
+/g/ - voiced velar plosive (as in English "go")  
+/q/ - voiceless uvular plosive (as in Arabic "قلب")  
+/ɢ/ - voiced uvular plosive (rare, found in some Arabic dialects)  
+/ʔ/ - glottal stop (as in English "uh-oh")  
 
 Pronunciation: Plosives involve completely stopping airflow and then releasing it.
 
