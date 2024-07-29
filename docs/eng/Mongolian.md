@@ -1,5 +1,3 @@
-Here's a comprehensive overview of the Mongolian language, similar in structure and depth to the Polish example:
-
 # Mongolian
 
 Mongolian is an Altaic language spoken by approximately 5 million people, primarily in Mongolia and Inner Mongolia (an autonomous region in northern China). It belongs to the Mongolic language family and has several dialects, with Khalkha Mongolian being the standard and most widely spoken variety.
