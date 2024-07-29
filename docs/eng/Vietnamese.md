@@ -2,54 +2,83 @@
 
 Vietnamese is an Austroasiatic language spoken by about 95 million people, primarily in Vietnam. It is the official language of Vietnam and is also spoken by Vietnamese communities around the world. Vietnamese is a tonal language with a complex sound system and a relatively simple grammar structure.
 
-## Spelling and pronunciation
 
-Vietnamese uses a Latin-based alphabet with additional diacritical marks to indicate tones and certain vowel sounds. The pronunciation can be challenging for non-native speakers due to its tonal nature and some unfamiliar sounds.
+## Spelling and Pronunciation
+
+Vietnamese uses a Latin-based alphabet called Chữ Quốc Ngữ, which consists of 29 letters and 12 vowel combinations. The system includes diacritical marks to indicate tones and certain vowel sounds. The pronunciation can be challenging for non-native speakers due to its tonal nature, unfamiliar sounds, and regional variations.
 
 ### Vowels
 
-| Letter | Northern Sound | Southern Sound |
-|--------|----------------|----------------|
-**a** | [a] | [a]
-**ă** | [ă] (short 'a') | [ă] (short 'a')
-**â** | [ə] (schwa) | [ə] (schwa)
-**e** | [ɛ] | [ɛ]
-**ê** | [e] | [e]
-**i**, **y** | [i] | [i]
-**o** | [ɔ] | [ɔ]
-**ô** | [o] | [o]
-**ơ** | [ɤ] | [ɤ]
-**u** | [u] | [u]
-**ư** | [ɯ] | [ɯ]
+Vietnamese has 11 single vowels and several vowel combinations. The pronunciation can vary between Northern and Southern dialects.
+
+| Letter | Northern Sound | Southern Sound | Example |
+|--------|----------------|----------------|---------|
+**a** | [a] | [ɑ] (more back) | ba [ɓa] (three)
+**ă** | [ă] (short 'a') | [ă] (short 'a') | băn khoăn [ɓăn xwăn] (to worry)
+**â** | [ə] (schwa) | [ə] (schwa) | tầm [təm] (level)
+**e** | [ɛ] | [ɛ] | em [ɛm] (younger sibling)
+**ê** | [e] | [e] | êm [em] (smooth)
+**i**, **y** | [i] | [i] | im [im] (silent), y [i] (medicine)
+**o** | [ɔ] | [ɔ] | con [kɔn] (child)
+**ô** | [o] | [o̞] (more open) | ông [oŋm] (grandfather)
+**ơ** | [ɤ] | [ɤ̞] (more open) | mơ [mɤ] (to dream)
+**u** | [u] | [u] | ru [zu] (to lull)
+**ư** | [ɯ] | [ɯ] | tư [tɯ] (private)
+
+#### Vowel Combinations
+
+| Combination | Pronunciation | Example |
+|-------------|---------------|---------|
+**iê**, **ia**, **yê**, **ya** | [iə] | tiên [tiən] (fairy), ya [iə] (grandma)
+**ươ**, **ưa** | [ɯə] | mương [mɯəŋ] (ditch), mưa [mɯə] (rain)
+**uô**, **ua** | [uə] | muôn [muən] (ten thousand), mua [muə] (to buy)
+
+Note: In open syllables, these combinations are pronounced as two distinct vowels.
 
 ### Consonants
 
-| Letter | Northern Sound | Southern Sound |
-|--------|----------------|----------------|
-**b** | [ɓ] (implosive b) | [ɓ] (implosive b)
-**c**, **k** | [k] | [k]
-**ch** | [tɕ] | [c]
-**d** | [z] | [j]
-**đ** | [ɗ] (implosive d) | [ɗ] (implosive d)
-**g**, **gh** | [ɣ] | [ɣ]
-**gi** | [z] | [j]
-**h** | [h] | [h]
-**kh** | [x] | [x]
-**l** | [l] | [l]
-**m** | [m] | [m]
-**n** | [n] | [n]
-**ng**, **ngh** | [ŋ] | [ŋ]
-**nh** | [ɲ] | [ɲ]
-**p** | [p] | [p]
-**ph** | [f] | [f]
-**qu** | [kw] | [w]
-**r** | [z] | [ɾ]
-**s** | [s] | [ʂ]
-**t** | [t] | [t]
-**th** | [tʰ] | [tʰ]
-**tr** | [tɕ] | [ʈ]
-**v** | [v] | [v]
-**x** | [s] | [s]
+Vietnamese consonants exhibit significant differences between Northern and Southern pronunciations.
+
+| Letter | Northern Sound | Southern Sound | Example |
+|--------|----------------|----------------|---------|
+**b** | [ɓ] (implosive b) | [ɓ] (implosive b) | ba [ɓa] (three)
+**c**, **k** | [k] | [k] | có [kɔ] (to have), ka [ka] (unit of weight)
+**ch** | [tɕ] | [c] | cha [tɕa]/[ca] (father)
+**d** | [z] | [j] | da [za]/[ja] (skin)
+**đ** | [ɗ] (implosive d) | [ɗ] (implosive d) | đi [ɗi] (to go)
+**g**, **gh** | [ɣ] | [ɣ] | gà [ɣa] (chicken), ghi [ɣi] (to write)
+**gi** | [z] | [j] | gì [zi]/[ji] (what)
+**h** | [h] | [h] | ha [ha] (to open mouth)
+**kh** | [x] | [x] | khi [xi] (when)
+**l** | [l] | [l] | là [la] (to be)
+**m** | [m] | [m] | má [ma] (mother)
+**n** | [n] | [n] | na [na] (custard apple)
+**ng**, **ngh** | [ŋ] | [ŋ] | nga [ŋa] (Russian), nghi [ŋi] (to suspect)
+**nh** | [ɲ] | [ɲ] | nhà [ɲa] (house)
+**p** | [p] | [p] | pa [pa] (dad, loanword)
+**ph** | [f] | [f] | phở [fə] (Vietnamese noodle soup)
+**qu** | [kw] | [w] | qua [kwa]/[wa] (to pass)
+**r** | [z] | [ɾ] or [ɹ] | ra [za]/[ɾa] (to exit)
+**s** | [s] | [ʂ] | sa [sa]/[ʂa] (to fall)
+**t** | [t] | [t] | ta [ta] (we, I)
+**th** | [tʰ] | [tʰ] | thì [tʰi] (then)
+**tr** | [tɕ] | [ʈ] | tra [tɕa]/[ʈa] (to investigate)
+**v** | [v] | [v] or [j] | và [va]/[ja] (and)
+**x** | [s] | [s] | xa [sa] (far)
+
+### Consonant Clusters
+
+Vietnamese has limited consonant clusters, mainly:
+- **tr**: [tɕ] in North, [ʈ] in South
+- **gi**: [z] in North, [j] in South
+- **qu**: [kw] in North, often [w] in South
+
+### Final Consonants
+
+Only certain consonants can occur in syllable-final position:
+- **p**, **t**, **c** (/k/), **m**, **n**, **ng** (/ŋ/)
+
+In the North, final /t/ and /k/ are unreleased [t̚] and [k̚], while in the South, they are often released.
 
 ### Tones
 
@@ -57,14 +86,46 @@ Vietnamese has six tones, represented by diacritical marks above or below the vo
 
 | Tone | Mark | Example | Northern Pitch | Southern Pitch |
 |------|------|---------|----------------|----------------|
-Level (ngang) | No mark | ma | mid-level | mid-level
-Falling (huyền) | ` | mà | low falling | low falling
-Rising (sắc) | ´ | má | high rising | high rising
-Dipping-rising (hỏi) | ̉ | mả | mid falling-rising | low falling
-Breaking-rising (ngã) | ˜ | mã | high falling-rising (with glottal stop) | high rising
-Heavy (nặng) | . | mạ | low falling (with glottal stop) | low falling (with glottal stop)
+Level (ngang) | No mark | ma [ma] | mid-level (33) | mid-level (33)
+Falling (huyền) | ` | mà [mà] | low falling (21) | low falling (21)
+Rising (sắc) | ´ | má [má] | high rising (35) | high rising (35)
+Dipping-rising (hỏi) | ̉ | mả [mả] | mid falling-rising (313) | low falling (21)
+Breaking-rising (ngã) | ˜ | mã [mã] | high falling-rising with glottal stop (35ˀ) | high rising (35)
+Heavy (nặng) | . | mạ [mạ] | low falling with glottal stop (21ˀ) | low falling with glottal stop (21ˀ)
 
 In the Southern dialect, the hỏi and ngã tones are often merged, resulting in a five-tone system.
+
+### Syllable Structure
+
+Vietnamese syllables follow the structure: (C1)(w)V(C2)T, where:
+- C1 is an optional initial consonant
+- (w) is an optional medial /w/
+- V is a required vowel (monophthong or diphthong)
+- C2 is an optional final consonant
+- T is the tone
+
+Examples:
+- **ba** [ɓa] (three): CV structure
+- **toán** [twaŋ] (math): CwVC structure
+- **không** [xoŋm] (no): CVC structure
+
+### Pronunciation Rules
+
+1. Vowel length: In closed syllables (ending with a consonant), vowels are generally shorter than in open syllables.
+
+2. Final consonants: 
+   - Final -ch and -nh are pronounced as [-jk̚] and [-jn] in the South.
+   - Final -t and -c are unreleased in the North but may be released in the South.
+
+3. Tone realization:
+   - Tones may be realized differently depending on the syllable structure and surrounding tones.
+   - In compound words, tones of individual syllables may change for easier pronunciation.
+
+4. Consonant assimilation:
+   - The final -n may assimilate to [m] before labial consonants in connected speech.
+
+5. Vowel reduction:
+   - In rapid speech, some vowels in unstressed syllables may be reduced or centralized.
 
 ### Syllable structure
 
