@@ -1,0 +1,25 @@
+{
+  "name": "instantpolyglot",
+  "version": "0.0.1",
+  "description": "We make languages easier to learn",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hathibelagal-dev/instantpolyglot.git"
+  },
+  "keywords": [
+    "language"
+  ],
+  "author": "HCHOLM, Hathibelagal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hathibelagal-dev/instantpolyglot/issues"
+  },
+  "homepage": "https://github.com/hathibelagal-dev/instantpolyglot#readme"
+}
