@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Instant Polyglot</title>
-    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="../bootstrap.min.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -30,25 +30,8 @@
           </div>
         </div>
       </nav>
-      <ul class="list-group">
-        <li class="list-group-item"><a href="dist/Albanian.html">🇦🇱 Albanian</a></li>
-        <li class="list-group-item"><a href="dist/Bulgarian.html">🇧🇬 Bulgarian</a></li>
-        <li class="list-group-item"><a href="dist/Chinese.html">🇨🇳 Chinese</a></li>
-        <li class="list-group-item"><a href="dist/Czech.html">🇨🇿 Czech</a></li>
-        <li class="list-group-item"><a href="dist/Greek.html">🇬🇷 Greek</a></li>
-        <li class="list-group-item"><a href="dist/Hungarian.html">🇭🇺 Hungarian</a></li>
-        <li class="list-group-item"><a href="dist/Icelandic.html">🇮🇸 Icelandic</a></li>
-        <li class="list-group-item"><a href="dist/Indonesian.html">🇮🇩 Indonesian</a></li>
-        <li class="list-group-item"><a href="dist/Japanese.html">🇯🇵 Japanese</a></li>
-        <li class="list-group-item"><a href="dist/Korean.html">🇰🇷 Korean</a></li>
-        <li class="list-group-item"><a href="dist/Levantine_Arabic.html">🇲🇶 Levantine Arabic  </a></li>
-        <li class="list-group-item"><a href="dist/Macedonian.html">🇲🇰 Macedonian</a></li>
-        <li class="list-group-item"><a href="dist/Spanish.html">🇪🇸 Spanish</a></li>
-        <li class="list-group-item"><a href="dist/Swedish.html">🇸🇪 Swedish</a></li>
-        <li class="list-group-item"><a href="dist/Cantonese.html">🇨🇳 Cantonese</a></li>
-        <li class="list-group-item"><a href="dist/Dutch.html">🇳🇱 Dutch</a></li>
-        <li class="list-group-item"><a href="dist/Estonian.html">🇪🇪 Estonian</a></li>
-        <li class="list-group-item"><a href="dist/Russian.html">🇷🇺 Russian</a></li>
-      </ul>
+      <div class="container">
+        #MARKDOWN#
+      </div>
 </body>
 </html>
