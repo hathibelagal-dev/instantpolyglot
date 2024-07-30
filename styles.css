@@ -1,8 +1,12 @@
 table {
-    border: solid 1px;
+    border: solid 1px;    
 }
 
 th, td {
     padding: 16px;
-    border: solid 1px;
+    border: solid 1px;    
+}
+
+h3 {
+    padding-top: 16px;
 }
