@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instant Polyglot</title>
+    <link rel="stylesheet" href="../bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">Instant Polyglot</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+            </ul>
+            <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+      <div class="container">
+        <h1>Modern Greek</h1>
+<p>Modern Greek (Νέα Ελληνική, Néa Elliniká) is the official language of Greece and Cyprus, spoken by approximately 13 million people worldwide. It is a continuation of Ancient Greek, with a history spanning over 3,000 years. The language has undergone significant changes over time, but still retains many features of its ancient predecessor.</p>
+<h2>Alphabet and pronunciation</h2>
+<p>Modern Greek uses the Greek alphabet, which consists of 24 letters:</p>
+<p>Α α, Β β, Γ γ, Δ δ, Ε ε, Ζ ζ, Η η, Θ θ, Ι ι, Κ κ, Λ λ, Μ μ, Ν ν, Ξ ξ, Ο ο, Π π, Ρ ρ, Σ σ/ς, Τ τ, Υ υ, Φ φ, Χ χ, Ψ ψ, Ω ω</p>
+<p>Note that the lowercase sigma (σ) has two forms: σ is used within words, while ς is used at the end of words.</p>
+<h3>Vowels</h3>
+<p>| Letter | Pronunciation | Example |
+|--------|---------------|---------|
+| Α α | [a] | <strong>άνθρωπος</strong> (ánthropos) [ˈanθropos] "human" |
+| Ε ε | [e] | <strong>έχω</strong> (écho) [ˈexo] "I have" |
+| Η η | [i] | <strong>ήλιος</strong> (ílios) [ˈilios] "sun" |
+| Ι ι | [i] | <strong>ίσως</strong> (ísos) [ˈisos] "perhaps" |
+| Ο ο | [o] | <strong>όμορφος</strong> (ómorfos) [ˈomorfos] "beautiful" |
+| Υ υ | [i] | <strong>ύπνος</strong> (ípnos) [ˈipnos] "sleep" |
+| Ω ω | [o] | <strong>ώρα</strong> (óra) [ˈora] "hour" |</p>
+<h3>Consonants</h3>
+<p>| Letter | Pronunciation | Example |
+|--------|---------------|---------|
+| Β β | [v] | <strong>βιβλίο</strong> (vivlío) [viˈvlio] "book" |
+| Γ γ | [ɣ] or [j] | <strong>γάτα</strong> (gáta) [ˈɣata] "cat" |
+| Δ δ | [ð] | <strong>δρόμος</strong> (drómos) [ˈðromos] "street" |
+| Ζ ζ | [z] | <strong>ζωή</strong> (zoí) [zoˈi] "life" |
+| Θ θ | [θ] | <strong>θάλασσα</strong> (thálassa) [ˈθalasa] "sea" |
+| Κ κ | [k] | <strong>καλός</strong> (kalós) [kaˈlos] "good" |
+| Λ λ | [l] | <strong>λόγος</strong> (lógos) [ˈloɣos] "word" |
+| Μ μ | [m] | <strong>μητέρα</strong> (mitéra) [miˈtera] "mother" |
+| Ν ν | [n] | <strong>νερό</strong> (neró) [neˈro] "water" |
+| Ξ ξ | [ks] | <strong>ξύλο</strong> (xílo) [ˈksilo] "wood" |
+| Π π | [p] | <strong>πατέρας</strong> (patéras) [paˈteras] "father" |
+| Ρ ρ | [r] | <strong>ρόδο</strong> (ródo) [ˈroðo] "rose" |
+| Σ σ/ς | [s] | <strong>σπίτι</strong> (spíti) [ˈspiti] "house" |
+| Τ τ | [t] | <strong>τραπέζι</strong> (trapézi) [traˈpezi] "table" |
+| Φ φ | [f] | <strong>φίλος</strong> (fílos) [ˈfilos] "friend" |
+| Χ χ | [x] or [ç] | <strong>χέρι</strong> (chéri) [ˈçeri] "hand" |
+| Ψ ψ | [ps] | <strong>ψωμί</strong> (psomí) [psoˈmi] "bread" |</p>
+<h3>Digraphs and diphthongs</h3>
+<p>Modern Greek has several digraphs and diphthongs:</p>
+<p>| Digraph/Diphthong | Pronunciation | Example |
+|-------------------|---------------|---------|
+| αι | [e] | <strong>και</strong> (ke) [ce] "and" |
+| ει | [i] | <strong>είναι</strong> (íne) [ˈine] "is" |
+| οι | [i] | <strong>οικογένεια</strong> (ikogénia) [ikoˈʝenia] "family" |
+| ου | [u] | <strong>ουρανός</strong> (uranós) [uraˈnos] "sky" |
+| αυ | [af] or [av] | <strong>αυτός</strong> (aftós) [afˈtos] "he" |
+| ευ | [ef] or [ev] | <strong>ευχαριστώ</strong> (efcharistó) [efxariˈsto] "thank you" |
+| μπ | [b] or [mb] | <strong>μπαίνω</strong> (béno) [ˈbeno] "I enter" |
+| ντ | [d] or [nd] | <strong>πάντα</strong> (pánda) [ˈpanda] "always" |
+| γκ | [g] or [ŋg] | <strong>αγκαλιά</strong> (angaliá) [aŋgaˈʎa] "hug" |
+| γγ | [ŋg] | <strong>άγγελος</strong> (ángelos) [ˈaŋɟelos] "angel" |
+| τσ | [ts] | <strong>τσάντα</strong> (tsánda) [ˈtsanda] "bag" |
+| τζ | [dz] | <strong>τζάμι</strong> (tzámi) [ˈdzami] "glass" |</p>
+<h3>Stress and accent marks</h3>
+<p>In Modern Greek, most words are stressed on one of the last three syllables. The stress is indicated by an acute accent (´) over the stressed vowel. For example:</p>
+<ul>
+<li><strong>άνθρωπος</strong> (ánthropos) [ˈanθropos] "human"</li>
+<li><strong>γυναίκα</strong> (gynéka) [ʝiˈneka] "woman"</li>
+<li><strong>παιδί</strong> (pedí) [peˈði] "child"</li>
+</ul>
+<p>In some cases, mainly in older texts or formal writing, you may encounter words with two accent marks. This phenomenon is called "double accent" and occurs in compound words or when a word with an accent is followed by an enclitic (a word that depends phonologically on another word). For example:</p>
+<ul>
+<li><strong>άνθρωποί μου</strong> (ánthropí mu) [ˈanθroˌpi mu] "my people"</li>
+<li><strong>τό όνομά μου</strong> (tó ónomá mu) [ˈto ˈonomˌa mu] "my name"</li>
+</ul>
+<p>In modern everyday writing, however, the double accent is often omitted.</p>
+<h2>Morphology</h2>
+<h3>Nouns</h3>
+<p>Modern Greek nouns are inflected for number (singular and plural) and case (nominative, genitive, accusative, and vocative). They are also categorized into three genders: masculine, feminine, and neuter. The gender of a noun is not always predictable from its meaning or form, so it must be learned along with the noun.</p>
+<p>Here are some examples of noun declensions:</p>
+<p>Masculine noun: <strong>άνθρωπος</strong> (ánthropos) "human"</p>
+<p>| Case | Singular | Plural |
+|------|----------|--------|
+| Nominative | ο άνθρωπος (o ánthropos) | οι άνθρωποι (i ánthropi) |
+| Genitive | του ανθρώπου (tu anthrópou) | των ανθρώπων (ton antrópοn) |
+| Accusative | τον άνθρωπο (ton ánthropo) | τους ανθρώπους (tus anthrópus) |
+| Vocative | άνθρωπε (ánthrope) | άνθρωποι (ánthropi) |</p>
+<p>Feminine noun: <strong>γυναίκα</strong> (gynéka) "woman"</p>
+<p>| Case | Singular | Plural |
+|------|----------|--------|
+| Nominative | η γυναίκα (i gynéka) | οι γυναίκες (i gynékes) |
+| Genitive | της γυναίκας (tis gynékas) | των γυναικών (ton gynekón) |
+| Accusative | τη γυναίκα (ti gynéka) | τις γυναίκες (tis gynékes) |
+| Vocative | γυναίκα (gynéka) | γυναίκες (gynékes) |</p>
+<p>Neuter noun: <strong>παιδί</strong> (pedí) "child"</p>
+<p>| Case | Singular | Plural |
+|------|----------|--------|
+| Nominative | το παιδί (to pedí) | τα παιδιά (ta pediá) |
+| Genitive | του παιδιού (tu pedioú) | των παιδιών (ton pedión) |
+| Accusative | το παιδί (to pedí) | τα παιδιά (ta pediá) |
+| Vocative | παιδί (pedí) | παιδιά (pediá) |</p>
+<h3>Articles</h3>
+<p>Modern Greek has both definite and indefinite articles. The definite article is declined for gender, number, and case:</p>
+<p>| Case | Masculine | Feminine | Neuter |
+|------|-----------|----------|--------|
+| Nom. Sg. | ο (o) | η (i) | το (to) |
+| Gen. Sg. | του (tu) | της (tis) | του (tu) |
+| Acc. Sg. | τον (ton) | τη(ν) (ti(n)) | το (to) |
+| Nom. Pl. | οι (i) | οι (i) | τα (ta) |
+| Gen. Pl. | των (ton) | των (ton) | των (ton) |
+| Acc. Pl. | τους (tus) | τις (tis) | τα (ta) |</p>
+<p>The indefinite article only exists in the singular:</p>
+<p>| Case | Masculine | Feminine | Neuter |
+|------|-----------|----------|--------|
+| Nom. | ένας (énas) | μία/μια (mía/mia) | ένα (éna) |
+| Gen. | ενός (enós) | μίας/μιας (mías/mias) | ενός (enós) |
+| Acc. | έναν/ένα (énan/éna) | μία/μια (mía/mia) | ένα (éna) |</p>
+<p>Examples:
+- <strong>ο άνθρωπος</strong> (o ánthropos) "the human"
+- <strong>μια γυναίκα</strong> (mia gynéka) "a woman"
+- <strong>το παιδί</strong> (to pedí) "the child"</p>
+<h3>Adjectives</h3>
+<p>Adjectives in Modern Greek agree with the nouns they modify in gender, number, and case. Most adjectives have three forms, one for each gender. Here's an example with the adjective <strong>καλός</strong> (kalós) "good":</p>
+<p>Masculine:</p>
+<p>| Case | Singular | Plural |
+|------|----------|--------|
+| Nom. | καλός (kalós) | καλοί (kalí) |
+| Gen. | καλού (kalú) | καλών (kalón) |
+| Acc. | καλό(ν) (kaló(n)) | καλούς (kalús) |</p>
+<p>Feminine:</p>
+<p>| Case | Singular | Plural |
+|------|----------|--------|
+| Nom. | καλή (kalí) | καλές (kalés) |
+| Gen. | καλής (kalís) | καλών (kalón) |
+| Acc. | καλή (kalí) | καλές (kalés) |</p>
+<p>Neuter:</p>
+<p>| Case | Singular | Plural |
+|------|----------|--------|
+| Nom. | καλό (kaló) | καλά (kalá) |
+| Gen. | καλού (kalú) | καλών (kalón) |
+| Acc. | καλό (kaló) | καλά (kalá) |</p>
+<p>Examples:
+- <strong>ο καλός άνθρωπος</strong> (o kalós ánthropos) "the good human"
+- <strong>η καλή γυναίκα</strong> (i kalí gynéka) "the good woman"
+- <strong>το καλό παιδί</strong> (to kaló pedí) "the good child"</p>
+<p>Comparative and superlative forms of adjectives can be formed either analytically or synthetically:</p>
+<p>Analytic:
+- Comparative: <strong>πιο</strong> + adjective
+- Superlative: <strong>ο/η/το πιο</strong> + adjective</p>
+<p>Synthetic:
+- Comparative: adjective stem + <strong>-τερος/-τερη/-τερο</strong>
+- Superlative: adjective stem + <strong>-τατος/-τατη/-τατο</strong></p>
+<p>Examples:
+- <strong>καλός</strong> (kalós) "good"
+  - Comparative: <strong>πιο καλός</strong> (pio kalós) or <strong>καλύτερος</strong> (kalíteros) "better"
+  - Superlative: <strong>ο πιο καλός</strong> (o pio kalós) or <strong>κάλλιστος</strong> (kálistos) "best"</p>
+<ul>
+<li><strong>ωραίος</strong> (oréos) "beautiful"</li>
+<li>Comparative: <strong>πιο ωραίος</strong> (pio oréos) or <strong>ωραιότερος</strong> (oreóteros) "more beautiful"</li>
+<li>Superlative: <strong>ο πιο ωραίος</strong> (o pio oréos) or <strong>ωραιότατος</strong> (oreótatos) "most beautiful"</li>
+</ul>
+<h3>Pronouns</h3>
+<p>Modern Greek has several types of pronouns:</p>
+<ol>
+<li>Personal pronouns:</li>
+</ol>
+<p>| Person | Nominative | Accusative | Genitive |
+|--------|------------|------------|----------|
+| 1st Sg. | εγώ (egó) | εμένα/με (eména/me) | εμένα/μου (eména/mu) |
+| 2nd Sg. | εσύ (esí) | εσένα/σε (eséna/se) | εσένα/σου (eséna/su) |
+| 3rd Sg. M. | αυτός (aftós) | αυτόν/τον (aftón/ton) | αυτού/του (aftoú/tu) |
+| 3rd Sg. F. | αυτή (aftí) | αυτήν/την (aftín/tin) | αυτής/της (aftís/tis) |
+| 3rd Sg. N. | αυτό (aftó) | αυτό/το (aftó/to) | αυτού/του (aftoú/tu) |
+| 1st Pl. | εμείς (emís) | εμάς/μας (emás/mas) | εμάς/μας (emás/mas) |
+| 2nd Pl. | εσείς (esís) | εσάς/σας (esás/sas) | εσάς/σας (esás/sas) |
+| 3rd Pl. M. | αυτοί (aftí) | αυτούς/τους (aftús/tus) | αυτών/τους (aftón/tus) |
+| 3rd Pl. F. | αυτές (aftés) | αυτές/τις (aftés/tis) | αυτών/τους (aftón/tus) |
+| 3rd Pl. N. | αυτά (aftá) | αυτά/τα (aftá/ta) | αυτών/τους (aftón/tus) |</p>
+<p>Examples:
+- <strong>Εγώ είμαι εδώ.</strong> (Egó íme edó.) "I am here."
+- <strong>Τον βλέπω.</strong> (Ton vlépo.) "I see him."
+- <strong>Του το έδωσα.</strong> (Tu to édosa.) "I gave it to him."</p>
+<ol>
+<li>Possessive pronouns:</li>
+</ol>
+<p>Possessive pronouns in Modern Greek are actually the genitive forms of personal pronouns. They are placed after the noun they modify:</p>
+<ul>
+<li><strong>το βιβλίο μου</strong> (to vivlío mu) "my book"</li>
+<li><strong>η μητέρα σου</strong> (i mitéra su) "your mother"</li>
+<li><strong>ο φίλος του</strong> (o fílos tu) "his friend"</li>
+<li><strong>το σπίτι της</strong> (to spíti tis) "her house"</li>
+<li><strong>τα παιδιά μας</strong> (ta pediá mas) "our children"</li>
+<li><strong>οι γονείς σας</strong> (i gonís sas) "your parents"</li>
+<li>
+<p><strong>τα αυτοκίνητά τους</strong> (ta aftokínitá tus) "their cars"</p>
+</li>
+<li>
+<p>Demonstrative pronouns:</p>
+</li>
+<li>
+<p><strong>αυτός/αυτή/αυτό</strong> (aftós/aftí/aftó) "this" (near)</p>
+</li>
+<li><strong>εκείνος/εκείνη/εκείνο</strong> (ekínos/ekíni/ekíno) "that" (far)</li>
+</ul>
+<p>Examples:
+- <strong>Αυτό το βιβλίο είναι ενδιαφέρον.</strong> (Aftó to vivlío íne endiaféron.) "This book is interesting."
+- <strong>Εκείνη η γυναίκα είναι γιατρός.</strong> (Ekíni i gynéka íne yatrós.) "That woman is a doctor."</p>
+<ol>
+<li>
+<p>Relative pronouns:</p>
+</li>
+<li>
+<p><strong>που</strong> (pu) "who, which, that" (indeclinable)</p>
+</li>
+<li><strong>ο οποίος/η οποία/το οποίο</strong> (o opíos/i opía/to opío) "who, which, that" (declinable)</li>
+</ol>
+<p>Examples:
+- <strong>Ο άνθρωπος που είδα.</strong> (O ánthropos pu ída.) "The person who I saw."
+- <strong>Το βιβλίο το οποίο διάβασα.</strong> (To vivlío to opío diávasa.) "The book which I read."</p>
+<ol>
+<li>
+<p>Interrogative pronouns:</p>
+</li>
+<li>
+<p><strong>ποιος/ποια/ποιο</strong> (pios/pia/pio) "who, which"</p>
+</li>
+<li><strong>τι</strong> (ti) "what"</li>
+</ol>
+<p>Examples:
+- <strong>Ποιος είναι εκεί;</strong> (Pios íne ekí?) "Who is there?"
+- <strong>Τι θέλεις;</strong> (Ti thélis?) "What do you want?"</p>
+<ol>
+<li>
+<p>Indefinite pronouns:</p>
+</li>
+<li>
+<p><strong>κάποιος/κάποια/κάποιο</strong> (kápios/kápia/kápio) "someone, anybody"</p>
+</li>
+<li><strong>κάτι</strong> (káti) "something"</li>
+<li><strong>τίποτα</strong> (típota) "nothing, anything"</li>
+</ol>
+<p>Examples:
+- <strong>Κάποιος χτύπησε την πόρτα.</strong> (Kápios chtípise tin pórta.) "Someone knocked on the door."
+- <strong>Θέλεις κάτι;</strong> (Thélis káti?) "Do you want something?"
+- <strong>Δεν θέλω τίποτα.</strong> (Den thélo típota.) "I don't want anything."</p>
+<h3>Verbs</h3>
+<p>Verbs in Modern Greek are highly inflected, showing person, number, tense, aspect, and mood. They are typically divided into two conjugations: the first conjugation (verbs ending in -ω) and the second conjugation (verbs ending in -ώ).</p>
+<p>Here's an example of the present tense conjugation for the verb <strong>γράφω</strong> (gráfo) "to write" (first conjugation):</p>
+<p>| Person | Singular | Plural |
+|--------|----------|--------|
+| 1st | γράφω (gráfo) | γράφουμε (gráfume) |
+| 2nd | γράφεις (gráfis) | γράφετε (gráfete) |
+| 3rd | γράφει (gráfi) | γράφουν (gráfun) |</p>
+<p>And for the verb <strong>αγαπώ</strong> (agapó) "to love" (second conjugation):</p>
+<p>| Person | Singular | Plural |
+|--------|----------|--------|
+| 1st | αγαπώ (agapó) | αγαπάμε (agapáme) |
+| 2nd | αγαπάς (agapás) | αγαπάτε (agapáte) |
+| 3rd | αγαπά (agapá) | αγαπούν (agapún) |</p>
+<p>Greek verbs have two aspects: perfective and imperfective. The perfective aspect is used for completed actions, while the imperfective is used for ongoing or habitual actions.</p>
+<p>Example:
+- Imperfective: <strong>έγραφα</strong> (égrafa) "I was writing"
+- Perfective: <strong>έγραψα</strong> (égrapsa) "I wrote"</p>
+<p>The main tenses in Modern Greek are:</p>
+<ol>
+<li>Present (Ενεστώτας)</li>
+<li>Past Continuous (Παρατατικός)</li>
+<li>Simple Past (Αόριστος)</li>
+<li>Present Perfect (Παρακείμενος)</li>
+<li>Past Perfect (Υπερσυντέλικος)</li>
+<li>Future (Μέλλοντας)</li>
+</ol>
+<p>Each of these tenses can be formed in both the perfective and imperfective aspect, except for the present tense, which is always imperfective.</p>
+<p>Here's an example with the verb <strong>γράφω</strong> (gráfo) "to write":</p>
+<ol>
+<li>Present: <strong>γράφω</strong> (gráfo) "I write, I am writing"</li>
+<li>Past Continuous: <strong>έγραφα</strong> (égrafa) "I was writing"</li>
+<li>Simple Past: <strong>έγραψα</strong> (égrapsa) "I wrote"</li>
+<li>Present Perfect: <strong>έχω γράψει</strong> (écho grápsi) "I have written"</li>
+<li>Past Perfect: <strong>είχα γράψει</strong> (ícha grápsi) "I had written"</li>
+<li>Future:</li>
+<li>Simple Future: <strong>θα γράψω</strong> (tha grápso) "I will write"</li>
+<li>Continuous Future: <strong>θα γράφω</strong> (tha gráfo) "I will be writing"</li>
+</ol>
+<p>Modern Greek also has several moods:</p>
+<ol>
+<li>Indicative (used for statements of fact)</li>
+<li>Subjunctive (used for wishes, possibilities, and after certain conjunctions)</li>
+<li>Imperative (used for commands)</li>
+</ol>
+<p>The subjunctive is formed using the particle <strong>να</strong> (na) followed by the verb:
+- <strong>Θέλω να γράψω.</strong> (Thélo na grápso.) "I want to write."</p>
+<p>The imperative is used for commands:
+- <strong>Γράψε!</strong> (Grápse!) "Write!" (singular)
+- <strong>Γράψτε!</strong> (Grápste!) "Write!" (plural)</p>
+<p>Passive voice is also common in Greek. It's formed by changing the ending of the verb:
+- Active: <strong>γράφω</strong> (gráfo) "I write"
+- Passive: <strong>γράφομαι</strong> (gráfome) "I am written"</p>
+<h3>Adverbs</h3>
+<p>Many adverbs in Modern Greek are formed by adding -α (-a) to the neuter singular form of the corresponding adjective:</p>
+<ul>
+<li><strong>καλός</strong> (kalós) "good" → <strong>καλά</strong> (kalá) "well"</li>
+<li><strong>γρήγορος</strong> (grígoros) "quick" → <strong>γρήγορα</strong> (grígora) "quickly"</li>
+</ul>
+<p>Some common adverbs:</p>
+<ul>
+<li><strong>πολύ</strong> (polí) "very, much"</li>
+<li><strong>λίγο</strong> (lígo) "a little"</li>
+<li><strong>αργά</strong> (argá) "late"</li>
+<li><strong>νωρίς</strong> (norís) "early"</li>
+<li><strong>εδώ</strong> (edó) "here"</li>
+<li><strong>εκεί</strong> (ekí) "there"</li>
+<li><strong>τώρα</strong> (tóra) "now"</li>
+<li><strong>αύριο</strong> (ávrio) "tomorrow"</li>
+<li><strong>χθες</strong> (chthes) "yesterday"</li>
+</ul>
+<p>Comparative and superlative forms of adverbs are formed similarly to adjectives:</p>
+<ul>
+<li>Comparative: <strong>πιο</strong> + adverb</li>
+<li>Superlative: <strong>πιο</strong> + adverb</li>
+</ul>
+<p>Example:
+- <strong>γρήγορα</strong> (grígora) "quickly"
+- Comparative: <strong>πιο γρήγορα</strong> (pio grígora) "more quickly"
+- Superlative: <strong>πιο γρήγορα</strong> (pio grígora) "most quickly"</p>
+<h2>Syntax</h2>
+<h3>Word Order</h3>
+<p>The basic word order in Modern Greek is Subject-Verb-Object (SVO), but due to the rich inflectional system, word order can be quite flexible, especially in spoken language. The verb is the most essential element of the sentence and can sometimes stand alone as a complete sentence.</p>
+<p>Examples:
+- <strong>Ο Γιάννης διαβάζει ένα βιβλίο.</strong> (O Yiánnis diavázi éna vivlío.) "John reads a book."
+- <strong>Ένα βιβλίο διαβάζει ο Γιάννης.</strong> (Éna vivlío diavázi o Yiánnis.) "A book John reads." (emphasizing "a book")</p>
+<h3>Questions</h3>
+<p>Yes/no questions are formed by intonation alone or by using the particle <strong>μήπως</strong> (mípos) at the beginning of the sentence:</p>
+<ul>
+<li><strong>Είσαι Έλληνας;</strong> (Íse Élinas?) "Are you Greek?"</li>
+<li><strong>Μήπως είσαι Έλληνας;</strong> (Mípos íse Élinas?) "Are you perhaps Greek?"</li>
+</ul>
+<p>Wh-questions use interrogative pronouns or adverbs:</p>
+<ul>
+<li><strong>Πού μένεις;</strong> (Pú ménis?) "Where do you live?"</li>
+<li><strong>Πότε θα έρθεις;</strong> (Póte tha érthis?) "When will you come?"</li>
+</ul>
+<h3>Negation</h3>
+<p>Negation is formed using <strong>δεν</strong> (den) for indicative statements and <strong>μην</strong> (min) for subjunctive and imperative:</p>
+<ul>
+<li><strong>Δεν μιλάω ελληνικά.</strong> (Den miláo eliniká.) "I don't speak Greek."</li>
+<li><strong>Μη μιλάς!</strong> (Mi milás!) "Don't speak!"</li>
+</ul>
+<h3>Passive Voice</h3>
+<p>The passive voice is widely used in Greek, often where English would use an active construction:</p>
+<ul>
+<li><strong>Το γράμμα γράφτηκε από τον Γιάννη.</strong> (To gráma gráftike apó ton Yiánni.) "The letter was written by John."</li>
+</ul>
+<h3>Participles</h3>
+<p>Modern Greek has two main types of participles:</p>
+<ol>
+<li>Present active participle (ending in -οντας/-ώντας):</li>
+<li>
+<p><strong>Τρέχοντας</strong> (tréchontas) "running"</p>
+</li>
+<li>
+<p>Perfect passive participle (ending in -μένος/-μένη/-μένο):</p>
+</li>
+<li><strong>γραμμένος</strong> (graménos) "written"</li>
+</ol>
+<p>Examples:
+- <strong>Έφυγε τρέχοντας.</strong> (Éfyge tréchontas.) "He left running."
+- <strong>Το γράμμα είναι γραμμένο.</strong> (To gráma íne graméno.) "The letter is written."</p>
+<h3>Clitic Pronouns</h3>
+<p>Clitic pronouns (short forms of personal pronouns) in Greek are placed before the verb in simple tenses and attached to the end of the verb in compound tenses:</p>
+<ul>
+<li><strong>Τον είδα.</strong> (Ton ída.) "I saw him."</li>
+<li><strong>Έχω δει τον.</strong> (Écho dí ton.) "I have seen him."</li>
+</ul>
+<h3>Conjunctions</h3>
+<p>Some common conjunctions in Greek:</p>
+<ul>
+<li><strong>και</strong> (ke) "and"</li>
+<li><strong>ή</strong> (í) "or"</li>
+<li><strong>αλλά</strong> (alá) "but"</li>
+<li><strong>επειδή</strong> (epidí) "because"</li>
+<li><strong>αν</strong> (an) "if"</li>
+<li><strong>όταν</strong> (ótan) "when"</li>
+</ul>
+<p>Example:
+<strong>Θα έρθω αν δεν βρέχει.</strong> (Tha értho an den vréchi.) "I will come if it doesn't rain."</p>
+<h2>Vocabulary</h2>
+<p>Modern Greek vocabulary is primarily derived from Ancient Greek, but it has also been influenced by other languages throughout its history. Some notable influences include:</p>
+<ol>
+<li>Latin and Romance languages (especially Italian and French):</li>
+<li><strong>πόρτα</strong> (pórta) "door" (from Latin "porta")</li>
+<li>
+<p><strong>μπαλκόνι</strong> (balkóni) "balcony" (from Italian "balcone")</p>
+</li>
+<li>
+<p>Turkish:</p>
+</li>
+<li><strong>καφές</strong> (kafés) "coffee" (from Turkish "kahve")</li>
+<li>
+<p><strong>μπακάλης</strong> (bakális) "grocer" (from Turkish "bakkal")</p>
+</li>
+<li>
+<p>Slavic languages:</p>
+</li>
+<li>
+<p><strong>βάρκα</strong> (várka) "boat" (from Slavic "barka")</p>
+</li>
+<li>
+<p>English (especially in modern times):</p>
+</li>
+<li><strong>κομπιούτερ</strong> (kompiúter) "computer"</li>
+<li><strong>μπάσκετ</strong> (básket) "basketball"</li>
+</ol>
+<p>Some common words and phrases in Modern Greek:</p>
+<ul>
+<li><strong>γεια σου</strong> (ya su) "hello/goodbye" (informal)</li>
+<li><strong>καλημέρα</strong> (kaliméra) "good morning"</li>
+<li><strong>καληνύχτα</strong> (kaliníchta) "good night"</li>
+<li><strong>ευχαριστώ</strong> (efcharistó) "thank you"</li>
+<li><strong>παρακαλώ</strong> (parakaló) "please/you're welcome"</li>
+<li><strong>συγγνώμη</strong> (signómi) "sorry, excuse me"</li>
+<li><strong>ναι</strong> (ne) "yes"</li>
+<li><strong>όχι</strong> (óchi) "no"</li>
+<li><strong>φίλος/φίλη</strong> (fílos/fíli) "friend" (male/female)</li>
+<li><strong>οικογένεια</strong> (ikoyénia) "family"</li>
+<li><strong>σπίτι</strong> (spíti) "house"</li>
+<li><strong>δουλειά</strong> (duliá) "work"</li>
+<li><strong>φαγητό</strong> (fayitó) "food"</li>
+<li><strong>νερό</strong> (neró) "water"</li>
+<li><strong>ώρα</strong> (óra) "time, hour"</li>
+<li><strong>χρόνος</strong> (chrónos) "year"</li>
+<li><strong>άνθρωπος</strong> (ánthropos) "human"</li>
+<li><strong>ζωή</strong> (zoí) "life"</li>
+<li><strong>αγάπη</strong> (agápi) "love"</li>
+<li><strong>θάλασσα</strong> (thálassa) "sea"</li>
+<li><strong>βουνό</strong> (vunó) "mountain"</li>
+<li><strong>πόλη</strong> (póli) "city"</li>
+<li><strong>χωριό</strong> (chorió) "village"</li>
+<li><strong>δρόμος</strong> (drómos) "road, street"</li>
+<li><strong>αυτοκίνητο</strong> (aftokínito) "car"</li>
+<li><strong>λεωφορείο</strong> (leoforío) "bus"</li>
+<li><strong>τρένο</strong> (tréno) "train"</li>
+<li><strong>αεροπλάνο</strong> (aeropláno) "airplane"</li>
+<li><strong>ήλιος</strong> (ílios) "sun"</li>
+<li><strong>φεγγάρι</strong> (fengári) "moon"</li>
+<li><strong>ουρανός</strong> (uranós) "sky"</li>
+<li><strong>γη</strong> (yi) "earth"</li>
+<li><strong>δέντρο</strong> (déntro) "tree"</li>
+<li><strong>λουλούδι</strong> (lulúdi) "flower"</li>
+<li><strong>ζώο</strong> (zóo) "animal"</li>
+<li><strong>σκύλος</strong> (skílos) "dog"</li>
+<li><strong>γάτα</strong> (gáta) "cat"</li>
+<li><strong>πουλί</strong> (pulí) "bird"</li>
+<li><strong>ψάρι</strong> (psári) "fish"</li>
+<li><strong>χρώμα</strong> (chróma) "color"</li>
+<li><strong>μαύρο</strong> (mávro) "black"</li>
+<li><strong>άσπρο</strong> (áspro) "white"</li>
+<li><strong>κόκκινο</strong> (kókino) "red"</li>
+<li><strong>πράσινο</strong> (prásino) "green"</li>
+<li><strong>μπλε</strong> (ble) "blue"</li>
+<li><strong>κίτρινο</strong> (kítrino) "yellow"</li>
+</ul>
+<p>Greek also has many compound words, often combining two or more words to create a new meaning:</p>
+<ul>
+<li><strong>ανεμόμυλος</strong> (anemómilos) "windmill" (άνεμος "wind" + μύλος "mill")</li>
+<li><strong>καλημέρα</strong> (kaliméra) "good morning" (καλή "good" + ημέρα "day")</li>
+<li><strong>αρχιτέκτονας</strong> (architéktonas) "architect" (αρχι- "chief" + τέκτονας "builder")</li>
+<li><strong>ηλιοβασίλεμα</strong> (iliovasílema) "sunset" (ήλιος "sun" + βασίλεμα "setting")</li>
+</ul>
+<p>Greek has also contributed many words to other languages, especially in scientific, technical, and philosophical fields. Some examples of Greek words used in English:</p>
+<ul>
+<li>democracy (δημοκρατία - dimokratía)</li>
+<li>philosophy (φιλοσοφία - filosofía)</li>
+<li>telephone (τηλέφωνο - tiléfono)</li>
+<li>geography (γεωγραφία - yeografía)</li>
+<li>mathematics (μαθηματικά - mathimatiká)</li>
+<li>biology (βιολογία - violoyía)</li>
+<li>psychology (ψυχολογία - psycholoyía)</li>
+</ul>
+<h2>Idiomatic Expressions</h2>
+<p>Greek, like any language, has numerous idiomatic expressions. Here are some common ones:</p>
+<ol>
+<li>
+<p><strong>Έγινε της Πόπης</strong> (Éyine tis Pópis) - Literally: "It became of Popi", Meaning: There was a big commotion or chaos.</p>
+</li>
+<li>
+<p><strong>Χάθηκε ο κόσμος</strong> (Cháthike o kósmos) - Literally: "The world was lost", Meaning: It's not a big deal.</p>
+</li>
+<li>
+<p><strong>Βγάζω το ψωμί μου</strong> (Vgázo to psomí mu) - Literally: "I take out my bread", Meaning: I earn my living.</p>
+</li>
+<li>
+<p><strong>Μου βγήκε η πίστη</strong> (Mu vgíke i písti) - Literally: "My faith came out", Meaning: I struggled a lot.</p>
+</li>
+<li>
+<p><strong>Τα έκανα θάλασσα</strong> (Ta ékana thálassa) - Literally: "I made them sea", Meaning: I messed everything up.</p>
+</li>
+<li>
+<p><strong>Πήρα τα βουνά</strong> (Píra ta vuná) - Literally: "I took the mountains", Meaning: I left in a hurry.</p>
+</li>
+<li>
+<p><strong>Μου κόπηκαν τα πόδια</strong> (Mu kópikan ta pódia) - Literally: "My legs were cut", Meaning: I was shocked or scared.</p>
+</li>
+<li>
+<p><strong>Έφαγα τον κόσμο</strong> (Éfaga ton kósmo) - Literally: "I ate the world", Meaning: I searched everywhere.</p>
+</li>
+<li>
+<p><strong>Έχω στο τσεπάκι</strong> (Écho sto tsepáki) - Literally: "I have in the little pocket", Meaning: I have it under control.</p>
+</li>
+<li>
+<p><strong>Μου ανάβουν τα λαμπάκια</strong> (Mu anávun ta lambákia) - Literally: "The little lights turn on for me", Meaning: I'm getting suspicious or angry.</p>
+</li>
+</ol>
+<h2>Colloquial Greek</h2>
+<p>Colloquial Greek, as used in everyday conversation, can differ significantly from the formal language. Some features of colloquial Greek include:</p>
+<ol>
+<li>Shortened forms of words:</li>
+<li><strong>είναι</strong> (íne) → <strong>'ναι</strong> (ne) "is"</li>
+<li>
+<p><strong>τίποτα</strong> (típota) → <strong>τίποτε</strong> (típote) or <strong>τίποτα</strong> (típota) "nothing"</p>
+</li>
+<li>
+<p>Use of diminutives:</p>
+</li>
+<li><strong>σπίτι</strong> (spíti) → <strong>σπιτάκι</strong> (spitáki) "little house"</li>
+<li>
+<p><strong>γάτα</strong> (gáta) → <strong>γατούλα</strong> (gatúla) "little cat"</p>
+</li>
+<li>
+<p>Slang expressions:</p>
+</li>
+<li><strong>μου τη δίνει</strong> (mu ti díni) - "it annoys me"</li>
+<li>
+<p><strong>τα 'χω φτιάξει</strong> (ta 'cho ftiáxi) - "I'm in a relationship"</p>
+</li>
+<li>
+<p>Borrowings from English and other languages:</p>
+</li>
+<li><strong>όκει</strong> (óki) - "okay"</li>
+<li>
+<p><strong>γκουγκλάρω</strong> (gugláro) - "to google"</p>
+</li>
+<li>
+<p>Dropping of final -ν in certain words:</p>
+</li>
+<li><strong>τον</strong> (ton) → <strong>το</strong> (to) "the" (masculine accusative)</li>
+<li>
+<p><strong>δεν</strong> (den) → <strong>δε</strong> (de) "not"</p>
+</li>
+<li>
+<p>Use of the genitive instead of the accusative with certain verbs:</p>
+</li>
+<li>Formal: <strong>Τον περιμένω.</strong> (Ton periméno.) </li>
+<li>
+<p>Colloquial: <strong>Του περιμένω.</strong> (Tu periméno.) 
+     Both mean "I'm waiting for him."</p>
+</li>
+<li>
+<p>Different stress in some words:</p>
+</li>
+<li>Formal: <strong>το τηλέφωνο</strong> (to tiléfono)</li>
+<li>
+<p>Colloquial: <strong>το τήλεφωνο</strong> (to tílefono) "the telephone"</p>
+</li>
+<li>
+<p>Use of the subordinating conjunction <strong>και</strong> (ke) instead of <strong>να</strong> (na):</p>
+</li>
+<li>Formal: <strong>Πάω να φάω.</strong> (Páo na fáo.)</li>
+<li>
+<p>Colloquial: <strong>Πάω και φάω.</strong> (Páo ke fáo.)
+     Both mean "I'm going to eat."</p>
+</li>
+<li>
+<p>Tendency to use periphrastic forms instead of simple past tenses:</p>
+</li>
+<li>Formal: <strong>έφαγα</strong> (éfaga) "I ate"</li>
+<li>
+<p>Colloquial: <strong>έχω φάει</strong> (écho fái) "I have eaten"</p>
+</li>
+<li>
+<p>Use of the particle <strong>θα</strong> (tha) with past tenses to express probability:</p>
+<ul>
+<li><strong>Θα έφυγε.</strong> (Tha éfige.) "He must have left."</li>
+</ul>
+</li>
+</ol>
+<h2>Dialects</h2>
+<p>Modern Greek has several dialects, although the differences between them are generally not as pronounced as in some other languages. The main dialects include:</p>
+<ol>
+<li>Standard Modern Greek (based on Southern Greek dialects)</li>
+<li>Northern Greek dialects</li>
+<li>Pontic Greek</li>
+<li>Cappadocian Greek</li>
+<li>Tsakonian</li>
+<li>Griko and Calabrian Greek (spoken in southern Italy)</li>
+<li>Cypriot Greek</li>
+</ol>
+<p>Some features that distinguish dialects:</p>
+<ul>
+<li>
+<p>Northern Greek dialects often raise unstressed [o] and [e] to [u] and [i] respectively.
+  Example: Standard <strong>ποτάμι</strong> (potámi) → Northern <strong>πουτάμι</strong> (putámi) "river"</p>
+</li>
+<li>
+<p>Cypriot Greek has preserved some ancient features, such as geminate consonants.
+  Example: Standard <strong>σήμερα</strong> (símera) → Cypriot <strong>σήμμερα</strong> (símmera) "today"</p>
+</li>
+<li>
+<p>Pontic Greek has been heavily influenced by Turkish and has preserved some ancient Greek features.
+  Example: Standard <strong>ψωμί</strong> (psomí) → Pontic <strong>ψωμίν</strong> (psomín) "bread"</p>
+</li>
+<li>
+<p>Tsakonian is considered by some linguists to be a separate language, as it's not mutually intelligible with Standard Modern Greek and preserves features of ancient Doric Greek.</p>
+</li>
+</ul>
+<p>Despite these dialectal differences, Standard Modern Greek, based on the Southern dialects, is understood throughout Greece and is used in formal contexts, education, and media.</p>
+      </div>
+</body>
+</html>
