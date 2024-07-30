@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instant Polyglot</title>
+    <link rel="stylesheet" href="../bootstrap.min.css">
+    <link rel="stylesheet" href="../styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="/">Instant Polyglot</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/">Home</a>
+              </li>
+            </ul>
+            <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+      <div class="container" style="padding-top: 16px">
+        <h1>Bengali</h1>
+<p>Bengali (বাংলা, romanized: Bangla) is an Indo-Aryan language primarily spoken in Bangladesh and the Indian state of West Bengal. It is the official language of Bangladesh and one of the 22 scheduled languages of India. With approximately 230 million native speakers and 300 million total speakers worldwide, Bengali is one of the most spoken languages globally.</p>
+<h2>Writing System</h2>
+<p>Bengali uses its own script, known as Bengali script or Bangla lipi (বাংলা লিপি). It is an abugida, meaning each consonant has an inherent vowel which can be changed using vowel diacritics.</p>
+<h3>Consonants</h3>
+<p>The Bengali script has 35 consonant letters:</p>
+<table>
+<thead>
+<tr>
+  <th>Bengali</th>
+  <th>Romanized</th>
+  <th>IPA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>ক</td>
+  <td>ka</td>
+  <td>[kɔ]</td>
+</tr>
+<tr>
+  <td>খ</td>
+  <td>kha</td>
+  <td>[kʰɔ]</td>
+</tr>
+<tr>
+  <td>গ</td>
+  <td>ga</td>
+  <td>[ɡɔ]</td>
+</tr>
+<tr>
+  <td>ঘ</td>
+  <td>gha</td>
+  <td>[ɡʱɔ]</td>
+</tr>
+<tr>
+  <td>ঙ</td>
+  <td>nga</td>
+  <td>[ŋɔ]</td>
+</tr>
+<tr>
+  <td>চ</td>
+  <td>ca</td>
+  <td>[tɕɔ]</td>
+</tr>
+<tr>
+  <td>ছ</td>
+  <td>cha</td>
+  <td>[tɕʰɔ]</td>
+</tr>
+<tr>
+  <td>জ</td>
+  <td>ja</td>
+  <td>[dʑɔ]</td>
+</tr>
+<tr>
+  <td>ঝ</td>
+  <td>jha</td>
+  <td>[dʑʱɔ]</td>
+</tr>
+<tr>
+  <td>ঞ</td>
+  <td>nya</td>
+  <td>[ɲɔ]</td>
+</tr>
+<tr>
+  <td>ট</td>
+  <td>ṭa</td>
+  <td>[ʈɔ]</td>
+</tr>
+<tr>
+  <td>ঠ</td>
+  <td>ṭha</td>
+  <td>[ʈʰɔ]</td>
+</tr>
+<tr>
+  <td>ড</td>
+  <td>ḍa</td>
+  <td>[ɖɔ]</td>
+</tr>
+<tr>
+  <td>ঢ</td>
+  <td>ḍha</td>
+  <td>[ɖʱɔ]</td>
+</tr>
+<tr>
+  <td>ণ</td>
+  <td>ṇa</td>
+  <td>[nɔ]</td>
+</tr>
+<tr>
+  <td>ত</td>
+  <td>ta</td>
+  <td>[t̪ɔ]</td>
+</tr>
+<tr>
+  <td>থ</td>
+  <td>tha</td>
+  <td>[t̪ʰɔ]</td>
+</tr>
+<tr>
+  <td>দ</td>
+  <td>da</td>
+  <td>[d̪ɔ]</td>
+</tr>
+<tr>
+  <td>ধ</td>
+  <td>dha</td>
+  <td>[d̪ʱɔ]</td>
+</tr>
+<tr>
+  <td>ন</td>
+  <td>na</td>
+  <td>[nɔ]</td>
+</tr>
+<tr>
+  <td>প</td>
+  <td>pa</td>
+  <td>[pɔ]</td>
+</tr>
+<tr>
+  <td>ফ</td>
+  <td>pha</td>
+  <td>[pʰɔ]</td>
+</tr>
+<tr>
+  <td>ব</td>
+  <td>ba</td>
+  <td>[bɔ]</td>
+</tr>
+<tr>
+  <td>ভ</td>
+  <td>bha</td>
+  <td>[bʱɔ]</td>
+</tr>
+<tr>
+  <td>ম</td>
+  <td>ma</td>
+  <td>[mɔ]</td>
+</tr>
+<tr>
+  <td>য</td>
+  <td>ya</td>
+  <td>[dʑɔ]</td>
+</tr>
+<tr>
+  <td>র</td>
+  <td>ra</td>
+  <td>[rɔ]</td>
+</tr>
+<tr>
+  <td>ল</td>
+  <td>la</td>
+  <td>[lɔ]</td>
+</tr>
+<tr>
+  <td>শ</td>
+  <td>śa</td>
+  <td>[ɕɔ]</td>
+</tr>
+<tr>
+  <td>ষ</td>
+  <td>ṣa</td>
+  <td>[ʂɔ]</td>
+</tr>
+<tr>
+  <td>স</td>
+  <td>sa</td>
+  <td>[sɔ]</td>
+</tr>
+<tr>
+  <td>হ</td>
+  <td>ha</td>
+  <td>[hɔ]</td>
+</tr>
+<tr>
+  <td>ড়</td>
+  <td>ṛa</td>
+  <td>[ɽɔ]</td>
+</tr>
+<tr>
+  <td>ঢ়</td>
+  <td>ṛha</td>
+  <td>[ɽʱɔ]</td>
+</tr>
+<tr>
+  <td>য়</td>
+  <td>ya</td>
+  <td>[jɔ]</td>
+</tr>
+</tbody>
+</table>
+<h3>Vowels</h3>
+<p>Bengali has 7 vowel letters and 2 vowel diacritics:</p>
+<table>
+<thead>
+<tr>
+  <th>Bengali</th>
+  <th>Romanized</th>
+  <th>IPA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>অ</td>
+  <td>a</td>
+  <td>[ɔ]</td>
+</tr>
+<tr>
+  <td>আ</td>
+  <td>ā</td>
+  <td>[a]</td>
+</tr>
+<tr>
+  <td>ই</td>
+  <td>i</td>
+  <td>[i]</td>
+</tr>
+<tr>
+  <td>ঈ</td>
+  <td>ī</td>
+  <td>[i]</td>
+</tr>
+<tr>
+  <td>উ</td>
+  <td>u</td>
+  <td>[u]</td>
+</tr>
+<tr>
+  <td>ঊ</td>
+  <td>ū</td>
+  <td>[u]</td>
+</tr>
+<tr>
+  <td>এ</td>
+  <td>e</td>
+  <td>[e]</td>
+</tr>
+<tr>
+  <td>ঐ</td>
+  <td>ai</td>
+  <td>[oj]</td>
+</tr>
+<tr>
+  <td>ও</td>
+  <td>o</td>
+  <td>[o]</td>
+</tr>
+<tr>
+  <td>ঔ</td>
+  <td>au</td>
+  <td>[ow]</td>
+</tr>
+</tbody>
+</table>
+<p>Vowel diacritics:</p>
+<ul>
+<li>া (ā) [a]</li>
+<li>ি (i) [i]</li>
+<li>ী (ī) [i]</li>
+<li>ু (u) [u]</li>
+<li>ূ (ū) [u]</li>
+<li>ে (e) [e]</li>
+<li>ৈ (ai) [oj]</li>
+<li>ো (o) [o]</li>
+<li>ৌ (au) [ow]</li>
+</ul>
+<h3>Other symbols</h3>
+<ul>
+<li>ং (anusvara): represents nasalization</li>
+<li>ঃ (visarga): represents a voiceless glottal fricative [h]</li>
+<li>ঁ (candrabindu): represents nasalization of vowels</li>
+</ul>
+<h3>Numerals</h3>
+<p>Bengali has its own set of numerals:</p>
+<p>০ (0), ১ (1), ২ (2), ３ (3), ৪ (4), ৫ (5), ৬ (6), ৭ (7), ৮ (8), ৯ (9)</p>
+<h2>Phonology</h2>
+<h3>Consonants</h3>
+<table>
+<thead>
+<tr>
+  <th></th>
+  <th>Labial</th>
+  <th>Dental</th>
+  <th>Alveolar</th>
+  <th>Retroflex</th>
+  <th>Palatal</th>
+  <th>Velar</th>
+  <th>Glottal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Plosive</td>
+  <td>p pʰ b bʱ</td>
+  <td>t̪ t̪ʰ d̪ d̪ʱ</td>
+  <td></td>
+  <td>ʈ ʈʰ ɖ ɖʱ</td>
+  <td></td>
+  <td>k kʰ ɡ ɡʱ</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Nasal</td>
+  <td>m</td>
+  <td></td>
+  <td>n</td>
+  <td></td>
+  <td></td>
+  <td>ŋ</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Fricative</td>
+  <td></td>
+  <td></td>
+  <td>s</td>
+  <td></td>
+  <td>ɕ</td>
+  <td></td>
+  <td>h</td>
+</tr>
+<tr>
+  <td>Approximant</td>
+  <td></td>
+  <td></td>
+  <td>l</td>
+  <td></td>
+  <td>j</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Flap</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>ɽ ɽʱ</td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Affricate</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td>tɕ tɕʰ dʑ dʑʱ</td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+<h3>Vowels</h3>
+<table>
+<thead>
+<tr>
+  <th></th>
+  <th>Front</th>
+  <th>Central</th>
+  <th>Back</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Close</td>
+  <td>i</td>
+  <td></td>
+  <td>u</td>
+</tr>
+<tr>
+  <td>Close-mid</td>
+  <td>e</td>
+  <td></td>
+  <td>o</td>
+</tr>
+<tr>
+  <td>Open-mid</td>
+  <td>æ</td>
+  <td></td>
+  <td>ɔ</td>
+</tr>
+<tr>
+  <td>Open</td>
+  <td></td>
+  <td>a</td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+<p>Bengali also has two diphthongs: /oj/ and /ow/.</p>
+<h2>Pronunciation</h2>
+<h3>Vowel length</h3>
+<p>Unlike some other Indo-Aryan languages, Bengali does not have phonemic vowel length. The vowels ই (i) and ঈ (ī) are both pronounced [i], while উ (u) and ঊ (ū) are both pronounced [u].</p>
+<h3>Consonant clusters</h3>
+<p>Bengali allows consonant clusters, but they are generally limited to two consonants. Examples:</p>
+<ul>
+<li><strong>স্কুল</strong> [skul] &quot;school&quot;</li>
+<li><strong>প্রথম</strong> [prɔt̪ʰom] &quot;first&quot;</li>
+<li><strong>স্বাধীনতা</strong> [ʂad̪ʱinot̪a] &quot;independence&quot;</li>
+</ul>
+<h3>Vowel harmony</h3>
+<p>Bengali exhibits a form of vowel harmony where the vowels /e/ and /o/ in a word's first syllable can influence the pronunciation of /æ/ in subsequent syllables. For example:</p>
+<ul>
+<li><strong>দেখা</strong> [d̪ekʰa] &quot;to see&quot; (infinitive)</li>
+<li><strong>দেখে</strong> [d̪ekʰe] &quot;sees&quot; (3rd person)</li>
+</ul>
+<h3>Nasalization</h3>
+<p>Vowels can be nasalized when followed by ং (anusvara) or ঁ (candrabindu). For example:</p>
+<ul>
+<li><strong>বাঁশ</strong> [bãɕ] &quot;bamboo&quot;</li>
+<li><strong>চাঁদ</strong> [tɕãd̪] &quot;moon&quot;</li>
+</ul>
+<h2>Grammar</h2>
+<h3>Nouns</h3>
+<p>Bengali nouns are inflected for number, case, and definiteness.</p>
+<h4>Gender</h4>
+<p>Unlike many Indo-European languages, Bengali does not have grammatical gender. Nouns are not classified as masculine, feminine, or neuter.</p>
+<h4>Number</h4>
+<p>Bengali has two numbers: singular and plural. The plural is typically formed by adding -রা (-ra) for animate nouns and -গুলো (-gulo) or -গুলি (-guli) for inanimate nouns.</p>
+<p>Examples:</p>
+<ul>
+<li><strong>ছেলে</strong> (chele) &quot;boy&quot; → <strong>ছেলেরা</strong> (chelera) &quot;boys&quot;</li>
+<li><strong>বই</strong> (boi) &quot;book&quot; → <strong>বইগুলো</strong> (boigulo) &quot;books&quot;</li>
+</ul>
+<h4>Case</h4>
+<p>Bengali has six cases: nominative, accusative, genitive, dative, locative, and instrumental. The nominative case is unmarked, while other cases are formed by adding postpositions.</p>
+<p>Examples:</p>
+<ul>
+<li>Nominative: <strong>ছেলে</strong> (chele) &quot;boy&quot;</li>
+<li>Accusative: <strong>ছেলেকে</strong> (cheleke) &quot;to the boy&quot;</li>
+<li>Genitive: <strong>ছেলের</strong> (cheler) &quot;of the boy&quot;</li>
+<li>Dative: <strong>ছেলেকে</strong> (cheleke) &quot;to the boy&quot;</li>
+<li>Locative: <strong>ছেলেতে</strong> (chelete) &quot;in/on the boy&quot;</li>
+<li>Instrumental: <strong>ছেলে দিয়ে</strong> (chele diye) &quot;by means of the boy&quot;</li>
+</ul>
+<h4>Definiteness</h4>
+<p>Bengali uses the suffix -টা (-ta) or -টি (-ti) to indicate definiteness for singular nouns, and -গুলো (-gulo) or -গুলি (-guli) for plural nouns.</p>
+<p>Examples:</p>
+<ul>
+<li><strong>বই</strong> (boi) &quot;book&quot; → <strong>বইটা</strong> (boita) &quot;the book&quot;</li>
+<li><strong>বইগুলো</strong> (boigulo) &quot;the books&quot;</li>
+</ul>
+<h3>Pronouns</h3>
+<p>Bengali pronouns are inflected for person, number, and case. Here are the personal pronouns in the nominative case:</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st</td>
+  <td><strong>আমি</strong> (ami)</td>
+  <td><strong>আমরা</strong> (amra)</td>
+</tr>
+<tr>
+  <td>2nd (informal)</td>
+  <td><strong>তুই</strong> (tui)</td>
+  <td><strong>তোরা</strong> (tora)</td>
+</tr>
+<tr>
+  <td>2nd (familiar)</td>
+  <td><strong>তুমি</strong> (tumi)</td>
+  <td><strong>তোমরা</strong> (tomra)</td>
+</tr>
+<tr>
+  <td>2nd (formal)</td>
+  <td><strong>আপনি</strong> (apni)</td>
+  <td><strong>আপনারা</strong> (apnara)</td>
+</tr>
+<tr>
+  <td>3rd</td>
+  <td><strong>সে</strong> (se)</td>
+  <td><strong>তারা</strong> (tara)</td>
+</tr>
+</tbody>
+</table>
+<p>Demonstrative pronouns:</p>
+<ul>
+<li><strong>এটা</strong> (eta) &quot;this&quot;</li>
+<li><strong>ওটা</strong> (ota) &quot;that&quot;</li>
+<li><strong>এগুলো</strong> (egulo) &quot;these&quot;</li>
+<li><strong>ওগুলো</strong> (ogulo) &quot;those&quot;</li>
+</ul>
+<p>Interrogative pronouns:</p>
+<ul>
+<li><strong>কে</strong> (ke) &quot;who&quot;</li>
+<li><strong>কী</strong> (ki) &quot;what&quot;</li>
+<li><strong>কোন</strong> (kon) &quot;which&quot;</li>
+</ul>
+<h3>Adjectives</h3>
+<p>Bengali adjectives are typically invariable and precede the nouns they modify.</p>
+<p>Examples:</p>
+<ul>
+<li><strong>লাল বই</strong> (lal boi) &quot;red book&quot;</li>
+<li><strong>বড় বাড়ি</strong> (boro bari) &quot;big house&quot;</li>
+</ul>
+<p>Comparatives and superlatives are formed using <strong>আরো</strong> (aro) &quot;more&quot; and <strong>সবচেয়ে</strong> (sobceye) &quot;most&quot; respectively:</p>
+<ul>
+<li><strong>বড়</strong> (boro) &quot;big&quot; → <strong>আরো বড়</strong> (aro boro) &quot;bigger&quot; → <strong>সবচেয়ে বড়</strong> (sobceye boro) &quot;biggest&quot;</li>
+</ul>
+<h3>Verbs</h3>
+<p>Bengali verbs are highly inflected, showing tense, aspect, mood, and person.</p>
+<h4>Verb classes</h4>
+<p>Bengali verbs can be divided into several classes based on their stem vowels:</p>
+<ol>
+<li>আ-কার (a-kar): stem ends in া (a)</li>
+<li>ই-কার (i-kar): stem ends in ি (i)</li>
+<li>এ-কার (e-kar): stem ends in ে (e)</li>
+</ol>
+<h4>Tenses</h4>
+<p>Bengali has three main tenses: present, past, and future.</p>
+<p>Present tense:</p>
+<ul>
+<li><strong>আমি যাই</strong> (ami jai) &quot;I go&quot;</li>
+<li><strong>তুমি যাও</strong> (tumi jao) &quot;You go&quot;</li>
+<li><strong>সে যায়</strong> (se jay) &quot;He/She goes&quot;</li>
+</ul>
+<p>Past tense:</p>
+<ul>
+<li><strong>আমি গেলাম</strong> (ami gelam) &quot;I went&quot;</li>
+<li><strong>তুমি গেলে</strong> (tumi gele) &quot;You went&quot;</li>
+<li><strong>সে গেল</strong> (se gelo) &quot;He/She went&quot;</li>
+</ul>
+<p>Future tense:</p>
+<ul>
+<li><strong>আমি যাব</strong> (ami jabo) &quot;I will go&quot;</li>
+<li><strong>তুমি যাবে</strong> (tumi jabe) &quot;You will go&quot;</li>
+<li><strong>সে যাবে</strong> (se jabe) &quot;He/She will go&quot;</li>
+</ul>
+<h4>Aspects</h4>
+<p>Bengali has several aspects, including simple, progressive, perfect, and habitual.</p>
+<p>Progressive aspect is formed using the verb <strong>থাকা</strong> (thaka) &quot;to stay&quot;:</p>
+<ul>
+<li><strong>আমি যাচ্ছি</strong> (ami jacchi) &quot;I am going&quot;</li>
+</ul>
+<p>Perfect aspect is formed using the verb <strong>আছে</strong> (ache) &quot;to have&quot;:</p>
+<ul>
+<li><strong>আমি গিয়েছি</strong> (ami giyechi) &quot;I have gone&quot;</li>
+</ul>
+<p>Habitual aspect is formed using the suffix -তাম (-tam) in the past tense:</p>
+<ul>
+<li><strong>আমি যেতাম</strong> (ami jetam) &quot;I used to go&quot;</li>
+</ul>
+<h4>Moods</h4>
+<p>Bengali has several moods, including indicative, imperative, and subjunctive.</p>
+<p>Imperative mood:</p>
+<ul>
+<li><strong>যাও</strong> (jao) &quot;Go!&quot; (informal)</li>
+<li><strong>যান</strong> (jan) &quot;Go!&quot; (formal)</li>
+</ul>
+<p>Subjunctive mood:</p>
+<ul>
+<li><strong>যদি আমি যাই</strong> (jodi ami jai) &quot;If I go&quot;</li>
+</ul>
+<h4>Negation</h4>
+<p>Verbs are negated by adding <strong>না</strong> (na) after the verb:</p>
+<ul>
+<li><strong>আমি যাই না</strong> (ami jai na) &quot;I don't go&quot;</li>
+<li><strong>আমি যাব না</strong> (ami jabo na) &quot;I won't go&quot;</li>
+</ul>
+<h3>Sentence Structure</h3>
+<p>Bengali typically follows a Subject-Object-Verb (SOV) word order.</p>
+<p>Example:
+<strong>আমি বই পড়ি।</strong> (ami boi pori)
+I book read
+&quot;I read a book.&quot;</p>
+<p>However, word order can be flexible for emphasis or in poetry.</p>
+<h3>Postpositions</h3>
+<p>Unlike many European languages that use prepositions, Bengali uses postpositions. These come after the noun they modify:</p>
+<ul>
+<li><strong>বাড়িতে</strong> (barite) &quot;in the house&quot;</li>
+<li><strong>টেবিলের উপরে</strong> (tebiler upore) &quot;on the table&quot;</li>
+</ul>
+<h3>Compounds</h3>
+<p>Bengali frequently uses compound verbs, where two verb stems are combined to express complex actions or add nuance:</p>
+<ul>
+<li><strong>খেয়ে ফেলা</strong> (kheye fela) &quot;to eat up&quot; (lit. &quot;eat&quot; + &quot;throw&quot;)</li>
+<li><strong>বলে দেওয়া</strong> (bole deoa) &quot;to tell&quot; (lit. &quot;say&quot; + &quot;give&quot;)</li>
+</ul>
+<h3>Honorifics</h3>
+<p>Bengali has an extensive system of honorifics, reflected in pronouns, verbs, and certain nouns. There are different levels of formality and respect:</p>
+<ul>
+<li>Informal: used with close friends and younger family members</li>
+<li>Familiar: used with peers and relatives</li>
+<li>Formal: used with elders, strangers, and in professional settings</li>
+</ul>
+<p>Example (verb &quot;to do&quot;):</p>
+<ul>
+<li>Informal: <strong>তুই কর</strong> (tui koro)</li>
+<li>Familiar: <strong>তুমি কর</strong> (tumi koro)</li>
+<li>Formal: <strong>আপনি করেন</strong> (apni koren)</li>
+</ul>
+<h2>Vocabulary</h2>
+<p>Bengali vocabulary is primarily derived from Sanskrit, with influences from Persian, Arabic, Turkish, Portuguese, and English due to historical and cultural factors.</p>
+<h3>Sanskrit-derived words</h3>
+<p>A large portion of Bengali vocabulary, especially in formal or literary contexts, comes from Sanskrit:</p>
+<ul>
+<li><strong>জল</strong> (jol) &quot;water&quot; (from Sanskrit जल jala)</li>
+<li><strong>আকাশ</strong> (akash) &quot;sky&quot; (from Sanskrit आकाश ākāśa)</li>
+</ul>
+<h3>Perso-Arabic loanwords</h3>
+<p>Due to centuries of Muslim rule, Bengali has borrowed many words from Persian and Arabic:</p>
+<ul>
+<li><strong>দোকান</strong> (dokan) &quot;shop&quot; (from Persian دکان dukkān)</li>
+<li><strong>খবর</strong> (khobor) &quot;news&quot; (from Arabic خبر khabar)</li>
+</ul>
+<h3>English loanwords</h3>
+<p>Modern Bengali has incorporated many English words, especially in technology, business, and popular culture:</p>
+<ul>
+<li><strong>কম্পিউটার</strong> (kompiutar) &quot;computer&quot;</li>
+<li><strong>টেলিফোন</strong> (telefon) &quot;telephone&quot;</li>
+<li><strong>অফিস</strong> (ofis) &quot;office&quot;</li>
+</ul>
+<h3>Tatsama and Tadbhava words</h3>
+<p>Bengali vocabulary can be categorized into two main types based on their derivation from Sanskrit:</p>
+<ol>
+<li><p>Tatsama (identical to Sanskrit):</p>
+<ul>
+<li><strong>পুস্তক</strong> (pustok) &quot;book&quot; (from Sanskrit पुस्तक pustaka)</li>
+<li><strong>কমল</strong> (komol) &quot;lotus&quot; (from Sanskrit कमल kamala)</li>
+</ul>
+</li>
+<li><p>Tadbhava (evolved from Sanskrit):</p>
+<ul>
+<li><strong>চাঁদ</strong> (chand) &quot;moon&quot; (from Sanskrit चन्द्र chandra)</li>
+<li><strong>দুধ</strong> (dudh) &quot;milk&quot; (from Sanskrit दुग्ध dugdha)</li>
+</ul>
+</li>
+</ol>
+<h3>Reduplication</h3>
+<p>Bengali frequently uses reduplication to express intensity, continuity, or distribution:</p>
+<ul>
+<li><strong>ধীরে ধীরে</strong> (dhire dhire) &quot;very slowly&quot;</li>
+<li><strong>ছোট ছোট</strong> (choto choto) &quot;very small&quot; or &quot;many small things&quot;</li>
+</ul>
+<h3>Onomatopoeia</h3>
+<p>Bengali has a rich inventory of onomatopoeic words:</p>
+<ul>
+<li><strong>ঝুম ঝুম</strong> (jhum jhum) - sound of rainfall</li>
+<li><strong>টিক টিক</strong> (tik tik) - ticking sound</li>
+</ul>
+<h2>Dialects</h2>
+<p>Bengali has several dialects, with the main division being between West Bengali (spoken in India) and East Bengali (spoken in Bangladesh). Some major dialects include:</p>
+<ol>
+<li>Standard Bengali (Shuddo Bangla): Based on the dialect of educated speakers in Kolkata</li>
+<li>Dhaka dialect: Spoken in and around Dhaka, the capital of Bangladesh</li>
+<li>Chittagonian: Spoken in southeastern Bangladesh</li>
+<li>Sylheti: Spoken in northeastern Bangladesh and parts of Assam, India</li>
+<li>Rangpuri: Spoken in northern Bangladesh and parts of West Bengal, India</li>
+</ol>
+<p>Dialects can differ in pronunciation, vocabulary, and sometimes grammar. For example:</p>
+<p>Standard Bengali: <strong>আমি যাব</strong> (ami jabo) &quot;I will go&quot;
+Sylheti: <strong>আমি জাইমু</strong> (ami jaimu) &quot;I will go&quot;</p>
+<h2>Colloquial Bengali</h2>
+<p>Colloquial Bengali, especially in urban areas, often differs from the standard written form. Some features of colloquial Bengali include:</p>
+<ol>
+<li><p>Pronunciation changes:</p>
+<ul>
+<li>Final অ (o) is often dropped: <strong>চল</strong> (cholo) becomes <strong>চল</strong> (chol) &quot;let's go&quot;</li>
+<li>ণ (ṇ) is often pronounced as ন (n): <strong>প্রাণ</strong> (pran) becomes <strong>প্রান</strong> (pran) &quot;life&quot;</li>
+</ul>
+</li>
+<li><p>Contracted forms:</p>
+<ul>
+<li><strong>করেছি</strong> (korechi) becomes <strong>করছি</strong> (korchi) &quot;I have done&quot;</li>
+<li><strong>বলেছে</strong> (boleche) becomes <strong>বলছে</strong> (bolche) &quot;He/She has said&quot;</li>
+</ul>
+</li>
+<li><p>Simplified verb forms:</p>
+<ul>
+<li><strong>করিতেছি</strong> (koritechhi) becomes <strong>করছি</strong> (korchi) &quot;I am doing&quot;</li>
+</ul>
+</li>
+<li><p>Use of informal pronouns:</p>
+<ul>
+<li><strong>তুমি</strong> (tumi) is often replaced by <strong>তুই</strong> (tui) among close friends</li>
+</ul>
+</li>
+<li><p>Slang and colloquial expressions:</p>
+<ul>
+<li><strong>জোস</strong> (joss) &quot;awesome&quot;</li>
+<li><strong>ফাটাফাটি</strong> (fatafati) &quot;excellent&quot;</li>
+</ul>
+</li>
+</ol>
+<h2>Idioms and Expressions</h2>
+<p>Bengali is rich in idioms and expressions. Here are a few examples:</p>
+<ul>
+<li><strong>মাথা খারাপ</strong> (matha kharap) - literally &quot;bad head&quot;, means &quot;crazy&quot;</li>
+<li><strong>পেট ভরা</strong> (pet bhora) - literally &quot;full stomach&quot;, means &quot;satisfied&quot;</li>
+<li><strong>চোখের মণি</strong> (chokher moni) - literally &quot;pupil of the eye&quot;, means &quot;very dear&quot;</li>
+<li><strong>হাতে স্বর্গ</strong> (hate swargo) - literally &quot;heaven in hand&quot;, means &quot;extremely happy&quot;</li>
+</ul>
+<h2>Sentence Particles</h2>
+<p>Bengali uses various sentence particles to express mood, emphasis, or politeness:</p>
+<ul>
+<li><p><strong>তো</strong> (to) - used for emphasis or to soften a statement
+Example: <strong>তুমি তো জানো</strong> (tumi to jano) &quot;You know, right?&quot;</p>
+</li>
+<li><p><strong>না</strong> (na) - used in questions expecting affirmation
+Example: <strong>তুমি যাবে না?</strong> (tumi jabe na?) &quot;You'll go, won't you?&quot;</p>
+</li>
+<li><p><strong>কি</strong> (ki) - used to form questions
+Example: <strong>তুমি কি জানো?</strong> (tumi ki jano?) &quot;Do you know?&quot;</p>
+</li>
+</ul>
+<h2>Verbal Nouns</h2>
+<p>Bengali frequently uses verbal nouns, formed by adding -আ (-a) to the verb stem:</p>
+<ul>
+<li><strong>যাওয়া</strong> (jaowa) &quot;going&quot; (from যা- ja- &quot;go&quot;)</li>
+<li><strong>খাওয়া</strong> (khaowa) &quot;eating&quot; (from খা- kha- &quot;eat&quot;)</li>
+</ul>
+<p>These are used in various constructions:</p>
+<ul>
+<li><strong>আমার যাওয়া হবে না</strong> (amar jaowa hobe na) &quot;I won't be able to go&quot; (lit. &quot;My going will not happen&quot;)</li>
+</ul>
+<h2>Copula</h2>
+<p>Bengali often omits the copula (linking verb) in the present tense:</p>
+<ul>
+<li><strong>আমি ছাত্র</strong> (ami chatro) &quot;I (am) a student&quot;</li>
+<li><strong>সে সুন্দর</strong> (se sundor) &quot;He/She (is) beautiful&quot;</li>
+</ul>
+<p>In the past tense, the copula <strong>ছিল</strong> (chilo) is used:</p>
+<ul>
+<li><strong>আমি ছাত্র ছিলাম</strong> (ami chatro chilam) &quot;I was a student&quot;</li>
+</ul>
+<h2>Emphatic Forms</h2>
+<p>Bengali uses emphatic particles to add emphasis:</p>
+<ul>
+<li><p><strong>ই</strong> (i) - used for strong emphasis
+Example: <strong>আমিই করেছি</strong> (ami-i korechi) &quot;I (myself) have done it&quot;</p>
+</li>
+<li><p><strong>ও</strong> (o) - used for inclusive emphasis
+Example: <strong>তুমিও এসো</strong> (tumi-o eso) &quot;You come too&quot;</p>
+</li>
+</ul>
+<h2>Numbers and Counting</h2>
+<p>Bengali has a decimal number system. Here are the numbers from 0 to 10:</p>
+<p>০ - শূন্য (shunno)
+১ - এক (ek)
+২ - দুই (dui)
+৩ - তিন (tin)
+৪ - চার (char)
+৫ - পাঁচ (panch)
+৬ - ছয় (chhoy)
+৭ - সাত (sat)
+৮ - আট (at)
+৯ - নয় (noy)
+১০ - দশ (dosh)</p>
+<p>Larger numbers:
+২০ - কুড়ি (kuri) or বিশ (bish)
+৫০ - পঞ্চাশ (ponchash)
+১০০ - একশো (ek-sho)
+১০০০ - হাজার (hazar)</p>
+<p>Bengali also has a traditional numbering system called &quot;Kuḍi&quot;, based on units of 20, which is still used in some rural areas.</p>
+<h2>Time and Date</h2>
+<p>Days of the week:</p>
+<ul>
+<li>রবিবার (robibar) - Sunday</li>
+<li>সোমবার (shombar) - Monday</li>
+<li>মঙ্গলবার (mongolbar) - Tuesday</li>
+<li>বুধবার (budhbar) - Wednesday</li>
+<li>বৃহস্পতিবার (brihospotibar) - Thursday</li>
+<li>শুক্রবার (shukrobar) - Friday</li>
+<li>শনিবার (shonibar) - Saturday</li>
+</ul>
+<p>Months (Bengali calendar):</p>
+<ul>
+<li>বৈশাখ (Boishakh)</li>
+<li>জ্যৈষ্ঠ (Jyoishtho)</li>
+<li>আষাঢ় (Asharh)</li>
+<li>শ্রাবণ (Srabon)</li>
+<li>ভাদ্র (Bhadro)</li>
+<li>আশ্বিন (Ashwin)</li>
+<li>কার্তিক (Kartik)</li>
+<li>অগ্রহায়ণ (Ogrohayon)</li>
+<li>পৌষ (Poush)</li>
+<li>মাঘ (Magh)</li>
+<li>ফাল্গুন (Falgun)</li>
+<li>চৈত্র (Choitro)</li>
+</ul>
+<p>Time expressions:</p>
+<ul>
+<li><strong>সকাল</strong> (sokal) - morning</li>
+<li><strong>দুপুর</strong> (dupur) - afternoon</li>
+<li><strong>বিকাল</strong> (bikal) - evening</li>
+<li><strong>রাত</strong> (rat) - night</li>
+</ul>
+<h2>Conclusion</h2>
+<p>Bengali is a rich and complex language with a long literary tradition. Its grammar, while intricate, follows logical patterns that learners can master with practice. The language's vocabulary, drawn from diverse sources, reflects the cultural history of Bengal. From its unique script to its nuanced honorific system, Bengali offers a fascinating linguistic landscape for both native speakers and language enthusiasts.</p>
+
+      </div>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-TXC94JMN4X"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TXC94JMN4X');
+      </script>
+</body>
+</html>
