@@ -1,4 +1,4 @@
-# Norwegian
+# Norwegian Bokmål
 
 Norwegian is a North Germanic language spoken primarily in Norway by about 5 million people. It belongs to the Scandinavian branch of the Germanic languages, closely related to Danish and Swedish. A key feature of Norwegian is its flexibility in written and spoken forms.
 
