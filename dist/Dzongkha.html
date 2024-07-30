@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instant Polyglot</title>
+    <link rel="stylesheet" href="../bootstrap.min.css">
+    <link rel="stylesheet" href="../styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="/">Instant Polyglot</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/">Home</a>
+              </li>
+            </ul>
+            <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+      <div class="container" style="padding-top: 16px">
+        <h1>Dzongkha</h1>
+<p>Dzongkha (རྫོང་ཁ་, [dzòŋkʰa]) is the national language of Bhutan and is spoken by approximately 300,000 people. It belongs to the Tibetic language family within the Sino-Tibetan language group. Dzongkha is closely related to Tibetan and shares many features with other Tibetic languages.</p>
+<h2>Writing System</h2>
+<p>Dzongkha uses the Tibetan script, known as Uchen (དབུ་ཅན་, [ʔutɕɛ̃ː]) script. The script is an abugida, where each consonant has an inherent vowel /a/, which can be changed or muted using various diacritical marks.</p>
+<h3>Consonants</h3>
+<p>The Dzongkha consonant inventory consists of 30 letters:</p>
+<table>
+<thead>
+<tr>
+  <th>Tibetan</th>
+  <th>Romanization</th>
+  <th>IPA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>ཀ</td>
+  <td>ka</td>
+  <td>[ka]</td>
+</tr>
+<tr>
+  <td>ཁ</td>
+  <td>kha</td>
+  <td>[kʰa]</td>
+</tr>
+<tr>
+  <td>ག</td>
+  <td>ga</td>
+  <td>[ga]</td>
+</tr>
+<tr>
+  <td>ང</td>
+  <td>nga</td>
+  <td>[ŋa]</td>
+</tr>
+<tr>
+  <td>ཅ</td>
+  <td>ca</td>
+  <td>[tɕa]</td>
+</tr>
+<tr>
+  <td>ཆ</td>
+  <td>cha</td>
+  <td>[tɕʰa]</td>
+</tr>
+<tr>
+  <td>ཇ</td>
+  <td>ja</td>
+  <td>[dʑa]</td>
+</tr>
+<tr>
+  <td>ཉ</td>
+  <td>nya</td>
+  <td>[ɲa]</td>
+</tr>
+<tr>
+  <td>ཏ</td>
+  <td>ta</td>
+  <td>[ta]</td>
+</tr>
+<tr>
+  <td>ཐ</td>
+  <td>tha</td>
+  <td>[tʰa]</td>
+</tr>
+<tr>
+  <td>ད</td>
+  <td>da</td>
+  <td>[da]</td>
+</tr>
+<tr>
+  <td>ན</td>
+  <td>na</td>
+  <td>[na]</td>
+</tr>
+<tr>
+  <td>པ</td>
+  <td>pa</td>
+  <td>[pa]</td>
+</tr>
+<tr>
+  <td>ཕ</td>
+  <td>pha</td>
+  <td>[pʰa]</td>
+</tr>
+<tr>
+  <td>བ</td>
+  <td>ba</td>
+  <td>[ba]</td>
+</tr>
+<tr>
+  <td>མ</td>
+  <td>ma</td>
+  <td>[ma]</td>
+</tr>
+<tr>
+  <td>ཙ</td>
+  <td>tsa</td>
+  <td>[tsa]</td>
+</tr>
+<tr>
+  <td>ཚ</td>
+  <td>tsha</td>
+  <td>[tsʰa]</td>
+</tr>
+<tr>
+  <td>ཛ</td>
+  <td>dza</td>
+  <td>[dza]</td>
+</tr>
+<tr>
+  <td>ཝ</td>
+  <td>wa</td>
+  <td>[wa]</td>
+</tr>
+<tr>
+  <td>ཞ</td>
+  <td>zha</td>
+  <td>[ʑa]</td>
+</tr>
+<tr>
+  <td>ཟ</td>
+  <td>za</td>
+  <td>[za]</td>
+</tr>
+<tr>
+  <td>འ</td>
+  <td>'a</td>
+  <td>[ʔa]</td>
+</tr>
+<tr>
+  <td>ཡ</td>
+  <td>ya</td>
+  <td>[ja]</td>
+</tr>
+<tr>
+  <td>ར</td>
+  <td>ra</td>
+  <td>[ra]</td>
+</tr>
+<tr>
+  <td>ལ</td>
+  <td>la</td>
+  <td>[la]</td>
+</tr>
+<tr>
+  <td>ཤ</td>
+  <td>sha</td>
+  <td>[ɕa]</td>
+</tr>
+<tr>
+  <td>ས</td>
+  <td>sa</td>
+  <td>[sa]</td>
+</tr>
+<tr>
+  <td>ཧ</td>
+  <td>ha</td>
+  <td>[ha]</td>
+</tr>
+<tr>
+  <td>ཨ</td>
+  <td>a</td>
+  <td>[a]</td>
+</tr>
+</tbody>
+</table>
+<h3>Vowels</h3>
+<p>Dzongkha has 5 basic vowels, which are represented by diacritical marks above or below the consonant:</p>
+<table>
+<thead>
+<tr>
+  <th>Tibetan</th>
+  <th>Romanization</th>
+  <th>IPA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>◌ (inherent)</td>
+  <td>a</td>
+  <td>[a]</td>
+</tr>
+<tr>
+  <td>◌ི</td>
+  <td>i</td>
+  <td>[i]</td>
+</tr>
+<tr>
+  <td>◌ུ</td>
+  <td>u</td>
+  <td>[u]</td>
+</tr>
+<tr>
+  <td>◌ེ</td>
+  <td>e</td>
+  <td>[e]</td>
+</tr>
+<tr>
+  <td>◌ོ</td>
+  <td>o</td>
+  <td>[o]</td>
+</tr>
+</tbody>
+</table>
+<h3>Syllable Structure</h3>
+<p>Dzongkha syllables typically follow the structure (C)(C)V(C), where C represents a consonant and V represents a vowel. The maximum syllable structure is CCVC.</p>
+<p>Examples:</p>
+<ul>
+<li><strong>ཁ</strong> (kha) [kʰa] - &quot;mouth&quot;</li>
+<li><strong>སྐྱ</strong> (kya) [ca] - &quot;grey&quot;</li>
+<li><strong>སྒྲ</strong> (dra) [ɖa] - &quot;sound&quot;</li>
+<li><strong>བསྒྲུབས</strong> (drub) [ɖup] - &quot;accomplish&quot; (past tense)</li>
+</ul>
+<h3>Tone</h3>
+<p>Dzongkha is a tonal language with two distinctive tones: high and low. Tone is not marked in the script but is crucial for distinguishing meaning.</p>
+<p>Examples:</p>
+<ul>
+<li><strong>ལོ</strong> (lo) [lò] - &quot;year&quot;</li>
+<li><strong>ལོ</strong> (lo) [ló] - &quot;south&quot;</li>
+</ul>
+<h2>Phonology</h2>
+<h3>Consonants</h3>
+<p>Dzongkha has a rich consonant inventory, including aspirated and unaspirated stops, as well as a series of affricates:</p>
+<table>
+<thead>
+<tr>
+  <th>Manner of Articulation</th>
+  <th>Labial</th>
+  <th>Dental/Alveolar</th>
+  <th>Retroflex</th>
+  <th>Palatal</th>
+  <th>Velar</th>
+  <th>Glottal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Nasal</td>
+  <td>m [m]</td>
+  <td>n [n]</td>
+  <td></td>
+  <td>ny [ɲ]</td>
+  <td>ng [ŋ]</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Stop</td>
+  <td>p [p] &lt;br&gt; ph [pʰ] &lt;br&gt; b [b]</td>
+  <td>t [t] &lt;br&gt; th [tʰ] &lt;br&gt; d [d]</td>
+  <td>tr [ʈ] &lt;br&gt; thr [ʈʰ] &lt;br&gt; dr [ɖ]</td>
+  <td></td>
+  <td>k [k] &lt;br&gt; kh [kʰ] &lt;br&gt; g [g]</td>
+  <td>' [ʔ]</td>
+</tr>
+<tr>
+  <td>Affricate</td>
+  <td></td>
+  <td>ts [ts] &lt;br&gt; tsh [tsʰ] &lt;br&gt; dz [dz]</td>
+  <td></td>
+  <td>c [tɕ] &lt;br&gt; ch [tɕʰ] &lt;br&gt; j [dʑ]</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>Fricative</td>
+  <td></td>
+  <td>s [s] &lt;br&gt; z [z]</td>
+  <td></td>
+  <td>sh [ɕ] &lt;br&gt; zh [ʑ]</td>
+  <td></td>
+  <td>h [h]</td>
+</tr>
+<tr>
+  <td>Approximant</td>
+  <td>w [w]</td>
+  <td>l [l] &lt;br&gt; r [r]</td>
+  <td></td>
+  <td>y [j]</td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+<h3>Vowels</h3>
+<p>Dzongkha has 5 basic vowel sounds:</p>
+<table>
+<thead>
+<tr>
+  <th>Front</th>
+  <th>Central</th>
+  <th>Back</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>i [i]</td>
+  <td></td>
+  <td>u [u]</td>
+</tr>
+<tr>
+  <td>e [e]</td>
+  <td></td>
+  <td>o [o]</td>
+</tr>
+<tr>
+  <td></td>
+  <td>a [a]</td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+<h3>Phonological Processes</h3>
+<ol>
+<li><p>Final consonant devoicing:</p>
+<ul>
+<li><strong>རོགས</strong> (rog) [rok] - &quot;friend&quot;</li>
+<li><strong>ལེགས</strong> (leg) [lek] - &quot;good&quot;</li>
+</ul>
+</li>
+<li><p>Consonant clusters simplification:</p>
+<ul>
+<li><strong>བསྒྲུབས</strong> (drub) [ɖup] - &quot;accomplish&quot; (past tense)</li>
+</ul>
+</li>
+<li><p>Vowel harmony:
+In some dialects, there is a tendency for vowels to harmonize within a word.</p>
+</li>
+</ol>
+<h2>Morphology</h2>
+<h3>Nouns</h3>
+<p>Dzongkha nouns are not inflected for number or case. Plurality is often indicated by context or by adding numerals or quantifiers.</p>
+<p>Examples:</p>
+<ul>
+<li><strong>མི</strong> (mi) - &quot;person&quot; / &quot;people&quot;</li>
+<li><strong>མི་གཉིས</strong> (mi 'nyî) - &quot;two people&quot;</li>
+</ul>
+<h4>Honorific Forms</h4>
+<p>Dzongkha has an extensive system of honorific vocabulary, used to show respect. Many common nouns have honorific counterparts:</p>
+<table>
+<thead>
+<tr>
+  <th>Common</th>
+  <th>Honorific</th>
+  <th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>ཁ</strong> (kha)</td>
+  <td><strong>ཞལ</strong> (zhä)</td>
+  <td>&quot;mouth&quot;</td>
+</tr>
+<tr>
+  <td><strong>མིག</strong> (mik)</td>
+  <td><strong>སྤྱན</strong> (cen)</td>
+  <td>&quot;eye&quot;</td>
+</tr>
+<tr>
+  <td><strong>ལག་པ</strong> (lakpa)</td>
+  <td><strong>ཕྱག</strong> (chak)</td>
+  <td>&quot;hand&quot;</td>
+</tr>
+</tbody>
+</table>
+<h3>Pronouns</h3>
+<p>Personal pronouns in Dzongkha:</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st</td>
+  <td><strong>ང</strong> (nga)</td>
+  <td><strong>ང་བཅས</strong> (nga cä)</td>
+</tr>
+<tr>
+  <td>2nd (informal)</td>
+  <td><strong>ཁྱོད</strong> (chö)</td>
+  <td><strong>ཁྱེད</strong> (che)</td>
+</tr>
+<tr>
+  <td>2nd (formal)</td>
+  <td><strong>ནཱ</strong> (nâ)</td>
+  <td><strong>ནཱ་བུ</strong> (nâ bu)</td>
+</tr>
+<tr>
+  <td>3rd</td>
+  <td><strong>ཁོ</strong> (kho) (masc.) &lt;br&gt; <strong>མོ</strong> (mo) (fem.)</td>
+  <td><strong>ཁོང</strong> (khong)</td>
+</tr>
+</tbody>
+</table>
+<p>Demonstrative pronouns:</p>
+<ul>
+<li><strong>འདི</strong> (di) - &quot;this&quot;</li>
+<li><strong>དེ</strong> (de) - &quot;that&quot;</li>
+</ul>
+<h3>Adjectives</h3>
+<p>Adjectives in Dzongkha typically follow the noun they modify:</p>
+<ul>
+<li><strong>ཁྱིམ་སྦོམ</strong> (chim bom) - &quot;big house&quot;</li>
+<li><strong>མི་དགའ</strong> (mi ga) - &quot;happy person&quot;</li>
+</ul>
+<p>Comparative and superlative forms are formed analytically:</p>
+<ul>
+<li><p>Comparative: <strong>གི་སྦེ་</strong> (gi be)
+Example: <strong>སྦོམ་གི་སྦེ་</strong> (bom gi be) - &quot;bigger&quot;</p>
+</li>
+<li><p>Superlative: <strong>ཤོས་</strong> (shö)
+Example: <strong>སྦོམ་ཤོས་</strong> (bom shö) - &quot;biggest&quot;</p>
+</li>
+</ul>
+<h3>Verbs</h3>
+<p>Dzongkha verbs are complex and can convey a wide range of information through various affixes and auxiliary verbs.</p>
+<h4>Tense and Aspect</h4>
+<ol>
+<li><p>Present tense:</p>
+<ul>
+<li><strong>ང་འགྱོཝ་ཨིན།</strong> (nga jou in)
+&quot;I go&quot; / &quot;I am going&quot;</li>
+</ul>
+</li>
+<li><p>Past tense:</p>
+<ul>
+<li><strong>ང་སོང་ཡི།</strong> (nga song yi)
+&quot;I went&quot;</li>
+</ul>
+</li>
+<li><p>Future tense:</p>
+<ul>
+<li><strong>ང་འགྱོ་ནི་ཨིན།</strong> (nga jo ni in)
+&quot;I will go&quot;</li>
+</ul>
+</li>
+<li><p>Perfect aspect:</p>
+<ul>
+<li><strong>ང་སོང་ཚར་ཡི།</strong> (nga song tsar yi)
+&quot;I have gone&quot;</li>
+</ul>
+</li>
+</ol>
+<h4>Mood</h4>
+<ol>
+<li><p>Imperative:</p>
+<ul>
+<li><strong>སོང་།</strong> (song)
+&quot;Go!&quot;</li>
+</ul>
+</li>
+<li><p>Optative:</p>
+<ul>
+<li><strong>ཁྱོད་དགའ་བ་ཐོབ་པར་ཤོག</strong> (chö ga wa thob par sho)
+&quot;May you be happy&quot;</li>
+</ul>
+</li>
+<li><p>Conditional:</p>
+<ul>
+<li><strong>གལ་སྲིད་ཆརཔ་རྐྱབ་པ་ཅིན་</strong> (gä si charp cap pa cen)
+&quot;If it rains...&quot;</li>
+</ul>
+</li>
+</ol>
+<h4>Evidentiality</h4>
+<p>Dzongkha has a system of evidential markers that indicate the source of information:</p>
+<ol>
+<li><p>Direct evidence:</p>
+<ul>
+<li><strong>ཁོ་འོང་དེས།</strong> (kho ong de)
+&quot;He is coming&quot; (I can see him)</li>
+</ul>
+</li>
+<li><p>Inferred evidence:</p>
+<ul>
+<li><strong>ཁོ་འོང་ནི་འོང་།</strong> (kho ong ni ong)
+&quot;He must be coming&quot; (based on some evidence)</li>
+</ul>
+</li>
+<li><p>Reported speech:</p>
+<ul>
+<li><strong>ཁོ་འོང་ཟེར།</strong> (kho ong z'er)
+&quot;They say he is coming&quot;</li>
+</ul>
+</li>
+</ol>
+<h4>Honorific Verbs</h4>
+<p>Many common verbs have honorific counterparts:</p>
+<table>
+<thead>
+<tr>
+  <th>Common</th>
+  <th>Honorific</th>
+  <th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>བཟའ</strong> (z'a)</td>
+  <td><strong>བཞེས</strong> (zhê)</td>
+  <td>&quot;to eat&quot;</td>
+</tr>
+<tr>
+  <td><strong>འགྱོ</strong> (jo)</td>
+  <td><strong>ཕེབས</strong> (phep)</td>
+  <td>&quot;to go&quot;</td>
+</tr>
+<tr>
+  <td><strong>ལབ</strong> (lap)</td>
+  <td><strong>གསུང</strong> (sung)</td>
+  <td>&quot;to say&quot;</td>
+</tr>
+</tbody>
+</table>
+<h2>Syntax</h2>
+<h3>Word Order</h3>
+<p>The basic word order in Dzongkha is Subject-Object-Verb (SOV):</p>
+<ul>
+<li><strong>ང་ཁྱིམ་ནང་འགྱོ་དོ།</strong> (nga chim na jo do)
+I-house-to-go-present
+&quot;I go to the house&quot;</li>
+</ul>
+<h3>Postpositions</h3>
+<p>Dzongkha uses postpositions rather than prepositions:</p>
+<ul>
+<li><strong>ཁྱིམ་ནང་</strong> (chim na) - &quot;in the house&quot;</li>
+<li><strong>སློབ་གྲྭ་ལས་</strong> ('löbdra lä) - &quot;from school&quot;</li>
+</ul>
+<h3>Negation</h3>
+<p>Negation is typically expressed by adding the prefix <strong>མ་</strong> (ma) or <strong>མི་</strong> (mi) to the verb:</p>
+<ul>
+<li><strong>ང་མི་འགྱོ།</strong> (nga mi jo) - &quot;I don't go&quot;</li>
+<li><strong>ང་མ་སོང་།</strong> (nga ma song) - &quot;I didn't go&quot;</li>
+</ul>
+<h3>Questions</h3>
+<p>Yes/no questions are formed by adding the particle <strong>ག</strong> (ga) or <strong>ན</strong> (na) at the end of the sentence:</p>
+<ul>
+<li><strong>ཁྱོད་འགྱོཝ་ཨིན་ག?</strong> (chö jou in ga?) - &quot;Are you going?&quot;</li>
+</ul>
+<p>Wh-questions use interrogative words in situ:</p>
+<ul>
+<li><strong>ཁྱོད་ག་ཏེ་འགྱོཝ་སྨོ?</strong> (chö g'âte jou 'mo?) - &quot;Where are you going?&quot;</li>
+</ul>
+<h3>Relative Clauses</h3>
+<p>Relative clauses in Dzongkha precede the noun they modify:</p>
+<ul>
+<li><strong>ངེ་གི་མཐོང་མི་མི་འདི་</strong> (ngê gi thong mi mi di)
+I-by-seen-person-this
+&quot;The person whom I saw&quot;</li>
+</ul>
+<h2>Vocabulary</h2>
+<p>Dzongkha vocabulary is primarily of Tibetic origin, with influences from neighboring languages and some loanwords from English and Hindi.</p>
+<h3>Numbers</h3>
+<p>Cardinal numbers:</p>
+<ul>
+<li>1: <strong>གཅིག</strong> (cî)</li>
+<li>2: <strong>གཉིས</strong> ('nyî)</li>
+<li>3: <strong>གསུམ</strong> (sum)</li>
+<li>4: <strong>བཞི</strong> (zhi)</li>
+<li>5: <strong>ལྔ</strong> ('nga)</li>
+<li>10: <strong>བཅུ</strong> (cu)</li>
+<li>20: <strong>ཉི་ཤུ</strong> (nyishu)</li>
+<li>100: <strong>བརྒྱ</strong> (ja)</li>
+</ul>
+<p>Ordinal numbers are formed by adding the suffix <strong>པ</strong> (pa) or <strong>བ</strong> (wa):</p>
+<ul>
+<li>1st: <strong>དང་པ</strong> (dang pa)</li>
+<li>2nd: <strong>གཉིས་པ</strong> ('nyî pa)</li>
+<li>3rd: <strong>གསུམ་པ</strong> (sum pa)</li>
+</ul>
+<h3>Time Expressions</h3>
+<ul>
+<li><strong>དུས་ཅི</strong> (d'üci) - &quot;this year&quot;</li>
+<li><strong>ན་ཧིང་</strong> (na hing) - &quot;last year&quot;</li>
+<li><strong>སང་ཕོད</strong> (sang phö) - &quot;next year&quot;</li>
+<li><strong>ད་རིས</strong> (d'ari) - &quot;today&quot;</li>
+<li><strong>ཁ་རྩང་</strong> (khatsang) - &quot;yesterday&quot;</li>
+<li><strong>ནངས་པ</strong> (nâba) - &quot;tomorrow&quot;</li>
+</ul>
+<h3>Kinship Terms</h3>
+<ul>
+<li><strong>ཨ་པ</strong> (apa) - &quot;father&quot;</li>
+<li><strong>ཨའི</strong> (ai) - &quot;mother&quot;</li>
+<li><strong>ཨ་ཞང་</strong> (azhang) - &quot;maternal uncle&quot;</li>
+<li><strong>ཨ་ཁུ</strong> (aku) - &quot;paternal uncle&quot;</li>
+<li><strong>ཨ་ནེ</strong> (ani) - &quot;paternal aunt&quot;</li>
+<li><strong>ཨ་སྲིང་</strong> (asing) - &quot;maternal aunt&quot;</li>
+</ul>
+<h3>Common Phrases</h3>
+<ul>
+<li><strong>ག་དེ་སྦེ་ཡོད?</strong> (g'adebe yö?) - &quot;How are you?&quot;</li>
+<li><strong>བཀྲ་ཤིས་བདེ་ལེགས།</strong> (trashi delek) - &quot;Hello&quot; / &quot;Goodbye&quot;</li>
+<li><strong>ཐུགས་རྗེ་ཆེ།</strong> (thujache) - &quot;Thank you&quot;</li>
+<li><strong>དགོངསམ་མ་ཁྲེལ།</strong> (gongm ma threl) - &quot;Excuse me&quot;</li>
+<li><strong>ལགས་སོ།</strong> (laso) - &quot;Yes&quot; (polite)</li>
+<li><strong>མེན།</strong> (men) - &quot;No&quot;</li>
+</ul>
+<h2>Honorific Language</h2>
+<p>Dzongkha has an extensive system of honorific language, used to show respect to social superiors, elders, or in formal situations. This system affects not only pronouns and verbs but also nouns and other parts of speech.</p>
+<h3>Honorific Nouns</h3>
+<p>Many common nouns have honorific counterparts:</p>
+<table>
+<thead>
+<tr>
+  <th>Common</th>
+  <th>Honorific</th>
+  <th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>ཁྱིམ</strong> (chim)</td>
+  <td><strong>གཟིམ་ཅུང</strong> (zimcu)</td>
+  <td>&quot;house&quot;</td>
+</tr>
+<tr>
+  <td><strong>གྱོན་ཆས</strong> (g'önche)</td>
+  <td><strong>ན་བཟའ</strong> (naza)</td>
+  <td>&quot;clothes&quot;</td>
+</tr>
+<tr>
+  <td><strong>ཇ</strong> (j'a)</td>
+  <td><strong>གསོལ་ཇ</strong> (söja)</td>
+  <td>&quot;tea&quot;</td>
+</tr>
+<tr>
+  <td><strong>གཟུགས</strong> (zû)</td>
+  <td><strong>སྐུ་གཟུགས</strong> (ku zû)</td>
+  <td>&quot;body&quot;</td>
+</tr>
+</tbody>
+</table>
+<h3>Honorific Verbs</h3>
+<p>As mentioned earlier, many verbs have honorific forms:</p>
+<table>
+<thead>
+<tr>
+  <th>Common</th>
+  <th>Honorific</th>
+  <th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>འབད</strong> (be)</td>
+  <td><strong>མཛད</strong> (dzê)</td>
+  <td>&quot;to do&quot;</td>
+</tr>
+<tr>
+  <td><strong>སླབ</strong> (lap)</td>
+  <td><strong>གསུང</strong> (sung)</td>
+  <td>&quot;to say&quot;</td>
+</tr>
+<tr>
+  <td><strong>མཐོང</strong> (thong)</td>
+  <td><strong>གཟིགས</strong> (zî)</td>
+  <td>&quot;to see&quot;</td>
+</tr>
+<tr>
+  <td><strong>ཉན</strong> (nyen)</td>
+  <td><strong>གསན</strong> (sen)</td>
+  <td>&quot;to listen&quot;</td>
+</tr>
+</tbody>
+</table>
+<h3>Honorific Particles</h3>
+<p>Certain particles are added to sentences to increase the level of respect:</p>
+<ul>
+<li><p><strong>ལགས</strong> (lâ) - added at the end of sentences or phrases
+Example: <strong>ག་དེ་སྦེ་ཡོད་ལགས?</strong> (g'adebe yö lâ?) - &quot;How are you?&quot; (respectful)</p>
+</li>
+<li><p><strong>མཁྱེན</strong> (khyen) - used with verbs to show extreme respect
+Example: <strong>མཁྱེན་མཁྱེན།</strong> (khyen khyen) - &quot;Please know&quot; (very respectful)</p>
+</li>
+</ul>
+<h2>Dialects</h2>
+<p>While standard Dzongkha is based on the dialect of western Bhutan, there are several regional varieties:</p>
+<ol>
+<li><strong>Western Dzongkha</strong>: The standard form, spoken in Thimphu and surrounding areas.</li>
+<li><strong>Eastern Dzongkha</strong>: Spoken in eastern Bhutan, with some influence from Tshangla.</li>
+<li><strong>Southern Dzongkha</strong>: Spoken in southern Bhutan, with some influence from Nepali.</li>
+<li><strong>Central Dzongkha</strong>: Spoken in central Bhutan, often considered transitional between Western and Eastern dialects.</li>
+</ol>
+<h2>Loanwords</h2>
+<p>Dzongkha has borrowed words from various languages, including:</p>
+<ol>
+<li><p>English:</p>
+<ul>
+<li><strong>ཀམ་པིའུ་ཊར</strong> (kompiuter) - &quot;computer&quot;</li>
+<li><strong>བཱསི</strong> (bâsi) - &quot;bus&quot;</li>
+</ul>
+</li>
+<li><p>Hindi:</p>
+<ul>
+<li><strong>ཀ་ལ</strong> (kala) - &quot;banana&quot;</li>
+<li><strong>དུ་པ་ཊ</strong> (dupata) - &quot;scarf&quot;</li>
+</ul>
+</li>
+<li><p>Nepali:</p>
+<ul>
+<li><strong>ཁུར་པ</strong> (khurpa) - &quot;sickle&quot;</li>
+<li><strong>ལ་སི</strong> (lasi) - &quot;garlic&quot;</li>
+</ul>
+</li>
+</ol>
+<h2>Idiomatic Expressions</h2>
+<p>Dzongkha has many idiomatic expressions that reflect Bhutanese culture and Buddhist philosophy:</p>
+<ol>
+<li><p><strong>སེམས་ཀྱི་མེ་ལོང་</strong> (sem gi melong)
+Literally: &quot;mirror of the mind&quot;
+Meaning: One's true nature or character</p>
+</li>
+<li><p><strong>རྟ་མགྱོགས་དྲགས་འགྱོ་བ་ཅིན་ རྐངམ་ཆག་འོང་།</strong>
+(ta jodra jo wa cen, kâm châ ong)
+Literally: &quot;If a horse goes too fast, its legs will break&quot;
+Meaning: Haste makes waste</p>
+</li>
+<li><p><strong>མི་ལུ་སྦ་མི་ཚུགས་ ཤིང་ལུ་འཁྱིལ་མི་ཚུགས།</strong>
+(mi lu ba mi tshu, shing lu khyi mi tshu)
+Literally: &quot;You can't hide from people, you can't wrap around a tree&quot;
+Meaning: You can't escape your responsibilities or the consequences of your actions</p>
+</li>
+</ol>
+<h2>Discourse Markers</h2>
+<p>Dzongkha uses various particles and words to structure discourse and convey the speaker's attitude:</p>
+<ol>
+<li><p><strong>འདི</strong> (di) - topic marker
+Example: <strong>མི་འདི་ང་གི་ཆ་རོགས་ཨིན།</strong> (mi di nga gi châro in)
+&quot;That person (topic) is my friend&quot;</p>
+</li>
+<li><p><strong>ག་ོ</strong> (g'o) - sentence-final particle expressing certainty
+Example: <strong>ང་འགྱོ་ནི་ཨིན་ག་ོ།</strong> (nga jo ni in g'o)
+&quot;I will definitely go&quot;</p>
+</li>
+<li><p><strong>མས</strong> (me) - evidential particle for observed actions
+Example: <strong>ཆརཔ་རྐྱབ་དེས་མས།</strong> (charp cap de me)
+&quot;It's raining&quot; (I can see/hear it)</p>
+</li>
+<li><p><strong>བལྟ་སྟེ</strong> (ta te) - &quot;Let's see&quot; or &quot;Well then&quot;
+Used to introduce a new topic or to express uncertainty</p>
+</li>
+</ol>
+<h2>Sentence Structure</h2>
+<p>While the basic word order is SOV, Dzongkha allows for some flexibility in sentence structure for emphasis or stylistic reasons:</p>
+<ol>
+<li><p>Topic-Comment structure:
+<strong>ཁྱིམ་འདི་ སྦོམ་ཨིན་པས།</strong> (chim di bom inbe)
+house-this big-is
+&quot;This house, it is big&quot;</p>
+</li>
+<li><p>Tail-head linking (common in narratives):
+<strong>ཁོ་སོང་ཡི། སོང་ཞིནམ་ལས་ ཁོ་གིས་...</strong> (kho song yi. song zhim lä, kho gi...)
+he-went. went-after, he...
+&quot;He went. After going, he...&quot;</p>
+</li>
+<li><p>Serial verb constructions:
+<strong>ཁོ་གིས་ལྷག་བལྟ་ཡི།</strong> (kho gi lhâ ta yi)
+he-read-look-past
+&quot;He tried reading&quot; (literally: &quot;He read-looked&quot;)</p>
+</li>
+</ol>
+<h2>Nominal Classification</h2>
+<p>While Dzongkha doesn't have a system of grammatical gender, it does use different numeral classifiers depending on the type of noun being counted:</p>
+<ol>
+<li><p><strong>དཔེ་</strong> (pe) - for flat objects
+Example: <strong>ཤོག་གུ་དཔེ་གཅིག</strong> (shoku pe ci) - &quot;one sheet of paper&quot;</p>
+</li>
+<li><p><strong>མཐོ་</strong> (tho) - for long objects
+Example: <strong>ཤིང་མཐོ་གཉིས</strong> (shing tho 'nyî) - &quot;two pieces of wood&quot;</p>
+</li>
+<li><p><strong>གྲངས་</strong> (drang) - for countable objects
+Example: <strong>མི་གྲངས་གསུམ</strong> (mi drang sum) - &quot;three people&quot;</p>
+</li>
+</ol>
+<h2>Phonaesthetics</h2>
+<p>Dzongkha, like many Tibetic languages, makes use of sound symbolism in certain word pairs:</p>
+<ol>
+<li><p>Reduplication for emphasis:
+<strong>ལེགས་ལེགས</strong> (lê lê) - &quot;very good&quot;
+<strong>མགྱོགས་མགྱོགས</strong> (jô jô) - &quot;very fast&quot;</p>
+</li>
+<li><p>Ablaut pairs (vowel alternation):
+<strong>ཁྱིག་ཁྱོག</strong> (chi cho) - &quot;zigzag&quot;
+<strong>ཧྲིག་ཧྲོག</strong> (hri hro) - &quot;crunching sound&quot;</p>
+</li>
+</ol>
+<h2>Script Variants</h2>
+<p>While the Uchen script is the standard for writing Dzongkha, there are other script styles used in specific contexts:</p>
+<ol>
+<li><strong>འབྲུ་ཚ</strong> (Trutsha) - a cursive form used for faster writing</li>
+<li><strong>འཁྱུག་ཡིག</strong> (Chuyig) - an even more cursive &quot;headless&quot; style used in very informal contexts</li>
+</ol>
+<h2>Conclusion</h2>
+<p>Dzongkha is a rich and complex language that reflects the unique culture and history of Bhutan. Its intricate honorific system, evidentiality markers, and Tibetic vocabulary make it a fascinating subject for linguistic study. As the national language of Bhutan, it plays a crucial role in preserving and promoting Bhutanese cultural identity in the face of globalization.</p>
+
+      </div>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-TXC94JMN4X"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TXC94JMN4X');
+      </script>
+</body>
+</html>
