@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Instant Polyglot</title>
     <link rel="stylesheet" href="../bootstrap.min.css">
+    <link rel="stylesheet" href="../styles.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -36,30 +37,93 @@
 <h2>Phonology</h2>
 <h3>Consonants</h3>
 <p>Burmese has 34 consonant phonemes:</p>
-<p>| Manner of Articulation | Labial | Alveolar | Palatal | Velar | Glottal |
-|------------------------|--------|----------|---------|-------|---------|
-| Plosive                | p pʰ b | t tʰ d   | c cʰ ɟ  | k kʰ ɡ | ʔ       |
-| Nasal                  | m̥ m    | n̥ n      | ɲ̊ ɲ     | ŋ̊ ŋ    |         |
-| Fricative              |        | θ s z    | sʰ      |       | h       |
-| Approximant            | w̥ w    | l̥ l      | j̊ j     |       |         |</p>
-<p>Some notes on consonants:
-- Voiceless nasals and approximants are rare cross-linguistically.
-- The glottal stop /ʔ/ is not represented in the script but is present in many words.</p>
+<table>
+<thead>
+<tr>
+  <th>Manner of Articulation</th>
+  <th>Labial</th>
+  <th>Alveolar</th>
+  <th>Palatal</th>
+  <th>Velar</th>
+  <th>Glottal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Plosive</td>
+  <td>p pʰ b</td>
+  <td>t tʰ d</td>
+  <td>c cʰ ɟ</td>
+  <td>k kʰ ɡ</td>
+  <td>ʔ</td>
+</tr>
+<tr>
+  <td>Nasal</td>
+  <td>m̥ m</td>
+  <td>n̥ n</td>
+  <td>ɲ̊ ɲ</td>
+  <td>ŋ̊ ŋ</td>
+  <td></td>
+</tr>
+<tr>
+  <td>Fricative</td>
+  <td></td>
+  <td>θ s z</td>
+  <td>sʰ</td>
+  <td></td>
+  <td>h</td>
+</tr>
+<tr>
+  <td>Approximant</td>
+  <td>w̥ w</td>
+  <td>l̥ l</td>
+  <td>j̊ j</td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+<p>Some notes on consonants:</p>
+<ul>
+<li>Voiceless nasals and approximants are rare cross-linguistically.</li>
+<li>The glottal stop /ʔ/ is not represented in the script but is present in many words.</li>
+</ul>
 <h3>Vowels</h3>
 <p>Burmese has 7 vowel phonemes:</p>
-<p>| Front | Central | Back |
-|-------|---------|------|
-| i     |         | u    |
-| e     | ə       | o    |
-|       | a       | ɔ    |</p>
+<table>
+<thead>
+<tr>
+  <th>Front</th>
+  <th>Central</th>
+  <th>Back</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>i</td>
+  <td></td>
+  <td>u</td>
+</tr>
+<tr>
+  <td>e</td>
+  <td>ə</td>
+  <td>o</td>
+</tr>
+<tr>
+  <td></td>
+  <td>a</td>
+  <td>ɔ</td>
+</tr>
+</tbody>
+</table>
 <p>There are also four diphthongs: /ei/, /ou/, /ai/, and /au/.</p>
 <h3>Tones</h3>
 <p>Burmese is a tonal language with four tones:</p>
 <ol>
-<li>Low (no mark): <strong>နာ</strong> /nà/ "pain"</li>
-<li>High (acute accent): <strong>နár</strong> /ná/ "nose"</li>
-<li>Creaky (grave accent): <strong>နာ</strong> /nȁ/ "to be in pain"</li>
-<li>Checked (dot below): <strong>နက်</strong> /naʔ/ "deep"</li>
+<li>Low (no mark): <strong>နာ</strong> /nà/ &quot;pain&quot;</li>
+<li>High (acute accent): <strong>နár</strong> /ná/ &quot;nose&quot;</li>
+<li>Creaky (grave accent): <strong>နာ</strong> /nȁ/ &quot;to be in pain&quot;</li>
+<li>Checked (dot below): <strong>နက်</strong> /naʔ/ &quot;deep&quot;</li>
 </ol>
 <p>The tones are not represented in the standard orthography but are shown here for clarity.</p>
 <h2>Writing System</h2>
@@ -94,66 +158,80 @@
 <h3>Nouns</h3>
 <p>Burmese nouns do not inflect for number or gender. Plurality can be indicated by numerals or particles:</p>
 <ul>
-<li><strong>စာအုပ်</strong> /sàʔouʔ/ "book"</li>
-<li><strong>စာအုပ်များ</strong> /sàʔouʔ mjá/ "books"</li>
+<li><strong>စာအုပ်</strong> /sàʔouʔ/ &quot;book&quot;</li>
+<li><strong>စာအုပ်များ</strong> /sàʔouʔ mjá/ &quot;books&quot;</li>
 </ul>
 <h3>Classifiers</h3>
 <p>Burmese uses classifiers when counting objects. The basic structure is: number + classifier + noun</p>
 <ul>
-<li><strong>စာအုပ် သုံးအုပ်</strong> /sàʔouʔ θóuŋ ʔouʔ/ "three books" (literally: "book three classifier-for-books")</li>
-<li><strong>ခဲတံ နှစ်ချောင်း</strong> /kʰɛ̀tàɴ n̥iʔ tɕʰáuɴ/ "two pencils" (literally: "pencil two classifier-for-long-objects")</li>
+<li><strong>စာအုပ် သုံးအုပ်</strong> /sàʔouʔ θóuŋ ʔouʔ/ &quot;three books&quot; (literally: &quot;book three classifier-for-books&quot;)</li>
+<li><strong>ခဲတံ နှစ်ချောင်း</strong> /kʰɛ̀tàɴ n̥iʔ tɕʰáuɴ/ &quot;two pencils&quot; (literally: &quot;pencil two classifier-for-long-objects&quot;)</li>
 </ul>
 <h3>Pronouns</h3>
 <p>Personal pronouns in Burmese vary based on the speaker's gender and the level of formality:</p>
-<p>1st person:
-- <strong>ကျွန်တော်</strong> /tɕənɔ̀/ (male, formal)
-- <strong>ကျွန်မ</strong> /tɕəma̰/ (female, formal)
-- <strong>ငါ</strong> /ŋà/ (informal)</p>
-<p>2nd person:
-- <strong>ခင်ဗျား</strong> /kʰəmjá/ (formal)
-- <strong>မင်း</strong> /mı́ɴ/ (informal)</p>
-<p>3rd person:
-- <strong>သူ</strong> /θù/ (he/she)
-- <strong>သူတို့</strong> /θù tó/ (they)</p>
+<p>1st person:</p>
+<ul>
+<li><strong>ကျွန်တော်</strong> /tɕənɔ̀/ (male, formal)</li>
+<li><strong>ကျွန်မ</strong> /tɕəma̰/ (female, formal)</li>
+<li><strong>ငါ</strong> /ŋà/ (informal)</li>
+</ul>
+<p>2nd person:</p>
+<ul>
+<li><strong>ခင်ဗျား</strong> /kʰəmjá/ (formal)</li>
+<li><strong>မင်း</strong> /mı́ɴ/ (informal)</li>
+</ul>
+<p>3rd person:</p>
+<ul>
+<li><strong>သူ</strong> /θù/ (he/she)</li>
+<li><strong>သူတို့</strong> /θù tó/ (they)</li>
+</ul>
 <h3>Verbs</h3>
 <p>Burmese verbs do not conjugate for person, number, or gender. Tense, aspect, and mood are indicated by particles that follow the verb:</p>
-<p>Present/habitual:
-- <strong>စားတယ်</strong> /sá dɛ̀/ "eat(s)"</p>
-<p>Past:
-- <strong>စားခဲ့တယ်</strong> /sá kʰɛ̰ dɛ̀/ "ate"</p>
-<p>Future:
-- <strong>စားမယ်</strong> /sá mɛ̀/ "will eat"</p>
-<p>Continuous:
-- <strong>စားနေတယ်</strong> /sá nè dɛ̀/ "is/are eating"</p>
+<p>Present/habitual:</p>
+<ul>
+<li><strong>စားတယ်</strong> /sá dɛ̀/ &quot;eat(s)&quot;</li>
+</ul>
+<p>Past:</p>
+<ul>
+<li><strong>စားခဲ့တယ်</strong> /sá kʰɛ̰ dɛ̀/ &quot;ate&quot;</li>
+</ul>
+<p>Future:</p>
+<ul>
+<li><strong>စားမယ်</strong> /sá mɛ̀/ &quot;will eat&quot;</li>
+</ul>
+<p>Continuous:</p>
+<ul>
+<li><strong>စားနေတယ်</strong> /sá nè dɛ̀/ &quot;is/are eating&quot;</li>
+</ul>
 <h3>Sentence Structure</h3>
 <p>The basic word order in Burmese is Subject-Object-Verb (SOV):</p>
 <p><strong>ကျွန်တော် ထမင်း စားတယ်</strong>
 /tɕənɔ̀ tʰəmı́ɴ sá dɛ̀/
 I rice eat
-"I eat rice"</p>
+&quot;I eat rice&quot;</p>
 <p>Questions are formed by adding the particle <strong>လား</strong> /lá/ at the end of a statement:</p>
 <p><strong>ခင်ဗျား မြန်မာစကား ပြောတတ်လား</strong>
 /kʰəmjá mjəmà zəɡá pjɔ́ taʔ lá/
 you Burmese-language speak can question
-"Can you speak Burmese?"</p>
+&quot;Can you speak Burmese?&quot;</p>
 <p>Negation is formed by adding the particle <strong>မ</strong> /mə/ before the verb and <strong>ဘူး</strong> /bú/ at the end of the sentence:</p>
 <p><strong>ကျွန်တော် မစားဘူး</strong>
 /tɕənɔ̀ məsá bú/
 I not-eat not
-"I don't eat"</p>
+&quot;I don't eat&quot;</p>
 <h3>Particles</h3>
 <p>Burmese makes extensive use of particles to indicate grammatical functions, politeness, and emphasis. Some common particles include:</p>
 <ul>
 <li><strong>က</strong> /ka̰/: marks the subject of a sentence</li>
 <li><strong>ကို</strong> /ko̰/: marks the direct object</li>
-<li><strong>မှာ</strong> /hmà/: indicates location ("at", "in")</li>
-<li><strong>နဲ့</strong> /nɛ̰/: means "with" or "and"</li>
+<li><strong>မှာ</strong> /hmà/: indicates location (&quot;at&quot;, &quot;in&quot;)</li>
+<li><strong>နဲ့</strong> /nɛ̰/: means &quot;with&quot; or &quot;and&quot;</li>
 </ul>
 <p>Example:
 <strong>ကျွန်တော်က စားသောက်ဆိုင်မှာ သူငယ်ချင်းနဲ့ ထမင်းစားတယ်</strong>
 /tɕənɔ̀ ɡa̰ sáθauʔ sʰàiɴ hmà θəŋɛ́tɕʰı́ɴ nɛ̰ tʰəmı́ɴ sá dɛ̀/
 I (subject) restaurant at friend with rice eat
-"I eat rice with a friend at a restaurant"</p>
+&quot;I eat rice with a friend at a restaurant&quot;</p>
 <h2>Vocabulary</h2>
 <h3>Numbers</h3>
 <p>Burmese uses a decimal number system. Here are the basic numerals:</p>
@@ -170,11 +248,13 @@ I (subject) restaurant at friend with rice eat
 <li>9: <strong>ကိုး</strong> /kó/</li>
 <li>10: <strong>ဆယ်</strong> /sʰɛ̀/</li>
 </ul>
-<p>Larger numbers:
-- 100: <strong>တစ်ရာ</strong> /tə já/
-- 1,000: <strong>တစ်ထောင်</strong> /tə tʰàuɴ/
-- 10,000: <strong>တစ်သောင်း</strong> /tə θáuɴ/
-- 100,000: <strong>တစ်သိန်း</strong> /tə θèiɴ/</p>
+<p>Larger numbers:</p>
+<ul>
+<li>100: <strong>တစ်ရာ</strong> /tə já/</li>
+<li>1,000: <strong>တစ်ထောင်</strong> /tə tʰàuɴ/</li>
+<li>10,000: <strong>တစ်သောင်း</strong> /tə θáuɴ/</li>
+<li>100,000: <strong>တစ်သိန်း</strong> /tə θèiɴ/</li>
+</ul>
 <h3>Kinship Terms</h3>
 <p>Burmese has a complex system of kinship terms. Here are some basic ones:</p>
 <ul>
@@ -186,277 +266,268 @@ I (subject) restaurant at friend with rice eat
 </ul>
 <h3>Loanwords</h3>
 <p>Burmese has borrowed words from various languages, including:</p>
-<p>From Pali/Sanskrit:
-- <strong>ဘုရား</strong> /pʰəjá/ "Buddha"
-- <strong>သတင်း</strong> /θədı́ɴ/ "news"</p>
-<p>From English:
-- <strong>ကွန်ပျူတာ</strong> /kùɴpjùtà/ "computer"
-- <strong>ဘတ်စ်ကား</strong> /baʔ ská/ "bus"</p>
-<p>From Chinese:
-- <strong>လက်ဖက်</strong> /lɛʔpʰɛʔ/ "tea"
-- <strong>ကော်ဖီ</strong> /kɔ̀pʰì/ "coffee"</p>
+<p>From Pali/Sanskrit:</p>
+<ul>
+<li><strong>ဘုရား</strong> /pʰəjá/ &quot;Buddha&quot;</li>
+<li><strong>သတင်း</strong> /θədı́ɴ/ &quot;news&quot;</li>
+</ul>
+<p>From English:</p>
+<ul>
+<li><strong>ကွန်ပျူတာ</strong> /kùɴpjùtà/ &quot;computer&quot;</li>
+<li><strong>ဘတ်စ်ကား</strong> /baʔ ská/ &quot;bus&quot;</li>
+</ul>
+<p>From Chinese:</p>
+<ul>
+<li><strong>လက်ဖက်</strong> /lɛʔpʰɛʔ/ &quot;tea&quot;</li>
+<li><strong>ကော်ဖီ</strong> /kɔ̀pʰì/ &quot;coffee&quot;</li>
+</ul>
 <h2>Honorifics and Politeness</h2>
 <p>Burmese has a complex system of honorifics and politeness markers. Some examples:</p>
 <ul>
-<li>
-<p>Adding <strong>ခင်ဗျား</strong> /kʰəmjá/ after a name or title to show respect:
-  <strong>ဆရာခင်ဗျား</strong> /sʰəjà kʰəmjá/ "respected teacher"</p>
+<li><p>Adding <strong>ခင်ဗျား</strong> /kʰəmjá/ after a name or title to show respect:
+<strong>ဆရာခင်ဗျား</strong> /sʰəjà kʰəmjá/ &quot;respected teacher&quot;</p>
 </li>
-<li>
-<p>Using <strong>ကြ</strong> /tɕa̰/ as a pluralizing particle for respected individuals:
-  <strong>ဆရာကြီးများ ကြွလာကြပါပြီ</strong> /sʰəjà tɕí mjá tɕwa̰ là tɕa̰ pà pì/
-  "The respected teachers have arrived"</p>
+<li><p>Using <strong>ကြ</strong> /tɕa̰/ as a pluralizing particle for respected individuals:
+<strong>ဆရာကြီးများ ကြွလာကြပါပြီ</strong> /sʰəjà tɕí mjá tɕwa̰ là tɕa̰ pà pì/
+&quot;The respected teachers have arrived&quot;</p>
 </li>
-<li>
-<p>Softening requests with particles like <strong>ပါ</strong> /pà/:
-  <strong>ကူညီပေးပါ</strong> /kù ɲì pé pà/ "Please help"</p>
+<li><p>Softening requests with particles like <strong>ပါ</strong> /pà/:
+<strong>ကူညီပေးပါ</strong> /kù ɲì pé pà/ &quot;Please help&quot;</p>
 </li>
 </ul>
 <h2>Idioms and Expressions</h2>
 <p>Burmese has many colorful idioms and expressions. Here are a few:</p>
 <ul>
-<li>
-<p><strong>ခွေးလန်းတစ်ပင် ကြက်လန်းတစ်ပင်</strong>
-  /kʰwé láɴ tə pı̀ɴ tɕɛʔ láɴ tə pı̀ɴ/
-  Literally: "One plant for dogs, one plant for chickens"
-  Meaning: To try to please everyone</p>
+<li><p><strong>ခွေးလန်းတစ်ပင် ကြက်လန်းတစ်ပင်</strong>
+/kʰwé láɴ tə pı̀ɴ tɕɛʔ láɴ tə pı̀ɴ/
+Literally: &quot;One plant for dogs, one plant for chickens&quot;
+Meaning: To try to please everyone</p>
 </li>
-<li>
-<p><strong>ကြက်ကန်းတွေ့ စပါးပုံ</strong>
-  /tɕɛʔ káɴ twḛ zəbá pòuɴ/
-  Literally: "A blind chicken finds a pile of rice"
-  Meaning: To be unexpectedly lucky</p>
+<li><p><strong>ကြက်ကန်းတွေ့ စပါးပုံ</strong>
+/tɕɛʔ káɴ twḛ zəbá pòuɴ/
+Literally: &quot;A blind chicken finds a pile of rice&quot;
+Meaning: To be unexpectedly lucky</p>
 </li>
-<li>
-<p><strong>ရေမွှေးနံ့သာ မပါလည်း လူမွှေးနံ့သာ ပါရမယ်</strong>
-  /jè mwé nàɴ θà mə pà lɛ́ lù mwé nàɴ θà pà jə mɛ̀/
-  Literally: "Even if you don't have perfume, you should have a pleasant personality"
-  Meaning: Character is more important than material possessions</p>
+<li><p><strong>ရေမွှေးနံ့သာ မပါလည်း လူမွှေးနံ့သာ ပါရမယ်</strong>
+/jè mwé nàɴ θà mə pà lɛ́ lù mwé nàɴ θà pà jə mɛ̀/
+Literally: &quot;Even if you don't have perfume, you should have a pleasant personality&quot;
+Meaning: Character is more important than material possessions</p>
 </li>
 </ul>
 <h2>Colloquial Burmese</h2>
 <p>Colloquial Burmese differs significantly from the formal written language. Some key differences include:</p>
 <ol>
-<li>Pronunciation changes:</li>
-<li>
-<p><strong>မ</strong> /ma̰/ (not) becomes <strong>အမ်</strong> /ãˀ/ in negations:
-     Written: <strong>မသွားဘူး</strong> /mə θwá bú/ "don't go"
-     Colloquial: <strong>အမ်သွားဘူး</strong> /ãˀ θwá bú/</p>
+<li><p>Pronunciation changes:</p>
+<ul>
+<li><strong>မ</strong> /ma̰/ (not) becomes <strong>အမ်</strong> /ãˀ/ in negations:
+Written: <strong>မသွားဘူး</strong> /mə θwá bú/ &quot;don't go&quot;
+Colloquial: <strong>အမ်သွားဘူး</strong> /ãˀ θwá bú/</li>
+</ul>
 </li>
-<li>
-<p>Vocabulary differences:</p>
+<li><p>Vocabulary differences:</p>
+<ul>
+<li>Formal: <strong>ရေ</strong> /jè/ &quot;water&quot;
+Colloquial: <strong>ပဲ</strong> /pɛ́/</li>
+</ul>
 </li>
-<li>
-<p>Formal: <strong>ရေ</strong> /jè/ "water"
-     Colloquial: <strong>ပဲ</strong> /pɛ́/</p>
+<li><p>Particle changes:</p>
+<ul>
+<li>The sentence-final particle <strong>တယ်</strong> /dɛ̀/ often becomes <strong>တာ</strong> /tà/ in colloquial speech:
+Formal: <strong>စားတယ်</strong> /sá dɛ̀/ &quot;eat&quot;
+Colloquial: <strong>စားတာ</strong> /sá tà/</li>
+</ul>
 </li>
-<li>
-<p>Particle changes:</p>
+<li><p>Contractions:</p>
+<ul>
+<li><strong>ဘာလဲ</strong> /bà lɛ́/ &quot;what?&quot; often contracts to <strong>ဘာလေ</strong> /bà lè/</li>
+</ul>
 </li>
-<li>
-<p>The sentence-final particle <strong>တယ်</strong> /dɛ̀/ often becomes <strong>တာ</strong> /tà/ in colloquial speech:
-     Formal: <strong>စားတယ်</strong> /sá dɛ̀/ "eat"
-     Colloquial: <strong>စားတာ</strong> /sá tà/</p>
+<li><p>Use of slang and informal expressions:</p>
+<ul>
+<li><strong>ကောင်းပါဘူးကွာ</strong> /káuɴ pà bú kwà/ &quot;It's not good, man&quot;</li>
+</ul>
 </li>
-<li>
-<p>Contractions:</p>
-</li>
-<li>
-<p><strong>ဘာလဲ</strong> /bà lɛ́/ "what?" often contracts to <strong>ဘာလေ</strong> /bà lè/</p>
-</li>
-<li>
-<p>Use of slang and informal expressions:</p>
-</li>
-<li><strong>ကောင်းပါဘူးကွာ</strong> /káuɴ pà bú kwà/ "It's not good, man"</li>
 </ol>
 <h2>Dialects</h2>
 <p>Burmese has several dialects, with the Yangon dialect considered standard. Some other notable dialects include:</p>
 <ol>
-<li>Mandalay dialect:</li>
+<li><p>Mandalay dialect:</p>
+<ul>
 <li>Uses <strong>ကွ</strong> /kwa̰/ instead of <strong>ကွာ</strong> /kwà/ as a sentence-final particle</li>
-<li>
-<p>Pronounces စ /sa/ as /ɕa/ in some words</p>
+<li>Pronounces စ /sa/ as /ɕa/ in some words</li>
+</ul>
 </li>
-<li>
-<p>Rakhine dialect:</p>
-</li>
+<li><p>Rakhine dialect:</p>
+<ul>
 <li>Often retains historical /r/ sound, which has become /j/ in standard Burmese</li>
-<li>
-<p>Example: <strong>ရေ</strong> "water" is pronounced /re/ instead of standard /jè/</p>
+<li>Example: <strong>ရေ</strong> &quot;water&quot; is pronounced /re/ instead of standard /jè/</li>
+</ul>
 </li>
-<li>
-<p>Tavoyan dialect:</p>
-</li>
+<li><p>Tavoyan dialect:</p>
+<ul>
 <li>Uses <strong>ဂ</strong> /ɡa/ where standard Burmese uses <strong>က</strong> /ka/</li>
-<li>Example: <strong>ကျွန်တော်</strong> /tɕənɔ̀/ "I" (male) is pronounced /dʑənɔ̀/</li>
+<li>Example: <strong>ကျွန်တော်</strong> /tɕənɔ̀/ &quot;I&quot; (male) is pronounced /dʑənɔ̀/</li>
+</ul>
+</li>
 </ol>
 <h2>Literary Burmese</h2>
 <p>Literary Burmese differs from colloquial Burmese in several ways:</p>
 <ol>
-<li>Retention of pronunciation:</li>
+<li><p>Retention of pronunciation:</p>
+<ul>
 <li>Final /-n/ and /-ʔ/ are always pronounced in literary Burmese but often dropped in colloquial speech</li>
-<li>
-<p>Example: <strong>သစ်ပင်</strong> "tree" is /θiʔpı̀ɴ/ in literary Burmese but often /θiʔpı̀/ in colloquial speech</p>
+<li>Example: <strong>သစ်ပင်</strong> &quot;tree&quot; is /θiʔpı̀ɴ/ in literary Burmese but often /θiʔpı̀/ in colloquial speech</li>
+</ul>
 </li>
-<li>
-<p>Use of formal vocabulary:</p>
+<li><p>Use of formal vocabulary:</p>
+<ul>
+<li>Literary: <strong>စကား</strong> /zəɡá/ &quot;language&quot;</li>
+<li>Colloquial: <strong>စကားလုံး</strong> /zəɡá lòuɴ/</li>
+</ul>
 </li>
-<li>Literary: <strong>စကား</strong> /zəɡá/ "language"</li>
-<li>
-<p>Colloquial: <strong>စကားလုံး</strong> /zəɡá lòuɴ/</p>
-</li>
-<li>
-<p>Different sentence-final particles:</p>
-</li>
+<li><p>Different sentence-final particles:</p>
+<ul>
 <li>Literary: <strong>၏</strong> /ì/, <strong>သည်</strong> /θì/</li>
 <li>Colloquial: <strong>တယ်</strong> /dɛ̀/, <strong>တာ</strong> /tà/</li>
+</ul>
+</li>
 </ol>
 <p>Example:
 Literary: <strong>သူသည် စာအုပ်ကို ဖတ်၏။</strong> /θù θì sàʔouʔ ko̰ pʰaʔ ì/
 Colloquial: <strong>သူ စာအုပ် ဖတ်တယ်။</strong> /θù sàʔouʔ pʰaʔ tɛ̀/
-"He reads a book."</p>
-<ol>
+&quot;He reads a book.&quot;</p>
+<ol start="4">
 <li>More complex sentence structures:
-   Literary Burmese often uses more complex clauses and subordination.</li>
+Literary Burmese often uses more complex clauses and subordination.</li>
 </ol>
 <p>Example:
 Literary: <strong>ကျွန်ုပ်သည် ထိုစာအုပ်ကို ဖတ်ရှုပြီးသည့်အခါ အကြောင်းအရာများကို သေချာစွာ နားလည်သဘောပေါက်ခဲ့ပါသည်။</strong>
 /tɕənouʔ θì tʰò sàʔouʔ ko̰ pʰaʔ ʃù pjí θɛ̰ ʔəkʰà ʔətɕʰáuɴ ʔəjà mjá ko̰ θètɕʰà swà nálɛ́ θəbɔ̀ pauʔ kʰɛ̰ pà θì/
-"After reading that book, I thoroughly understood its contents."</p>
+&quot;After reading that book, I thoroughly understood its contents.&quot;</p>
 <p>Colloquial: <strong>အဲဒီစာအုပ် ဖတ်ပြီးတော့ အကုန်လုံး သေချာ နားလည်သွားတယ်။</strong>
 /ʔɛ́dì sàʔouʔ pʰaʔ pjí dɔ̰ ʔəkòuɴ lòuɴ θètɕʰà nálɛ́ θwá dɛ̀/
-"After reading that book, I understood everything clearly."</p>
+&quot;After reading that book, I understood everything clearly.&quot;</p>
 <h2>Phonological Processes</h2>
 <p>Burmese exhibits several interesting phonological processes:</p>
 <ol>
-<li>
-<p>Vowel reduction:
-   In fast speech, vowels in unstressed syllables may reduce to [ə].
-   Example: <strong>သမီး</strong> "daughter" /θəmí/ → [θəmí]</p>
+<li><p>Vowel reduction:
+In fast speech, vowels in unstressed syllables may reduce to [ə].
+Example: <strong>သမီး</strong> &quot;daughter&quot; /θəmí/ → [θəmí]</p>
 </li>
-<li>
-<p>Consonant voicing:
-   Voiceless consonants may become voiced between vowels.
-   Example: <strong>သုံး</strong> "three" /θóuɴ/ → [ðóuɴ] in compounds</p>
+<li><p>Consonant voicing:
+Voiceless consonants may become voiced between vowels.
+Example: <strong>သုံး</strong> &quot;three&quot; /θóuɴ/ → [ðóuɴ] in compounds</p>
 </li>
-<li>
-<p>Tone sandhi:
-   Tones can change based on surrounding tones.
-   Example: <strong>ကျောင်း</strong> "school" /tɕáuɴ/ + <strong>သား</strong> "son" /θá/ → <strong>ကျောင်းသား</strong> "student" /tɕáuɴðà/</p>
+<li><p>Tone sandhi:
+Tones can change based on surrounding tones.
+Example: <strong>ကျောင်း</strong> &quot;school&quot; /tɕáuɴ/ + <strong>သား</strong> &quot;son&quot; /θá/ → <strong>ကျောင်းသား</strong> &quot;student&quot; /tɕáuɴðà/</p>
 </li>
-<li>
-<p>Glottal stop insertion:
-   A glottal stop is often inserted before vowel-initial words in careful speech.
-   Example: <strong>အား</strong> "strength" /á/ → [ʔá]</p>
+<li><p>Glottal stop insertion:
+A glottal stop is often inserted before vowel-initial words in careful speech.
+Example: <strong>အား</strong> &quot;strength&quot; /á/ → [ʔá]</p>
 </li>
 </ol>
 <h2>Burmese Script Details</h2>
 <p>The Burmese script, known as the Myanmar script, has some interesting features:</p>
 <ol>
-<li>
-<p>Consonant stacking:
-   When consonants occur together without intervening vowels, they are often written as stacks.
-   Example: <strong>မြန်မာ</strong> "Myanmar" is written with 'မ' stacked on top of 'ယ'</p>
+<li><p>Consonant stacking:
+When consonants occur together without intervening vowels, they are often written as stacks.
+Example: <strong>မြန်မာ</strong> &quot;Myanmar&quot; is written with 'မ' stacked on top of 'ယ'</p>
 </li>
-<li>
-<p>Medial consonants:
-   Certain consonants can modify others when they occur in the middle of a syllable. These are written as smaller versions of the full letter.
-   Example: <strong>ကြ</strong> /tɕa̰/ shows 'ရ' as a medial form modifying 'က'</p>
+<li><p>Medial consonants:
+Certain consonants can modify others when they occur in the middle of a syllable. These are written as smaller versions of the full letter.
+Example: <strong>ကြ</strong> /tɕa̰/ shows 'ရ' as a medial form modifying 'က'</p>
 </li>
-<li>
-<p>Vowel diacritics:
-   Vowels other than the inherent /a/ are written using diacritics above, below, or to the side of the consonant.
-   Example: <strong>ကި</strong> /ki/, <strong>ကူ</strong> /ku/, <strong>ကေ</strong> /ke/</p>
+<li><p>Vowel diacritics:
+Vowels other than the inherent /a/ are written using diacritics above, below, or to the side of the consonant.
+Example: <strong>ကި</strong> /ki/, <strong>ကူ</strong> /ku/, <strong>ကေ</strong> /ke/</p>
 </li>
-<li>
-<p>Tone marks:
-   While not commonly used in everyday writing, there are diacritical marks to indicate tones in dictionaries and language learning materials.
-   Example: က (low tone), က́ (high tone), က̀ (creaky tone), က့ (checked tone)</p>
+<li><p>Tone marks:
+While not commonly used in everyday writing, there are diacritical marks to indicate tones in dictionaries and language learning materials.
+Example: က (low tone), က́ (high tone), က̀ (creaky tone), က့ (checked tone)</p>
 </li>
 </ol>
 <h2>Syntax and Sentence Structure</h2>
 <p>Burmese syntax has several noteworthy features:</p>
 <ol>
-<li>
-<p>Topic-comment structure:
-   While the basic word order is SOV, Burmese often uses a topic-comment structure.
-   Example: <strong>ဒီစာအုပ်ကတော့ ကျွန်တော် ဖတ်ပြီးပြီ။</strong>
-   /dì sàʔouʔ ɡədɔ̰ tɕənɔ̀ pʰaʔ pjí pì/
-   this book (topic) I read already
-   "As for this book, I've already read it."</p>
+<li><p>Topic-comment structure:
+While the basic word order is SOV, Burmese often uses a topic-comment structure.
+Example: <strong>ဒီစာအုပ်ကတော့ ကျွန်တော် ဖတ်ပြီးပြီ။</strong>
+/dì sàʔouʔ ɡədɔ̰ tɕənɔ̀ pʰaʔ pjí pì/
+this book (topic) I read already
+&quot;As for this book, I've already read it.&quot;</p>
 </li>
-<li>
-<p>Serial verb constructions:
-   Burmese often uses multiple verbs in sequence to express complex actions.
-   Example: <strong>သူ ပြေးထွက်သွားတယ်။</strong>
-   /θù pjé tʰwɛʔ θwá dɛ̀/
-   he run exit go
-   "He ran away."</p>
+<li><p>Serial verb constructions:
+Burmese often uses multiple verbs in sequence to express complex actions.
+Example: <strong>သူ ပြေးထွက်သွားတယ်။</strong>
+/θù pjé tʰwɛʔ θwá dɛ̀/
+he run exit go
+&quot;He ran away.&quot;</p>
 </li>
-<li>
-<p>Clause chaining:
-   Complex sentences are often formed by chaining clauses together with particles.
-   Example: <strong>မိုးရွာနေတဲ့အတွက် ကျွန်တော် အိမ်မှာပဲ နေလိုက်တယ်။</strong>
-   /mó jwà nè dɛ̰ ʔətwɛʔ tɕənɔ̀ ʔèiɴ hmà pɛ́ nè laiʔ tɛ̀/
-   rain fall stay because I home at stay
-   "Because it was raining, I stayed at home."</p>
+<li><p>Clause chaining:
+Complex sentences are often formed by chaining clauses together with particles.
+Example: <strong>မိုးရွာနေတဲ့အတွက် ကျွန်တော် အိမ်မှာပဲ နေလိုက်တယ်။</strong>
+/mó jwà nè dɛ̰ ʔətwɛʔ tɕənɔ̀ ʔèiɴ hmà pɛ́ nè laiʔ tɛ̀/
+rain fall stay because I home at stay
+&quot;Because it was raining, I stayed at home.&quot;</p>
 </li>
-<li>
-<p>Noun incorporation:
-   In some cases, objects can be incorporated into the verb.
-   Example: <strong>ရေချိုးတယ်</strong> /jè tɕʰó dɛ̀/ "to bathe" (literally "water-shower")</p>
+<li><p>Noun incorporation:
+In some cases, objects can be incorporated into the verb.
+Example: <strong>ရေချိုးတယ်</strong> /jè tɕʰó dɛ̀/ &quot;to bathe&quot; (literally &quot;water-shower&quot;)</p>
 </li>
 </ol>
 <h2>Pragmatics and Discourse</h2>
 <p>Burmese has several pragmatic and discourse features worth noting:</p>
 <ol>
-<li>
-<p>Sentence-final particles:
-   These particles convey a wide range of meanings including politeness, emphasis, and speaker attitude.
-   Example: <strong>စားပြီးပြီလား။</strong> /sá pjí pì lá/ "Have (you) eaten?" (polite query)</p>
+<li><p>Sentence-final particles:
+These particles convey a wide range of meanings including politeness, emphasis, and speaker attitude.
+Example: <strong>စားပြီးပြီလား။</strong> /sá pjí pì lá/ &quot;Have (you) eaten?&quot; (polite query)</p>
 </li>
-<li>
-<p>Honorific language:
-   Burmese uses different vocabularies and grammatical structures to show respect.
-   Example: <strong>ကြွပါ</strong> /tɕwa̰ pà/ "Please come" (respectful) vs. <strong>လာ</strong> /là/ "Come" (neutral)</p>
+<li><p>Honorific language:
+Burmese uses different vocabularies and grammatical structures to show respect.
+Example: <strong>ကြွပါ</strong> /tɕwa̰ pà/ &quot;Please come&quot; (respectful) vs. <strong>လာ</strong> /là/ &quot;Come&quot; (neutral)</p>
 </li>
-<li>
-<p>Gender-specific speech:
-   Men and women often use different sentence-final particles and pronouns.
-   Example: Male speakers often use <strong>ကွာ</strong> /kwà/, while female speakers might use <strong>ရှင့်</strong> /ʃiɴ/</p>
+<li><p>Gender-specific speech:
+Men and women often use different sentence-final particles and pronouns.
+Example: Male speakers often use <strong>ကွာ</strong> /kwà/, while female speakers might use <strong>ရှင့်</strong> /ʃiɴ/</p>
 </li>
-<li>
-<p>Indirect speech:
-   Burmese often prefers indirect ways of making requests or expressing disagreement.
-   Example: Instead of saying "No," one might say <strong>ဖြစ်မယ် မထင်ဘူး။</strong> /pʰjiʔ mɛ̀ mə tʰı̀ɴ bú/ "I don't think it will work."</p>
+<li><p>Indirect speech:
+Burmese often prefers indirect ways of making requests or expressing disagreement.
+Example: Instead of saying &quot;No,&quot; one might say <strong>ဖြစ်မယ် မထင်ဘူး။</strong> /pʰjiʔ mɛ̀ mə tʰı̀ɴ bú/ &quot;I don't think it will work.&quot;</p>
 </li>
 </ol>
 <h2>Burmese in Context</h2>
 <ol>
-<li>
-<p>Code-switching:
-   Many Burmese speakers, especially in urban areas, frequently code-switch between Burmese and English.
-   Example: <strong>ဒီ project က deadline ဘယ်တော့လဲ။</strong>
-   /dì prɒdʒekt ka̰ dedlaın bɛ̀ dɔ̰ lɛ́/
-   "When is the deadline for this project?"</p>
+<li><p>Code-switching:
+Many Burmese speakers, especially in urban areas, frequently code-switch between Burmese and English.
+Example: <strong>ဒီ project က deadline ဘယ်တော့လဲ။</strong>
+/dì prɒdʒekt ka̰ dedlaın bɛ̀ dɔ̰ lɛ́/
+&quot;When is the deadline for this project?&quot;</p>
 </li>
-<li>
-<p>Regional variations:
-   Different regions of Myanmar have their own vocabulary and pronunciation.
-   Example: In Mandalay, <strong>ငါ</strong> /ŋà/ "I" is often pronounced /ŋá/</p>
+<li><p>Regional variations:
+Different regions of Myanmar have their own vocabulary and pronunciation.
+Example: In Mandalay, <strong>ငါ</strong> /ŋà/ &quot;I&quot; is often pronounced /ŋá/</p>
 </li>
-<li>
-<p>Influence of Pali:
-   As the liturgical language of Theravada Buddhism, Pali has heavily influenced Burmese vocabulary, especially in religious and formal contexts.
-   Example: <strong>ကုသိုလ်</strong> /kṵθòuɴ/ "merit" (from Pali kusala)</p>
+<li><p>Influence of Pali:
+As the liturgical language of Theravada Buddhism, Pali has heavily influenced Burmese vocabulary, especially in religious and formal contexts.
+Example: <strong>ကုသိုလ်</strong> /kṵθòuɴ/ &quot;merit&quot; (from Pali kusala)</p>
 </li>
-<li>
-<p>Burmese names:
-   Burmese names don't follow the family name system. Instead, they often reflect astrological considerations or desirable qualities.
-   Example: <strong>အောင်ကျော်မြင့်</strong> /ʔàuɴ tɕɔ̀ mjı̀ɴ/ (Victory-Fame-High)</p>
+<li><p>Burmese names:
+Burmese names don't follow the family name system. Instead, they often reflect astrological considerations or desirable qualities.
+Example: <strong>အောင်ကျော်မြင့်</strong> /ʔàuɴ tɕɔ̀ mjı̀ɴ/ (Victory-Fame-High)</p>
 </li>
 </ol>
 <p>This overview covers many aspects of the Burmese language, from its phonology and writing system to its grammar, vocabulary, and usage in various contexts. It provides a comprehensive introduction for learners and those interested in the linguistic features of Burmese.</p>
+
       </div>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-TXC94JMN4X"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TXC94JMN4X');
+      </script>
 </body>
 </html>

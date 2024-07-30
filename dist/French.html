@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Instant Polyglot</title>
     <link rel="stylesheet" href="../bootstrap.min.css">
+    <link rel="stylesheet" href="../styles.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -36,45 +37,192 @@
 <h2>Spelling and Pronunciation</h2>
 <p>French orthography is relatively complex, with many silent letters and various diacritical marks. The pronunciation system includes several sounds not found in English.</p>
 <h3>Vowels</h3>
-<p>| Letter(s) | Sound | Example |
-|-----------|-------|---------|
-| a | [a] | <strong>chat</strong> [ʃa] (cat) |
-| â | [ɑ] | <strong>pâte</strong> [pɑt] (pasta) |
-| e | [ə] (unstressed) | <strong>le</strong> [lə] (the) |
-| é | [e] | <strong>été</strong> [ete] (summer) |
-| è, ê | [ɛ] | <strong>père</strong> [pɛʁ] (father) |
-| i, y | [i] | <strong>si</strong> [si] (if) |
-| o | [ɔ] or [o] | <strong>pot</strong> [pɔ] (pot) |
-| ô | [o] | <strong>côte</strong> [kot] (coast) |
-| u | [y] | <strong>tu</strong> [ty] (you) |
-| ou | [u] | <strong>vous</strong> [vu] (you, plural/formal) |</p>
+<table>
+<thead>
+<tr>
+  <th>Letter(s)</th>
+  <th>Sound</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>a</td>
+  <td>[a]</td>
+  <td><strong>chat</strong> [ʃa] (cat)</td>
+</tr>
+<tr>
+  <td>â</td>
+  <td>[ɑ]</td>
+  <td><strong>pâte</strong> [pɑt] (pasta)</td>
+</tr>
+<tr>
+  <td>e</td>
+  <td>[ə] (unstressed)</td>
+  <td><strong>le</strong> [lə] (the)</td>
+</tr>
+<tr>
+  <td>é</td>
+  <td>[e]</td>
+  <td><strong>été</strong> [ete] (summer)</td>
+</tr>
+<tr>
+  <td>è, ê</td>
+  <td>[ɛ]</td>
+  <td><strong>père</strong> [pɛʁ] (father)</td>
+</tr>
+<tr>
+  <td>i, y</td>
+  <td>[i]</td>
+  <td><strong>si</strong> [si] (if)</td>
+</tr>
+<tr>
+  <td>o</td>
+  <td>[ɔ] or [o]</td>
+  <td><strong>pot</strong> [pɔ] (pot)</td>
+</tr>
+<tr>
+  <td>ô</td>
+  <td>[o]</td>
+  <td><strong>côte</strong> [kot] (coast)</td>
+</tr>
+<tr>
+  <td>u</td>
+  <td>[y]</td>
+  <td><strong>tu</strong> [ty] (you)</td>
+</tr>
+<tr>
+  <td>ou</td>
+  <td>[u]</td>
+  <td><strong>vous</strong> [vu] (you, plural/formal)</td>
+</tr>
+</tbody>
+</table>
 <h3>Nasal Vowels</h3>
-<p>| Letter(s) | Sound | Example |
-|-----------|-------|---------|
-| an, am | [ɑ̃] | <strong>dans</strong> [dɑ̃] (in) |
-| en, em | [ɑ̃] | <strong>temps</strong> [tɑ̃] (time) |
-| in, im | [ɛ̃] | <strong>pain</strong> [pɛ̃] (bread) |
-| on, om | [ɔ̃] | <strong>bon</strong> [bɔ̃] (good) |
-| un, um | [œ̃] | <strong>un</strong> [œ̃] (one) |</p>
+<table>
+<thead>
+<tr>
+  <th>Letter(s)</th>
+  <th>Sound</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>an, am</td>
+  <td>[ɑ̃]</td>
+  <td><strong>dans</strong> [dɑ̃] (in)</td>
+</tr>
+<tr>
+  <td>en, em</td>
+  <td>[ɑ̃]</td>
+  <td><strong>temps</strong> [tɑ̃] (time)</td>
+</tr>
+<tr>
+  <td>in, im</td>
+  <td>[ɛ̃]</td>
+  <td><strong>pain</strong> [pɛ̃] (bread)</td>
+</tr>
+<tr>
+  <td>on, om</td>
+  <td>[ɔ̃]</td>
+  <td><strong>bon</strong> [bɔ̃] (good)</td>
+</tr>
+<tr>
+  <td>un, um</td>
+  <td>[œ̃]</td>
+  <td><strong>un</strong> [œ̃] (one)</td>
+</tr>
+</tbody>
+</table>
 <h3>Consonants</h3>
 <p>Most consonants are pronounced similarly to English, with some notable exceptions:</p>
-<p>| Letter(s) | Sound | Example |
-|-----------|-------|---------|
-| c (before e, i, y) | [s] | <strong>ceci</strong> [səsi] (this) |
-| c (elsewhere) | [k] | <strong>car</strong> [kaʁ] (because) |
-| ç | [s] | <strong>ça</strong> [sa] (that) |
-| ch | [ʃ] | <strong>chat</strong> [ʃa] (cat) |
-| g (before e, i, y) | [ʒ] | <strong>mange</strong> [mɑ̃ʒ] (eat) |
-| g (elsewhere) | [ɡ] | <strong>gare</strong> [ɡaʁ] (station) |
-| gn | [ɲ] | <strong>agneau</strong> [aɲo] (lamb) |
-| h | silent | <strong>homme</strong> [ɔm] (man) |
-| j | [ʒ] | <strong>je</strong> [ʒə] (I) |
-| qu | [k] | <strong>que</strong> [kə] (that) |
-| r | [ʁ] | <strong>rouge</strong> [ʁuʒ] (red) |
-| s (between vowels) | [z] | <strong>rose</strong> [ʁoz] (rose) |
-| s (elsewhere) | [s] | <strong>sac</strong> [sak] (bag) |
-| th | [t] | <strong>thé</strong> [te] (tea) |
-| x | [ks] or [ɡz] | <strong>taxi</strong> [taksi] (taxi) |</p>
+<table>
+<thead>
+<tr>
+  <th>Letter(s)</th>
+  <th>Sound</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>c (before e, i, y)</td>
+  <td>[s]</td>
+  <td><strong>ceci</strong> [səsi] (this)</td>
+</tr>
+<tr>
+  <td>c (elsewhere)</td>
+  <td>[k]</td>
+  <td><strong>car</strong> [kaʁ] (because)</td>
+</tr>
+<tr>
+  <td>ç</td>
+  <td>[s]</td>
+  <td><strong>ça</strong> [sa] (that)</td>
+</tr>
+<tr>
+  <td>ch</td>
+  <td>[ʃ]</td>
+  <td><strong>chat</strong> [ʃa] (cat)</td>
+</tr>
+<tr>
+  <td>g (before e, i, y)</td>
+  <td>[ʒ]</td>
+  <td><strong>mange</strong> [mɑ̃ʒ] (eat)</td>
+</tr>
+<tr>
+  <td>g (elsewhere)</td>
+  <td>[ɡ]</td>
+  <td><strong>gare</strong> [ɡaʁ] (station)</td>
+</tr>
+<tr>
+  <td>gn</td>
+  <td>[ɲ]</td>
+  <td><strong>agneau</strong> [aɲo] (lamb)</td>
+</tr>
+<tr>
+  <td>h</td>
+  <td>silent</td>
+  <td><strong>homme</strong> [ɔm] (man)</td>
+</tr>
+<tr>
+  <td>j</td>
+  <td>[ʒ]</td>
+  <td><strong>je</strong> [ʒə] (I)</td>
+</tr>
+<tr>
+  <td>qu</td>
+  <td>[k]</td>
+  <td><strong>que</strong> [kə] (that)</td>
+</tr>
+<tr>
+  <td>r</td>
+  <td>[ʁ]</td>
+  <td><strong>rouge</strong> [ʁuʒ] (red)</td>
+</tr>
+<tr>
+  <td>s (between vowels)</td>
+  <td>[z]</td>
+  <td><strong>rose</strong> [ʁoz] (rose)</td>
+</tr>
+<tr>
+  <td>s (elsewhere)</td>
+  <td>[s]</td>
+  <td><strong>sac</strong> [sak] (bag)</td>
+</tr>
+<tr>
+  <td>th</td>
+  <td>[t]</td>
+  <td><strong>thé</strong> [te] (tea)</td>
+</tr>
+<tr>
+  <td>x</td>
+  <td>[ks] or [ɡz]</td>
+  <td><strong>taxi</strong> [taksi] (taxi)</td>
+</tr>
+</tbody>
+</table>
 <h3>Liaison</h3>
 <p>Liaison is a phonological phenomenon where a normally silent consonant at the end of a word is pronounced when followed by a word starting with a vowel or silent h. For example:</p>
 <ul>
@@ -117,19 +265,43 @@
 </ul>
 <h3>Articles</h3>
 <p>French uses definite and indefinite articles, which agree in gender and number with the noun:</p>
-<p>| Type | Masculine Singular | Feminine Singular | Plural |
-|------|--------------------|--------------------|--------|
-| Definite | le | la | les |
-| Indefinite | un | une | des |</p>
-<p>Examples:
-- <strong>le chat</strong> (the cat)
-- <strong>la maison</strong> (the house)
-- <strong>les livres</strong> (the books)
-- <strong>un homme</strong> (a man)
-- <strong>une femme</strong> (a woman)
-- <strong>des enfants</strong> (some children)</p>
-<p>The definite article is also used for general statements:
-- <strong>J'aime le café.</strong> (I like coffee.)</p>
+<table>
+<thead>
+<tr>
+  <th>Type</th>
+  <th>Masculine Singular</th>
+  <th>Feminine Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Definite</td>
+  <td>le</td>
+  <td>la</td>
+  <td>les</td>
+</tr>
+<tr>
+  <td>Indefinite</td>
+  <td>un</td>
+  <td>une</td>
+  <td>des</td>
+</tr>
+</tbody>
+</table>
+<p>Examples:</p>
+<ul>
+<li><strong>le chat</strong> (the cat)</li>
+<li><strong>la maison</strong> (the house)</li>
+<li><strong>les livres</strong> (the books)</li>
+<li><strong>un homme</strong> (a man)</li>
+<li><strong>une femme</strong> (a woman)</li>
+<li><strong>des enfants</strong> (some children)</li>
+</ul>
+<p>The definite article is also used for general statements:</p>
+<ul>
+<li><strong>J'aime le café.</strong> (I like coffee.)</li>
+</ul>
 <h3>Adjectives</h3>
 <p>Most adjectives agree in gender and number with the noun they modify:</p>
 <ul>
@@ -144,60 +316,214 @@
 <li><strong>vieux</strong> (m.) / <strong>vieille</strong> (f.) - old</li>
 <li><strong>nouveau</strong> (m.) / <strong>nouvelle</strong> (f.) - new</li>
 </ul>
-<p>Most adjectives come after the noun in French:
-- <strong>une voiture rouge</strong> (a red car)</p>
-<p>But some common adjectives precede the noun:
-- <strong>un petit chat</strong> (a small cat)
-- <strong>une jolie fleur</strong> (a pretty flower)</p>
+<p>Most adjectives come after the noun in French:</p>
+<ul>
+<li><strong>une voiture rouge</strong> (a red car)</li>
+</ul>
+<p>But some common adjectives precede the noun:</p>
+<ul>
+<li><strong>un petit chat</strong> (a small cat)</li>
+<li><strong>une jolie fleur</strong> (a pretty flower)</li>
+</ul>
 <h3>Pronouns</h3>
 <p>French has several types of pronouns:</p>
 <h4>Personal Pronouns</h4>
-<p>| Person | Subject | Direct Object | Indirect Object | Disjunctive |
-|--------|---------|---------------|-----------------|-------------|
-| 1sg | je | me | me | moi |
-| 2sg | tu | te | te | toi |
-| 3sg (m) | il | le | lui | lui |
-| 3sg (f) | elle | la | lui | elle |
-| 1pl | nous | nous | nous | nous |
-| 2pl | vous | vous | vous | vous |
-| 3pl (m) | ils | les | leur | eux |
-| 3pl (f) | elles | les | leur | elles |</p>
-<p>Examples:
-- <strong>Je te vois.</strong> (I see you.)
-- <strong>Il me parle.</strong> (He speaks to me.)
-- <strong>Nous leur donnons le livre.</strong> (We give them the book.)</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Subject</th>
+  <th>Direct Object</th>
+  <th>Indirect Object</th>
+  <th>Disjunctive</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1sg</td>
+  <td>je</td>
+  <td>me</td>
+  <td>me</td>
+  <td>moi</td>
+</tr>
+<tr>
+  <td>2sg</td>
+  <td>tu</td>
+  <td>te</td>
+  <td>te</td>
+  <td>toi</td>
+</tr>
+<tr>
+  <td>3sg (m)</td>
+  <td>il</td>
+  <td>le</td>
+  <td>lui</td>
+  <td>lui</td>
+</tr>
+<tr>
+  <td>3sg (f)</td>
+  <td>elle</td>
+  <td>la</td>
+  <td>lui</td>
+  <td>elle</td>
+</tr>
+<tr>
+  <td>1pl</td>
+  <td>nous</td>
+  <td>nous</td>
+  <td>nous</td>
+  <td>nous</td>
+</tr>
+<tr>
+  <td>2pl</td>
+  <td>vous</td>
+  <td>vous</td>
+  <td>vous</td>
+  <td>vous</td>
+</tr>
+<tr>
+  <td>3pl (m)</td>
+  <td>ils</td>
+  <td>les</td>
+  <td>leur</td>
+  <td>eux</td>
+</tr>
+<tr>
+  <td>3pl (f)</td>
+  <td>elles</td>
+  <td>les</td>
+  <td>leur</td>
+  <td>elles</td>
+</tr>
+</tbody>
+</table>
+<p>Examples:</p>
+<ul>
+<li><strong>Je te vois.</strong> (I see you.)</li>
+<li><strong>Il me parle.</strong> (He speaks to me.)</li>
+<li><strong>Nous leur donnons le livre.</strong> (We give them the book.)</li>
+</ul>
 <h4>Reflexive Pronouns</h4>
-<p>| Person | Pronoun |
-|--------|---------|
-| 1sg | me |
-| 2sg | te |
-| 3sg | se |
-| 1pl | nous |
-| 2pl | vous |
-| 3pl | se |</p>
-<p>Example:
-- <strong>Je me lave.</strong> (I wash myself.)</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Pronoun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1sg</td>
+  <td>me</td>
+</tr>
+<tr>
+  <td>2sg</td>
+  <td>te</td>
+</tr>
+<tr>
+  <td>3sg</td>
+  <td>se</td>
+</tr>
+<tr>
+  <td>1pl</td>
+  <td>nous</td>
+</tr>
+<tr>
+  <td>2pl</td>
+  <td>vous</td>
+</tr>
+<tr>
+  <td>3pl</td>
+  <td>se</td>
+</tr>
+</tbody>
+</table>
+<p>Example:</p>
+<ul>
+<li><strong>Je me lave.</strong> (I wash myself.)</li>
+</ul>
 <h4>Possessive Adjectives</h4>
-<p>| Person | Masculine Singular | Feminine Singular | Plural |
-|--------|--------------------|--------------------|--------|
-| 1sg | mon | ma | mes |
-| 2sg | ton | ta | tes |
-| 3sg | son | sa | ses |
-| 1pl | notre | notre | nos |
-| 2pl | votre | votre | vos |
-| 3pl | leur | leur | leurs |</p>
-<p>Example:
-- <strong>mon livre</strong> (my book)
-- <strong>sa maison</strong> (his/her house)
-- <strong>leurs enfants</strong> (their children)</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Masculine Singular</th>
+  <th>Feminine Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1sg</td>
+  <td>mon</td>
+  <td>ma</td>
+  <td>mes</td>
+</tr>
+<tr>
+  <td>2sg</td>
+  <td>ton</td>
+  <td>ta</td>
+  <td>tes</td>
+</tr>
+<tr>
+  <td>3sg</td>
+  <td>son</td>
+  <td>sa</td>
+  <td>ses</td>
+</tr>
+<tr>
+  <td>1pl</td>
+  <td>notre</td>
+  <td>notre</td>
+  <td>nos</td>
+</tr>
+<tr>
+  <td>2pl</td>
+  <td>votre</td>
+  <td>votre</td>
+  <td>vos</td>
+</tr>
+<tr>
+  <td>3pl</td>
+  <td>leur</td>
+  <td>leur</td>
+  <td>leurs</td>
+</tr>
+</tbody>
+</table>
+<p>Example:</p>
+<ul>
+<li><strong>mon livre</strong> (my book)</li>
+<li><strong>sa maison</strong> (his/her house)</li>
+<li><strong>leurs enfants</strong> (their children)</li>
+</ul>
 <h4>Demonstrative Pronouns</h4>
-<p>| Type | Masculine Singular | Feminine Singular | Masculine Plural | Feminine Plural |
-|------|--------------------|--------------------|-------------------|-------------------|
-| This/These | ce, cet (before vowel) | cette | ces | ces |</p>
-<p>Example:
-- <strong>ce livre</strong> (this book)
-- <strong>cette maison</strong> (this house)
-- <strong>ces enfants</strong> (these children)</p>
+<table>
+<thead>
+<tr>
+  <th>Type</th>
+  <th>Masculine Singular</th>
+  <th>Feminine Singular</th>
+  <th>Masculine Plural</th>
+  <th>Feminine Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>This/These</td>
+  <td>ce, cet (before vowel)</td>
+  <td>cette</td>
+  <td>ces</td>
+  <td>ces</td>
+</tr>
+</tbody>
+</table>
+<p>Example:</p>
+<ul>
+<li><strong>ce livre</strong> (this book)</li>
+<li><strong>cette maison</strong> (this house)</li>
+<li><strong>ces enfants</strong> (these children)</li>
+</ul>
 <h3>Verbs</h3>
 <p>French verbs are conjugated to reflect tense, mood, aspect, and agreement with the subject in person and number.</p>
 <h4>Infinitive Forms</h4>
@@ -209,77 +535,142 @@
 </ol>
 <h4>Present Tense</h4>
 <p>Example with <strong>parler</strong> (to speak):</p>
-<p>| Person | Conjugation |
-|--------|-------------|
-| je | parle |
-| tu | parles |
-| il/elle/on | parle |
-| nous | parlons |
-| vous | parlez |
-| ils/elles | parlent |</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Conjugation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>je</td>
+  <td>parle</td>
+</tr>
+<tr>
+  <td>tu</td>
+  <td>parles</td>
+</tr>
+<tr>
+  <td>il/elle/on</td>
+  <td>parle</td>
+</tr>
+<tr>
+  <td>nous</td>
+  <td>parlons</td>
+</tr>
+<tr>
+  <td>vous</td>
+  <td>parlez</td>
+</tr>
+<tr>
+  <td>ils/elles</td>
+  <td>parlent</td>
+</tr>
+</tbody>
+</table>
 <p>Example with <strong>finir</strong> (to finish):</p>
-<p>| Person | Conjugation |
-|--------|-------------|
-| je | finis |
-| tu | finis |
-| il/elle/on | finit |
-| nous | finissons |
-| vous | finissez |
-| ils/elles | finissent |</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Conjugation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>je</td>
+  <td>finis</td>
+</tr>
+<tr>
+  <td>tu</td>
+  <td>finis</td>
+</tr>
+<tr>
+  <td>il/elle/on</td>
+  <td>finit</td>
+</tr>
+<tr>
+  <td>nous</td>
+  <td>finissons</td>
+</tr>
+<tr>
+  <td>vous</td>
+  <td>finissez</td>
+</tr>
+<tr>
+  <td>ils/elles</td>
+  <td>finissent</td>
+</tr>
+</tbody>
+</table>
 <h4>Past Tenses</h4>
 <p>French has several past tenses, including:</p>
 <ol>
-<li>Passé composé (compound past):
-   Formed with auxiliary verb (avoir or être) + past participle</li>
+<li><p>Passé composé (compound past):
+Formed with auxiliary verb (avoir or être) + past participle</p>
+<ul>
 <li><strong>J'ai parlé.</strong> (I spoke.)</li>
-<li>
-<p><strong>Elle est partie.</strong> (She left.)</p>
+<li><strong>Elle est partie.</strong> (She left.)</li>
+</ul>
 </li>
-<li>
-<p>Imparfait (imperfect):
-   Used for ongoing or habitual past actions</p>
+<li><p>Imparfait (imperfect):
+Used for ongoing or habitual past actions</p>
+<ul>
+<li><strong>Je parlais souvent français.</strong> (I often spoke French.)</li>
+</ul>
 </li>
-<li>
-<p><strong>Je parlais souvent français.</strong> (I often spoke French.)</p>
-</li>
-<li>
-<p>Plus-que-parfait (pluperfect):
-   Used for actions completed before another past action</p>
-</li>
+<li><p>Plus-que-parfait (pluperfect):
+Used for actions completed before another past action</p>
+<ul>
 <li><strong>J'avais déjà mangé quand il est arrivé.</strong> (I had already eaten when he arrived.)</li>
+</ul>
+</li>
 </ol>
 <h4>Future Tenses</h4>
 <ol>
-<li>Futur simple (simple future):</li>
-<li>
-<p><strong>Je parlerai demain.</strong> (I will speak tomorrow.)</p>
+<li><p>Futur simple (simple future):</p>
+<ul>
+<li><strong>Je parlerai demain.</strong> (I will speak tomorrow.)</li>
+</ul>
 </li>
-<li>
-<p>Futur proche (near future):
-   Formed with aller + infinitive</p>
-</li>
+<li><p>Futur proche (near future):
+Formed with aller + infinitive</p>
+<ul>
 <li><strong>Je vais parler.</strong> (I am going to speak.)</li>
+</ul>
+</li>
 </ol>
 <h4>Conditional</h4>
-<p>Used for hypothetical situations or polite requests:
-- <strong>Je voudrais un café.</strong> (I would like a coffee.)</p>
+<p>Used for hypothetical situations or polite requests:</p>
+<ul>
+<li><strong>Je voudrais un café.</strong> (I would like a coffee.)</li>
+</ul>
 <h4>Subjunctive</h4>
-<p>Used to express doubt, desire, or necessity:
-- <strong>Il faut que je parte.</strong> (It's necessary that I leave.)</p>
+<p>Used to express doubt, desire, or necessity:</p>
+<ul>
+<li><strong>Il faut que je parte.</strong> (It's necessary that I leave.)</li>
+</ul>
 <h4>Imperative</h4>
-<p>Used for commands:
-- <strong>Parle !</strong> (Speak!)
-- <strong>Finissons !</strong> (Let's finish!)</p>
+<p>Used for commands:</p>
+<ul>
+<li><strong>Parle !</strong> (Speak!)</li>
+<li><strong>Finissons !</strong> (Let's finish!)</li>
+</ul>
 <h3>Adverbs</h3>
-<p>Many adverbs are formed by adding -ment to the feminine form of the adjective:
-- <strong>lent</strong> (slow) → <strong>lentement</strong> (slowly)
-- <strong>heureuse</strong> (happy, fem.) → <strong>heureusement</strong> (happily)</p>
-<p>Some common adverbs:
-- <strong>bien</strong> (well)
-- <strong>mal</strong> (badly)
-- <strong>souvent</strong> (often)
-- <strong>toujours</strong> (always)
-- <strong>jamais</strong> (never)</p>
+<p>Many adverbs are formed by adding -ment to the feminine form of the adjective:</p>
+<ul>
+<li><strong>lent</strong> (slow) → <strong>lentement</strong> (slowly)</li>
+<li><strong>heureuse</strong> (happy, fem.) → <strong>heureusement</strong> (happily)</li>
+</ul>
+<p>Some common adverbs:</p>
+<ul>
+<li><strong>bien</strong> (well)</li>
+<li><strong>mal</strong> (badly)</li>
+<li><strong>souvent</strong> (often)</li>
+<li><strong>toujours</strong> (always)</li>
+<li><strong>jamais</strong> (never)</li>
+</ul>
 <h2>Syntax</h2>
 <h3>Basic Sentence Structure</h3>
 <p>French generally follows a Subject-Verb-Object (SVO) word order:</p>
@@ -288,95 +679,103 @@
 </ul>
 <h3>Question Formation</h3>
 <ol>
-<li>Inversion:</li>
-<li>
-<p><strong>Parlez-vous français ?</strong> (Do you speak French?)</p>
+<li><p>Inversion:</p>
+<ul>
+<li><strong>Parlez-vous français ?</strong> (Do you speak French?)</li>
+</ul>
 </li>
-<li>
-<p>Est-ce que:</p>
+<li><p>Est-ce que:</p>
+<ul>
+<li><strong>Est-ce que vous parlez français ?</strong> (Do you speak French?)</li>
+</ul>
 </li>
-<li>
-<p><strong>Est-ce que vous parlez français ?</strong> (Do you speak French?)</p>
-</li>
-<li>
-<p>Intonation (informal):</p>
-</li>
+<li><p>Intonation (informal):</p>
+<ul>
 <li><strong>Vous parlez français ?</strong> (You speak French?)</li>
+</ul>
+</li>
 </ol>
 <h3>Negation</h3>
-<p>Negation is formed with <strong>ne ... pas</strong> around the conjugated verb:
-- <strong>Je ne parle pas français.</strong> (I don't speak French.)</p>
-<p>In informal spoken French, the "ne" is often omitted:
-- <strong>Je parle pas français.</strong> (I don't speak French.)</p>
-<p>Other negative expressions:
-- <strong>ne ... jamais</strong> (never)
-- <strong>ne ... plus</strong> (no longer)
-- <strong>ne ... rien</strong> (nothing)
-- <strong>ne ... personne</strong> (nobody)</p>
+<p>Negation is formed with <strong>ne ... pas</strong> around the conjugated verb:</p>
+<ul>
+<li><strong>Je ne parle pas français.</strong> (I don't speak French.)</li>
+</ul>
+<p>In informal spoken French, the &quot;ne&quot; is often omitted:</p>
+<ul>
+<li><strong>Je parle pas français.</strong> (I don't speak French.)</li>
+</ul>
+<p>Other negative expressions:</p>
+<ul>
+<li><strong>ne ... jamais</strong> (never)</li>
+<li><strong>ne ... plus</strong> (no longer)</li>
+<li><strong>ne ... rien</strong> (nothing)</li>
+<li><strong>ne ... personne</strong> (nobody)</li>
+</ul>
 <h3>Relative Clauses</h3>
-<p>Common relative pronouns:
-- <strong>qui</strong> (subject)
-- <strong>que</strong> (direct object)
-- <strong>dont</strong> (of which)
-- <strong>où</strong> (where)</p>
-<p>Examples:
-- <strong>L'homme qui parle est mon père.</strong> (The man who is speaking is my father.)
-- <strong>Le livre que je lis est intéressant.</strong> (The book that I'm reading is interesting.)</p>
+<p>Common relative pronouns:</p>
+<ul>
+<li><strong>qui</strong> (subject)</li>
+<li><strong>que</strong> (direct object)</li>
+<li><strong>dont</strong> (of which)</li>
+<li><strong>où</strong> (where)</li>
+</ul>
+<p>Examples:</p>
+<ul>
+<li><strong>L'homme qui parle est mon père.</strong> (The man who is speaking is my father.)</li>
+<li><strong>Le livre que je lis est intéressant.</strong> (The book that I'm reading is interesting.)</li>
+</ul>
 <h3>Reported Speech</h3>
-<p>When reporting speech, tenses often shift:
-- Direct: <strong>Il a dit : "Je suis fatigué."</strong> (He said, "I am tired.")
-- Indirect: <strong>Il a dit qu'il était fatigué.</strong> (He said that he was tired.)</p>
+<p>When reporting speech, tenses often shift:</p>
+<ul>
+<li>Direct: <strong>Il a dit : &quot;Je suis fatigué.&quot;</strong> (He said, &quot;I am tired.&quot;)</li>
+<li>Indirect: <strong>Il a dit qu'il était fatigué.</strong> (He said that he was tired.)</li>
+</ul>
 <h3>Conditional Sentences</h3>
 <ol>
-<li>Real condition:</li>
-<li>
-<p><strong>Si tu viens, je serai content.</strong> (If you come, I will be happy.)</p>
+<li><p>Real condition:</p>
+<ul>
+<li><strong>Si tu viens, je serai content.</strong> (If you come, I will be happy.)</li>
+</ul>
 </li>
-<li>
-<p>Unreal present condition:</p>
+<li><p>Unreal present condition:</p>
+<ul>
+<li><strong>Si j'avais de l'argent, j'achèterais une voiture.</strong> (If I had money, I would buy a car.)</li>
+</ul>
 </li>
-<li>
-<p><strong>Si j'avais de l'argent, j'achèterais une voiture.</strong> (If I had money, I would buy a car.)</p>
-</li>
-<li>
-<p>Unreal past condition:</p>
-</li>
+<li><p>Unreal past condition:</p>
+<ul>
 <li><strong>Si j'avais eu de l'argent, j'aurais acheté une voiture.</strong> (If I had had money, I would have bought a car.)</li>
+</ul>
+</li>
 </ol>
 <h2>Vocabulary</h2>
 <p>French vocabulary has been influenced by various languages throughout its history:</p>
 <ol>
-<li>
-<p>Latin: Many words come directly from Latin
-   Example: <strong>université</strong> (university)</p>
+<li><p>Latin: Many words come directly from Latin
+Example: <strong>université</strong> (university)</p>
 </li>
-<li>
-<p>Greek: Often in scientific or academic terms
-   Example: <strong>psychologie</strong> (psychology)</p>
+<li><p>Greek: Often in scientific or academic terms
+Example: <strong>psychologie</strong> (psychology)</p>
 </li>
-<li>
-<p>Germanic languages: Due to historical interactions
-   Example: <strong>guerre</strong> (war)</p>
+<li><p>Germanic languages: Due to historical interactions
+Example: <strong>guerre</strong> (war)</p>
 </li>
-<li>
-<p>Arabic: Through trade and cultural exchange
-   Example: <strong>algèbre</strong> (algebra)</p>
+<li><p>Arabic: Through trade and cultural exchange
+Example: <strong>algèbre</strong> (algebra)</p>
 </li>
-<li>
-<p>Italian: Especially in arts and cuisine
-   Example: <strong>piano</strong> (piano)</p>
+<li><p>Italian: Especially in arts and cuisine
+Example: <strong>piano</strong> (piano)</p>
 </li>
-<li>
-<p>English: Particularly in modern technology and business
-   Example: <strong>le weekend</strong> (the weekend)</p>
+<li><p>English: Particularly in modern technology and business
+Example: <strong>le weekend</strong> (the weekend)</p>
 </li>
 </ol>
 <h3>False Friends</h3>
 <p>Some words look similar to English but have different meanings:</p>
 <ul>
-<li><strong>actuel</strong> means "current," not "actual"</li>
-<li><strong>éventuellement</strong> means "possibly," not "eventually"</li>
-<li><strong>grave</strong> means "serious," not "grave" (as in tomb)</li>
+<li><strong>actuel</strong> means &quot;current,&quot; not &quot;actual&quot;</li>
+<li><strong>éventuellement</strong> means &quot;possibly,&quot; not &quot;eventually&quot;</li>
+<li><strong>grave</strong> means &quot;serious,&quot; not &quot;grave&quot; (as in tomb)</li>
 </ul>
 <h3>Idioms</h3>
 <p>French has many colorful idioms:</p>
@@ -388,72 +787,72 @@
 <h2>Colloquial French</h2>
 <p>Spoken French often differs from its written form:</p>
 <ol>
-<li>Omission of "ne" in negation:</li>
+<li><p>Omission of &quot;ne&quot; in negation:</p>
+<ul>
 <li>Standard: <strong>Je ne sais pas.</strong> (I don't know.)</li>
-<li>
-<p>Colloquial: <strong>Je sais pas.</strong></p>
+<li>Colloquial: <strong>Je sais pas.</strong></li>
+</ul>
 </li>
-<li>
-<p>Use of "on" instead of "nous":</p>
-</li>
+<li><p>Use of &quot;on&quot; instead of &quot;nous&quot;:</p>
+<ul>
 <li>Standard: <strong>Nous allons au cinéma.</strong> (We're going to the cinema.)</li>
-<li>
-<p>Colloquial: <strong>On va au ciné.</strong></p>
+<li>Colloquial: <strong>On va au ciné.</strong></li>
+</ul>
 </li>
-<li>
-<p>Truncation of words:</p>
-</li>
+<li><p>Truncation of words:</p>
+<ul>
 <li><strong>télé</strong> instead of <strong>télévision</strong> (television)</li>
 <li><strong>sympa</strong> instead of <strong>sympathique</strong> (nice)</li>
-<li>
-<p><strong>resto</strong> instead of <strong>restaurant</strong> (restaurant)</p>
+<li><strong>resto</strong> instead of <strong>restaurant</strong> (restaurant)</li>
+</ul>
 </li>
-<li>
-<p>Use of verlan (a type of slang that inverts syllables):</p>
-</li>
-<li><strong>meuf</strong> instead of <strong>femme</strong> (woman)</li>
-<li>
-<p><strong>ouf</strong> instead of <strong>fou</strong> (crazy)</p>
-</li>
-<li>
-<p>Informal pronouns:</p>
-</li>
-<li><strong>ça</strong> instead of <strong>cela</strong> (that)</li>
-<li>
-<p><strong>y</strong> instead of <strong>il</strong> or <strong>elle</strong> in impersonal expressions:</p>
+<li><p>Use of verlan (a type of slang that inverts syllables):</p>
 <ul>
+<li><strong>meuf</strong> instead of <strong>femme</strong> (woman)</li>
+<li><strong>ouf</strong> instead of <strong>fou</strong> (crazy)</li>
+</ul>
+</li>
+<li><p>Informal pronouns:</p>
+<ul>
+<li><strong>ça</strong> instead of <strong>cela</strong> (that)</li>
+<li><strong>y</strong> instead of <strong>il</strong> or <strong>elle</strong> in impersonal expressions:<ul>
 <li><strong>Y fait chaud.</strong> instead of <strong>Il fait chaud.</strong> (It's hot.)</li>
 </ul>
 </li>
-<li>
-<p>Dropping of certain sounds:</p>
+</ul>
 </li>
-<li>
-<p>"il y a" often pronounced as "ya":</p>
+<li><p>Dropping of certain sounds:</p>
 <ul>
+<li>&quot;il y a&quot; often pronounced as &quot;ya&quot;:<ul>
 <li><strong>Y'a du monde.</strong> instead of <strong>Il y a du monde.</strong> (There are a lot of people.)</li>
 </ul>
 </li>
-<li>
-<p>Use of filler words:</p>
+</ul>
 </li>
-<li>
-<p><strong>ben</strong>, <strong>bah</strong>, <strong>euh</strong>, <strong>quoi</strong>, <strong>en fait</strong></p>
+<li><p>Use of filler words:</p>
+<ul>
+<li><strong>ben</strong>, <strong>bah</strong>, <strong>euh</strong>, <strong>quoi</strong>, <strong>en fait</strong></li>
+</ul>
 </li>
-<li>
-<p>Informal question structures:</p>
-</li>
+<li><p>Informal question structures:</p>
+<ul>
 <li><strong>T'as quel âge ?</strong> instead of <strong>Quel âge as-tu ?</strong> (How old are you?)</li>
+</ul>
+</li>
 </ol>
 <h2>Register and Politeness</h2>
 <p>French has distinct levels of formality, reflected in vocabulary and grammar:</p>
 <h3>Tu vs. Vous</h3>
-<p>The choice between <strong>tu</strong> (informal) and <strong>vous</strong> (formal/plural) is crucial:
-- <strong>Tu</strong> is used for friends, family, children, and in informal situations.
-- <strong>Vous</strong> is used for strangers, superiors, in formal situations, and for groups.</p>
-<p>Example:
-- Informal: <strong>Comment tu t'appelles ?</strong> (What's your name?)
-- Formal: <strong>Comment vous appelez-vous ?</strong> (What is your name?)</p>
+<p>The choice between <strong>tu</strong> (informal) and <strong>vous</strong> (formal/plural) is crucial:</p>
+<ul>
+<li><strong>Tu</strong> is used for friends, family, children, and in informal situations.</li>
+<li><strong>Vous</strong> is used for strangers, superiors, in formal situations, and for groups.</li>
+</ul>
+<p>Example:</p>
+<ul>
+<li>Informal: <strong>Comment tu t'appelles ?</strong> (What's your name?)</li>
+<li>Formal: <strong>Comment vous appelez-vous ?</strong> (What is your name?)</li>
+</ul>
 <h3>Politeness Phrases</h3>
 <ul>
 <li><strong>S'il vous plaît</strong> / <strong>S'il te plaît</strong> (Please)</li>
@@ -462,25 +861,35 @@
 <li><strong>Excusez-moi</strong> / <strong>Excuse-moi</strong> (Excuse me)</li>
 </ul>
 <h3>Conditional for Politeness</h3>
-<p>The conditional tense is often used to make polite requests:
-- <strong>Je voudrais un café, s'il vous plaît.</strong> (I would like a coffee, please.)
-- <strong>Pourriez-vous m'aider ?</strong> (Could you help me?)</p>
+<p>The conditional tense is often used to make polite requests:</p>
+<ul>
+<li><strong>Je voudrais un café, s'il vous plaît.</strong> (I would like a coffee, please.)</li>
+<li><strong>Pourriez-vous m'aider ?</strong> (Could you help me?)</li>
+</ul>
 <h2>Phonological Phenomena</h2>
 <h3>Liaison</h3>
 <p>Liaison is the linking of words in spoken French, where a normally silent consonant at the end of a word is pronounced when followed by a word starting with a vowel or silent h.</p>
-<p>Obligatory liaisons:
-- Article + Noun: <strong>les enfants</strong> [le.zɑ̃.fɑ̃]
-- Adjective + Noun: <strong>petit ami</strong> [pə.ti.ta.mi]
-- Pronoun + Verb: <strong>nous avons</strong> [nu.za.vɔ̃]</p>
-<p>Forbidden liaisons:
-- After "et" (and): <strong>et un</strong> [e.œ̃]
-- Before "h aspiré": <strong>les héros</strong> [le.e.ʁo]</p>
+<p>Obligatory liaisons:</p>
+<ul>
+<li>Article + Noun: <strong>les enfants</strong> [le.zɑ̃.fɑ̃]</li>
+<li>Adjective + Noun: <strong>petit ami</strong> [pə.ti.ta.mi]</li>
+<li>Pronoun + Verb: <strong>nous avons</strong> [nu.za.vɔ̃]</li>
+</ul>
+<p>Forbidden liaisons:</p>
+<ul>
+<li>After &quot;et&quot; (and): <strong>et un</strong> [e.œ̃]</li>
+<li>Before &quot;h aspiré&quot;: <strong>les héros</strong> [le.e.ʁo]</li>
+</ul>
 <h3>Enchaînement</h3>
-<p>Similar to liaison, but involves the final pronounced consonant of a word:
-- <strong>une amie</strong> [y.na.mi]</p>
+<p>Similar to liaison, but involves the final pronounced consonant of a word:</p>
+<ul>
+<li><strong>une amie</strong> [y.na.mi]</li>
+</ul>
 <h3>E caduc (Mute e)</h3>
-<p>The unstressed e (schwa) is often dropped in casual speech:
-- <strong>je ne sais pas</strong> → [ʒən.sɛ.pa] or even [ʃɛ.pa]</p>
+<p>The unstressed e (schwa) is often dropped in casual speech:</p>
+<ul>
+<li><strong>je ne sais pas</strong> → [ʒən.sɛ.pa] or even [ʃɛ.pa]</li>
+</ul>
 <h2>Numbers and Counting</h2>
 <p>French has a vigesimal (base-20) influence in its number system:</p>
 <ul>
@@ -488,9 +897,11 @@
 <li>80: <strong>quatre-vingts</strong> (four-twenties)</li>
 <li>90: <strong>quatre-vingt-dix</strong> (four-twenty-ten)</li>
 </ul>
-<p>Examples:
-- 75: <strong>soixante-quinze</strong> (sixty-fifteen)
-- 92: <strong>quatre-vingt-douze</strong> (four-twenty-twelve)</p>
+<p>Examples:</p>
+<ul>
+<li>75: <strong>soixante-quinze</strong> (sixty-fifteen)</li>
+<li>92: <strong>quatre-vingt-douze</strong> (four-twenty-twelve)</li>
+</ul>
 <h2>Common Expressions and Phrases</h2>
 <ul>
 <li><strong>Ça va ?</strong> - How are you? (informal)</li>
@@ -505,9 +916,9 @@
 <h2>Punctuation and Orthography</h2>
 <p>French punctuation has some unique features:</p>
 <ul>
-<li>Spaces before certain punctuation marks: 
-  <strong>Où allez-vous ? Nous allons à Paris !</strong></li>
-<li>Quotation marks: « guillemets » instead of "quotes"</li>
+<li>Spaces before certain punctuation marks:
+<strong>Où allez-vous ? Nous allons à Paris !</strong></li>
+<li>Quotation marks: « guillemets » instead of &quot;quotes&quot;</li>
 <li>Accent marks: é (acute), è (grave), ê (circumflex), ë (diaeresis)</li>
 <li>Cedilla: ç</li>
 <li>Ligatures: œ, æ</li>
@@ -523,10 +934,10 @@
 <h3>International French</h3>
 <ul>
 <li>Canadian French: Different vocabulary, preserved older pronunciations
-  Example: <strong>char</strong> (car) instead of <strong>voiture</strong></li>
+Example: <strong>char</strong> (car) instead of <strong>voiture</strong></li>
 <li>Swiss French: Unique counting system (70 is <strong>septante</strong>, 90 is <strong>nonante</strong>)</li>
 <li>African French: Influenced by local languages, unique vocabulary
-  Example: <strong>essencerie</strong> (gas station) in some African countries</li>
+Example: <strong>essencerie</strong> (gas station) in some African countries</li>
 </ul>
 <h2>Literary Devices</h2>
 <p>French literature makes use of various stylistic devices:</p>
@@ -540,9 +951,9 @@ Prononce ces mots</strong></p>
 <h3>Assonance and Alliteration</h3>
 <ul>
 <li>Assonance: Repetition of vowel sounds
-  <strong>Il fait beau et chaud</strong></li>
+<strong>Il fait beau et chaud</strong></li>
 <li>Alliteration: Repetition of consonant sounds
-  <strong>Pour qui sont ces serpents qui sifflent sur vos têtes ?</strong> (Racine)</li>
+<strong>Pour qui sont ces serpents qui sifflent sur vos têtes ?</strong> (Racine)</li>
 </ul>
 <h2>Proverbs and Sayings</h2>
 <p>French has a rich tradition of proverbs:</p>
@@ -552,6 +963,16 @@ Prononce ces mots</strong></p>
 <li><strong>L'habit ne fait pas le moine.</strong> (The habit doesn't make the monk - Don't judge a book by its cover.)</li>
 </ul>
 <p>This overview covers many aspects of the French language, from its basic grammar and pronunciation to more advanced topics like literary devices and regional variations. It provides a comprehensive look at French for both beginners and more advanced learners, focusing on both the formal written language and colloquial spoken French.</p>
+
       </div>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-TXC94JMN4X"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TXC94JMN4X');
+      </script>
 </body>
 </html>

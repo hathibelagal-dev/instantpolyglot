@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Instant Polyglot</title>
     <link rel="stylesheet" href="../bootstrap.min.css">
+    <link rel="stylesheet" href="../styles.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -37,66 +38,276 @@
 <p>Estonian uses the Latin alphabet with some additional letters. The pronunciation is generally regular, with stress usually on the first syllable.</p>
 <h3>Vowels</h3>
 <p>Estonian has 9 vowel phonemes:</p>
-<p>| Letter | IPA | Description |
-|--------|-----|-------------|
-| a | [ɑ] | Open back unrounded vowel |
-| e | [e] | Close-mid front unrounded vowel |
-| i | [i] | Close front unrounded vowel |
-| o | [o] | Close-mid back rounded vowel |
-| u | [u] | Close back rounded vowel |
-| õ | [ɤ] | Close-mid back unrounded vowel |
-| ä | [æ] | Near-open front unrounded vowel |
-| ö | [ø] | Close-mid front rounded vowel |
-| ü | [y] | Close front rounded vowel |</p>
+<table>
+<thead>
+<tr>
+  <th>Letter</th>
+  <th>IPA</th>
+  <th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>a</td>
+  <td>[ɑ]</td>
+  <td>Open back unrounded vowel</td>
+</tr>
+<tr>
+  <td>e</td>
+  <td>[e]</td>
+  <td>Close-mid front unrounded vowel</td>
+</tr>
+<tr>
+  <td>i</td>
+  <td>[i]</td>
+  <td>Close front unrounded vowel</td>
+</tr>
+<tr>
+  <td>o</td>
+  <td>[o]</td>
+  <td>Close-mid back rounded vowel</td>
+</tr>
+<tr>
+  <td>u</td>
+  <td>[u]</td>
+  <td>Close back rounded vowel</td>
+</tr>
+<tr>
+  <td>õ</td>
+  <td>[ɤ]</td>
+  <td>Close-mid back unrounded vowel</td>
+</tr>
+<tr>
+  <td>ä</td>
+  <td>[æ]</td>
+  <td>Near-open front unrounded vowel</td>
+</tr>
+<tr>
+  <td>ö</td>
+  <td>[ø]</td>
+  <td>Close-mid front rounded vowel</td>
+</tr>
+<tr>
+  <td>ü</td>
+  <td>[y]</td>
+  <td>Close front rounded vowel</td>
+</tr>
+</tbody>
+</table>
 <p>Estonian also distinguishes between short and long vowels. Long vowels are written by doubling the vowel letter:</p>
-<p>| Short | Long | Example |
-|-------|------|---------|
-| a | aa | <strong>kala</strong> [ˈkɑlɑ] (fish) vs. <strong>kaalu</strong> [ˈkɑːlu] (weigh, imperative) |
-| e | ee | <strong>kena</strong> [ˈkenɑ] (nice) vs. <strong>keena</strong> [ˈkeːnɑ] (boil, imperative) |</p>
+<table>
+<thead>
+<tr>
+  <th>Short</th>
+  <th>Long</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>a</td>
+  <td>aa</td>
+  <td><strong>kala</strong> [ˈkɑlɑ] (fish) vs. <strong>kaalu</strong> [ˈkɑːlu] (weigh, imperative)</td>
+</tr>
+<tr>
+  <td>e</td>
+  <td>ee</td>
+  <td><strong>kena</strong> [ˈkenɑ] (nice) vs. <strong>keena</strong> [ˈkeːnɑ] (boil, imperative)</td>
+</tr>
+</tbody>
+</table>
 <h3>Consonants</h3>
-<p>| Letter | IPA | Description |
-|--------|-----|-------------|
-| b | [b] | Voiced bilabial plosive |
-| d | [d] | Voiced alveolar plosive |
-| f | [f] | Voiceless labiodental fricative |
-| g | [ɡ] | Voiced velar plosive |
-| h | [h] | Voiceless glottal fricative |
-| j | [j] | Palatal approximant |
-| k | [k] | Voiceless velar plosive |
-| l | [l] | Alveolar lateral approximant |
-| m | [m] | Bilabial nasal |
-| n | [n] | Alveolar nasal |
-| p | [p] | Voiceless bilabial plosive |
-| r | [r] | Alveolar trill |
-| s | [s] | Voiceless alveolar fricative |
-| š | [ʃ] | Voiceless postalveolar fricative |
-| z | [z] | Voiced alveolar fricative |
-| ž | [ʒ] | Voiced postalveolar fricative |
-| t | [t] | Voiceless alveolar plosive |
-| v | [ʋ] | Labiodental approximant |</p>
+<table>
+<thead>
+<tr>
+  <th>Letter</th>
+  <th>IPA</th>
+  <th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>b</td>
+  <td>[b]</td>
+  <td>Voiced bilabial plosive</td>
+</tr>
+<tr>
+  <td>d</td>
+  <td>[d]</td>
+  <td>Voiced alveolar plosive</td>
+</tr>
+<tr>
+  <td>f</td>
+  <td>[f]</td>
+  <td>Voiceless labiodental fricative</td>
+</tr>
+<tr>
+  <td>g</td>
+  <td>[ɡ]</td>
+  <td>Voiced velar plosive</td>
+</tr>
+<tr>
+  <td>h</td>
+  <td>[h]</td>
+  <td>Voiceless glottal fricative</td>
+</tr>
+<tr>
+  <td>j</td>
+  <td>[j]</td>
+  <td>Palatal approximant</td>
+</tr>
+<tr>
+  <td>k</td>
+  <td>[k]</td>
+  <td>Voiceless velar plosive</td>
+</tr>
+<tr>
+  <td>l</td>
+  <td>[l]</td>
+  <td>Alveolar lateral approximant</td>
+</tr>
+<tr>
+  <td>m</td>
+  <td>[m]</td>
+  <td>Bilabial nasal</td>
+</tr>
+<tr>
+  <td>n</td>
+  <td>[n]</td>
+  <td>Alveolar nasal</td>
+</tr>
+<tr>
+  <td>p</td>
+  <td>[p]</td>
+  <td>Voiceless bilabial plosive</td>
+</tr>
+<tr>
+  <td>r</td>
+  <td>[r]</td>
+  <td>Alveolar trill</td>
+</tr>
+<tr>
+  <td>s</td>
+  <td>[s]</td>
+  <td>Voiceless alveolar fricative</td>
+</tr>
+<tr>
+  <td>š</td>
+  <td>[ʃ]</td>
+  <td>Voiceless postalveolar fricative</td>
+</tr>
+<tr>
+  <td>z</td>
+  <td>[z]</td>
+  <td>Voiced alveolar fricative</td>
+</tr>
+<tr>
+  <td>ž</td>
+  <td>[ʒ]</td>
+  <td>Voiced postalveolar fricative</td>
+</tr>
+<tr>
+  <td>t</td>
+  <td>[t]</td>
+  <td>Voiceless alveolar plosive</td>
+</tr>
+<tr>
+  <td>v</td>
+  <td>[ʋ]</td>
+  <td>Labiodental approximant</td>
+</tr>
+</tbody>
+</table>
 <p>Like vowels, consonants can also be short or long. Long consonants are written by doubling the consonant letter:</p>
-<p>| Short | Long | Example |
-|-------|------|---------|
-| k | kk | <strong>luku</strong> [ˈluku] (genitive of lock) vs. <strong>lukku</strong> [ˈlukːu] (into the lock) |
-| t | tt | <strong>koti</strong> [ˈkoti] (of the bag) vs. <strong>kotti</strong> [ˈkotːi] (into the bag) |</p>
+<table>
+<thead>
+<tr>
+  <th>Short</th>
+  <th>Long</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>k</td>
+  <td>kk</td>
+  <td><strong>luku</strong> [ˈluku] (genitive of lock) vs. <strong>lukku</strong> [ˈlukːu] (into the lock)</td>
+</tr>
+<tr>
+  <td>t</td>
+  <td>tt</td>
+  <td><strong>koti</strong> [ˈkoti] (of the bag) vs. <strong>kotti</strong> [ˈkotːi] (into the bag)</td>
+</tr>
+</tbody>
+</table>
 <h3>Diphthongs</h3>
 <p>Estonian has a large number of diphthongs. Some examples:</p>
-<p>| Diphthong | Example |
-|-----------|---------|
-| ai | <strong>lai</strong> [lɑi] (wide) |
-| ei | <strong>hein</strong> [hein] (hay) |
-| oi | <strong>koi</strong> [koi] (moth) |
-| õi | <strong>põis</strong> [pɤis] (bladder) |
-| äi | <strong>päike</strong> [ˈpæike] (sun) |
-| öi | <strong>öine</strong> [ˈøine] (nocturnal) |
-| ui | <strong>kui</strong> [kui] (if) |</p>
+<table>
+<thead>
+<tr>
+  <th>Diphthong</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>ai</td>
+  <td><strong>lai</strong> [lɑi] (wide)</td>
+</tr>
+<tr>
+  <td>ei</td>
+  <td><strong>hein</strong> [hein] (hay)</td>
+</tr>
+<tr>
+  <td>oi</td>
+  <td><strong>koi</strong> [koi] (moth)</td>
+</tr>
+<tr>
+  <td>õi</td>
+  <td><strong>põis</strong> [pɤis] (bladder)</td>
+</tr>
+<tr>
+  <td>äi</td>
+  <td><strong>päike</strong> [ˈpæike] (sun)</td>
+</tr>
+<tr>
+  <td>öi</td>
+  <td><strong>öine</strong> [ˈøine] (nocturnal)</td>
+</tr>
+<tr>
+  <td>ui</td>
+  <td><strong>kui</strong> [kui] (if)</td>
+</tr>
+</tbody>
+</table>
 <h3>Consonant gradation</h3>
 <p>Estonian exhibits consonant gradation, a process where consonants alternate between strong and weak grades in different forms of the same word. This affects plosives (p, t, k) and some consonant clusters. For example:</p>
-<p>| Strong grade | Weak grade | Meaning |
-|--------------|------------|---------|
-| <strong>leib</strong> [leib] | <strong>leiva</strong> [ˈleiʋɑ] | bread (nominative vs. genitive) |
-| <strong>sada</strong> [ˈsɑdɑ] | <strong>saja</strong> [ˈsɑjɑ] | hundred (nominative vs. genitive) |
-| <strong>lukk</strong> [lukː] | <strong>luku</strong> [ˈluku] | lock (nominative vs. genitive) |</p>
+<table>
+<thead>
+<tr>
+  <th>Strong grade</th>
+  <th>Weak grade</th>
+  <th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>leib</strong> [leib]</td>
+  <td><strong>leiva</strong> [ˈleiʋɑ]</td>
+  <td>bread (nominative vs. genitive)</td>
+</tr>
+<tr>
+  <td><strong>sada</strong> [ˈsɑdɑ]</td>
+  <td><strong>saja</strong> [ˈsɑjɑ]</td>
+  <td>hundred (nominative vs. genitive)</td>
+</tr>
+<tr>
+  <td><strong>lukk</strong> [lukː]</td>
+  <td><strong>luku</strong> [ˈluku]</td>
+  <td>lock (nominative vs. genitive)</td>
+</tr>
+</tbody>
+</table>
 <h3>Stress</h3>
 <p>The primary stress in Estonian words is usually on the first syllable: <strong>jalgratas</strong> [ˈjɑlɡrɑtɑs] (bicycle), <strong>õpetaja</strong> [ˈɤpetɑjɑ] (teacher).</p>
 <p>In compound words, each component usually retains its stress: <strong>raud·tee·jaam</strong> [ˈrɑudˌteːˈjɑːm] (railway station).</p>
@@ -106,22 +317,102 @@
 <p>Estonian nouns do not have grammatical gender. They are declined for number (singular and plural) and 14 cases.</p>
 <h4>Cases</h4>
 <p>Here's an overview of the Estonian cases, using the word <strong>kass</strong> (cat) as an example:</p>
-<p>| Case | Singular | Plural | Usage |
-|------|----------|--------|-------|
-| Nominative | <strong>kass</strong> | <strong>kassid</strong> | Subject of sentence |
-| Genitive | <strong>kassi</strong> | <strong>kasside</strong> | Possession, object of some postpositions |
-| Partitive | <strong>kassi</strong> | <strong>kasse</strong> | Partial object, after numbers |
-| Illative | <strong>kassisse</strong> | <strong>kassidesse</strong> | Motion into |
-| Inessive | <strong>kassis</strong> | <strong>kassides</strong> | Location inside |
-| Elative | <strong>kassist</strong> | <strong>kassidest</strong> | Motion out of |
-| Allative | <strong>kassile</strong> | <strong>kassidele</strong> | Motion onto |
-| Adessive | <strong>kassil</strong> | <strong>kassidel</strong> | Location on |
-| Ablative | <strong>kassilt</strong> | <strong>kassidelt</strong> | Motion off of |
-| Translative | <strong>kassiks</strong> | <strong>kassideks</strong> | Change of state |
-| Terminative | <strong>kassini</strong> | <strong>kassideni</strong> | Motion up to |
-| Essive | <strong>kassina</strong> | <strong>kassidena</strong> | State or capacity |
-| Abessive | <strong>kassita</strong> | <strong>kassideta</strong> | Lack of something |
-| Comitative | <strong>kassiga</strong> | <strong>kassidega</strong> | Accompaniment |</p>
+<table>
+<thead>
+<tr>
+  <th>Case</th>
+  <th>Singular</th>
+  <th>Plural</th>
+  <th>Usage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Nominative</td>
+  <td><strong>kass</strong></td>
+  <td><strong>kassid</strong></td>
+  <td>Subject of sentence</td>
+</tr>
+<tr>
+  <td>Genitive</td>
+  <td><strong>kassi</strong></td>
+  <td><strong>kasside</strong></td>
+  <td>Possession, object of some postpositions</td>
+</tr>
+<tr>
+  <td>Partitive</td>
+  <td><strong>kassi</strong></td>
+  <td><strong>kasse</strong></td>
+  <td>Partial object, after numbers</td>
+</tr>
+<tr>
+  <td>Illative</td>
+  <td><strong>kassisse</strong></td>
+  <td><strong>kassidesse</strong></td>
+  <td>Motion into</td>
+</tr>
+<tr>
+  <td>Inessive</td>
+  <td><strong>kassis</strong></td>
+  <td><strong>kassides</strong></td>
+  <td>Location inside</td>
+</tr>
+<tr>
+  <td>Elative</td>
+  <td><strong>kassist</strong></td>
+  <td><strong>kassidest</strong></td>
+  <td>Motion out of</td>
+</tr>
+<tr>
+  <td>Allative</td>
+  <td><strong>kassile</strong></td>
+  <td><strong>kassidele</strong></td>
+  <td>Motion onto</td>
+</tr>
+<tr>
+  <td>Adessive</td>
+  <td><strong>kassil</strong></td>
+  <td><strong>kassidel</strong></td>
+  <td>Location on</td>
+</tr>
+<tr>
+  <td>Ablative</td>
+  <td><strong>kassilt</strong></td>
+  <td><strong>kassidelt</strong></td>
+  <td>Motion off of</td>
+</tr>
+<tr>
+  <td>Translative</td>
+  <td><strong>kassiks</strong></td>
+  <td><strong>kassideks</strong></td>
+  <td>Change of state</td>
+</tr>
+<tr>
+  <td>Terminative</td>
+  <td><strong>kassini</strong></td>
+  <td><strong>kassideni</strong></td>
+  <td>Motion up to</td>
+</tr>
+<tr>
+  <td>Essive</td>
+  <td><strong>kassina</strong></td>
+  <td><strong>kassidena</strong></td>
+  <td>State or capacity</td>
+</tr>
+<tr>
+  <td>Abessive</td>
+  <td><strong>kassita</strong></td>
+  <td><strong>kassideta</strong></td>
+  <td>Lack of something</td>
+</tr>
+<tr>
+  <td>Comitative</td>
+  <td><strong>kassiga</strong></td>
+  <td><strong>kassidega</strong></td>
+  <td>Accompaniment</td>
+</tr>
+</tbody>
+</table>
 <p>Examples of case usage:</p>
 <ol>
 <li>Nominative: <strong>Kass</strong> magab. (The cat is sleeping.)</li>
@@ -142,34 +433,34 @@
 <h4>Declension types</h4>
 <p>Estonian nouns are divided into several declension types based on their inflection patterns. Here are a few examples:</p>
 <ol>
-<li>Words like <strong>kala</strong> (fish):</li>
+<li><p>Words like <strong>kala</strong> (fish):</p>
+<ul>
 <li>Nominative: <strong>kala</strong></li>
 <li>Genitive: <strong>kala</strong></li>
-<li>
-<p>Partitive: <strong>kala</strong></p>
+<li>Partitive: <strong>kala</strong></li>
+</ul>
 </li>
-<li>
-<p>Words like <strong>õpik</strong> (textbook):</p>
-</li>
+<li><p>Words like <strong>õpik</strong> (textbook):</p>
+<ul>
 <li>Nominative: <strong>õpik</strong></li>
 <li>Genitive: <strong>õpiku</strong></li>
-<li>
-<p>Partitive: <strong>õpikut</strong></p>
+<li>Partitive: <strong>õpikut</strong></li>
+</ul>
 </li>
-<li>
-<p>Words like <strong>käsi</strong> (hand):</p>
-</li>
+<li><p>Words like <strong>käsi</strong> (hand):</p>
+<ul>
 <li>Nominative: <strong>käsi</strong></li>
 <li>Genitive: <strong>käe</strong></li>
-<li>
-<p>Partitive: <strong>kätt</strong></p>
+<li>Partitive: <strong>kätt</strong></li>
+</ul>
 </li>
-<li>
-<p>Words like <strong>uus</strong> (new):</p>
-</li>
+<li><p>Words like <strong>uus</strong> (new):</p>
+<ul>
 <li>Nominative: <strong>uus</strong></li>
 <li>Genitive: <strong>uue</strong></li>
 <li>Partitive: <strong>uut</strong></li>
+</ul>
+</li>
 </ol>
 <h3>Adjectives</h3>
 <p>Adjectives in Estonian agree with the nouns they modify in case and number. They typically precede the noun:</p>
@@ -186,14 +477,54 @@
 </ul>
 <h3>Pronouns</h3>
 <p>Personal pronouns in Estonian:</p>
-<p>| Person | Nominative | Genitive | Partitive |
-|--------|------------|----------|-----------|
-| 1sg | <strong>mina</strong>/<strong>ma</strong> | <strong>minu</strong>/<strong>mu</strong> | <strong>mind</strong> |
-| 2sg | <strong>sina</strong>/<strong>sa</strong> | <strong>sinu</strong>/<strong>su</strong> | <strong>sind</strong> |
-| 3sg | <strong>tema</strong>/<strong>ta</strong> | <strong>tema</strong>/<strong>ta</strong> | <strong>teda</strong> |
-| 1pl | <strong>meie</strong>/<strong>me</strong> | <strong>meie</strong> | <strong>meid</strong> |
-| 2pl | <strong>teie</strong>/<strong>te</strong> | <strong>teie</strong> | <strong>teid</strong> |
-| 3pl | <strong>nemad</strong>/<strong>nad</strong> | <strong>nende</strong> | <strong>neid</strong> |</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Nominative</th>
+  <th>Genitive</th>
+  <th>Partitive</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1sg</td>
+  <td><strong>mina</strong>/<strong>ma</strong></td>
+  <td><strong>minu</strong>/<strong>mu</strong></td>
+  <td><strong>mind</strong></td>
+</tr>
+<tr>
+  <td>2sg</td>
+  <td><strong>sina</strong>/<strong>sa</strong></td>
+  <td><strong>sinu</strong>/<strong>su</strong></td>
+  <td><strong>sind</strong></td>
+</tr>
+<tr>
+  <td>3sg</td>
+  <td><strong>tema</strong>/<strong>ta</strong></td>
+  <td><strong>tema</strong>/<strong>ta</strong></td>
+  <td><strong>teda</strong></td>
+</tr>
+<tr>
+  <td>1pl</td>
+  <td><strong>meie</strong>/<strong>me</strong></td>
+  <td><strong>meie</strong></td>
+  <td><strong>meid</strong></td>
+</tr>
+<tr>
+  <td>2pl</td>
+  <td><strong>teie</strong>/<strong>te</strong></td>
+  <td><strong>teie</strong></td>
+  <td><strong>teid</strong></td>
+</tr>
+<tr>
+  <td>3pl</td>
+  <td><strong>nemad</strong>/<strong>nad</strong></td>
+  <td><strong>nende</strong></td>
+  <td><strong>neid</strong></td>
+</tr>
+</tbody>
+</table>
 <p>Demonstrative pronouns:</p>
 <ul>
 <li><strong>see</strong> (this, that - for near objects)</li>
@@ -235,39 +566,127 @@
 <p>Estonian verbs are conjugated for person, number, tense, mood, and voice. They do not distinguish gender.</p>
 <h4>Present tense</h4>
 <p>The present tense of the verb <strong>olema</strong> (to be):</p>
-<p>| Person | Singular | Plural |
-|--------|----------|--------|
-| 1st | <strong>olen</strong> | <strong>oleme</strong> |
-| 2nd | <strong>oled</strong> | <strong>olete</strong> |
-| 3rd | <strong>on</strong> | <strong>on</strong> |</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st</td>
+  <td><strong>olen</strong></td>
+  <td><strong>oleme</strong></td>
+</tr>
+<tr>
+  <td>2nd</td>
+  <td><strong>oled</strong></td>
+  <td><strong>olete</strong></td>
+</tr>
+<tr>
+  <td>3rd</td>
+  <td><strong>on</strong></td>
+  <td><strong>on</strong></td>
+</tr>
+</tbody>
+</table>
 <p>Example with the verb <strong>rääkima</strong> (to speak):</p>
-<p>| Person | Singular | Plural |
-|--------|----------|--------|
-| 1st | <strong>räägin</strong> | <strong>räägime</strong> |
-| 2nd | <strong>räägid</strong> | <strong>räägite</strong> |
-| 3rd | <strong>räägib</strong> | <strong>räägivad</strong> |</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st</td>
+  <td><strong>räägin</strong></td>
+  <td><strong>räägime</strong></td>
+</tr>
+<tr>
+  <td>2nd</td>
+  <td><strong>räägid</strong></td>
+  <td><strong>räägite</strong></td>
+</tr>
+<tr>
+  <td>3rd</td>
+  <td><strong>räägib</strong></td>
+  <td><strong>räägivad</strong></td>
+</tr>
+</tbody>
+</table>
 <h4>Past tense</h4>
 <p>Estonian has several past tenses. The most common is the simple past (imperfect):</p>
 <p><strong>olema</strong> (to be) in simple past:</p>
-<p>| Person | Singular | Plural |
-|--------|----------|--------|
-| 1st | <strong>olin</strong> | <strong>olime</strong> |
-| 2nd | <strong>olid</strong> | <strong>olite</strong> |
-| 3rd | <strong>oli</strong> | <strong>olid</strong> |</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st</td>
+  <td><strong>olin</strong></td>
+  <td><strong>olime</strong></td>
+</tr>
+<tr>
+  <td>2nd</td>
+  <td><strong>olid</strong></td>
+  <td><strong>olite</strong></td>
+</tr>
+<tr>
+  <td>3rd</td>
+  <td><strong>oli</strong></td>
+  <td><strong>olid</strong></td>
+</tr>
+</tbody>
+</table>
 <p><strong>rääkima</strong> (to speak) in simple past:</p>
-<p>| Person | Singular | Plural |
-|--------|----------|--------|
-| 1st | <strong>rääkisin</strong> | <strong>rääkisime</strong> |
-| 2nd | <strong>rääkisid</strong> | <strong>rääkisite</strong> |
-| 3rd | <strong>rääkis</strong> | <strong>rääkisid</strong> |</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st</td>
+  <td><strong>rääkisin</strong></td>
+  <td><strong>rääkisime</strong></td>
+</tr>
+<tr>
+  <td>2nd</td>
+  <td><strong>rääkisid</strong></td>
+  <td><strong>rääkisite</strong></td>
+</tr>
+<tr>
+  <td>3rd</td>
+  <td><strong>rääkis</strong></td>
+  <td><strong>rääkisid</strong></td>
+</tr>
+</tbody>
+</table>
 <h4>Perfect tenses</h4>
 <p>Perfect tenses are formed using the auxiliary verb <strong>olema</strong> (to be) and the past participle of the main verb:</p>
-<p>Present perfect of <strong>rääkima</strong> (to speak):
-- <strong>Ma olen rääkinud</strong> (I have spoken)
-- <strong>Sa oled rääkinud</strong> (You have spoken)
-- <strong>Ta on rääkinud</strong> (He/She has spoken)</p>
-<p>Past perfect:
-- <strong>Ma olin rääkinud</strong> (I had spoken)</p>
+<p>Present perfect of <strong>rääkima</strong> (to speak):</p>
+<ul>
+<li><strong>Ma olen rääkinud</strong> (I have spoken)</li>
+<li><strong>Sa oled rääkinud</strong> (You have spoken)</li>
+<li><strong>Ta on rääkinud</strong> (He/She has spoken)</li>
+</ul>
+<p>Past perfect:</p>
+<ul>
+<li><strong>Ma olin rääkinud</strong> (I had spoken)</li>
+</ul>
 <h4>Future tense</h4>
 <p>Estonian does not have a separate future tense. The present tense is used to express future actions, often with time adverbs for clarity:</p>
 <ul>
@@ -282,10 +701,14 @@
 <h4>Imperative mood</h4>
 <p>The imperative is formed differently for second person singular and plural:</p>
 <ul>
-<li>2nd person singular: Use the stem of the verb</li>
+<li>2nd person singular: Use the stem of the verb<ul>
 <li><strong>räägi!</strong> (speak!)</li>
-<li>2nd person plural: Add <strong>-ge</strong> or <strong>-ke</strong> to the stem</li>
+</ul>
+</li>
+<li>2nd person plural: Add <strong>-ge</strong> or <strong>-ke</strong> to the stem<ul>
 <li><strong>rääkige!</strong> (speak! - to multiple people)</li>
+</ul>
+</li>
 </ul>
 <h4>Infinitives</h4>
 <p>Estonian has several infinitive forms:</p>
@@ -319,20 +742,17 @@
 <p>Estonian is primarily an SVO (Subject-Verb-Object) language, but word order can be flexible due to its extensive case system. The word order can change for emphasis or stylistic reasons.</p>
 <h3>Basic word order</h3>
 <ol>
-<li>
-<p>SVO (Subject-Verb-Object):
-   <strong>Ma</strong> (S) <strong>ostsin</strong> (V) <strong>raamatu</strong> (O).
-   (I bought a book.)</p>
+<li><p>SVO (Subject-Verb-Object):
+<strong>Ma</strong> (S) <strong>ostsin</strong> (V) <strong>raamatu</strong> (O).
+(I bought a book.)</p>
 </li>
-<li>
-<p>OSV (for emphasis on the object):
-   <strong>Raamatu</strong> (O) <strong>ma</strong> (S) <strong>ostsin</strong> (V).
-   (It was a book that I bought.)</p>
+<li><p>OSV (for emphasis on the object):
+<strong>Raamatu</strong> (O) <strong>ma</strong> (S) <strong>ostsin</strong> (V).
+(It was a book that I bought.)</p>
 </li>
-<li>
-<p>VSO (in questions):
-   <strong>Ostsin</strong> (V) <strong>ma</strong> (S) <strong>raamatu</strong> (O)?
-   (Did I buy a book?)</p>
+<li><p>VSO (in questions):
+<strong>Ostsin</strong> (V) <strong>ma</strong> (S) <strong>raamatu</strong> (O)?
+(Did I buy a book?)</p>
 </li>
 </ol>
 <h3>Negation</h3>
@@ -370,25 +790,20 @@
 <h2>Vocabulary</h2>
 <p>Estonian vocabulary has been influenced by various languages throughout its history. Some common sources of loanwords include:</p>
 <ol>
-<li>
-<p>German: due to historical dominance of Baltic Germans
-   Example: <strong>kartul</strong> (potato) from German "Kartoffel"</p>
+<li><p>German: due to historical dominance of Baltic Germans
+Example: <strong>kartul</strong> (potato) from German &quot;Kartoffel&quot;</p>
 </li>
-<li>
-<p>Russian: due to Soviet occupation and proximity
-   Example: <strong>puskar</strong> (moonshine) from Russian "пушка" (pushka)</p>
+<li><p>Russian: due to Soviet occupation and proximity
+Example: <strong>puskar</strong> (moonshine) from Russian &quot;пушка&quot; (pushka)</p>
 </li>
-<li>
-<p>Finnish: due to linguistic proximity
-   Example: <strong>pere</strong> (family) cognate with Finnish "perhe"</p>
+<li><p>Finnish: due to linguistic proximity
+Example: <strong>pere</strong> (family) cognate with Finnish &quot;perhe&quot;</p>
 </li>
-<li>
-<p>English: especially in modern technology and pop culture
-   Example: <strong>arvuti</strong> (computer)</p>
+<li><p>English: especially in modern technology and pop culture
+Example: <strong>arvuti</strong> (computer)</p>
 </li>
-<li>
-<p>Swedish: due to historical rule
-   Example: <strong>reede</strong> (Friday) from Swedish "fredag"</p>
+<li><p>Swedish: due to historical rule
+Example: <strong>reede</strong> (Friday) from Swedish &quot;fredag&quot;</p>
 </li>
 </ol>
 <p>Many Finno-Ugric roots are shared across Estonian and other Uralic languages, which can be helpful for learners familiar with Finnish or Hungarian.</p>
@@ -396,41 +811,43 @@
 <p>Colloquial Estonian differs from the standard written language in several ways:</p>
 <h3>Pronunciation</h3>
 <ol>
-<li>Vowel harmony: In some dialects, vowels in unstressed syllables may change to match the vowels in stressed syllables:</li>
-<li>
-<p>Standard: <strong>õpetaja</strong> [ɤpetɑjɑ] -&gt; Colloquial: [ɤpetæjæ] (teacher)</p>
+<li><p>Vowel harmony: In some dialects, vowels in unstressed syllables may change to match the vowels in stressed syllables:</p>
+<ul>
+<li>Standard: <strong>õpetaja</strong> [ɤpetɑjɑ] -&gt; Colloquial: [ɤpetæjæ] (teacher)</li>
+</ul>
 </li>
-<li>
-<p>Consonant weakening: Some consonants may be weakened or dropped in rapid speech:</p>
-</li>
+<li><p>Consonant weakening: Some consonants may be weakened or dropped in rapid speech:</p>
+<ul>
 <li>Standard: <strong>ütleb</strong> [ˈytleb] -&gt; Colloquial: [ˈytlev] or [ˈytlev̥] (says)</li>
+</ul>
+</li>
 </ol>
 <h3>Grammar</h3>
 <ol>
-<li>Shortened pronouns: Personal pronouns are often shortened in colloquial speech:</li>
+<li><p>Shortened pronouns: Personal pronouns are often shortened in colloquial speech:</p>
+<ul>
 <li><strong>mina</strong> -&gt; <strong>ma</strong> (I)</li>
-<li>
-<p><strong>sina</strong> -&gt; <strong>sa</strong> (you)</p>
+<li><strong>sina</strong> -&gt; <strong>sa</strong> (you)</li>
+</ul>
 </li>
-<li>
-<p>Particle usage: Colloquial Estonian makes heavy use of particles for emphasis or to convey subtle meanings:</p>
-</li>
+<li><p>Particle usage: Colloquial Estonian makes heavy use of particles for emphasis or to convey subtle meanings:</p>
+<ul>
 <li><strong>ju</strong> (implies shared knowledge): <strong>Ta on ju haige.</strong> (He's sick, you know.)</li>
-<li>
-<p><strong>küll</strong> (emphasis): <strong>Küll ma tean!</strong> (I certainly know!)</p>
+<li><strong>küll</strong> (emphasis): <strong>Küll ma tean!</strong> (I certainly know!)</li>
+</ul>
 </li>
-<li>
-<p>Simplified case usage: Some cases might be replaced with simpler constructions:</p>
-</li>
+<li><p>Simplified case usage: Some cases might be replaced with simpler constructions:</p>
+<ul>
 <li>Standard: <strong>Lähen poodi.</strong> (I'm going to the store. - Illative case)</li>
-<li>
-<p>Colloquial: <strong>Lähen poodi peale.</strong> (I'm going to the store. - Adessive case with postposition)</p>
+<li>Colloquial: <strong>Lähen poodi peale.</strong> (I'm going to the store. - Adessive case with postposition)</li>
+</ul>
 </li>
-<li>
-<p>Contracted forms: Some common phrases are contracted in speech:</p>
-</li>
+<li><p>Contracted forms: Some common phrases are contracted in speech:</p>
+<ul>
 <li><strong>ei ole</strong> -&gt; <strong>pole</strong> (is not)</li>
 <li><strong>ära tee</strong> -&gt; <strong>ärka</strong> (don't do)</li>
+</ul>
+</li>
 </ol>
 <h3>Vocabulary</h3>
 <p>Colloquial Estonian includes many slang terms and loanwords not found in formal language:</p>
@@ -442,19 +859,21 @@
 <h2>Dialects</h2>
 <p>Estonian has two main dialect groups: North Estonian and South Estonian. The standard language is based on the North Estonian dialect.</p>
 <ol>
-<li>North Estonian dialects:</li>
+<li><p>North Estonian dialects:</p>
+<ul>
 <li>Central dialect (basis for standard Estonian)</li>
 <li>Eastern dialect</li>
 <li>Western dialect</li>
-<li>
-<p>Insular dialect</p>
+<li>Insular dialect</li>
+</ul>
 </li>
-<li>
-<p>South Estonian dialects:</p>
-</li>
+<li><p>South Estonian dialects:</p>
+<ul>
 <li>Mulgi dialect</li>
 <li>Tartu dialect</li>
 <li>Võru dialect (sometimes considered a separate language)</li>
+</ul>
+</li>
 </ol>
 <p>The Võru dialect, spoken in southeastern Estonia, is particularly distinct and has its own literary tradition.</p>
 <h2>Writing system</h2>
@@ -463,30 +882,30 @@
 <p>The letters C, Q, W, X and Y are used only in foreign words and names.</p>
 <h3>Orthography rules</h3>
 <ol>
-<li>Vowel length: Long vowels are indicated by doubling the vowel letter:</li>
+<li><p>Vowel length: Long vowels are indicated by doubling the vowel letter:</p>
+<ul>
 <li><strong>kool</strong> [koːl] (school)</li>
-<li>
-<p><strong>uus</strong> [uːs] (new)</p>
+<li><strong>uus</strong> [uːs] (new)</li>
+</ul>
 </li>
-<li>
-<p>Consonant length: Long consonants are indicated by doubling the consonant letter:</p>
-</li>
+<li><p>Consonant length: Long consonants are indicated by doubling the consonant letter:</p>
+<ul>
 <li><strong>kass</strong> [kɑsː] (cat)</li>
-<li>
-<p><strong>pikk</strong> [pikː] (long)</p>
+<li><strong>pikk</strong> [pikː] (long)</li>
+</ul>
 </li>
-<li>
-<p>Compound words: Generally written as one word without hyphens:</p>
-</li>
+<li><p>Compound words: Generally written as one word without hyphens:</p>
+<ul>
 <li><strong>raudtee</strong> (railway)</li>
-<li>
-<p><strong>külmkapp</strong> (refrigerator)</p>
+<li><strong>külmkapp</strong> (refrigerator)</li>
+</ul>
 </li>
-<li>
-<p>Foreign words: Often adapted to Estonian phonology and orthography:</p>
-</li>
+<li><p>Foreign words: Often adapted to Estonian phonology and orthography:</p>
+<ul>
 <li><strong>šokolaad</strong> (chocolate)</li>
 <li><strong>džungel</strong> (jungle)</li>
+</ul>
+</li>
 </ol>
 <h2>Idiomatic expressions</h2>
 <p>Estonian has many idiomatic expressions that might be challenging for learners:</p>
@@ -503,35 +922,48 @@
 <li>Informal: <strong>sina</strong> form (you - singular)</li>
 <li>Formal: <strong>teie</strong> form (you - plural, used for formal singular as well)</li>
 </ul>
-<p>Example:
-- Informal: <strong>Kuidas sa elad?</strong> (How are you?)
-- Formal: <strong>Kuidas Te elate?</strong> (How are you? - formal)</p>
+<p>Example:</p>
+<ul>
+<li>Informal: <strong>Kuidas sa elad?</strong> (How are you?)</li>
+<li>Formal: <strong>Kuidas Te elate?</strong> (How are you? - formal)</li>
+</ul>
 <p>Politeness is often expressed through the use of the conditional mood:</p>
 <ul>
 <li><strong>Kas sa võiksid mulle seda ulatada?</strong> (Could you pass me that?)</li>
 </ul>
 <h2>Numbers and time</h2>
 <ol>
-<li>Telling time:</li>
+<li><p>Telling time:</p>
+<ul>
 <li><strong>Kell on kolm.</strong> (It's three o'clock.)</li>
 <li><strong>Kell on pool neli.</strong> (It's half past three.)</li>
-<li>
-<p><strong>Kell on veerand neli.</strong> (It's quarter past three.)</p>
+<li><strong>Kell on veerand neli.</strong> (It's quarter past three.)</li>
+</ul>
 </li>
-<li>
-<p>Dates:</p>
-</li>
+<li><p>Dates:</p>
+<ul>
 <li><strong>23. veebruar 2023</strong> (23rd February 2023)</li>
-<li>
-<p>Months are not capitalized in Estonian</p>
+<li>Months are not capitalized in Estonian</li>
+</ul>
 </li>
-<li>
-<p>Cardinal numbers govern the partitive case singular:</p>
-</li>
+<li><p>Cardinal numbers govern the partitive case singular:</p>
+<ul>
 <li><strong>üks raamat</strong> (one book - nominative)</li>
 <li><strong>kaks raamatut</strong> (two books - partitive singular)</li>
 <li><strong>viis raamatut</strong> (five books - partitive singular)</li>
+</ul>
+</li>
 </ol>
+
       </div>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-TXC94JMN4X"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TXC94JMN4X');
+      </script>
 </body>
 </html>

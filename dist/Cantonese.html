@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Instant Polyglot</title>
     <link rel="stylesheet" href="../bootstrap.min.css">
+    <link rel="stylesheet" href="../styles.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -45,105 +46,270 @@
 <li>Low rising: 23 (ˇ)</li>
 <li>Low level: 22 (.)</li>
 </ol>
-<p>Examples:
-- <strong>詩</strong> (si1) "poem" [siː˥]
-- <strong>史</strong> (si2) "history" [siː˧˥]
-- <strong>試</strong> (si3) "to try" [siː˧]
-- <strong>時</strong> (si4) "time" [siː˨˩]
-- <strong>市</strong> (si5) "market" [siː˩˧]
-- <strong>是</strong> (si6) "to be" [siː˨]</p>
+<p>Examples:</p>
+<ul>
+<li><strong>詩</strong> (si1) &quot;poem&quot; [siː˥]</li>
+<li><strong>史</strong> (si2) &quot;history&quot; [siː˧˥]</li>
+<li><strong>試</strong> (si3) &quot;to try&quot; [siː˧]</li>
+<li><strong>時</strong> (si4) &quot;time&quot; [siː˨˩]</li>
+<li><strong>市</strong> (si5) &quot;market&quot; [siː˩˧]</li>
+<li><strong>是</strong> (si6) &quot;to be&quot; [siː˨]</li>
+</ul>
 <h3>Consonants</h3>
 <p>Cantonese has 19 consonant phonemes:</p>
-<p>| IPA | Jyutping | Example |
-|-----|----------|---------|
-| p | b | <strong>爸</strong> (baa1) "father" |
-| pʰ | p | <strong>怕</strong> (paa3) "to fear" |
-| t | d | <strong>打</strong> (daa2) "to hit" |
-| tʰ | t | <strong>他</strong> (taa1) "he" |
-| k | g | <strong>家</strong> (gaa1) "family" |
-| kʰ | k | <strong>卡</strong> (kaa1) "card" |
-| kʷ | gw | <strong>瓜</strong> (gwaa1) "melon" |
-| kʷʰ | kw | <strong>誇</strong> (kwaa1) "to boast" |
-| ts | z | <strong>遮</strong> (ze1) "to cover" |
-| tsʰ | c | <strong>車</strong> (ce1) "car" |
-| f | f | <strong>花</strong> (faa1) "flower" |
-| s | s | <strong>沙</strong> (saa1) "sand" |
-| h | h | <strong>下</strong> (haa6) "below" |
-| m | m | <strong>媽</strong> (maa1) "mother" |
-| n | n | <strong>那</strong> (naa5) "that" |
-| ŋ | ng | <strong>牙</strong> (ngaa4) "tooth" |
-| l | l | <strong>啦</strong> (laa1) "particle" |
-| j | j | <strong>也</strong> (jaa5) "also" |
-| w | w | <strong>話</strong> (waa6) "speech" |</p>
+<table>
+<thead>
+<tr>
+  <th>IPA</th>
+  <th>Jyutping</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>p</td>
+  <td>b</td>
+  <td><strong>爸</strong> (baa1) &quot;father&quot;</td>
+</tr>
+<tr>
+  <td>pʰ</td>
+  <td>p</td>
+  <td><strong>怕</strong> (paa3) &quot;to fear&quot;</td>
+</tr>
+<tr>
+  <td>t</td>
+  <td>d</td>
+  <td><strong>打</strong> (daa2) &quot;to hit&quot;</td>
+</tr>
+<tr>
+  <td>tʰ</td>
+  <td>t</td>
+  <td><strong>他</strong> (taa1) &quot;he&quot;</td>
+</tr>
+<tr>
+  <td>k</td>
+  <td>g</td>
+  <td><strong>家</strong> (gaa1) &quot;family&quot;</td>
+</tr>
+<tr>
+  <td>kʰ</td>
+  <td>k</td>
+  <td><strong>卡</strong> (kaa1) &quot;card&quot;</td>
+</tr>
+<tr>
+  <td>kʷ</td>
+  <td>gw</td>
+  <td><strong>瓜</strong> (gwaa1) &quot;melon&quot;</td>
+</tr>
+<tr>
+  <td>kʷʰ</td>
+  <td>kw</td>
+  <td><strong>誇</strong> (kwaa1) &quot;to boast&quot;</td>
+</tr>
+<tr>
+  <td>ts</td>
+  <td>z</td>
+  <td><strong>遮</strong> (ze1) &quot;to cover&quot;</td>
+</tr>
+<tr>
+  <td>tsʰ</td>
+  <td>c</td>
+  <td><strong>車</strong> (ce1) &quot;car&quot;</td>
+</tr>
+<tr>
+  <td>f</td>
+  <td>f</td>
+  <td><strong>花</strong> (faa1) &quot;flower&quot;</td>
+</tr>
+<tr>
+  <td>s</td>
+  <td>s</td>
+  <td><strong>沙</strong> (saa1) &quot;sand&quot;</td>
+</tr>
+<tr>
+  <td>h</td>
+  <td>h</td>
+  <td><strong>下</strong> (haa6) &quot;below&quot;</td>
+</tr>
+<tr>
+  <td>m</td>
+  <td>m</td>
+  <td><strong>媽</strong> (maa1) &quot;mother&quot;</td>
+</tr>
+<tr>
+  <td>n</td>
+  <td>n</td>
+  <td><strong>那</strong> (naa5) &quot;that&quot;</td>
+</tr>
+<tr>
+  <td>ŋ</td>
+  <td>ng</td>
+  <td><strong>牙</strong> (ngaa4) &quot;tooth&quot;</td>
+</tr>
+<tr>
+  <td>l</td>
+  <td>l</td>
+  <td><strong>啦</strong> (laa1) &quot;particle&quot;</td>
+</tr>
+<tr>
+  <td>j</td>
+  <td>j</td>
+  <td><strong>也</strong> (jaa5) &quot;also&quot;</td>
+</tr>
+<tr>
+  <td>w</td>
+  <td>w</td>
+  <td><strong>話</strong> (waa6) &quot;speech&quot;</td>
+</tr>
+</tbody>
+</table>
 <h3>Vowels</h3>
 <p>Cantonese has 11 vowel phonemes:</p>
-<p>| IPA | Jyutping | Example |
-|-----|----------|---------|
-| iː | i | <strong>衣</strong> (ji1) "clothes" |
-| yː | yu | <strong>魚</strong> (jyu4) "fish" |
-| ɛː | e | <strong>車</strong> (ce1) "car" |
-| œː | oe | <strong>靴</strong> (hoe1) "boot" |
-| aː | aa | <strong>爸</strong> (baa1) "father" |
-| ɔː | o | <strong>波</strong> (bo1) "wave" |
-| uː | u | <strong>湖</strong> (wu4) "lake" |
-| ɪ | i | <strong>錫</strong> (sek3) "tin" |
-| ʊ | u | <strong>六</strong> (luk6) "six" |
-| ɵ | eo | <strong>率</strong> (seot1) "rate" |
-| ɐ | a | <strong>隻</strong> (zek3) "classifier" |</p>
+<table>
+<thead>
+<tr>
+  <th>IPA</th>
+  <th>Jyutping</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>iː</td>
+  <td>i</td>
+  <td><strong>衣</strong> (ji1) &quot;clothes&quot;</td>
+</tr>
+<tr>
+  <td>yː</td>
+  <td>yu</td>
+  <td><strong>魚</strong> (jyu4) &quot;fish&quot;</td>
+</tr>
+<tr>
+  <td>ɛː</td>
+  <td>e</td>
+  <td><strong>車</strong> (ce1) &quot;car&quot;</td>
+</tr>
+<tr>
+  <td>œː</td>
+  <td>oe</td>
+  <td><strong>靴</strong> (hoe1) &quot;boot&quot;</td>
+</tr>
+<tr>
+  <td>aː</td>
+  <td>aa</td>
+  <td><strong>爸</strong> (baa1) &quot;father&quot;</td>
+</tr>
+<tr>
+  <td>ɔː</td>
+  <td>o</td>
+  <td><strong>波</strong> (bo1) &quot;wave&quot;</td>
+</tr>
+<tr>
+  <td>uː</td>
+  <td>u</td>
+  <td><strong>湖</strong> (wu4) &quot;lake&quot;</td>
+</tr>
+<tr>
+  <td>ɪ</td>
+  <td>i</td>
+  <td><strong>錫</strong> (sek3) &quot;tin&quot;</td>
+</tr>
+<tr>
+  <td>ʊ</td>
+  <td>u</td>
+  <td><strong>六</strong> (luk6) &quot;six&quot;</td>
+</tr>
+<tr>
+  <td>ɵ</td>
+  <td>eo</td>
+  <td><strong>率</strong> (seot1) &quot;rate&quot;</td>
+</tr>
+<tr>
+  <td>ɐ</td>
+  <td>a</td>
+  <td><strong>隻</strong> (zek3) &quot;classifier&quot;</td>
+</tr>
+</tbody>
+</table>
 <h3>Syllable structure</h3>
 <p>Cantonese syllables follow the structure (C)V(C), where C is a consonant and V is a vowel or diphthong. The possible syllable-final consonants are [m], [n], [ŋ], [p], [t], and [k].</p>
-<p>Examples:
-- <strong>蛋</strong> (daan2) "egg" [taːn˧˥]
-- <strong>飯</strong> (faan6) "rice" [faːn˨]
-- <strong>熱</strong> (jit6) "hot" [jɐt̚˨]
-- <strong>葉</strong> (jip6) "leaf" [jip̚˨]
-- <strong>角</strong> (gok3) "corner" [kɔːk̚˧]</p>
+<p>Examples:</p>
+<ul>
+<li><strong>蛋</strong> (daan2) &quot;egg&quot; [taːn˧˥]</li>
+<li><strong>飯</strong> (faan6) &quot;rice&quot; [faːn˨]</li>
+<li><strong>熱</strong> (jit6) &quot;hot&quot; [jɐt̚˨]</li>
+<li><strong>葉</strong> (jip6) &quot;leaf&quot; [jip̚˨]</li>
+<li><strong>角</strong> (gok3) &quot;corner&quot; [kɔːk̚˧]</li>
+</ul>
 <h2>Orthography</h2>
 <p>Cantonese is traditionally written using Traditional Chinese characters. However, there are also several romanization systems, with Jyutping and Yale being the most common.</p>
 <p>Example sentence in different systems:</p>
 <p>Traditional characters: 我喺香港住。
 Jyutping: ngo5 hai2 hoeng1 gong2 zyu6.
 Yale: ngóh hái hēung góng jyuh.
-English: "I live in Hong Kong."</p>
+English: &quot;I live in Hong Kong.&quot;</p>
 <p>Some characters are specific to written Cantonese and are not used in Standard Written Chinese:</p>
 <ul>
-<li><strong>佢</strong> (keoi5) "he/she/it"</li>
-<li><strong>嚟</strong> (lai4) "to come"</li>
-<li><strong>喺</strong> (hai2) "to be at"</li>
-<li><strong>唔</strong> (m4) "not"</li>
+<li><strong>佢</strong> (keoi5) &quot;he/she/it&quot;</li>
+<li><strong>嚟</strong> (lai4) &quot;to come&quot;</li>
+<li><strong>喺</strong> (hai2) &quot;to be at&quot;</li>
+<li><strong>唔</strong> (m4) &quot;not&quot;</li>
 </ul>
 <h2>Grammar</h2>
 <h3>Word order</h3>
 <p>Cantonese, like Mandarin, is an SVO (Subject-Verb-Object) language.</p>
 <p>Example:
 <strong>我食飯。</strong> (ngo5 sik6 faan6)
-"I eat rice."</p>
+&quot;I eat rice.&quot;</p>
 <h3>Nouns</h3>
 <p>Cantonese nouns do not inflect for number or case. Plurality can be expressed using classifiers or numbers.</p>
 <p>Example:
-<strong>一隻狗</strong> (jat1 zek3 gau2) "one dog"
-<strong>三隻狗</strong> (saam1 zek3 gau2) "three dogs"</p>
+<strong>一隻狗</strong> (jat1 zek3 gau2) &quot;one dog&quot;
+<strong>三隻狗</strong> (saam1 zek3 gau2) &quot;three dogs&quot;</p>
 <h3>Classifiers</h3>
 <p>Classifiers are used with nouns when counting or specifying quantities. Different nouns use different classifiers based on their shape, function, or other characteristics.</p>
-<p>Common classifiers:
-- <strong>個</strong> (go3): general classifier
-- <strong>隻</strong> (zek3): for animals, one of a pair
-- <strong>本</strong> (bun2): for books
-- <strong>張</strong> (zoeng1): for flat objects</p>
+<p>Common classifiers:</p>
+<ul>
+<li><strong>個</strong> (go3): general classifier</li>
+<li><strong>隻</strong> (zek3): for animals, one of a pair</li>
+<li><strong>本</strong> (bun2): for books</li>
+<li><strong>張</strong> (zoeng1): for flat objects</li>
+</ul>
 <p>Examples:
-<strong>一個人</strong> (jat1 go3 jan4) "one person"
-<strong>三隻貓</strong> (saam1 zek3 maau1) "three cats"
-<strong>五本書</strong> (ng5 bun2 syu1) "five books"</p>
+<strong>一個人</strong> (jat1 go3 jan4) &quot;one person&quot;
+<strong>三隻貓</strong> (saam1 zek3 maau1) &quot;three cats&quot;
+<strong>五本書</strong> (ng5 bun2 syu1) &quot;five books&quot;</p>
 <h3>Pronouns</h3>
 <p>Personal pronouns in Cantonese:</p>
-<p>| Person | Singular | Plural |
-|--------|----------|--------|
-| 1st | <strong>我</strong> (ngo5) | <strong>我哋</strong> (ngo5 dei6) |
-| 2nd | <strong>你</strong> (nei5) | <strong>你哋</strong> (nei5 dei6) |
-| 3rd | <strong>佢</strong> (keoi5) | <strong>佢哋</strong> (keoi5 dei6) |</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st</td>
+  <td><strong>我</strong> (ngo5)</td>
+  <td><strong>我哋</strong> (ngo5 dei6)</td>
+</tr>
+<tr>
+  <td>2nd</td>
+  <td><strong>你</strong> (nei5)</td>
+  <td><strong>你哋</strong> (nei5 dei6)</td>
+</tr>
+<tr>
+  <td>3rd</td>
+  <td><strong>佢</strong> (keoi5)</td>
+  <td><strong>佢哋</strong> (keoi5 dei6)</td>
+</tr>
+</tbody>
+</table>
 <p>Possessive pronouns are formed by adding the particle <strong>嘅</strong> (ge3) to personal pronouns:</p>
-<p><strong>我嘅書</strong> (ngo5 ge3 syu1) "my book"
-<strong>佢嘅朋友</strong> (keoi5 ge3 pang4 jau5) "his/her friend"</p>
+<p><strong>我嘅書</strong> (ngo5 ge3 syu1) &quot;my book&quot;
+<strong>佢嘅朋友</strong> (keoi5 ge3 pang4 jau5) &quot;his/her friend&quot;</p>
 <h3>Verbs</h3>
 <p>Cantonese verbs do not conjugate for person, number, or tense. Tense and aspect are expressed through context or particles.</p>
 <h4>Aspect particles</h4>
@@ -153,36 +319,36 @@ English: "I live in Hong Kong."</p>
 <li><strong>過</strong> (gwo3): experiential aspect</li>
 </ul>
 <p>Examples:
-<strong>我食緊飯。</strong> (ngo5 sik6 gan2 faan6) "I am eating."
-<strong>我食咗飯。</strong> (ngo5 sik6 zo2 faan6) "I have eaten."
-<strong>我食過飯。</strong> (ngo5 sik6 gwo3 faan6) "I have eaten before."</p>
+<strong>我食緊飯。</strong> (ngo5 sik6 gan2 faan6) &quot;I am eating.&quot;
+<strong>我食咗飯。</strong> (ngo5 sik6 zo2 faan6) &quot;I have eaten.&quot;
+<strong>我食過飯。</strong> (ngo5 sik6 gwo3 faan6) &quot;I have eaten before.&quot;</p>
 <h4>Serial verb constructions</h4>
 <p>Cantonese uses serial verb constructions, where two or more verbs are used in sequence without conjunctions.</p>
 <p>Example:
 <strong>我去買嘢食。</strong> (ngo5 heoi3 maai5 je5 sik6)
-"I go buy things to eat." (I'm going shopping for food.)</p>
+&quot;I go buy things to eat.&quot; (I'm going shopping for food.)</p>
 <h3>Adjectives</h3>
 <p>Adjectives in Cantonese can function as both attributive (before nouns) and predicative (after the copula 係 hai6).</p>
-<p>Attributive: <strong>大隻狗</strong> (daai6 zek3 gau2) "big dog"
-Predicative: <strong>隻狗係大隻嘅。</strong> (zek3 gau2 hai6 daai6 zek3 ge3) "The dog is big."</p>
+<p>Attributive: <strong>大隻狗</strong> (daai6 zek3 gau2) &quot;big dog&quot;
+Predicative: <strong>隻狗係大隻嘅。</strong> (zek3 gau2 hai6 daai6 zek3 ge3) &quot;The dog is big.&quot;</p>
 <p>Comparatives are formed using the particle <strong>過</strong> (gwo3):
-<strong>佢高過我。</strong> (keoi5 gou1 gwo3 ngo5) "He is taller than me."</p>
+<strong>佢高過我。</strong> (keoi5 gou1 gwo3 ngo5) &quot;He is taller than me.&quot;</p>
 <p>Superlatives use the adverb <strong>最</strong> (zeoi3):
-<strong>佢最高。</strong> (keoi5 zeoi3 gou1) "He is the tallest."</p>
+<strong>佢最高。</strong> (keoi5 zeoi3 gou1) &quot;He is the tallest.&quot;</p>
 <h3>Negation</h3>
 <p>The main negation particle in Cantonese is <strong>唔</strong> (m4), used before verbs and adjectives:</p>
-<p><strong>我唔食魚。</strong> (ngo5 m4 sik6 jyu4) "I don't eat fish."
-<strong>佢唔高。</strong> (keoi5 m4 gou1) "He is not tall."</p>
-<p>For the verb "to have" (有 jau5), the negation particle is <strong>冇</strong> (mou5):</p>
-<p><strong>我冇錢。</strong> (ngo5 mou5 cin2) "I don't have money."</p>
+<p><strong>我唔食魚。</strong> (ngo5 m4 sik6 jyu4) &quot;I don't eat fish.&quot;
+<strong>佢唔高。</strong> (keoi5 m4 gou1) &quot;He is not tall.&quot;</p>
+<p>For the verb &quot;to have&quot; (有 jau5), the negation particle is <strong>冇</strong> (mou5):</p>
+<p><strong>我冇錢。</strong> (ngo5 mou5 cin2) &quot;I don't have money.&quot;</p>
 <h3>Questions</h3>
 <p>Yes/no questions can be formed by adding the particle <strong>咩</strong> (me1) at the end of a statement:</p>
-<p><strong>你食咗飯咩？</strong> (nei5 sik6 zo2 faan6 me1) "Have you eaten?"</p>
+<p><strong>你食咗飯咩？</strong> (nei5 sik6 zo2 faan6 me1) &quot;Have you eaten?&quot;</p>
 <p>Alternatively, A-not-A questions can be used:</p>
-<p><strong>你食唔食飯？</strong> (nei5 sik6 m4 sik6 faan6) "Do you eat or not?"</p>
+<p><strong>你食唔食飯？</strong> (nei5 sik6 m4 sik6 faan6) &quot;Do you eat or not?&quot;</p>
 <p>Wh-questions use question words in situ:</p>
-<p><strong>你叫咩名？</strong> (nei5 giu3 me1 meng2) "What's your name?"
-<strong>你幾點返工？</strong> (nei5 gei2 dim2 faan1 gung1) "What time do you go to work?"</p>
+<p><strong>你叫咩名？</strong> (nei5 giu3 me1 meng2) &quot;What's your name?&quot;
+<strong>你幾點返工？</strong> (nei5 gei2 dim2 faan1 gung1) &quot;What time do you go to work?&quot;</p>
 <h3>Sentence-final particles</h3>
 <p>Cantonese has a rich system of sentence-final particles that convey various pragmatic and emotional meanings:</p>
 <ul>
@@ -193,10 +359,10 @@ Predicative: <strong>隻狗係大隻嘅。</strong> (zek3 gau2 hai6 daai6 zek3 g
 <li><strong>咩</strong> (me1): expresses doubt or forms questions</li>
 </ul>
 <p>Examples:
-<strong>我好攰啊。</strong> (ngo5 hou2 gui6 aa3) "I'm very tired."
-<strong>原來係咁喎。</strong> (jyun4 loi4 hai6 gam3 wo3) "Oh, so that's how it is."
-<strong>你叫咩名呢？</strong> (nei5 giu3 me1 meng2 ne1) "What's your name?"
-<strong>佢返咗屋企咧。</strong> (keoi5 faan1 zo2 uk1 kei2 le1) "He has gone home."</p>
+<strong>我好攰啊。</strong> (ngo5 hou2 gui6 aa3) &quot;I'm very tired.&quot;
+<strong>原來係咁喎。</strong> (jyun4 loi4 hai6 gam3 wo3) &quot;Oh, so that's how it is.&quot;
+<strong>你叫咩名呢？</strong> (nei5 giu3 me1 meng2 ne1) &quot;What's your name?&quot;
+<strong>佢返咗屋企咧。</strong> (keoi5 faan1 zo2 uk1 kei2 le1) &quot;He has gone home.&quot;</p>
 <h2>Vocabulary</h2>
 <h3>Numbers</h3>
 <p>Cardinal numbers:
@@ -210,225 +376,219 @@ Predicative: <strong>隻狗係大隻嘅。</strong> (zek3 gau2 hai6 daai6 zek3 g
 358: <strong>三百五十八</strong> (saam1 baak3 ng5 sap6 baat3)</p>
 <h3>Time expressions</h3>
 <p>Days of the week:
-<strong>星期一</strong> (sing1 kei4 jat1) "Monday"
-<strong>星期二</strong> (sing1 kei4 ji6) "Tuesday"
+<strong>星期一</strong> (sing1 kei4 jat1) &quot;Monday&quot;
+<strong>星期二</strong> (sing1 kei4 ji6) &quot;Tuesday&quot;
 ...
-<strong>星期日</strong> (sing1 kei4 jat6) "Sunday"</p>
+<strong>星期日</strong> (sing1 kei4 jat6) &quot;Sunday&quot;</p>
 <p>Months:
-<strong>一月</strong> (jat1 jyut6) "January"
-<strong>二月</strong> (ji6 jyut6) "February"
+<strong>一月</strong> (jat1 jyut6) &quot;January&quot;
+<strong>二月</strong> (ji6 jyut6) &quot;February&quot;
 ...
-<strong>十二月</strong> (sap6 ji6 jyut6) "December"</p>
+<strong>十二月</strong> (sap6 ji6 jyut6) &quot;December&quot;</p>
 <h3>Common phrases</h3>
 <p>Greetings:
-<strong>你好</strong> (nei5 hou2) "Hello"
-<strong>早晨</strong> (zou2 san4) "Good morning"
-<strong>拜拜</strong> (baai1 baai3) "Bye-bye"</p>
+<strong>你好</strong> (nei5 hou2) &quot;Hello&quot;
+<strong>早晨</strong> (zou2 san4) &quot;Good morning&quot;
+<strong>拜拜</strong> (baai1 baai3) &quot;Bye-bye&quot;</p>
 <p>Politeness:
-<strong>唔該</strong> (m4 goi1) "Please" / "Thank you" (for services)
-<strong>多謝</strong> (do1 ze6) "Thank you" (for gifts or favors)
-<strong>對唔住</strong> (deoi3 m4 zyu6) "Sorry"</p>
+<strong>唔該</strong> (m4 goi1) &quot;Please&quot; / &quot;Thank you&quot; (for services)
+<strong>多謝</strong> (do1 ze6) &quot;Thank you&quot; (for gifts or favors)
+<strong>對唔住</strong> (deoi3 m4 zyu6) &quot;Sorry&quot;</p>
 <h3>Loanwords</h3>
 <p>Cantonese has borrowed words from various languages, particularly English due to Hong Kong's history as a British colony:</p>
-<p><strong>巴士</strong> (baa1 si2) "bus"
-<strong>的士</strong> (dik1 si2) "taxi"
-<strong>卡通</strong> (kaa1 tung1) "cartoon"
-<strong>冷氣</strong> (laang5 hei3) "air conditioning"</p>
+<p><strong>巴士</strong> (baa1 si2) &quot;bus&quot;
+<strong>的士</strong> (dik1 si2) &quot;taxi&quot;
+<strong>卡通</strong> (kaa1 tung1) &quot;cartoon&quot;
+<strong>冷氣</strong> (laang5 hei3) &quot;air conditioning&quot;</p>
 <h2>Colloquial Cantonese</h2>
 <p>Colloquial Cantonese differs significantly from written Chinese and formal Cantonese. Some features of colloquial Cantonese include:</p>
 <h3>Verb-object compounds</h3>
 <p>Many common verb-object compounds are condensed in colloquial speech:</p>
-<p><strong>飲茶</strong> (jam2 caa4) → <strong>嘆茶</strong> (taan3 caa4) "to have tea"
-<strong>睇戲</strong> (tai2 hei3) → <strong>睇show</strong> (tai2 so2) "to watch a show"</p>
+<p><strong>飲茶</strong> (jam2 caa4) → <strong>嘆茶</strong> (taan3 caa4) &quot;to have tea&quot;
+<strong>睇戲</strong> (tai2 hei3) → <strong>睇show</strong> (tai2 so2) &quot;to watch a show&quot;</p>
 <h3>Slang and idiomatic expressions</h3>
-<p><strong>好熱氣</strong> (hou2 jit6 hei3) "very angry" (literally: very hot air)
-<strong>大條道理</strong> (daai6 tiu4 dou6 lei5) "of course" (literally: big principle)
-<strong>醒目</strong> (sing2 muk6) "smart, clever" (literally: awake eyes)</p>
+<p><strong>好熱氣</strong> (hou2 jit6 hei3) &quot;very angry&quot; (literally: very hot air)
+<strong>大條道理</strong> (daai6 tiu4 dou6 lei5) &quot;of course&quot; (literally: big principle)
+<strong>醒目</strong> (sing2 muk6) &quot;smart, clever&quot; (literally: awake eyes)</p>
 <h3>Sentence structure in casual speech</h3>
 <p>Colloquial Cantonese often omits subjects or objects when they can be inferred from context:</p>
-<p><strong>食咗未呀？</strong> (sik6 zo2 mei6 aa3) "Have (you) eaten yet?"
-<strong>唔使啦。</strong> (m4 sai2 laa1) "(I) don't need (it)."</p>
+<p><strong>食咗未呀？</strong> (sik6 zo2 mei6 aa3) &quot;Have (you) eaten yet?&quot;
+<strong>唔使啦。</strong> (m4 sai2 laa1) &quot;(I) don't need (it).&quot;</p>
 <h3>Phonological changes in fast speech</h3>
 <p>Some words undergo phonological changes in rapid, casual speech:</p>
-<p><strong>佢哋</strong> (keoi5 dei6) → <strong>佢地</strong> (keoi5 dei2) "they"
-<strong>咁樣</strong> (gam3 joeng2) → <strong>噉</strong> (gam2) "like this"</p>
+<p><strong>佢哋</strong> (keoi5 dei6) → <strong>佢地</strong> (keoi5 dei2) &quot;they&quot;
+<strong>咁樣</strong> (gam3 joeng2) → <strong>噉</strong> (gam2) &quot;like this&quot;</p>
 <h2>Variations</h2>
 <h3>Regional differences</h3>
 <p>While Hong Kong Cantonese is often considered the standard, there are variations in pronunciation and vocabulary across different Cantonese-speaking regions:</p>
-<p>Guangzhou: Often considered more "standard" in mainland China
+<p>Guangzhou: Often considered more &quot;standard&quot; in mainland China
 Macau: Influenced by Portuguese, with some unique vocabulary
 Taishan: A distinct dialect that is sometimes considered a separate language</p>
-<p>Examples of regional differences:
-- "we": 
-  Hong Kong: <strong>我哋</strong> (ngo5 dei6)
-  Guangzhou: <strong>阿哋</strong> (aa3 dei6)
-- "they":
-  Hong Kong: <strong>佢哋</strong> (keoi5 dei6)
-  Guangzhou: <strong>渠哋</strong> (keoi4 dei6)</p>
+<p>Examples of regional differences:</p>
+<ul>
+<li>&quot;we&quot;:
+Hong Kong: <strong>我哋</strong> (ngo5 dei6)
+Guangzhou: <strong>阿哋</strong> (aa3 dei6)</li>
+<li>&quot;they&quot;:
+Hong Kong: <strong>佢哋</strong> (keoi5 dei6)
+Guangzhou: <strong>渠哋</strong> (keoi4 dei6)</li>
+</ul>
 <h3>Social variations</h3>
 <p>Cantonese exhibits variations based on social factors such as age, education, and social class:</p>
 <ul>
-<li>
-<p>Older speakers may use more traditional vocabulary:
-  <strong>行街</strong> (haang4 gaai1) "to go shopping" (older)
-  <strong>Shopping</strong> (so2 ping4) "to go shopping" (younger)</p>
+<li><p>Older speakers may use more traditional vocabulary:
+<strong>行街</strong> (haang4 gaai1) &quot;to go shopping&quot; (older)
+<strong>Shopping</strong> (so2 ping4) &quot;to go shopping&quot; (younger)</p>
 </li>
-<li>
-<p>Education level can influence the use of literary vs. colloquial forms:
-  Literary: <strong>如果</strong> (jyu4 gwo2) "if"
-  Colloquial: <strong>若果</strong> (joek6 gwo2) "if"</p>
+<li><p>Education level can influence the use of literary vs. colloquial forms:
+Literary: <strong>如果</strong> (jyu4 gwo2) &quot;if&quot;
+Colloquial: <strong>若果</strong> (joek6 gwo2) &quot;if&quot;</p>
 </li>
 </ul>
 <h2>Phonological processes</h2>
 <h3>Tone change</h3>
 <p>Some words undergo tone changes in certain contexts:</p>
 <ul>
-<li>
-<p>Changed tone (變音): 
-  <strong>白</strong> (baak6) "white" → <strong>白滾滾</strong> (baak6 gwan2 gwan2) "pure white"</p>
+<li><p>Changed tone (變音):
+<strong>白</strong> (baak6) &quot;white&quot; → <strong>白滾滾</strong> (baak6 gwan2 gwan2) &quot;pure white&quot;</p>
 </li>
-<li>
-<p>Pinjam (贏尖): A syllable with tone 4 changes to tone 1 when followed by a syllable with tone 1:
-  <strong>時間</strong> (si4 gaan1) → (si1 gaan1) "time"</p>
+<li><p>Pinjam (贏尖): A syllable with tone 4 changes to tone 1 when followed by a syllable with tone 1:
+<strong>時間</strong> (si4 gaan1) → (si1 gaan1) &quot;time&quot;</p>
 </li>
 </ul>
 <h3>Sound changes</h3>
 <ul>
-<li>
-<p>Consonant mutation: 
-  <strong>一</strong> (jat1) "one" → <strong>一個</strong> (jat1 go3) but <strong>一日</strong> (jat6 jat6) "one day"</p>
+<li><p>Consonant mutation:
+<strong>一</strong> (jat1) &quot;one&quot; → <strong>一個</strong> (jat1 go3) but <strong>一日</strong> (jat6 jat6) &quot;one day&quot;</p>
 </li>
-<li>
-<p>Vowel assimilation:
-  <strong>食飯</strong> (sik6 faan6) → (sik6 faan2) "eat rice"</p>
+<li><p>Vowel assimilation:
+<strong>食飯</strong> (sik6 faan6) → (sik6 faan2) &quot;eat rice&quot;</p>
 </li>
 </ul>
 <h2>Syntax</h2>
 <h3>Topic-comment structure</h3>
 <p>Cantonese, like many East Asian languages, often uses a topic-comment structure:</p>
 <p><strong>嗰本書呢，我睇完咗。</strong> (go2 bun2 syu1 ne1, ngo5 tai2 jyun4 zo2)
-"That book, I've finished reading it."</p>
+&quot;That book, I've finished reading it.&quot;</p>
 <h3>Disposal construction</h3>
 <p>The disposal construction, using <strong>將</strong> (zoeng1), is used to emphasize what happens to the object:</p>
 <p><strong>我將啲垃圾掉咗。</strong> (ngo5 zoeng1 di1 laap6 saap3 diu6 zo2)
-"I threw away the garbage."</p>
+&quot;I threw away the garbage.&quot;</p>
 <h3>Passive construction</h3>
 <p>The passive in Cantonese is formed using <strong>俾</strong> (bei2):</p>
 <p><strong>件衫俾狗咬爛咗。</strong> (gin6 saam1 bei2 gau2 ngaau5 laan6 zo2)
-"The clothes were torn by the dog."</p>
+&quot;The clothes were torn by the dog.&quot;</p>
 <h3>Double object construction</h3>
 <p>Cantonese allows for double object constructions:</p>
 <p><strong>我送咗份禮物佢。</strong> (ngo5 sung3 zo2 fan6 lai5 mat6 keoi5)
-"I gave him a gift."</p>
+&quot;I gave him a gift.&quot;</p>
 <h3>Resultative compounds</h3>
 <p>Verbs can be combined with result complements:</p>
-<p><strong>食飽</strong> (sik6 baau2) "eat until full"
-<strong>寫錯</strong> (se2 co3) "write incorrectly"</p>
+<p><strong>食飽</strong> (sik6 baau2) &quot;eat until full&quot;
+<strong>寫錯</strong> (se2 co3) &quot;write incorrectly&quot;</p>
 <h2>Measure words (Classifiers)</h2>
 <p>Cantonese has a rich system of measure words. Here are some more examples:</p>
 <ul>
-<li>
-<p><strong>條</strong> (tiu4): for long, thin objects
-  <strong>一條魚</strong> (jat1 tiu4 jyu2) "a fish"</p>
+<li><p><strong>條</strong> (tiu4): for long, thin objects
+<strong>一條魚</strong> (jat1 tiu4 jyu2) &quot;a fish&quot;</p>
 </li>
-<li>
-<p><strong>粒</strong> (lap1): for small, round objects
-  <strong>三粒糖</strong> (saam1 lap1 tong2) "three candies"</p>
+<li><p><strong>粒</strong> (lap1): for small, round objects
+<strong>三粒糖</strong> (saam1 lap1 tong2) &quot;three candies&quot;</p>
 </li>
-<li>
-<p><strong>部</strong> (bou6): for machines, vehicles
-  <strong>兩部電腦</strong> (loeng5 bou6 din6 nou5) "two computers"</p>
+<li><p><strong>部</strong> (bou6): for machines, vehicles
+<strong>兩部電腦</strong> (loeng5 bou6 din6 nou5) &quot;two computers&quot;</p>
 </li>
-<li>
-<p><strong>間</strong> (gaan1): for buildings, shops
-  <strong>五間屋</strong> (ng5 gaan1 uk1) "five houses"</p>
+<li><p><strong>間</strong> (gaan1): for buildings, shops
+<strong>五間屋</strong> (ng5 gaan1 uk1) &quot;five houses&quot;</p>
 </li>
 </ul>
 <h2>Reduplication</h2>
 <p>Reduplication is common in Cantonese for various purposes:</p>
 <ul>
-<li>
-<p>Intensification of adjectives:
-  <strong>靚靚</strong> (leng3 leng3) "very pretty"</p>
+<li><p>Intensification of adjectives:
+<strong>靚靚</strong> (leng3 leng3) &quot;very pretty&quot;</p>
 </li>
-<li>
-<p>Attenuation of verbs:
-  <strong>睇睇</strong> (tai2 tai2) "take a look"</p>
+<li><p>Attenuation of verbs:
+<strong>睇睇</strong> (tai2 tai2) &quot;take a look&quot;</p>
 </li>
-<li>
-<p>Plural of some nouns:
-  <strong>姐姐</strong> (ze2 ze2) "older sisters"</p>
+<li><p>Plural of some nouns:
+<strong>姐姐</strong> (ze2 ze2) &quot;older sisters&quot;</p>
 </li>
 </ul>
 <h2>Sentence-final particles</h2>
 <p>More examples of sentence-final particles:</p>
 <ul>
-<li>
-<p><strong>噃</strong> (bo3): indicates obviousness or impatience
-  <strong>我知道噃！</strong> (ngo5 zi1 dou6 bo3) "I know that, obviously!"</p>
+<li><p><strong>噃</strong> (bo3): indicates obviousness or impatience
+<strong>我知道噃！</strong> (ngo5 zi1 dou6 bo3) &quot;I know that, obviously!&quot;</p>
 </li>
-<li>
-<p><strong>囉</strong> (lo1): indicates that something is natural or expected
-  <strong>你唔去咪唔去囉。</strong> (nei5 m4 heoi3 mai6 m4 heoi3 lo1) "If you don't want to go, then don't go."</p>
+<li><p><strong>囉</strong> (lo1): indicates that something is natural or expected
+<strong>你唔去咪唔去囉。</strong> (nei5 m4 heoi3 mai6 m4 heoi3 lo1) &quot;If you don't want to go, then don't go.&quot;</p>
 </li>
-<li>
-<p><strong>啩</strong> (gwaa3): expresses uncertainty
-  <strong>佢可能會嚟啩。</strong> (keoi5 ho2 nang4 wui5 lai4 gwaa3) "He might come, I guess."</p>
+<li><p><strong>啩</strong> (gwaa3): expresses uncertainty
+<strong>佢可能會嚟啩。</strong> (keoi5 ho2 nang4 wui5 lai4 gwaa3) &quot;He might come, I guess.&quot;</p>
 </li>
 </ul>
 <h2>Idiomatic expressions</h2>
 <p>Cantonese is rich in idiomatic expressions:</p>
 <ul>
-<li><strong>冇厘頭</strong> (mou5 lei4 tau4) "nonsensical" (literally: without a screw)</li>
-<li><strong>大鑊</strong> (daai6 wok6) "big trouble" (literally: big wok)</li>
-<li><strong>放飛機</strong> (fong3 fei1 gei1) "to stand someone up" (literally: release airplane)</li>
-<li><strong>食檸檬</strong> (sik6 ning4 mung1) "to be jealous" (literally: eat lemon)</li>
+<li><strong>冇厘頭</strong> (mou5 lei4 tau4) &quot;nonsensical&quot; (literally: without a screw)</li>
+<li><strong>大鑊</strong> (daai6 wok6) &quot;big trouble&quot; (literally: big wok)</li>
+<li><strong>放飛機</strong> (fong3 fei1 gei1) &quot;to stand someone up&quot; (literally: release airplane)</li>
+<li><strong>食檸檬</strong> (sik6 ning4 mung1) &quot;to be jealous&quot; (literally: eat lemon)</li>
 </ul>
 <h2>Loanwords and code-mixing</h2>
 <p>Hong Kong Cantonese in particular features extensive English loanwords and code-mixing:</p>
 <ul>
-<li><strong>打份</strong> (daa2 fan6) "to photocopy" (from "duff" - duplicate)</li>
-<li><strong>晒</strong> (sai3) used as "-est" superlative (from English "-est")
-  <strong>最好晒</strong> (zeoi3 hou2 sai3) "the very best"</li>
+<li><strong>打份</strong> (daa2 fan6) &quot;to photocopy&quot; (from &quot;duff&quot; - duplicate)</li>
+<li><strong>晒</strong> (sai3) used as &quot;-est&quot; superlative (from English &quot;-est&quot;)
+<strong>最好晒</strong> (zeoi3 hou2 sai3) &quot;the very best&quot;</li>
 </ul>
 <p>Code-mixing example:
 <strong>我今日好 busy 呀！</strong> (ngo5 gam1 jat6 hou2 bi1 si2 aa3)
-"I'm very busy today!"</p>
+&quot;I'm very busy today!&quot;</p>
 <h2>Formal vs. Informal speech</h2>
 <p>Formal Cantonese tends to use more literary Chinese elements:</p>
-<p>Formal: <strong>請勿觸摸</strong> (cing2 mat6 zuk1 mok6) "Please do not touch"
-Informal: <strong>唔好摸</strong> (m4 hou2 mo2) "Don't touch"</p>
+<p>Formal: <strong>請勿觸摸</strong> (cing2 mat6 zuk1 mok6) &quot;Please do not touch&quot;
+Informal: <strong>唔好摸</strong> (m4 hou2 mo2) &quot;Don't touch&quot;</p>
 <h2>Written Cantonese</h2>
 <p>While formal written Chinese uses Standard Written Chinese (based on Mandarin), informal contexts often use written Cantonese:</p>
 <p>Standard: 我不知道
 Written Cantonese: <strong>我唔知</strong> (ngo5 m4 zi1)
-Both mean "I don't know"</p>
+Both mean &quot;I don't know&quot;</p>
 <h2>Phonetic loans</h2>
 <p>Some Cantonese words are phonetic loans from English:</p>
-<p><strong>士多</strong> (si6 do1) "store"
-<strong>的士</strong> (dik1 si2) "taxi"
-<strong>波</strong> (bo1) "ball"</p>
+<p><strong>士多</strong> (si6 do1) &quot;store&quot;
+<strong>的士</strong> (dik1 si2) &quot;taxi&quot;
+<strong>波</strong> (bo1) &quot;ball&quot;</p>
 <h2>Aspect marking</h2>
 <p>More on aspect marking in Cantonese:</p>
 <ul>
-<li>
-<p>Habitual aspect: <strong>開</strong> (hoi1)
-  <strong>我日日都睇開報紙。</strong> (ngo5 jat6 jat6 dou1 tai2 hoi1 bou3 zi2)
-  "I read the newspaper every day."</p>
+<li><p>Habitual aspect: <strong>開</strong> (hoi1)
+<strong>我日日都睇開報紙。</strong> (ngo5 jat6 jat6 dou1 tai2 hoi1 bou3 zi2)
+&quot;I read the newspaper every day.&quot;</p>
 </li>
-<li>
-<p>Continuous aspect: <strong>住</strong> (zyu6)
-  <strong>個問題仲考慮住。</strong> (go3 man6 tai4 zung6 haau2 leoi6 zyu6)
-  "The problem is still being considered."</p>
+<li><p>Continuous aspect: <strong>住</strong> (zyu6)
+<strong>個問題仲考慮住。</strong> (go3 man6 tai4 zung6 haau2 leoi6 zyu6)
+&quot;The problem is still being considered.&quot;</p>
 </li>
 </ul>
 <h2>Tone sandhi</h2>
 <p>Tone sandhi in Cantonese is less extensive than in some other Chinese varieties, but it does occur:</p>
 <ul>
-<li><strong>分鐘</strong> (fan1 zung1) "minute" → (fan1 zung3)</li>
-<li><strong>點解</strong> (dim2 gaai2) "why" → (dim2 gaai3)</li>
+<li><strong>分鐘</strong> (fan1 zung1) &quot;minute&quot; → (fan1 zung3)</li>
+<li><strong>點解</strong> (dim2 gaai2) &quot;why&quot; → (dim2 gaai3)</li>
 </ul>
 <p>This comprehensive overview covers many aspects of Cantonese, from its phonology and grammar to its usage in different contexts. It provides a solid foundation for understanding the language's structure and characteristics.</p>
+
       </div>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-TXC94JMN4X"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TXC94JMN4X');
+      </script>
 </body>
 </html>

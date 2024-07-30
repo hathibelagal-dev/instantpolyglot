@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Instant Polyglot</title>
     <link rel="stylesheet" href="../bootstrap.min.css">
+    <link rel="stylesheet" href="../styles.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -37,75 +38,241 @@
 <p>Swedish has a rich sound system with several phonemes that may be challenging for non-native speakers. The language features a variety of vowel and consonant sounds, as well as distinctive prosodic features.</p>
 <h3>Vowels</h3>
 <p>Swedish has 9 vowel phonemes, each of which can be pronounced short or long. The length distinction is phonemic, meaning it can change the meaning of words.</p>
-<p>| Letter | Short | Long | Example (short) | Example (long) |
-|--------|-------|------|-----------------|----------------|
-| a | [a] | [ɑː] | <strong>katt</strong> [kat] (cat) | <strong>mat</strong> [mɑːt] (food) |
-| e | [ɛ] | [eː] | <strong>hett</strong> [hɛt] (hot) | <strong>vet</strong> [veːt] (knows) |
-| i | [ɪ] | [iː] | <strong>vitt</strong> [vɪt] (white) | <strong>vi</strong> [viː] (we) |
-| o | [ɔ] | [uː] | <strong>bott</strong> [bɔt] (lived) | <strong>bo</strong> [buː] (to live) |
-| u | [ɵ] | [ʉː] | <strong>putt</strong> [pɵt] (put) | <strong>hus</strong> [hʉːs] (house) |
-| y | [ʏ] | [yː] | <strong>mygg</strong> [mʏɡ] (mosquito) | <strong>by</strong> [byː] (village) |
-| å | [ɔ] | [oː] | <strong>håll</strong> [hɔl] (hold) | <strong>år</strong> [oːr] (year) |
-| ä | [ɛ] | [ɛː] | <strong>häll</strong> [hɛl] (slab) | <strong>här</strong> [hɛːr] (here) |
-| ö | [œ] | [øː] | <strong>höst</strong> [hœst] (autumn) | <strong>öl</strong> [øːl] (beer) |</p>
-<p>Some additional notes on vowels:
-- The distinction between [ɛ] and [e] is neutralized before [r], both becoming [æ].
-- In some dialects, particularly in southern Sweden, the [ʉː] sound may be pronounced more like [ʏː].
-- The letter "o" can represent both [ɔ]/[oː] and [u]/[uː], depending on the word.</p>
+<table>
+<thead>
+<tr>
+  <th>Letter</th>
+  <th>Short</th>
+  <th>Long</th>
+  <th>Example (short)</th>
+  <th>Example (long)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>a</td>
+  <td>[a]</td>
+  <td>[ɑː]</td>
+  <td><strong>katt</strong> [kat] (cat)</td>
+  <td><strong>mat</strong> [mɑːt] (food)</td>
+</tr>
+<tr>
+  <td>e</td>
+  <td>[ɛ]</td>
+  <td>[eː]</td>
+  <td><strong>hett</strong> [hɛt] (hot)</td>
+  <td><strong>vet</strong> [veːt] (knows)</td>
+</tr>
+<tr>
+  <td>i</td>
+  <td>[ɪ]</td>
+  <td>[iː]</td>
+  <td><strong>vitt</strong> [vɪt] (white)</td>
+  <td><strong>vi</strong> [viː] (we)</td>
+</tr>
+<tr>
+  <td>o</td>
+  <td>[ɔ]</td>
+  <td>[uː]</td>
+  <td><strong>bott</strong> [bɔt] (lived)</td>
+  <td><strong>bo</strong> [buː] (to live)</td>
+</tr>
+<tr>
+  <td>u</td>
+  <td>[ɵ]</td>
+  <td>[ʉː]</td>
+  <td><strong>putt</strong> [pɵt] (put)</td>
+  <td><strong>hus</strong> [hʉːs] (house)</td>
+</tr>
+<tr>
+  <td>y</td>
+  <td>[ʏ]</td>
+  <td>[yː]</td>
+  <td><strong>mygg</strong> [mʏɡ] (mosquito)</td>
+  <td><strong>by</strong> [byː] (village)</td>
+</tr>
+<tr>
+  <td>å</td>
+  <td>[ɔ]</td>
+  <td>[oː]</td>
+  <td><strong>håll</strong> [hɔl] (hold)</td>
+  <td><strong>år</strong> [oːr] (year)</td>
+</tr>
+<tr>
+  <td>ä</td>
+  <td>[ɛ]</td>
+  <td>[ɛː]</td>
+  <td><strong>häll</strong> [hɛl] (slab)</td>
+  <td><strong>här</strong> [hɛːr] (here)</td>
+</tr>
+<tr>
+  <td>ö</td>
+  <td>[œ]</td>
+  <td>[øː]</td>
+  <td><strong>höst</strong> [hœst] (autumn)</td>
+  <td><strong>öl</strong> [øːl] (beer)</td>
+</tr>
+</tbody>
+</table>
+<p>Some additional notes on vowels:</p>
+<ul>
+<li>The distinction between [ɛ] and [e] is neutralized before [r], both becoming [æ].</li>
+<li>In some dialects, particularly in southern Sweden, the [ʉː] sound may be pronounced more like [ʏː].</li>
+<li>The letter &quot;o&quot; can represent both [ɔ]/[oː] and [u]/[uː], depending on the word.</li>
+</ul>
 <h3>Consonants</h3>
 <p>Swedish consonants include:</p>
-<p>| Letter | Sound | Example |
-|--------|-------|---------|
-| b | [b] | <strong>bil</strong> [biːl] (car) |
-| c | [s] or [k] | <strong>cykel</strong> [ˈsʏːkəl] (bicycle), <strong>clown</strong> [klaʊn] (clown) |
-| d | [d] | <strong>dag</strong> [dɑːɡ] (day) |
-| f | [f] | <strong>fisk</strong> [fɪsk] (fish) |
-| g | [ɡ] or [j] | <strong>gata</strong> [ˈɡɑːta] (street), <strong>gärna</strong> [ˈjæːɳa] (gladly) |
-| h | [h] | <strong>hund</strong> [hɵnd] (dog) |
-| j | [j] | <strong>ja</strong> [jɑː] (yes) |
-| k | [k] or [ɕ] | <strong>kaka</strong> [ˈkɑːka] (cake), <strong>kära</strong> [ˈɕæːra] (dear) |
-| l | [l] | <strong>lång</strong> [lɔŋ] (long) |
-| m | [m] | <strong>mor</strong> [muːr] (mother) |
-| n | [n] | <strong>natt</strong> [nat] (night) |
-| p | [p] | <strong>pappa</strong> [ˈpapːa] (dad) |
-| q | [k] | <strong>Qatar</strong> [kaˈtɑːr] (Qatar) |
-| r | [r] or [ɾ] | <strong>röd</strong> [røːd] (red) |
-| s | [s] | <strong>sol</strong> [suːl] (sun) |
-| t | [t] | <strong>tack</strong> [tak] (thanks) |
-| v | [v] | <strong>var</strong> [vɑːr] (where) |
-| w | [v] | <strong>whisky</strong> [vɪskɪ] (whiskey) |
-| x | [ks] | <strong>extra</strong> [ˈɛkstra] (extra) |
-| z | [s] | <strong>zoo</strong> [suː] (zoo) |</p>
-<p>Notable consonant combinations:
-- <strong>sj-</strong> [ɧ]: <strong>sjö</strong> [ɧøː] (lake), <strong>sjunga</strong> [ˈɧɵŋːa] (to sing)
-- <strong>sk-</strong> [ɧ] before front vowels: <strong>skägg</strong> [ɧɛɡː] (beard), <strong>skina</strong> [ˈɧiːna] (to shine)
-- <strong>tj-</strong> [ɕ]: <strong>tjugo</strong> [ˈɕʉːɡʊ] (twenty), <strong>tjock</strong> [ɕɔkː] (thick)
-- <strong>ng</strong> [ŋ]: <strong>ring</strong> [rɪŋː] (ring)
-- <strong>rt, rd, rn, rs, rl</strong> are often pronounced as retroflex consonants: [ʈ], [ɖ], [ɳ], [ʂ], [ɭ]</p>
-<p>Some consonants undergo assimilation processes:
-- <strong>rt</strong> → [ʈ]: <strong>karta</strong> [ˈkɑːʈa] (map)
-- <strong>rd</strong> → [ɖ]: <strong>bord</strong> [buːɖ] (table)
-- <strong>rn</strong> → [ɳ]: <strong>barn</strong> [bɑːɳ] (child)
-- <strong>rs</strong> → [ʂ]: <strong>kors</strong> [kɔʂ] (cross)
-- <strong>rl</strong> → [ɭ]: <strong>Karl</strong> [kɑːɭ] (Charles)</p>
+<table>
+<thead>
+<tr>
+  <th>Letter</th>
+  <th>Sound</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>b</td>
+  <td>[b]</td>
+  <td><strong>bil</strong> [biːl] (car)</td>
+</tr>
+<tr>
+  <td>c</td>
+  <td>[s] or [k]</td>
+  <td><strong>cykel</strong> [ˈsʏːkəl] (bicycle), <strong>clown</strong> [klaʊn] (clown)</td>
+</tr>
+<tr>
+  <td>d</td>
+  <td>[d]</td>
+  <td><strong>dag</strong> [dɑːɡ] (day)</td>
+</tr>
+<tr>
+  <td>f</td>
+  <td>[f]</td>
+  <td><strong>fisk</strong> [fɪsk] (fish)</td>
+</tr>
+<tr>
+  <td>g</td>
+  <td>[ɡ] or [j]</td>
+  <td><strong>gata</strong> [ˈɡɑːta] (street), <strong>gärna</strong> [ˈjæːɳa] (gladly)</td>
+</tr>
+<tr>
+  <td>h</td>
+  <td>[h]</td>
+  <td><strong>hund</strong> [hɵnd] (dog)</td>
+</tr>
+<tr>
+  <td>j</td>
+  <td>[j]</td>
+  <td><strong>ja</strong> [jɑː] (yes)</td>
+</tr>
+<tr>
+  <td>k</td>
+  <td>[k] or [ɕ]</td>
+  <td><strong>kaka</strong> [ˈkɑːka] (cake), <strong>kära</strong> [ˈɕæːra] (dear)</td>
+</tr>
+<tr>
+  <td>l</td>
+  <td>[l]</td>
+  <td><strong>lång</strong> [lɔŋ] (long)</td>
+</tr>
+<tr>
+  <td>m</td>
+  <td>[m]</td>
+  <td><strong>mor</strong> [muːr] (mother)</td>
+</tr>
+<tr>
+  <td>n</td>
+  <td>[n]</td>
+  <td><strong>natt</strong> [nat] (night)</td>
+</tr>
+<tr>
+  <td>p</td>
+  <td>[p]</td>
+  <td><strong>pappa</strong> [ˈpapːa] (dad)</td>
+</tr>
+<tr>
+  <td>q</td>
+  <td>[k]</td>
+  <td><strong>Qatar</strong> [kaˈtɑːr] (Qatar)</td>
+</tr>
+<tr>
+  <td>r</td>
+  <td>[r] or [ɾ]</td>
+  <td><strong>röd</strong> [røːd] (red)</td>
+</tr>
+<tr>
+  <td>s</td>
+  <td>[s]</td>
+  <td><strong>sol</strong> [suːl] (sun)</td>
+</tr>
+<tr>
+  <td>t</td>
+  <td>[t]</td>
+  <td><strong>tack</strong> [tak] (thanks)</td>
+</tr>
+<tr>
+  <td>v</td>
+  <td>[v]</td>
+  <td><strong>var</strong> [vɑːr] (where)</td>
+</tr>
+<tr>
+  <td>w</td>
+  <td>[v]</td>
+  <td><strong>whisky</strong> [vɪskɪ] (whiskey)</td>
+</tr>
+<tr>
+  <td>x</td>
+  <td>[ks]</td>
+  <td><strong>extra</strong> [ˈɛkstra] (extra)</td>
+</tr>
+<tr>
+  <td>z</td>
+  <td>[s]</td>
+  <td><strong>zoo</strong> [suː] (zoo)</td>
+</tr>
+</tbody>
+</table>
+<p>Notable consonant combinations:</p>
+<ul>
+<li><strong>sj-</strong> [ɧ]: <strong>sjö</strong> [ɧøː] (lake), <strong>sjunga</strong> [ˈɧɵŋːa] (to sing)</li>
+<li><strong>sk-</strong> [ɧ] before front vowels: <strong>skägg</strong> [ɧɛɡː] (beard), <strong>skina</strong> [ˈɧiːna] (to shine)</li>
+<li><strong>tj-</strong> [ɕ]: <strong>tjugo</strong> [ˈɕʉːɡʊ] (twenty), <strong>tjock</strong> [ɕɔkː] (thick)</li>
+<li><strong>ng</strong> [ŋ]: <strong>ring</strong> [rɪŋː] (ring)</li>
+<li><strong>rt, rd, rn, rs, rl</strong> are often pronounced as retroflex consonants: [ʈ], [ɖ], [ɳ], [ʂ], [ɭ]</li>
+</ul>
+<p>Some consonants undergo assimilation processes:</p>
+<ul>
+<li><strong>rt</strong> → [ʈ]: <strong>karta</strong> [ˈkɑːʈa] (map)</li>
+<li><strong>rd</strong> → [ɖ]: <strong>bord</strong> [buːɖ] (table)</li>
+<li><strong>rn</strong> → [ɳ]: <strong>barn</strong> [bɑːɳ] (child)</li>
+<li><strong>rs</strong> → [ʂ]: <strong>kors</strong> [kɔʂ] (cross)</li>
+<li><strong>rl</strong> → [ɭ]: <strong>Karl</strong> [kɑːɭ] (Charles)</li>
+</ul>
 <h3>Stress and Pitch Accent</h3>
 <p>Swedish is a pitch-accent language, meaning that word stress can distinguish between different words or grammatical forms. There are two types of accent:</p>
 <ol>
 <li>Accent 1 (acute): single-peaked stress</li>
 <li>Accent 2 (grave): double-peaked stress</li>
 </ol>
-<p>Examples:
-- <strong>anden</strong> [ˈandən] (the duck) - Accent 1
-- <strong>anden</strong> [ˈànden] (the spirit) - Accent 2
-- <strong>tomten</strong> [ˈtɔmtən] (the plot of land) - Accent 1
-- <strong>tomten</strong> [ˈtɔ̀mtən] (Santa Claus) - Accent 2</p>
+<p>Examples:</p>
+<ul>
+<li><strong>anden</strong> [ˈandən] (the duck) - Accent 1</li>
+<li><strong>anden</strong> [ˈànden] (the spirit) - Accent 2</li>
+<li><strong>tomten</strong> [ˈtɔmtən] (the plot of land) - Accent 1</li>
+<li><strong>tomten</strong> [ˈtɔ̀mtən] (Santa Claus) - Accent 2</li>
+</ul>
 <p>The difference is subtle and often challenging for non-native speakers to master. Generally, accent 1 is used for monosyllabic words and some compound words, while accent 2 is used for most polysyllabic words.</p>
-<p>Stress in Swedish typically falls on the first syllable of native words:
-- <strong>´flicka</strong> (girl)
-- <strong>´arbete</strong> (work)</p>
-<p>However, many loanwords retain their original stress patterns:
-- <strong>stu´dent</strong> (student)
-- <strong>tele´fon</strong> (telephone)</p>
+<p>Stress in Swedish typically falls on the first syllable of native words:</p>
+<ul>
+<li><strong>´flicka</strong> (girl)</li>
+<li><strong>´arbete</strong> (work)</li>
+</ul>
+<p>However, many loanwords retain their original stress patterns:</p>
+<ul>
+<li><strong>stu´dent</strong> (student)</li>
+<li><strong>tele´fon</strong> (telephone)</li>
+</ul>
 <h2>Morphology</h2>
 <p>Swedish morphology involves various inflectional and derivational processes for nouns, adjectives, verbs, and other parts of speech.</p>
 <h3>Nouns</h3>
@@ -113,27 +280,50 @@
 <h4>Gender</h4>
 <ul>
 <li>Common gender: about 75% of Swedish nouns
-  Examples: <strong>en stol</strong> (a chair), <strong>en bil</strong> (a car), <strong>en flicka</strong> (a girl)</li>
+Examples: <strong>en stol</strong> (a chair), <strong>en bil</strong> (a car), <strong>en flicka</strong> (a girl)</li>
 <li>Neuter gender: about 25% of Swedish nouns
-  Examples: <strong>ett bord</strong> (a table), <strong>ett hus</strong> (a house), <strong>ett barn</strong> (a child)</li>
+Examples: <strong>ett bord</strong> (a table), <strong>ett hus</strong> (a house), <strong>ett barn</strong> (a child)</li>
 </ul>
-<p>There are no strict rules for determining a noun's gender, although there are some patterns:
-- Most animate nouns are common gender
-- Most abstract nouns are common gender
-- Many loanwords are common gender
-- Nouns ending in -um are usually neuter (e.g., <strong>centrum</strong> - center)</p>
+<p>There are no strict rules for determining a noun's gender, although there are some patterns:</p>
+<ul>
+<li>Most animate nouns are common gender</li>
+<li>Most abstract nouns are common gender</li>
+<li>Many loanwords are common gender</li>
+<li>Nouns ending in -um are usually neuter (e.g., <strong>centrum</strong> - center)</li>
+</ul>
 <h4>Definiteness</h4>
 <p>Definiteness is marked by suffixes or separate articles:</p>
-<p>| Gender | Indefinite | Definite |
-|--------|------------|----------|
-| Common | en stol | stol<strong>en</strong> |
-| Neuter | ett bord | bord<strong>et</strong> |</p>
-<p>Examples:
-- <strong>en bok</strong> (a book) → <strong>boken</strong> (the book)
-- <strong>ett äpple</strong> (an apple) → <strong>äpplet</strong> (the apple)</p>
-<p>In some cases, particularly with adjectives, a separate definite article is used:
-- <strong>den stora boken</strong> (the big book)
-- <strong>det gröna äpplet</strong> (the green apple)</p>
+<table>
+<thead>
+<tr>
+  <th>Gender</th>
+  <th>Indefinite</th>
+  <th>Definite</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Common</td>
+  <td>en stol</td>
+  <td>stol<strong>en</strong></td>
+</tr>
+<tr>
+  <td>Neuter</td>
+  <td>ett bord</td>
+  <td>bord<strong>et</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Examples:</p>
+<ul>
+<li><strong>en bok</strong> (a book) → <strong>boken</strong> (the book)</li>
+<li><strong>ett äpple</strong> (an apple) → <strong>äpplet</strong> (the apple)</li>
+</ul>
+<p>In some cases, particularly with adjectives, a separate definite article is used:</p>
+<ul>
+<li><strong>den stora boken</strong> (the big book)</li>
+<li><strong>det gröna äpplet</strong> (the green apple)</li>
+</ul>
 <h4>Plural</h4>
 <p>Plural forms vary, but common patterns include:</p>
 <ul>
@@ -143,88 +333,188 @@
 <li>-n: <strong>äpple</strong> (apple) → <strong>äpplen</strong> (apples)</li>
 <li>No change: <strong>hus</strong> (house) → <strong>hus</strong> (houses)</li>
 </ul>
-<p>Some nouns have irregular plural forms:
-- <strong>man</strong> (man) → <strong>män</strong> (men)
-- <strong>mus</strong> (mouse) → <strong>möss</strong> (mice)
-- <strong>gås</strong> (goose) → <strong>gäss</strong> (geese)</p>
-<p>Definite plural forms:
-- Common gender: add -na or -a
-  <strong>stolar</strong> (chairs) → <strong>stolarna</strong> (the chairs)
-- Neuter gender: add -en or -a
-  <strong>hus</strong> (houses) → <strong>husen</strong> (the houses)</p>
+<p>Some nouns have irregular plural forms:</p>
+<ul>
+<li><strong>man</strong> (man) → <strong>män</strong> (men)</li>
+<li><strong>mus</strong> (mouse) → <strong>möss</strong> (mice)</li>
+<li><strong>gås</strong> (goose) → <strong>gäss</strong> (geese)</li>
+</ul>
+<p>Definite plural forms:</p>
+<ul>
+<li>Common gender: add -na or -a
+<strong>stolar</strong> (chairs) → <strong>stolarna</strong> (the chairs)</li>
+<li>Neuter gender: add -en or -a
+<strong>hus</strong> (houses) → <strong>husen</strong> (the houses)</li>
+</ul>
 <h4>Genitive</h4>
-<p>The genitive case is formed by adding -s to the end of a noun:
-- <strong>flickans bok</strong> (the girl's book)
-- <strong>husets tak</strong> (the roof of the house)
-- <strong>böckernas författare</strong> (the books' author)</p>
-<p>The genitive -s is added after the definite or plural ending:
-- <strong>flickornas böcker</strong> (the girls' books)
-- <strong>husens tak</strong> (the roofs of the houses)</p>
+<p>The genitive case is formed by adding -s to the end of a noun:</p>
+<ul>
+<li><strong>flickans bok</strong> (the girl's book)</li>
+<li><strong>husets tak</strong> (the roof of the house)</li>
+<li><strong>böckernas författare</strong> (the books' author)</li>
+</ul>
+<p>The genitive -s is added after the definite or plural ending:</p>
+<ul>
+<li><strong>flickornas böcker</strong> (the girls' books)</li>
+<li><strong>husens tak</strong> (the roofs of the houses)</li>
+</ul>
 <h3>Pronouns</h3>
 <p>Personal pronouns in Swedish:</p>
-<p>| Person | Nominative | Objective | Possessive |
-|--------|------------|-----------|------------|
-| 1sg | <strong>jag</strong> | <strong>mig</strong> | <strong>min/mitt/mina</strong> |
-| 2sg | <strong>du</strong> | <strong>dig</strong> | <strong>din/ditt/dina</strong> |
-| 3sg (m) | <strong>han</strong> | <strong>honom</strong> | <strong>hans</strong> |
-| 3sg (f) | <strong>hon</strong> | <strong>henne</strong> | <strong>hennes</strong> |
-| 3sg (n) | <strong>det</strong> | <strong>det</strong> | <strong>dess</strong> |
-| 1pl | <strong>vi</strong> | <strong>oss</strong> | <strong>vår/vårt/våra</strong> |
-| 2pl | <strong>ni</strong> | <strong>er</strong> | <strong>er/ert/era</strong> |
-| 3pl | <strong>de</strong> | <strong>dem</strong> | <strong>deras</strong> |</p>
-<p>Note: The formal "you" (<strong>ni</strong>) is rarely used in modern Swedish. Instead, people typically use the informal <strong>du</strong> in most situations.</p>
-<p>Reflexive pronouns:
-- <strong>sig</strong> (himself, herself, itself, themselves)
-- <strong>oss</strong> (ourselves)
-- <strong>er</strong> (yourselves)</p>
-<p>Examples:
-- <strong>Han tvättar sig.</strong> (He washes himself.)
-- <strong>Vi ser oss i spegeln.</strong> (We see ourselves in the mirror.)</p>
-<p>Demonstrative pronouns:
-- <strong>den här/den där</strong> (this/that, common gender)
-- <strong>det här/det där</strong> (this/that, neuter gender)
-- <strong>de här/de där</strong> (these/those)</p>
-<p>Examples:
-- <strong>Den här boken är intressant.</strong> (This book is interesting.)
-- <strong>Det där huset är stort.</strong> (That house is big.)</p>
-<p>Interrogative pronouns:
-- <strong>vem</strong> (who)
-- <strong>vad</strong> (what)
-- <strong>vilken/vilket/vilka</strong> (which)</p>
-<p>Examples:
-- <strong>Vem är du?</strong> (Who are you?)
-- <strong>Vad gör du?</strong> (What are you doing?)
-- <strong>Vilken bok läser du?</strong> (Which book are you reading?)</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Nominative</th>
+  <th>Objective</th>
+  <th>Possessive</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1sg</td>
+  <td><strong>jag</strong></td>
+  <td><strong>mig</strong></td>
+  <td><strong>min/mitt/mina</strong></td>
+</tr>
+<tr>
+  <td>2sg</td>
+  <td><strong>du</strong></td>
+  <td><strong>dig</strong></td>
+  <td><strong>din/ditt/dina</strong></td>
+</tr>
+<tr>
+  <td>3sg (m)</td>
+  <td><strong>han</strong></td>
+  <td><strong>honom</strong></td>
+  <td><strong>hans</strong></td>
+</tr>
+<tr>
+  <td>3sg (f)</td>
+  <td><strong>hon</strong></td>
+  <td><strong>henne</strong></td>
+  <td><strong>hennes</strong></td>
+</tr>
+<tr>
+  <td>3sg (n)</td>
+  <td><strong>det</strong></td>
+  <td><strong>det</strong></td>
+  <td><strong>dess</strong></td>
+</tr>
+<tr>
+  <td>1pl</td>
+  <td><strong>vi</strong></td>
+  <td><strong>oss</strong></td>
+  <td><strong>vår/vårt/våra</strong></td>
+</tr>
+<tr>
+  <td>2pl</td>
+  <td><strong>ni</strong></td>
+  <td><strong>er</strong></td>
+  <td><strong>er/ert/era</strong></td>
+</tr>
+<tr>
+  <td>3pl</td>
+  <td><strong>de</strong></td>
+  <td><strong>dem</strong></td>
+  <td><strong>deras</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Note: The formal &quot;you&quot; (<strong>ni</strong>) is rarely used in modern Swedish. Instead, people typically use the informal <strong>du</strong> in most situations.</p>
+<p>Reflexive pronouns:</p>
+<ul>
+<li><strong>sig</strong> (himself, herself, itself, themselves)</li>
+<li><strong>oss</strong> (ourselves)</li>
+<li><strong>er</strong> (yourselves)</li>
+</ul>
+<p>Examples:</p>
+<ul>
+<li><strong>Han tvättar sig.</strong> (He washes himself.)</li>
+<li><strong>Vi ser oss i spegeln.</strong> (We see ourselves in the mirror.)</li>
+</ul>
+<p>Demonstrative pronouns:</p>
+<ul>
+<li><strong>den här/den där</strong> (this/that, common gender)</li>
+<li><strong>det här/det där</strong> (this/that, neuter gender)</li>
+<li><strong>de här/de där</strong> (these/those)</li>
+</ul>
+<p>Examples:</p>
+<ul>
+<li><strong>Den här boken är intressant.</strong> (This book is interesting.)</li>
+<li><strong>Det där huset är stort.</strong> (That house is big.)</li>
+</ul>
+<p>Interrogative pronouns:</p>
+<ul>
+<li><strong>vem</strong> (who)</li>
+<li><strong>vad</strong> (what)</li>
+<li><strong>vilken/vilket/vilka</strong> (which)</li>
+</ul>
+<p>Examples:</p>
+<ul>
+<li><strong>Vem är du?</strong> (Who are you?)</li>
+<li><strong>Vad gör du?</strong> (What are you doing?)</li>
+<li><strong>Vilken bok läser du?</strong> (Which book are you reading?)</li>
+</ul>
 <h3>Adjectives</h3>
 <p>Adjectives agree with the noun they modify in gender and number:</p>
-<p>| Gender | Indefinite | Definite | Plural |
-|--------|------------|----------|--------|
-| Common | en <strong>stor</strong> stol | den <strong>stora</strong> stolen | <strong>stora</strong> stolar |
-| Neuter | ett <strong>stort</strong> bord | det <strong>stora</strong> bordet | <strong>stora</strong> bord |</p>
-<p>Examples:
-- <strong>en röd bil</strong> (a red car)
-- <strong>ett grönt äpple</strong> (a green apple)
-- <strong>den stora hunden</strong> (the big dog)
-- <strong>det lilla barnet</strong> (the small child)
-- <strong>de gamla husen</strong> (the old houses)</p>
-<p>Comparative and superlative forms:
-- Positive: <strong>stor</strong> (big)
-- Comparative: <strong>större</strong> (bigger)
-- Superlative: <strong>störst</strong> (biggest)</p>
-<p>Regular patterns:
-- Short adjectives: add -are for comparative, -ast for superlative
-  <strong>ung</strong> (young) → <strong>yngre</strong> (younger) → <strong>yngst</strong> (youngest)
-- Longer adjectives: use "mer" for comparative, "mest" for superlative
-  <strong>intressant</strong> (interesting) → <strong>mer intressant</strong> (more interesting) → <strong>mest intressant</strong> (most interesting)</p>
-<p>Irregular forms exist, e.g.:
-- <strong>god/bra</strong> (good) → <strong>bättre</strong> (better) → <strong>bäst</strong> (best)
-- <strong>dålig</strong> (bad) → <strong>sämre</strong> (worse) → <strong>sämst</strong> (worst)
-- <strong>liten</strong> (small) → <strong>mindre</strong> (smaller) → <strong>minst</strong> (smallest)
-- <strong>gammal</strong> (old) → <strong>äldre</strong> (older) → <strong>äldst</strong> (oldest)</p>
-<p>Adjectives can also be used as nouns:
-- <strong>den gamle</strong> (the old man)
-- <strong>det goda</strong> (the good)
-- <strong>de rika</strong> (the rich)</p>
+<table>
+<thead>
+<tr>
+  <th>Gender</th>
+  <th>Indefinite</th>
+  <th>Definite</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Common</td>
+  <td>en <strong>stor</strong> stol</td>
+  <td>den <strong>stora</strong> stolen</td>
+  <td><strong>stora</strong> stolar</td>
+</tr>
+<tr>
+  <td>Neuter</td>
+  <td>ett <strong>stort</strong> bord</td>
+  <td>det <strong>stora</strong> bordet</td>
+  <td><strong>stora</strong> bord</td>
+</tr>
+</tbody>
+</table>
+<p>Examples:</p>
+<ul>
+<li><strong>en röd bil</strong> (a red car)</li>
+<li><strong>ett grönt äpple</strong> (a green apple)</li>
+<li><strong>den stora hunden</strong> (the big dog)</li>
+<li><strong>det lilla barnet</strong> (the small child)</li>
+<li><strong>de gamla husen</strong> (the old houses)</li>
+</ul>
+<p>Comparative and superlative forms:</p>
+<ul>
+<li>Positive: <strong>stor</strong> (big)</li>
+<li>Comparative: <strong>större</strong> (bigger)</li>
+<li>Superlative: <strong>störst</strong> (biggest)</li>
+</ul>
+<p>Regular patterns:</p>
+<ul>
+<li>Short adjectives: add -are for comparative, -ast for superlative
+<strong>ung</strong> (young) → <strong>yngre</strong> (younger) → <strong>yngst</strong> (youngest)</li>
+<li>Longer adjectives: use &quot;mer&quot; for comparative, &quot;mest&quot; for superlative
+<strong>intressant</strong> (interesting) → <strong>mer intressant</strong> (more interesting) → <strong>mest intressant</strong> (most interesting)</li>
+</ul>
+<p>Irregular forms exist, e.g.:</p>
+<ul>
+<li><strong>god/bra</strong> (good) → <strong>bättre</strong> (better) → <strong>bäst</strong> (best)</li>
+<li><strong>dålig</strong> (bad) → <strong>sämre</strong> (worse) → <strong>sämst</strong> (worst)</li>
+<li><strong>liten</strong> (small) → <strong>mindre</strong> (smaller) → <strong>minst</strong> (smallest)</li>
+<li><strong>gammal</strong> (old) → <strong>äldre</strong> (older) → <strong>äldst</strong> (oldest)</li>
+</ul>
+<p>Adjectives can also be used as nouns:</p>
+<ul>
+<li><strong>den gamle</strong> (the old man)</li>
+<li><strong>det goda</strong> (the good)</li>
+<li><strong>de rika</strong> (the rich)</li>
+</ul>
 <h3>Verbs</h3>
 <p>Swedish verbs are not conjugated for person or number. They have four main forms:</p>
 <ol>
@@ -236,88 +526,109 @@
 <h4>Verb Groups</h4>
 <p>There are four main verb groups in Swedish:</p>
 <ol>
-<li>Group 1 (-ar verbs):</li>
+<li><p>Group 1 (-ar verbs):</p>
+<ul>
 <li><strong>tala</strong> (to speak): <strong>talar</strong>, <strong>talade</strong>, <strong>talat</strong></li>
-<li>
-<p><strong>arbeta</strong> (to work): <strong>arbetar</strong>, <strong>arbetade</strong>, <strong>arbetat</strong></p>
+<li><strong>arbeta</strong> (to work): <strong>arbetar</strong>, <strong>arbetade</strong>, <strong>arbetat</strong></li>
+</ul>
 </li>
-<li>
-<p>Group 2 (-er verbs):</p>
-</li>
+<li><p>Group 2 (-er verbs):</p>
+<ul>
 <li><strong>läsa</strong> (to read): <strong>läser</strong>, <strong>läste</strong>, <strong>läst</strong></li>
-<li>
-<p><strong>skriva</strong> (to write): <strong>skriver</strong>, <strong>skrev</strong>, <strong>skrivit</strong></p>
+<li><strong>skriva</strong> (to write): <strong>skriver</strong>, <strong>skrev</strong>, <strong>skrivit</strong></li>
+</ul>
 </li>
-<li>
-<p>Group 3 (short verbs):</p>
-</li>
+<li><p>Group 3 (short verbs):</p>
+<ul>
 <li><strong>bo</strong> (to live): <strong>bor</strong>, <strong>bodde</strong>, <strong>bott</strong></li>
-<li>
-<p><strong>tro</strong> (to believe): <strong>tror</strong>, <strong>trodde</strong>, <strong>trott</strong></p>
+<li><strong>tro</strong> (to believe): <strong>tror</strong>, <strong>trodde</strong>, <strong>trott</strong></li>
+</ul>
 </li>
-<li>
-<p>Group 4 (strong verbs with irregular forms):</p>
-</li>
+<li><p>Group 4 (strong verbs with irregular forms):</p>
+<ul>
 <li><strong>sjunga</strong> (to sing): <strong>sjunger</strong>, <strong>sjöng</strong>, <strong>sjungit</strong></li>
 <li><strong>dricka</strong> (to drink): <strong>dricker</strong>, <strong>drack</strong>, <strong>druckit</strong></li>
+</ul>
+</li>
 </ol>
 <h4>Tenses</h4>
-<p>Present tense:
-- <strong>Jag talar svenska.</strong> (I speak Swedish.)</p>
-<p>Past tense:
-- <strong>Jag talade svenska igår.</strong> (I spoke Swedish yesterday.)
-- <strong>Hon läste en bok.</strong> (She read a book.)</p>
-<p>Perfect tense:
-- <strong>Jag har talat svenska i många år.</strong> (I have spoken Swedish for many years.)
-- <strong>De har rest till Sverige.</strong> (They have traveled to Sweden.)</p>
-<p>Pluperfect tense:
-- <strong>Jag hade talat svenska innan jag flyttade till Sverige.</strong> (I had spoken Swedish before I moved to Sweden.)
-- <strong>Hon hade läst boken innan filmen kom ut.</strong> (She had read the book before the movie came out.)</p>
+<p>Present tense:</p>
+<ul>
+<li><strong>Jag talar svenska.</strong> (I speak Swedish.)</li>
+</ul>
+<p>Past tense:</p>
+<ul>
+<li><strong>Jag talade svenska igår.</strong> (I spoke Swedish yesterday.)</li>
+<li><strong>Hon läste en bok.</strong> (She read a book.)</li>
+</ul>
+<p>Perfect tense:</p>
+<ul>
+<li><strong>Jag har talat svenska i många år.</strong> (I have spoken Swedish for many years.)</li>
+<li><strong>De har rest till Sverige.</strong> (They have traveled to Sweden.)</li>
+</ul>
+<p>Pluperfect tense:</p>
+<ul>
+<li><strong>Jag hade talat svenska innan jag flyttade till Sverige.</strong> (I had spoken Swedish before I moved to Sweden.)</li>
+<li><strong>Hon hade läst boken innan filmen kom ut.</strong> (She had read the book before the movie came out.)</li>
+</ul>
 <p>Future tense:
 There are several ways to express future in Swedish:</p>
 <ol>
-<li>Using <strong>ska</strong> (will):</li>
-<li>
-<p><strong>Jag ska tala svenska imorgon.</strong> (I will speak Swedish tomorrow.)</p>
+<li><p>Using <strong>ska</strong> (will):</p>
+<ul>
+<li><strong>Jag ska tala svenska imorgon.</strong> (I will speak Swedish tomorrow.)</li>
+</ul>
 </li>
-<li>
-<p>Using <strong>kommer att</strong>:</p>
+<li><p>Using <strong>kommer att</strong>:</p>
+<ul>
+<li><strong>Jag kommer att tala svenska imorgon.</strong> (I will speak Swedish tomorrow.)</li>
+</ul>
 </li>
-<li>
-<p><strong>Jag kommer att tala svenska imorgon.</strong> (I will speak Swedish tomorrow.)</p>
-</li>
-<li>
-<p>Using present tense with a future time expression:</p>
-</li>
+<li><p>Using present tense with a future time expression:</p>
+<ul>
 <li><strong>Jag reser till Sverige nästa vecka.</strong> (I'm traveling to Sweden next week.)</li>
+</ul>
+</li>
 </ol>
-<p>Future perfect:
-- <strong>Jag kommer att ha talat svenska i tio år när jag flyttar.</strong> (I will have spoken Swedish for ten years when I move.)</p>
-<p>Conditional:
-- <strong>Jag skulle tala svenska om jag bodde i Sverige.</strong> (I would speak Swedish if I lived in Sweden.)</p>
-<p>Imperative:
-- <strong>Tala svenska!</strong> (Speak Swedish!)
-- <strong>Läs boken!</strong> (Read the book!)</p>
+<p>Future perfect:</p>
+<ul>
+<li><strong>Jag kommer att ha talat svenska i tio år när jag flyttar.</strong> (I will have spoken Swedish for ten years when I move.)</li>
+</ul>
+<p>Conditional:</p>
+<ul>
+<li><strong>Jag skulle tala svenska om jag bodde i Sverige.</strong> (I would speak Swedish if I lived in Sweden.)</li>
+</ul>
+<p>Imperative:</p>
+<ul>
+<li><strong>Tala svenska!</strong> (Speak Swedish!)</li>
+<li><strong>Läs boken!</strong> (Read the book!)</li>
+</ul>
 <h4>Passive Voice</h4>
 <p>The passive voice in Swedish can be formed in two ways:</p>
 <ol>
-<li>By adding -s to the active verb form:</li>
+<li><p>By adding -s to the active verb form:</p>
+<ul>
 <li>Active: <strong>Jag läser boken.</strong> (I read the book.)</li>
-<li>
-<p>Passive: <strong>Boken läses av mig.</strong> (The book is read by me.)</p>
+<li>Passive: <strong>Boken läses av mig.</strong> (The book is read by me.)</li>
+</ul>
 </li>
-<li>
-<p>Using the auxiliary verb <strong>bli</strong> (become) with the past participle:</p>
-</li>
+<li><p>Using the auxiliary verb <strong>bli</strong> (become) with the past participle:</p>
+<ul>
 <li><strong>Boken blir läst av mig.</strong> (The book is being read by me.)</li>
+</ul>
+</li>
 </ol>
 <h4>Participles</h4>
-<p>Present participle:
-- Formed by adding -ande or -ende to the verb stem
-- <strong>talande</strong> (speaking), <strong>läsande</strong> (reading)</p>
-<p>Past participle:
-- Varies by verb group, often ends in -d, -t, or -en
-- <strong>talad</strong> (spoken), <strong>läst</strong> (read), <strong>skriven</strong> (written)</p>
+<p>Present participle:</p>
+<ul>
+<li>Formed by adding -ande or -ende to the verb stem</li>
+<li><strong>talande</strong> (speaking), <strong>läsande</strong> (reading)</li>
+</ul>
+<p>Past participle:</p>
+<ul>
+<li>Varies by verb group, often ends in -d, -t, or -en</li>
+<li><strong>talad</strong> (spoken), <strong>läst</strong> (read), <strong>skriven</strong> (written)</li>
+</ul>
 <h4>Modal Verbs</h4>
 <p>Swedish has several modal verbs that modify the meaning of the main verb:</p>
 <ul>
@@ -328,21 +639,27 @@ There are several ways to express future in Swedish:</p>
 <li><strong>får</strong> (may, is allowed to): <strong>Ni får röka här.</strong> (You may smoke here.)</li>
 </ul>
 <h3>Adverbs</h3>
-<p>Many adverbs are formed by adding -t to the corresponding adjective:
-- <strong>snabb</strong> (quick) → <strong>snabbt</strong> (quickly)
-- <strong>glad</strong> (happy) → <strong>glatt</strong> (happily)</p>
-<p>Some common adverbs:
-- <strong>ofta</strong> (often)
-- <strong>alltid</strong> (always)
-- <strong>aldrig</strong> (never)
-- <strong>ibland</strong> (sometimes)
-- <strong>mycket</strong> (very)
-- <strong>gärna</strong> (gladly)
-- <strong>bara</strong> (only, just)
-- <strong>kanske</strong> (maybe)</p>
-<p>Comparative and superlative forms of adverbs:
-- <strong>fort</strong> (fast) → <strong>fortare</strong> (faster) → <strong>fortast</strong> (fastest)
-- <strong>väl</strong> (well) → <strong>bättre</strong> (better) → <strong>bäst</strong> (best)</p>
+<p>Many adverbs are formed by adding -t to the corresponding adjective:</p>
+<ul>
+<li><strong>snabb</strong> (quick) → <strong>snabbt</strong> (quickly)</li>
+<li><strong>glad</strong> (happy) → <strong>glatt</strong> (happily)</li>
+</ul>
+<p>Some common adverbs:</p>
+<ul>
+<li><strong>ofta</strong> (often)</li>
+<li><strong>alltid</strong> (always)</li>
+<li><strong>aldrig</strong> (never)</li>
+<li><strong>ibland</strong> (sometimes)</li>
+<li><strong>mycket</strong> (very)</li>
+<li><strong>gärna</strong> (gladly)</li>
+<li><strong>bara</strong> (only, just)</li>
+<li><strong>kanske</strong> (maybe)</li>
+</ul>
+<p>Comparative and superlative forms of adverbs:</p>
+<ul>
+<li><strong>fort</strong> (fast) → <strong>fortare</strong> (faster) → <strong>fortast</strong> (fastest)</li>
+<li><strong>väl</strong> (well) → <strong>bättre</strong> (better) → <strong>bäst</strong> (best)</li>
+</ul>
 <h2>Syntax</h2>
 <p>Swedish syntax is characterized by its V2 (verb-second) word order in main clauses and the distinction between main and subordinate clause structures.</p>
 <h3>Word Order</h3>
@@ -362,33 +679,45 @@ There are several ways to express future in Swedish:</p>
 <p>Subject - Adverb - Verb - Object</p>
 <p><strong>...att han ofta läser böcker.</strong> (...that he often reads books.)</p>
 <h3>Questions</h3>
-<p>Yes/no questions are formed by inverting the subject and verb:
-- Statement: <strong>Du talar svenska.</strong> (You speak Swedish.)
-- Question: <strong>Talar du svenska?</strong> (Do you speak Swedish?)</p>
-<p>Wh-questions start with a question word, followed by the verb:
-- <strong>Vad heter du?</strong> (What is your name?)
-- <strong>Var bor du?</strong> (Where do you live?)
-- <strong>När kommer du?</strong> (When are you coming?)
-- <strong>Hur mår du?</strong> (How are you?)</p>
+<p>Yes/no questions are formed by inverting the subject and verb:</p>
+<ul>
+<li>Statement: <strong>Du talar svenska.</strong> (You speak Swedish.)</li>
+<li>Question: <strong>Talar du svenska?</strong> (Do you speak Swedish?)</li>
+</ul>
+<p>Wh-questions start with a question word, followed by the verb:</p>
+<ul>
+<li><strong>Vad heter du?</strong> (What is your name?)</li>
+<li><strong>Var bor du?</strong> (Where do you live?)</li>
+<li><strong>När kommer du?</strong> (When are you coming?)</li>
+<li><strong>Hur mår du?</strong> (How are you?)</li>
+</ul>
 <h3>Negation</h3>
-<p>Negation is typically expressed using <strong>inte</strong> (not):
-- <strong>Jag talar inte svenska.</strong> (I don't speak Swedish.)
-- <strong>Hon kommer inte idag.</strong> (She is not coming today.)</p>
-<p>In subordinate clauses, <strong>inte</strong> comes before the verb:
-- <strong>Jag vet att han inte talar svenska.</strong> (I know that he doesn't speak Swedish.)
-- <strong>Om du inte kommer, ring mig.</strong> (If you're not coming, call me.)</p>
+<p>Negation is typically expressed using <strong>inte</strong> (not):</p>
+<ul>
+<li><strong>Jag talar inte svenska.</strong> (I don't speak Swedish.)</li>
+<li><strong>Hon kommer inte idag.</strong> (She is not coming today.)</li>
+</ul>
+<p>In subordinate clauses, <strong>inte</strong> comes before the verb:</p>
+<ul>
+<li><strong>Jag vet att han inte talar svenska.</strong> (I know that he doesn't speak Swedish.)</li>
+<li><strong>Om du inte kommer, ring mig.</strong> (If you're not coming, call me.)</li>
+</ul>
 <h3>Conjunctions</h3>
-<p>Coordinating conjunctions:
-- <strong>och</strong> (and): <strong>Jag gillar kaffe och te.</strong> (I like coffee and tea.)
-- <strong>men</strong> (but): <strong>Jag vill gå ut, men det regnar.</strong> (I want to go out, but it's raining.)
-- <strong>eller</strong> (or): <strong>Vill du ha kaffe eller te?</strong> (Do you want coffee or tea?)
-- <strong>för</strong> (for, because): <strong>Jag stannar hemma, för jag är sjuk.</strong> (I'm staying home because I'm sick.)</p>
-<p>Subordinating conjunctions:
-- <strong>att</strong> (that): <strong>Jag tror att det kommer att regna.</strong> (I think that it will rain.)
-- <strong>eftersom</strong> (because): <strong>Jag stannar hemma eftersom jag är sjuk.</strong> (I'm staying home because I'm sick.)
-- <strong>när</strong> (when): <strong>Ring mig när du kommer hem.</strong> (Call me when you get home.)
-- <strong>om</strong> (if): <strong>Om det regnar, stannar jag hemma.</strong> (If it rains, I'll stay home.)
-- <strong>därför att</strong> (because): <strong>Jag lär mig svenska därför att jag tycker om språk.</strong> (I'm learning Swedish because I like languages.)</p>
+<p>Coordinating conjunctions:</p>
+<ul>
+<li><strong>och</strong> (and): <strong>Jag gillar kaffe och te.</strong> (I like coffee and tea.)</li>
+<li><strong>men</strong> (but): <strong>Jag vill gå ut, men det regnar.</strong> (I want to go out, but it's raining.)</li>
+<li><strong>eller</strong> (or): <strong>Vill du ha kaffe eller te?</strong> (Do you want coffee or tea?)</li>
+<li><strong>för</strong> (for, because): <strong>Jag stannar hemma, för jag är sjuk.</strong> (I'm staying home because I'm sick.)</li>
+</ul>
+<p>Subordinating conjunctions:</p>
+<ul>
+<li><strong>att</strong> (that): <strong>Jag tror att det kommer att regna.</strong> (I think that it will rain.)</li>
+<li><strong>eftersom</strong> (because): <strong>Jag stannar hemma eftersom jag är sjuk.</strong> (I'm staying home because I'm sick.)</li>
+<li><strong>när</strong> (when): <strong>Ring mig när du kommer hem.</strong> (Call me when you get home.)</li>
+<li><strong>om</strong> (if): <strong>Om det regnar, stannar jag hemma.</strong> (If it rains, I'll stay home.)</li>
+<li><strong>därför att</strong> (because): <strong>Jag lär mig svenska därför att jag tycker om språk.</strong> (I'm learning Swedish because I like languages.)</li>
+</ul>
 <h3>Relative Clauses</h3>
 <p>Relative clauses in Swedish are introduced by relative pronouns:</p>
 <ul>
@@ -399,135 +728,148 @@ There are several ways to express future in Swedish:</p>
 <h2>Vocabulary</h2>
 <p>Swedish vocabulary has been influenced by various languages throughout history:</p>
 <ol>
-<li>
-<p>Old Norse: The foundation of Swedish vocabulary
-   Example: <strong>hus</strong> (house), <strong>barn</strong> (child), <strong>kvinna</strong> (woman), <strong>man</strong> (man)</p>
+<li><p>Old Norse: The foundation of Swedish vocabulary
+Example: <strong>hus</strong> (house), <strong>barn</strong> (child), <strong>kvinna</strong> (woman), <strong>man</strong> (man)</p>
 </li>
-<li>
-<p>Low German: Due to Hanseatic trade influence
-   Example: <strong>fönster</strong> (window), <strong>arbete</strong> (work), <strong>språk</strong> (language), <strong>handel</strong> (trade)</p>
+<li><p>Low German: Due to Hanseatic trade influence
+Example: <strong>fönster</strong> (window), <strong>arbete</strong> (work), <strong>språk</strong> (language), <strong>handel</strong> (trade)</p>
 </li>
-<li>
-<p>French: Especially in areas of culture and cuisine
-   Example: <strong>paraply</strong> (umbrella), <strong>restaurang</strong> (restaurant), <strong>garderob</strong> (wardrobe), <strong>parfym</strong> (perfume)</p>
+<li><p>French: Especially in areas of culture and cuisine
+Example: <strong>paraply</strong> (umbrella), <strong>restaurang</strong> (restaurant), <strong>garderob</strong> (wardrobe), <strong>parfym</strong> (perfume)</p>
 </li>
-<li>
-<p>English: Particularly in modern technology and pop culture
-   Example: <strong>mejl</strong> (email), <strong>chatta</strong> (to chat), <strong>smartphone</strong> (smartphone), <strong>DJ</strong> (DJ)</p>
+<li><p>English: Particularly in modern technology and pop culture
+Example: <strong>mejl</strong> (email), <strong>chatta</strong> (to chat), <strong>smartphone</strong> (smartphone), <strong>DJ</strong> (DJ)</p>
 </li>
 </ol>
 <h3>Compound Words</h3>
-<p>Swedish readily forms compound words, often creating long, descriptive terms:
-- <strong>järnvägsstationen</strong> (the railway station): <strong>järnväg</strong> (railway) + <strong>station</strong> (station)
-- <strong>barnsjukhus</strong> (children's hospital): <strong>barn</strong> (child) + <strong>sjukhus</strong> (hospital)
-- <strong>fredagseftermiddag</strong> (Friday afternoon): <strong>fredag</strong> (Friday) + <strong>eftermiddag</strong> (afternoon)
-- <strong>världsmästerskapet</strong> (the world championship): <strong>värld</strong> (world) + <strong>mästerskap</strong> (championship)</p>
+<p>Swedish readily forms compound words, often creating long, descriptive terms:</p>
+<ul>
+<li><strong>järnvägsstationen</strong> (the railway station): <strong>järnväg</strong> (railway) + <strong>station</strong> (station)</li>
+<li><strong>barnsjukhus</strong> (children's hospital): <strong>barn</strong> (child) + <strong>sjukhus</strong> (hospital)</li>
+<li><strong>fredagseftermiddag</strong> (Friday afternoon): <strong>fredag</strong> (Friday) + <strong>eftermiddag</strong> (afternoon)</li>
+<li><strong>världsmästerskapet</strong> (the world championship): <strong>värld</strong> (world) + <strong>mästerskap</strong> (championship)</li>
+</ul>
 <h3>False Friends with English</h3>
-<p>Some Swedish words look similar to English words but have different meanings:
-- <strong>gift</strong> means "married" or "poison" in Swedish (not "gift")
-- <strong>bra</strong> means "good" in Swedish (not "bra")
-- <strong>rolig</strong> means "fun" in Swedish (not "rolling")
-- <strong>semester</strong> means "vacation" in Swedish (not "semester")
-- <strong>glass</strong> means "ice cream" in Swedish (not "glass")</p>
+<p>Some Swedish words look similar to English words but have different meanings:</p>
+<ul>
+<li><strong>gift</strong> means &quot;married&quot; or &quot;poison&quot; in Swedish (not &quot;gift&quot;)</li>
+<li><strong>bra</strong> means &quot;good&quot; in Swedish (not &quot;bra&quot;)</li>
+<li><strong>rolig</strong> means &quot;fun&quot; in Swedish (not &quot;rolling&quot;)</li>
+<li><strong>semester</strong> means &quot;vacation&quot; in Swedish (not &quot;semester&quot;)</li>
+<li><strong>glass</strong> means &quot;ice cream&quot; in Swedish (not &quot;glass&quot;)</li>
+</ul>
 <h3>Loanwords</h3>
-<p>Swedish has adopted many loanwords from other languages, often adapting them to Swedish spelling and pronunciation:
-- <strong>sjal</strong> (shawl, from Persian)
-- <strong>bagare</strong> (baker, from German)
-- <strong>telefon</strong> (telephone, from Greek)
-- <strong>garage</strong> (garage, from French)
-- <strong>chips</strong> (chips, from English)</p>
+<p>Swedish has adopted many loanwords from other languages, often adapting them to Swedish spelling and pronunciation:</p>
+<ul>
+<li><strong>sjal</strong> (shawl, from Persian)</li>
+<li><strong>bagare</strong> (baker, from German)</li>
+<li><strong>telefon</strong> (telephone, from Greek)</li>
+<li><strong>garage</strong> (garage, from French)</li>
+<li><strong>chips</strong> (chips, from English)</li>
+</ul>
 <h2>Colloquial Swedish</h2>
 <p>Spoken Swedish often differs from the written language:</p>
 <ol>
-<li>Pronunciation shortcuts:</li>
+<li><p>Pronunciation shortcuts:</p>
+<ul>
 <li><strong>jag</strong> [jɑː] instead of [jɑːɡ]</li>
 <li><strong>det är</strong> often pronounced as <strong>de e</strong> [deː]</li>
-<li>
-<p><strong>är du</strong> often contracted to <strong>äru</strong> [æɾʉ]</p>
+<li><strong>är du</strong> often contracted to <strong>äru</strong> [æɾʉ]</li>
+</ul>
 </li>
-<li>
-<p>Informal pronouns:</p>
-</li>
+<li><p>Informal pronouns:</p>
+<ul>
 <li><strong>dom</strong> used for both <strong>de</strong> (they) and <strong>dem</strong> (them)</li>
 <li><strong>nån</strong> instead of <strong>någon</strong> (someone)</li>
-<li>
-<p><strong>nåt</strong> instead of <strong>något</strong> (something)</p>
+<li><strong>nåt</strong> instead of <strong>något</strong> (something)</li>
+</ul>
 </li>
-<li>
-<p>Slang and informal expressions:</p>
-</li>
+<li><p>Slang and informal expressions:</p>
+<ul>
 <li><strong>kul</strong> (fun) instead of <strong>rolig</strong></li>
 <li><strong>snacka</strong> (to talk) instead of <strong>prata</strong></li>
 <li><strong>jobba</strong> (to work) instead of <strong>arbeta</strong></li>
-<li>
-<p><strong>kompis</strong> (friend) instead of <strong>vän</strong></p>
+<li><strong>kompis</strong> (friend) instead of <strong>vän</strong></li>
+</ul>
 </li>
-<li>
-<p>Particle verbs:</p>
-</li>
+<li><p>Particle verbs:</p>
+<ul>
 <li><strong>äta upp</strong> (to eat up)</li>
 <li><strong>gå ut</strong> (to go out)</li>
 <li><strong>komma ihåg</strong> (to remember)</li>
-<li>
-<p><strong>tycka om</strong> (to like)</p>
+<li><strong>tycka om</strong> (to like)</li>
+</ul>
 </li>
-<li>
-<p>Colloquial interjections:</p>
-</li>
+<li><p>Colloquial interjections:</p>
+<ul>
 <li><strong>Oj!</strong> (Oh!)</li>
 <li><strong>Usch!</strong> (Yuck!)</li>
 <li><strong>Fy!</strong> (Shame!)</li>
 <li><strong>Hoppsan!</strong> (Oops!)</li>
+</ul>
+</li>
 </ol>
 <h2>Dialects</h2>
 <p>Swedish has a wide variety of dialects, broadly categorized into six groups:</p>
 <ol>
-<li>
-<p>Norrland dialects: Spoken in northern Sweden
-   Characteristics: Preservation of older vowel sounds, distinct intonation</p>
+<li><p>Norrland dialects: Spoken in northern Sweden
+Characteristics: Preservation of older vowel sounds, distinct intonation</p>
 </li>
-<li>
-<p>Finland Swedish: Spoken by the Swedish-speaking minority in Finland
-   Characteristics: Influenced by Finnish, different rhythm and intonation</p>
+<li><p>Finland Swedish: Spoken by the Swedish-speaking minority in Finland
+Characteristics: Influenced by Finnish, different rhythm and intonation</p>
 </li>
-<li>
-<p>Svealand dialects: Spoken in central Sweden, including Stockholm
-   Characteristics: Often considered "standard Swedish"</p>
+<li><p>Svealand dialects: Spoken in central Sweden, including Stockholm
+Characteristics: Often considered &quot;standard Swedish&quot;</p>
 </li>
-<li>
-<p>Gotland dialects: Spoken on the island of Gotland
-   Characteristics: Unique vocabulary, retained some Old Norse features</p>
+<li><p>Gotland dialects: Spoken on the island of Gotland
+Characteristics: Unique vocabulary, retained some Old Norse features</p>
 </li>
-<li>
-<p>Götaland dialects: Spoken in southern Sweden
-   Characteristics: Varied pronunciation, some Danish influence in the south</p>
+<li><p>Götaland dialects: Spoken in southern Sweden
+Characteristics: Varied pronunciation, some Danish influence in the south</p>
 </li>
-<li>
-<p>South Swedish dialects: Spoken in Skåne (Scania)
-   Characteristics: Strong Danish influence, different pronunciation of 'r'</p>
+<li><p>South Swedish dialects: Spoken in Skåne (Scania)
+Characteristics: Strong Danish influence, different pronunciation of 'r'</p>
 </li>
 </ol>
-<p>Notable differences can be found in pronunciation, vocabulary, and even grammar between these dialect groups. For example:
-- The word "I" (jag) can be pronounced as [jɑː] (Stockholm), [jɑːɡ] (formal), [jɔ] (Gothenburg), or [ja] (Skåne)
-- The phrase "Jag heter" (My name is) might be "Ja heter" in Svealand or "Jag heder" in parts of Norrland</p>
+<p>Notable differences can be found in pronunciation, vocabulary, and even grammar between these dialect groups. For example:</p>
+<ul>
+<li>The word &quot;I&quot; (jag) can be pronounced as [jɑː] (Stockholm), [jɑːɡ] (formal), [jɔ] (Gothenburg), or [ja] (Skåne)</li>
+<li>The phrase &quot;Jag heter&quot; (My name is) might be &quot;Ja heter&quot; in Svealand or &quot;Jag heder&quot; in parts of Norrland</li>
+</ul>
 <h2>Writing System</h2>
 <p>Swedish uses the Latin alphabet with the addition of three letters: Å/å, Ä/ä, and Ö/ö.</p>
 <p>The alphabet order is:
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Å Ä Ö</p>
-<p>Some spelling rules:
-- <strong>ck</strong> is used instead of <strong>kk</strong>: <strong>tacka</strong> (to thank)
-- <strong>x</strong> is pronounced [ks]: <strong>taxi</strong> [taksi]
-- <strong>c</strong> is usually pronounced [s] before front vowels (e, i, y, ä, ö) and [k] before back vowels (a, o, u, å)
-- <strong>j</strong> is always pronounced [j], even before front vowels: <strong>jeans</strong> [jeːns]
-- <strong>kj-</strong> is pronounced [ɕ]: <strong>kjol</strong> [ɕuːl] (skirt)</p>
-<p>Capitalization rules:
-- Sentence beginnings and proper nouns are capitalized
-- Days of the week, months, and languages are not capitalized: <strong>måndag</strong> (Monday), <strong>januari</strong> (January), <strong>svenska</strong> (Swedish)</p>
-<p>Punctuation is similar to English, with some differences:
-- Quotation marks: "citattecken" or »citattecken«
-- Question mark and exclamation mark are used as in English
-- Colon is used before direct speech: Han sa: "Hej!"</p>
+<p>Some spelling rules:</p>
+<ul>
+<li><strong>ck</strong> is used instead of <strong>kk</strong>: <strong>tacka</strong> (to thank)</li>
+<li><strong>x</strong> is pronounced [ks]: <strong>taxi</strong> [taksi]</li>
+<li><strong>c</strong> is usually pronounced [s] before front vowels (e, i, y, ä, ö) and [k] before back vowels (a, o, u, å)</li>
+<li><strong>j</strong> is always pronounced [j], even before front vowels: <strong>jeans</strong> [jeːns]</li>
+<li><strong>kj-</strong> is pronounced [ɕ]: <strong>kjol</strong> [ɕuːl] (skirt)</li>
+</ul>
+<p>Capitalization rules:</p>
+<ul>
+<li>Sentence beginnings and proper nouns are capitalized</li>
+<li>Days of the week, months, and languages are not capitalized: <strong>måndag</strong> (Monday), <strong>januari</strong> (January), <strong>svenska</strong> (Swedish)</li>
+</ul>
+<p>Punctuation is similar to English, with some differences:</p>
+<ul>
+<li>Quotation marks: &quot;citattecken&quot; or »citattecken«</li>
+<li>Question mark and exclamation mark are used as in English</li>
+<li>Colon is used before direct speech: Han sa: &quot;Hej!&quot;</li>
+</ul>
 <p>This comprehensive overview covers the main aspects of the Swedish language, providing a detailed introduction for laymen and learners. It focuses on technical details and includes numerous examples to illustrate key points in both written and spoken Swedish.</p>
+
       </div>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-TXC94JMN4X"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TXC94JMN4X');
+      </script>
 </body>
 </html>

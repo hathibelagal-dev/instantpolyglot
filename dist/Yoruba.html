@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Instant Polyglot</title>
     <link rel="stylesheet" href="../bootstrap.min.css">
+    <link rel="stylesheet" href="../styles.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -36,53 +37,235 @@
 <h2>Phonology</h2>
 <h3>Vowels</h3>
 <p>Yoruba has a seven-vowel system for oral vowels and a five-vowel system for nasal vowels:</p>
-<p>Oral vowels:
-| Vowel | IPA | Description | Example |
-|-------|-----|-------------|---------|
-| i | [i] | Close front unrounded | <strong>igi</strong> [igi] "tree" |
-| e | [e] | Close-mid front unrounded | <strong>epo</strong> [epo] "oil" |
-| ẹ | [ɛ] | Open-mid front unrounded | <strong>ẹkọ</strong> [ɛkɔ] "lesson" |
-| a | [a] | Open central unrounded | <strong>ata</strong> [ata] "pepper" |
-| ọ | [ɔ] | Open-mid back rounded | <strong>ọjọ́</strong> [ɔdʒɔ́] "day" |
-| o | [o] | Close-mid back rounded | <strong>oko</strong> [oko] "farm" |
-| u | [u] | Close back rounded | <strong>eku</strong> [eku] "rat" |</p>
-<p>Nasal vowels:
-| Vowel | IPA | Description | Example |
-|-------|-----|-------------|---------|
-| in | [ĩ] | Nasalized close front unrounded | <strong>inú</strong> [ĩnú] "stomach" |
-| ẹn | [ɛ̃] | Nasalized open-mid front unrounded | <strong>ẹn</strong> [ɛ̃] "mat" |
-| an | [ã] | Nasalized open central unrounded | <strong>àn</strong> [ã] "to measure" |
-| ọn | [ɔ̃] | Nasalized open-mid back rounded | <strong>ọn</strong> [ɔ̃] "to sprinkle" |
-| un | [ũ] | Nasalized close back rounded | <strong>un</strong> [ũ] "to pound" |</p>
+<p>Oral vowels:</p>
+<table>
+<thead>
+<tr>
+  <th>Vowel</th>
+  <th>IPA</th>
+  <th>Description</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>i</td>
+  <td>[i]</td>
+  <td>Close front unrounded</td>
+  <td><strong>igi</strong> [igi] &quot;tree&quot;</td>
+</tr>
+<tr>
+  <td>e</td>
+  <td>[e]</td>
+  <td>Close-mid front unrounded</td>
+  <td><strong>epo</strong> [epo] &quot;oil&quot;</td>
+</tr>
+<tr>
+  <td>ẹ</td>
+  <td>[ɛ]</td>
+  <td>Open-mid front unrounded</td>
+  <td><strong>ẹkọ</strong> [ɛkɔ] &quot;lesson&quot;</td>
+</tr>
+<tr>
+  <td>a</td>
+  <td>[a]</td>
+  <td>Open central unrounded</td>
+  <td><strong>ata</strong> [ata] &quot;pepper&quot;</td>
+</tr>
+<tr>
+  <td>ọ</td>
+  <td>[ɔ]</td>
+  <td>Open-mid back rounded</td>
+  <td><strong>ọjọ́</strong> [ɔdʒɔ́] &quot;day&quot;</td>
+</tr>
+<tr>
+  <td>o</td>
+  <td>[o]</td>
+  <td>Close-mid back rounded</td>
+  <td><strong>oko</strong> [oko] &quot;farm&quot;</td>
+</tr>
+<tr>
+  <td>u</td>
+  <td>[u]</td>
+  <td>Close back rounded</td>
+  <td><strong>eku</strong> [eku] &quot;rat&quot;</td>
+</tr>
+</tbody>
+</table>
+<p>Nasal vowels:</p>
+<table>
+<thead>
+<tr>
+  <th>Vowel</th>
+  <th>IPA</th>
+  <th>Description</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>in</td>
+  <td>[ĩ]</td>
+  <td>Nasalized close front unrounded</td>
+  <td><strong>inú</strong> [ĩnú] &quot;stomach&quot;</td>
+</tr>
+<tr>
+  <td>ẹn</td>
+  <td>[ɛ̃]</td>
+  <td>Nasalized open-mid front unrounded</td>
+  <td><strong>ẹn</strong> [ɛ̃] &quot;mat&quot;</td>
+</tr>
+<tr>
+  <td>an</td>
+  <td>[ã]</td>
+  <td>Nasalized open central unrounded</td>
+  <td><strong>àn</strong> [ã] &quot;to measure&quot;</td>
+</tr>
+<tr>
+  <td>ọn</td>
+  <td>[ɔ̃]</td>
+  <td>Nasalized open-mid back rounded</td>
+  <td><strong>ọn</strong> [ɔ̃] &quot;to sprinkle&quot;</td>
+</tr>
+<tr>
+  <td>un</td>
+  <td>[ũ]</td>
+  <td>Nasalized close back rounded</td>
+  <td><strong>un</strong> [ũ] &quot;to pound&quot;</td>
+</tr>
+</tbody>
+</table>
 <p>Vowel harmony is a significant feature in Yoruba. The vowels are divided into two sets:</p>
 <p>Set 1: i, e, ọ, u
 Set 2: i, ẹ, a, ọ, u</p>
 <p>Words generally contain vowels from only one set, with some exceptions for compound words and loanwords.</p>
-<p>Example of vowel harmony:
-- <strong>dídé</strong> [dídé] "to stand up" (Set 1)
-- <strong>dàdà</strong> [dàdà] "immediately" (Set 2)</p>
+<p>Example of vowel harmony:</p>
+<ul>
+<li><strong>dídé</strong> [dídé] &quot;to stand up&quot; (Set 1)</li>
+<li><strong>dàdà</strong> [dàdà] &quot;immediately&quot; (Set 2)</li>
+</ul>
 <h3>Consonants</h3>
 <p>Yoruba has 18 consonant phonemes:</p>
-<p>| Consonant | IPA | Description | Example |
-|-----------|-----|-------------|---------|
-| b | [b] | Voiced bilabial plosive | <strong>bàbá</strong> [bàbá] "father" |
-| d | [d] | Voiced alveolar plosive | <strong>dúdú</strong> [dúdú] "black" |
-| f | [f] | Voiceless labiodental fricative | <strong>fún</strong> [fũ] "to give" |
-| g | [ɡ] | Voiced velar plosive | <strong>gìgì</strong> [ɡìɡì] "spectacles" |
-| gb | [ɡ͡b] | Voiced labial-velar plosive | <strong>gbogbo</strong> [ɡ͡boɡ͡bo] "all" |
-| h | [h] | Voiceless glottal fricative | <strong>hó</strong> [hó] "to boil" |
-| j | [dʒ] | Voiced palato-alveolar affricate | <strong>jẹ</strong> [dʒɛ] "to eat" |
-| k | [k] | Voiceless velar plosive | <strong>kí</strong> [kí] "to greet" |
-| l | [l] | Alveolar lateral approximant | <strong>lọ</strong> [lɔ] "to go" |
-| m | [m] | Bilabial nasal | <strong>mu</strong> [mu] "to drink" |
-| n | [n] | Alveolar nasal | <strong>ní</strong> [ní] "to have" |
-| p | [kp] | Voiceless labial-velar plosive | <strong>pé</strong> [kpé] "to call" |
-| r | [r] | Alveolar trill | <strong>rí</strong> [rí] "to see" |
-| s | [s] | Voiceless alveolar fricative | <strong>sùn</strong> [sũ] "to sleep" |
-| ṣ | [ʃ] | Voiceless palato-alveolar fricative | <strong>ṣe</strong> [ʃe] "to do" |
-| t | [t] | Voiceless alveolar plosive | <strong>ta</strong> [ta] "to sell" |
-| w | [w] | Labial-velar approximant | <strong>wá</strong> [wá] "to come" |
-| y | [j] | Palatal approximant | <strong>yẹ</strong> [jɛ] "to be fit" |</p>
+<table>
+<thead>
+<tr>
+  <th>Consonant</th>
+  <th>IPA</th>
+  <th>Description</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>b</td>
+  <td>[b]</td>
+  <td>Voiced bilabial plosive</td>
+  <td><strong>bàbá</strong> [bàbá] &quot;father&quot;</td>
+</tr>
+<tr>
+  <td>d</td>
+  <td>[d]</td>
+  <td>Voiced alveolar plosive</td>
+  <td><strong>dúdú</strong> [dúdú] &quot;black&quot;</td>
+</tr>
+<tr>
+  <td>f</td>
+  <td>[f]</td>
+  <td>Voiceless labiodental fricative</td>
+  <td><strong>fún</strong> [fũ] &quot;to give&quot;</td>
+</tr>
+<tr>
+  <td>g</td>
+  <td>[ɡ]</td>
+  <td>Voiced velar plosive</td>
+  <td><strong>gìgì</strong> [ɡìɡì] &quot;spectacles&quot;</td>
+</tr>
+<tr>
+  <td>gb</td>
+  <td>[ɡ͡b]</td>
+  <td>Voiced labial-velar plosive</td>
+  <td><strong>gbogbo</strong> [ɡ͡boɡ͡bo] &quot;all&quot;</td>
+</tr>
+<tr>
+  <td>h</td>
+  <td>[h]</td>
+  <td>Voiceless glottal fricative</td>
+  <td><strong>hó</strong> [hó] &quot;to boil&quot;</td>
+</tr>
+<tr>
+  <td>j</td>
+  <td>[dʒ]</td>
+  <td>Voiced palato-alveolar affricate</td>
+  <td><strong>jẹ</strong> [dʒɛ] &quot;to eat&quot;</td>
+</tr>
+<tr>
+  <td>k</td>
+  <td>[k]</td>
+  <td>Voiceless velar plosive</td>
+  <td><strong>kí</strong> [kí] &quot;to greet&quot;</td>
+</tr>
+<tr>
+  <td>l</td>
+  <td>[l]</td>
+  <td>Alveolar lateral approximant</td>
+  <td><strong>lọ</strong> [lɔ] &quot;to go&quot;</td>
+</tr>
+<tr>
+  <td>m</td>
+  <td>[m]</td>
+  <td>Bilabial nasal</td>
+  <td><strong>mu</strong> [mu] &quot;to drink&quot;</td>
+</tr>
+<tr>
+  <td>n</td>
+  <td>[n]</td>
+  <td>Alveolar nasal</td>
+  <td><strong>ní</strong> [ní] &quot;to have&quot;</td>
+</tr>
+<tr>
+  <td>p</td>
+  <td>[kp]</td>
+  <td>Voiceless labial-velar plosive</td>
+  <td><strong>pé</strong> [kpé] &quot;to call&quot;</td>
+</tr>
+<tr>
+  <td>r</td>
+  <td>[r]</td>
+  <td>Alveolar trill</td>
+  <td><strong>rí</strong> [rí] &quot;to see&quot;</td>
+</tr>
+<tr>
+  <td>s</td>
+  <td>[s]</td>
+  <td>Voiceless alveolar fricative</td>
+  <td><strong>sùn</strong> [sũ] &quot;to sleep&quot;</td>
+</tr>
+<tr>
+  <td>ṣ</td>
+  <td>[ʃ]</td>
+  <td>Voiceless palato-alveolar fricative</td>
+  <td><strong>ṣe</strong> [ʃe] &quot;to do&quot;</td>
+</tr>
+<tr>
+  <td>t</td>
+  <td>[t]</td>
+  <td>Voiceless alveolar plosive</td>
+  <td><strong>ta</strong> [ta] &quot;to sell&quot;</td>
+</tr>
+<tr>
+  <td>w</td>
+  <td>[w]</td>
+  <td>Labial-velar approximant</td>
+  <td><strong>wá</strong> [wá] &quot;to come&quot;</td>
+</tr>
+<tr>
+  <td>y</td>
+  <td>[j]</td>
+  <td>Palatal approximant</td>
+  <td><strong>yẹ</strong> [jɛ] &quot;to be fit&quot;</td>
+</tr>
+</tbody>
+</table>
 <p>Some notable features of Yoruba consonants:</p>
 <ol>
 <li>The labial-velar consonants [ɡ͡b] and [kp] are single phonemes, not consonant clusters.</li>
@@ -98,61 +281,57 @@ Set 2: i, ẹ, a, ọ, u</p>
 </ol>
 <p>These tones are essential for distinguishing meaning:</p>
 <ul>
-<li><strong>ọwọ́</strong> [ɔwɔ́] "hand"</li>
-<li><strong>ọwọ</strong> [ɔwɔ] "broom"</li>
-<li><strong>ọwọ̀</strong> [ɔwɔ̀] "respect"</li>
+<li><strong>ọwọ́</strong> [ɔwɔ́] &quot;hand&quot;</li>
+<li><strong>ọwọ</strong> [ɔwɔ] &quot;broom&quot;</li>
+<li><strong>ọwọ̀</strong> [ɔwɔ̀] &quot;respect&quot;</li>
 </ul>
 <p>Contour tones also exist, typically resulting from the combination of level tones:</p>
 <ul>
 <li>Rising tone (ˇ): low to high</li>
 <li>Falling tone (ˆ): high to low</li>
 </ul>
-<p>Examples:
-- <strong>ọkọ̌</strong> [ɔkɔ̌] "hoe" (rising tone)
-- <strong>ộ</strong> [ɔ̂] "he/she" (emphatic, falling tone)</p>
+<p>Examples:</p>
+<ul>
+<li><strong>ọkọ̌</strong> [ɔkɔ̌] &quot;hoe&quot; (rising tone)</li>
+<li><strong>ộ</strong> [ɔ̂] &quot;he/she&quot; (emphatic, falling tone)</li>
+</ul>
 <p>Tonal patterns play a crucial role in Yoruba grammar, affecting various aspects of the language:</p>
 <ol>
-<li>
-<p>Lexical distinctions: As shown above, tones can differentiate words that are otherwise identical.</p>
+<li><p>Lexical distinctions: As shown above, tones can differentiate words that are otherwise identical.</p>
 </li>
-<li>
-<p>Grammatical functions: Tones can indicate grammatical categories or functions.
-   Example: <strong>rí</strong> (to see) vs. <strong>rì</strong> (perfective aspect marker)</p>
+<li><p>Grammatical functions: Tones can indicate grammatical categories or functions.
+Example: <strong>rí</strong> (to see) vs. <strong>rì</strong> (perfective aspect marker)</p>
 </li>
-<li>
-<p>Tonal changes in context: Tones can change based on their position in a phrase or sentence.
-   Example: <strong>mo rí i</strong> ("I saw it") becomes <strong>mó rí i</strong> in fast speech, with the tone of "mo" changing from mid to high.</p>
+<li><p>Tonal changes in context: Tones can change based on their position in a phrase or sentence.
+Example: <strong>mo rí i</strong> (&quot;I saw it&quot;) becomes <strong>mó rí i</strong> in fast speech, with the tone of &quot;mo&quot; changing from mid to high.</p>
 </li>
-<li>
-<p>Downdrift: In a sequence of high and low tones, each subsequent high tone is slightly lower than the previous one.
-   Example: <strong>ó bẹ́ ọmọ rẹ̀</strong> [ó bɛ́ ɔmɔ rɛ̀] "He/She cut his/her child"
-   The high tone on <strong>bẹ́</strong> is slightly lower than the one on <strong>ó</strong>.</p>
+<li><p>Downdrift: In a sequence of high and low tones, each subsequent high tone is slightly lower than the previous one.
+Example: <strong>ó bẹ́ ọmọ rẹ̀</strong> [ó bɛ́ ɔmɔ rɛ̀] &quot;He/She cut his/her child&quot;
+The high tone on <strong>bẹ́</strong> is slightly lower than the one on <strong>ó</strong>.</p>
 </li>
-<li>
-<p>Downstep: A high tone following a mid tone is realized at a lower pitch than a normal high tone.
-   Example: <strong>mo rí ẹran</strong> [mo rí ꜜɛran] "I saw meat"
-   The high tone on <strong>ẹ́</strong> in <strong>ẹran</strong> is lower than the high tone on <strong>rí</strong>.</p>
+<li><p>Downstep: A high tone following a mid tone is realized at a lower pitch than a normal high tone.
+Example: <strong>mo rí ẹran</strong> [mo rí ꜜɛran] &quot;I saw meat&quot;
+The high tone on <strong>ẹ́</strong> in <strong>ẹran</strong> is lower than the high tone on <strong>rí</strong>.</p>
 </li>
 </ol>
 <h3>Syllable structure</h3>
 <p>The most common syllable structure in Yoruba is CV (consonant-vowel), but V (vowel-only) syllables are also possible. Yoruba does not allow consonant clusters or closed syllables.</p>
-<p>Examples:
-- <strong>ọmọ</strong> [ɔ.mɔ] "child" (CV.CV)
-- <strong>aiye</strong> [a.i.je] "world" (V.V.CV)
-- <strong>òròmọ</strong> [ò.rò.mɔ] "calf" (V.CV.CV)</p>
+<p>Examples:</p>
+<ul>
+<li><strong>ọmọ</strong> [ɔ.mɔ] &quot;child&quot; (CV.CV)</li>
+<li><strong>aiye</strong> [a.i.je] &quot;world&quot; (V.V.CV)</li>
+<li><strong>òròmọ</strong> [ò.rò.mɔ] &quot;calf&quot; (V.CV.CV)</li>
+</ul>
 <p>The syllable structure plays a role in various phonological processes:</p>
 <ol>
-<li>
-<p>Elision: When two vowels meet across word boundaries, one may be elided.
-   Example: <strong>mo ò rí i</strong> → <strong>mò ó rí i</strong> "I didn't see it"</p>
+<li><p>Elision: When two vowels meet across word boundaries, one may be elided.
+Example: <strong>mo ò rí i</strong> → <strong>mò ó rí i</strong> &quot;I didn't see it&quot;</p>
 </li>
-<li>
-<p>Assimilation: Vowels may assimilate to neighboring sounds.
-   Example: <strong>omi</strong> + <strong>inu</strong> → <strong>ominú</strong> "water inside"</p>
+<li><p>Assimilation: Vowels may assimilate to neighboring sounds.
+Example: <strong>omi</strong> + <strong>inu</strong> → <strong>ominú</strong> &quot;water inside&quot;</p>
 </li>
-<li>
-<p>Tone spreading: Tones can spread across syllable boundaries in certain contexts.
-   Example: <strong>olú</strong> + <strong>ọmọ</strong> → <strong>olúọ́mọ́</strong> "firstborn child"</p>
+<li><p>Tone spreading: Tones can spread across syllable boundaries in certain contexts.
+Example: <strong>olú</strong> + <strong>ọmọ</strong> → <strong>olúọ́mọ́</strong> &quot;firstborn child&quot;</p>
 </li>
 </ol>
 <h2>Orthography</h2>
@@ -165,453 +344,483 @@ Set 2: i, ẹ, a, ọ, u</p>
 <li>Grave accent (`) for low tone</li>
 <li>Subdot (.) for open vowels (ẹ and ọ)</li>
 </ul>
-<p>Examples:
-- <strong>ọkọ̀</strong> "husband"
-- <strong>ọkọ́</strong> "vehicle"
-- <strong>ẹkọ</strong> "lesson"</p>
+<p>Examples:</p>
+<ul>
+<li><strong>ọkọ̀</strong> &quot;husband&quot;</li>
+<li><strong>ọkọ́</strong> &quot;vehicle&quot;</li>
+<li><strong>ẹkọ</strong> &quot;lesson&quot;</li>
+</ul>
 <p>Some additional orthographic conventions:</p>
 <ol>
-<li>
-<p>The mid tone is usually left unmarked, but in some educational materials, it may be marked with a macron (¯).</p>
+<li><p>The mid tone is usually left unmarked, but in some educational materials, it may be marked with a macron (¯).</p>
 </li>
-<li>
-<p>Nasalized vowels are written with an 'n' following the vowel: <strong>an</strong>, <strong>ẹn</strong>, <strong>in</strong>, <strong>ọn</strong>, <strong>un</strong>.</p>
+<li><p>Nasalized vowels are written with an 'n' following the vowel: <strong>an</strong>, <strong>ẹn</strong>, <strong>in</strong>, <strong>ọn</strong>, <strong>un</strong>.</p>
 </li>
-<li>
-<p>The labial-velar consonants are written as digraphs: <strong>gb</strong> for [ɡ͡b] and <strong>p</strong> for [kp].</p>
+<li><p>The labial-velar consonants are written as digraphs: <strong>gb</strong> for [ɡ͡b] and <strong>p</strong> for [kp].</p>
 </li>
-<li>
-<p>The palato-alveolar fricative [ʃ] is written as <strong>ṣ</strong> with a subdot.</p>
+<li><p>The palato-alveolar fricative [ʃ] is written as <strong>ṣ</strong> with a subdot.</p>
 </li>
-<li>
-<p>Long vowels are written as two identical vowels: <strong>òòrùn</strong> "sun".</p>
+<li><p>Long vowels are written as two identical vowels: <strong>òòrùn</strong> &quot;sun&quot;.</p>
 </li>
-<li>
-<p>In some older texts or regional variations, you may encounter different orthographic conventions, such as:</p>
-</li>
+<li><p>In some older texts or regional variations, you may encounter different orthographic conventions, such as:</p>
+<ul>
 <li><strong>sh</strong> instead of <strong>ṣ</strong></li>
 <li><strong>ch</strong> instead of <strong>tš</strong></li>
 <li><strong>kp</strong> instead of <strong>p</strong></li>
+</ul>
+</li>
 </ol>
 <h2>Morphology</h2>
 <h3>Nouns</h3>
 <p>Yoruba nouns do not inflect for number, gender, or case. Plurality is typically expressed through context or by using number words.</p>
-<p>Example:
-- <strong>ọmọ</strong> can mean "child" or "children" depending on context
-- <strong>ọmọ mẹ́ta</strong> "three children" (literally "child three")</p>
+<p>Example:</p>
+<ul>
+<li><strong>ọmọ</strong> can mean &quot;child&quot; or &quot;children&quot; depending on context</li>
+<li><strong>ọmọ mẹ́ta</strong> &quot;three children&quot; (literally &quot;child three&quot;)</li>
+</ul>
 <h4>Compound nouns</h4>
 <p>Yoruba frequently forms compound nouns by combining two or more words:</p>
 <ul>
-<li><strong>ilé</strong> "house" + <strong>ìwé</strong> "book" = <strong>ilé-ìwé</strong> "school"</li>
-<li><strong>ọmọ</strong> "child" + <strong>ọkùnrin</strong> "male" = <strong>ọmọkùnrin</strong> "boy"</li>
-<li><strong>ẹ̀kọ́</strong> "lesson" + <strong>ìṣirò</strong> "calculation" = <strong>ẹ̀kọ́-ìṣirò</strong> "mathematics"</li>
-<li><strong>àgbà</strong> "elder" + <strong>ìjọba</strong> "government" = <strong>àgbàjọba</strong> "cabinet minister"</li>
+<li><strong>ilé</strong> &quot;house&quot; + <strong>ìwé</strong> &quot;book&quot; = <strong>ilé-ìwé</strong> &quot;school&quot;</li>
+<li><strong>ọmọ</strong> &quot;child&quot; + <strong>ọkùnrin</strong> &quot;male&quot; = <strong>ọmọkùnrin</strong> &quot;boy&quot;</li>
+<li><strong>ẹ̀kọ́</strong> &quot;lesson&quot; + <strong>ìṣirò</strong> &quot;calculation&quot; = <strong>ẹ̀kọ́-ìṣirò</strong> &quot;mathematics&quot;</li>
+<li><strong>àgbà</strong> &quot;elder&quot; + <strong>ìjọba</strong> &quot;government&quot; = <strong>àgbàjọba</strong> &quot;cabinet minister&quot;</li>
 </ul>
 <h4>Nominal prefixes</h4>
 <p>Yoruba uses various prefixes to derive nouns from verbs or other nouns:</p>
 <ol>
-<li><strong>a-/ẹ-</strong>: forms agentive nouns</li>
-<li><strong>kọ</strong> "to write" → <strong>akọ̀wé</strong> "writer"</li>
-<li>
-<p><strong>jẹ</strong> "to eat" → <strong>ajẹun</strong> "eater"</p>
+<li><p><strong>a-/ẹ-</strong>: forms agentive nouns</p>
+<ul>
+<li><strong>kọ</strong> &quot;to write&quot; → <strong>akọ̀wé</strong> &quot;writer&quot;</li>
+<li><strong>jẹ</strong> &quot;to eat&quot; → <strong>ajẹun</strong> &quot;eater&quot;</li>
+</ul>
 </li>
-<li>
-<p><strong>o-/ọ-</strong>: forms nouns describing a state or condition</p>
+<li><p><strong>o-/ọ-</strong>: forms nouns describing a state or condition</p>
+<ul>
+<li><strong>dára</strong> &quot;to be good&quot; → <strong>odára</strong> &quot;goodness&quot;</li>
+<li><strong>ṣe</strong> &quot;to do&quot; → <strong>oṣìṣẹ́</strong> &quot;worker&quot;</li>
+</ul>
 </li>
-<li><strong>dára</strong> "to be good" → <strong>odára</strong> "goodness"</li>
-<li>
-<p><strong>ṣe</strong> "to do" → <strong>oṣìṣẹ́</strong> "worker"</p>
+<li><p><strong>ì-</strong>: forms abstract nouns or nouns of action</p>
+<ul>
+<li><strong>kọ́</strong> &quot;to learn&quot; → <strong>ìkọ́</strong> &quot;learning&quot;</li>
+<li><strong>fẹ́</strong> &quot;to love&quot; → <strong>ìfẹ́</strong> &quot;love&quot;</li>
+</ul>
 </li>
-<li>
-<p><strong>ì-</strong>: forms abstract nouns or nouns of action</p>
+<li><p><strong>àì-</strong>: forms negative nouns</p>
+<ul>
+<li><strong>mọ̀</strong> &quot;to know&quot; → <strong>àìmọ̀</strong> &quot;ignorance&quot;</li>
+<li><strong>gbọ́</strong> &quot;to hear&quot; → <strong>àìgbọ́</strong> &quot;deafness&quot;</li>
+</ul>
 </li>
-<li><strong>kọ́</strong> "to learn" → <strong>ìkọ́</strong> "learning"</li>
-<li>
-<p><strong>fẹ́</strong> "to love" → <strong>ìfẹ́</strong> "love"</p>
-</li>
-<li>
-<p><strong>àì-</strong>: forms negative nouns</p>
-</li>
-<li><strong>mọ̀</strong> "to know" → <strong>àìmọ̀</strong> "ignorance"</li>
-<li><strong>gbọ́</strong> "to hear" → <strong>àìgbọ́</strong> "deafness"</li>
 </ol>
 <h4>Reduplication</h4>
 <p>Nouns can be reduplicated to express intensity, plurality, or distribution:</p>
 <ul>
-<li><strong>ọjọ́</strong> "day" → <strong>ọjọọ́jọ́</strong> "every day"</li>
-<li><strong>ìgbà</strong> "time" → <strong>ìgbàgbà</strong> "sometimes"</li>
+<li><strong>ọjọ́</strong> &quot;day&quot; → <strong>ọjọọ́jọ́</strong> &quot;every day&quot;</li>
+<li><strong>ìgbà</strong> &quot;time&quot; → <strong>ìgbàgbà</strong> &quot;sometimes&quot;</li>
 </ul>
 <h3>Pronouns</h3>
 <p>Yoruba pronouns distinguish between singular and plural forms, as well as between human and non-human referents in the third person.</p>
-<p>| Person | Singular | Plural |
-|--------|----------|--------|
-| 1st    | <strong>èmi</strong> / <strong>mo</strong> | <strong>àwa</strong> / <strong>a</strong> |
-| 2nd    | <strong>ìwọ</strong> / <strong>o</strong> | <strong>ẹ̀yin</strong> / <strong>ẹ</strong> |
-| 3rd (human) | <strong>òun</strong> / <strong>ó</strong> | <strong>àwọn</strong> / <strong>wọ́n</strong> |
-| 3rd (non-human) | <strong>ó</strong> | <strong>wọ́n</strong> |</p>
-<p>Examples:
-- <strong>Mo rí ẹ.</strong> "I see you."
-- <strong>Ó ń sùn.</strong> "He/She is sleeping." or "It is sleeping."</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st</td>
+  <td><strong>èmi</strong> / <strong>mo</strong></td>
+  <td><strong>àwa</strong> / <strong>a</strong></td>
+</tr>
+<tr>
+  <td>2nd</td>
+  <td><strong>ìwọ</strong> / <strong>o</strong></td>
+  <td><strong>ẹ̀yin</strong> / <strong>ẹ</strong></td>
+</tr>
+<tr>
+  <td>3rd (human)</td>
+  <td><strong>òun</strong> / <strong>ó</strong></td>
+  <td><strong>àwọn</strong> / <strong>wọ́n</strong></td>
+</tr>
+<tr>
+  <td>3rd (non-human)</td>
+  <td><strong>ó</strong></td>
+  <td><strong>wọ́n</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Examples:</p>
+<ul>
+<li><strong>Mo rí ẹ.</strong> &quot;I see you.&quot;</li>
+<li><strong>Ó ń sùn.</strong> &quot;He/She is sleeping.&quot; or &quot;It is sleeping.&quot;</li>
+</ul>
 <p>Additional pronoun types:</p>
 <ol>
-<li>Possessive pronouns:</li>
-<li>
-<p><strong>ti</strong>
-   Example: <strong>ti mo</strong> "mine", <strong>ti wa</strong> "ours"</p>
+<li><p>Possessive pronouns:</p>
+<ul>
+<li><strong>ti</strong>
+Example: <strong>ti mo</strong> &quot;mine&quot;, <strong>ti wa</strong> &quot;ours&quot;</li>
+</ul>
 </li>
-<li>
-<p>Emphatic pronouns:</p>
+<li><p>Emphatic pronouns:</p>
+<ul>
+<li>Add <strong>tikarami</strong> (singular) or <strong>tikaraẹni</strong> (plural)
+Example: <strong>Èmi tikarami</strong> &quot;I myself&quot;, <strong>Àwa tikaraẹni</strong> &quot;We ourselves&quot;</li>
+</ul>
 </li>
-<li>
-<p>Add <strong>tikarami</strong> (singular) or <strong>tikaraẹni</strong> (plural)
-   Example: <strong>Èmi tikarami</strong> "I myself", <strong>Àwa tikaraẹni</strong> "We ourselves"</p>
+<li><p>Reflexive pronouns:</p>
+<ul>
+<li>Use <strong>ara</strong> &quot;body&quot; + possessive
+Example: <strong>ara mi</strong> &quot;myself&quot;, <strong>ara rẹ</strong> &quot;yourself&quot;</li>
+</ul>
 </li>
-<li>
-<p>Reflexive pronouns:</p>
+<li><p>Reciprocal pronoun:</p>
+<ul>
+<li><strong>ara wọn</strong> &quot;each other&quot;
+Example: <strong>Wọ́n fẹ́ràn ara wọn.</strong> &quot;They love each other.&quot;</li>
+</ul>
 </li>
-<li>
-<p>Use <strong>ara</strong> "body" + possessive
-   Example: <strong>ara mi</strong> "myself", <strong>ara rẹ</strong> "yourself"</p>
+<li><p>Indefinite pronouns:</p>
+<ul>
+<li><strong>ẹnìkan</strong> &quot;someone&quot;</li>
+<li><strong>ohunkóhun</strong> &quot;anything&quot;</li>
+<li><strong>ibìkíbi</strong> &quot;anywhere&quot;</li>
+</ul>
 </li>
-<li>
-<p>Reciprocal pronoun:</p>
-</li>
-<li>
-<p><strong>ara wọn</strong> "each other"
-   Example: <strong>Wọ́n fẹ́ràn ara wọn.</strong> "They love each other."</p>
-</li>
-<li>
-<p>Indefinite pronouns:</p>
-</li>
-<li><strong>ẹnìkan</strong> "someone"</li>
-<li><strong>ohunkóhun</strong> "anything"</li>
-<li><strong>ibìkíbi</strong> "anywhere"</li>
 </ol>
 <h3>Verbs</h3>
 <p>Yoruba verbs do not conjugate for person, number, or gender. Tense, aspect, and mood are expressed through particles and auxiliaries.</p>
 <h4>Tense and Aspect</h4>
 <ol>
-<li>
-<p>Present/Habitual: unmarked
-   <strong>Mo jẹun.</strong> "I eat." / "I am eating."</p>
+<li><p>Present/Habitual: unmarked
+<strong>Mo jẹun.</strong> &quot;I eat.&quot; / &quot;I am eating.&quot;</p>
 </li>
-<li>
-<p>Past: use of <strong>ti</strong>
-   <strong>Mo ti jẹun.</strong> "I have eaten."</p>
+<li><p>Past: use of <strong>ti</strong>
+<strong>Mo ti jẹun.</strong> &quot;I have eaten.&quot;</p>
 </li>
-<li>
-<p>Future: use of <strong>yóò</strong> or <strong>á</strong>
-   <strong>Mo yóò jẹun.</strong> / <strong>Má jẹun.</strong> "I will eat."</p>
+<li><p>Future: use of <strong>yóò</strong> or <strong>á</strong>
+<strong>Mo yóò jẹun.</strong> / <strong>Má jẹun.</strong> &quot;I will eat.&quot;</p>
 </li>
-<li>
-<p>Progressive: use of <strong>ń</strong>
-   <strong>Mo ń jẹun.</strong> "I am eating."</p>
+<li><p>Progressive: use of <strong>ń</strong>
+<strong>Mo ń jẹun.</strong> &quot;I am eating.&quot;</p>
 </li>
-<li>
-<p>Perfective: use of <strong>ti</strong>
-   <strong>Mo ti jẹun tán.</strong> "I have finished eating."</p>
+<li><p>Perfective: use of <strong>ti</strong>
+<strong>Mo ti jẹun tán.</strong> &quot;I have finished eating.&quot;</p>
 </li>
-<li>
-<p>Habitual past: use of <strong>máa ń</strong>
-   <strong>Mo máa ń jẹun ní àsìkò yìí.</strong> "I used to eat at this time."</p>
+<li><p>Habitual past: use of <strong>máa ń</strong>
+<strong>Mo máa ń jẹun ní àsìkò yìí.</strong> &quot;I used to eat at this time.&quot;</p>
 </li>
-<li>
-<p>Continuous: use of <strong>ń ... lọ</strong>
-   <strong>Mo ń ṣiṣẹ́ lọ.</strong> "I am continuing to work."</p>
+<li><p>Continuous: use of <strong>ń ... lọ</strong>
+<strong>Mo ń ṣiṣẹ́ lọ.</strong> &quot;I am continuing to work.&quot;</p>
 </li>
 </ol>
 <h4>Negation</h4>
 <p>Verbs are negated using various particles depending on the tense and aspect:</p>
 <ol>
-<li>
-<p>Simple negation: <strong>kò</strong> (or its variants <strong>kì í</strong>, <strong>kó</strong>)
-   <strong>Mo jẹun.</strong> "I eat." → <strong>Èmi kò jẹun.</strong> "I don't eat."</p>
+<li><p>Simple negation: <strong>kò</strong> (or its variants <strong>kì í</strong>, <strong>kó</strong>)
+<strong>Mo jẹun.</strong> &quot;I eat.&quot; → <strong>Èmi kò jẹun.</strong> &quot;I don't eat.&quot;</p>
 </li>
-<li>
-<p>Progressive negation: <strong>kò ń</strong>
-   <strong>Mo ń jẹun.</strong> "I am eating." → <strong>Èmi kò ń jẹun.</strong> "I am not eating."</p>
+<li><p>Progressive negation: <strong>kò ń</strong>
+<strong>Mo ń jẹun.</strong> &quot;I am eating.&quot; → <strong>Èmi kò ń jẹun.</strong> &quot;I am not eating.&quot;</p>
 </li>
-<li>
-<p>Future negation: <strong>kò ní</strong>
-   <strong>Má jẹun.</strong> "I will eat." → <strong>Èmi kò ní jẹun.</strong> "I will not eat."</p>
+<li><p>Future negation: <strong>kò ní</strong>
+<strong>Má jẹun.</strong> &quot;I will eat.&quot; → <strong>Èmi kò ní jẹun.</strong> &quot;I will not eat.&quot;</p>
 </li>
-<li>
-<p>Perfective negation: <strong>kò tí ì</strong>
-   <strong>Mo ti jẹun.</strong> "I have eaten." → <strong>Èmi kò tí ì jẹun.</strong> "I have not eaten."</p>
+<li><p>Perfective negation: <strong>kò tí ì</strong>
+<strong>Mo ti jẹun.</strong> &quot;I have eaten.&quot; → <strong>Èmi kò tí ì jẹun.</strong> &quot;I have not eaten.&quot;</p>
 </li>
 </ol>
 <h4>Imperative</h4>
 <p>The imperative mood in Yoruba is formed in several ways:</p>
 <ol>
-<li>
-<p>Simple imperative: use the bare verb form
-   <strong>Jẹun!</strong> "Eat!"</p>
+<li><p>Simple imperative: use the bare verb form
+<strong>Jẹun!</strong> &quot;Eat!&quot;</p>
 </li>
-<li>
-<p>Polite imperative: add <strong>jọ̀wọ́</strong>
-   <strong>Jọ̀wọ́ jẹun.</strong> "Please eat."</p>
+<li><p>Polite imperative: add <strong>jọ̀wọ́</strong>
+<strong>Jọ̀wọ́ jẹun.</strong> &quot;Please eat.&quot;</p>
 </li>
-<li>
-<p>Negative imperative: use <strong>má ṣe</strong>
-   <strong>Má ṣe jẹun.</strong> "Don't eat."</p>
+<li><p>Negative imperative: use <strong>má ṣe</strong>
+<strong>Má ṣe jẹun.</strong> &quot;Don't eat.&quot;</p>
 </li>
-<li>
-<p>Plural imperative: add <strong>ẹ</strong>
-   <strong>Ẹ jẹun!</strong> "Eat!" (addressing multiple people)</p>
+<li><p>Plural imperative: add <strong>ẹ</strong>
+<strong>Ẹ jẹun!</strong> &quot;Eat!&quot; (addressing multiple people)</p>
 </li>
 </ol>
 <h4>Serial Verb Constructions</h4>
 <p>Yoruba makes extensive use of serial verb constructions, where multiple verbs are used in sequence without conjunctions:</p>
 <p><strong>Mo mú ọbẹ jẹ.</strong>
 I take soup eat
-"I ate soup."</p>
+&quot;I ate soup.&quot;</p>
 <p><strong>Ó sáré wá ilé.</strong>
 He/She run come house
-"He/She ran home."</p>
+&quot;He/She ran home.&quot;</p>
 <h4>Verb Nominalization</h4>
 <p>Verbs can be nominalized in Yoruba using the prefix <strong>ì-</strong> or <strong>à-</strong>:</p>
 <ul>
-<li><strong>kọ́</strong> "to write" → <strong>ìkọ́wé</strong> "writing"</li>
-<li><strong>gbọ́</strong> "to hear" → <strong>ìgbọ́</strong> "hearing"</li>
-<li><strong>bẹ̀rẹ̀</strong> "to begin" → <strong>ìbẹ̀rẹ̀</strong> "beginning"</li>
-<li><strong>dá</strong> "to create" → <strong>àdá</strong> "creation"</li>
+<li><strong>kọ́</strong> &quot;to write&quot; → <strong>ìkọ́wé</strong> &quot;writing&quot;</li>
+<li><strong>gbọ́</strong> &quot;to hear&quot; → <strong>ìgbọ́</strong> &quot;hearing&quot;</li>
+<li><strong>bẹ̀rẹ̀</strong> &quot;to begin&quot; → <strong>ìbẹ̀rẹ̀</strong> &quot;beginning&quot;</li>
+<li><strong>dá</strong> &quot;to create&quot; → <strong>àdá</strong> &quot;creation&quot;</li>
 </ul>
 <h3>Adjectives</h3>
 <p>Yoruba adjectives typically follow the nouns they modify:</p>
 <ul>
-<li><strong>aṣọ dúdú</strong> "black cloth"</li>
-<li><strong>ọmọ kékeré</strong> "small child"</li>
-<li><strong>ilé ńlá</strong> "big house"</li>
+<li><strong>aṣọ dúdú</strong> &quot;black cloth&quot;</li>
+<li><strong>ọmọ kékeré</strong> &quot;small child&quot;</li>
+<li><strong>ilé ńlá</strong> &quot;big house&quot;</li>
 </ul>
 <p>Some adjectives can be reduplicated for emphasis:</p>
 <ul>
-<li><strong>dúdú</strong> "black" → <strong>dúdúdú</strong> "very black"</li>
-<li><strong>kékeré</strong> "small" → <strong>kékèké</strong> "very small"</li>
+<li><strong>dúdú</strong> &quot;black&quot; → <strong>dúdúdú</strong> &quot;very black&quot;</li>
+<li><strong>kékeré</strong> &quot;small&quot; → <strong>kékèké</strong> &quot;very small&quot;</li>
 </ul>
 <p>Adjectives can also be derived from verbs:</p>
 <ul>
-<li><strong>dára</strong> "to be good" → <strong>dáradára</strong> "good"</li>
-<li><strong>ga</strong> "to be tall" → <strong>gíga</strong> "tall"</li>
+<li><strong>dára</strong> &quot;to be good&quot; → <strong>dáradára</strong> &quot;good&quot;</li>
+<li><strong>ga</strong> &quot;to be tall&quot; → <strong>gíga</strong> &quot;tall&quot;</li>
 </ul>
 <h3>Adverbs</h3>
 <p>Many adverbs in Yoruba are formed by reduplication of adjectives or verbs:</p>
 <ul>
-<li><strong>dídùn</strong> "sweet" → <strong>dídùndídùn</strong> "sweetly"</li>
-<li><strong>fẹ́</strong> "to be quick" → <strong>fẹ́fẹ́</strong> "quickly"</li>
-<li><strong>jẹ́jẹ́</strong> "gently"</li>
-<li><strong>díẹ̀díẹ̀</strong> "little by little"</li>
+<li><strong>dídùn</strong> &quot;sweet&quot; → <strong>dídùndídùn</strong> &quot;sweetly&quot;</li>
+<li><strong>fẹ́</strong> &quot;to be quick&quot; → <strong>fẹ́fẹ́</strong> &quot;quickly&quot;</li>
+<li><strong>jẹ́jẹ́</strong> &quot;gently&quot;</li>
+<li><strong>díẹ̀díẹ̀</strong> &quot;little by little&quot;</li>
 </ul>
 <p>Adverbs typically occur at the end of a clause:</p>
 <p><strong>Ó ń sáré fẹ́fẹ́.</strong>
 He/She PROG run quickly
-"He/She is running quickly."</p>
+&quot;He/She is running quickly.&quot;</p>
 <p>Some adverbs are formed using the prefix <strong>ní-</strong>:</p>
 <ul>
-<li><strong>ọ̀pọ̀lọpọ̀</strong> "plenty" → <strong>lọ́pọ̀lọpọ̀</strong> "plentifully"</li>
-<li><strong>àìmọ̀</strong> "ignorance" → <strong>láìmọ̀</strong> "ignorantly"</li>
+<li><strong>ọ̀pọ̀lọpọ̀</strong> &quot;plenty&quot; → <strong>lọ́pọ̀lọpọ̀</strong> &quot;plentifully&quot;</li>
+<li><strong>àìmọ̀</strong> &quot;ignorance&quot; → <strong>láìmọ̀</strong> &quot;ignorantly&quot;</li>
 </ul>
 <h3>Prepositions</h3>
 <p>Yoruba has a limited number of true prepositions, but uses many noun-like words to express spatial and temporal relationships:</p>
 <ol>
-<li>True prepositions:</li>
-<li><strong>ní</strong> "in, at, on"</li>
-<li><strong>sí</strong> "to, towards"</li>
-<li><strong>fún</strong> "for"</li>
-<li>
-<p><strong>pẹ̀lú</strong> "with"</p>
+<li><p>True prepositions:</p>
+<ul>
+<li><strong>ní</strong> &quot;in, at, on&quot;</li>
+<li><strong>sí</strong> &quot;to, towards&quot;</li>
+<li><strong>fún</strong> &quot;for&quot;</li>
+<li><strong>pẹ̀lú</strong> &quot;with&quot;</li>
+</ul>
 </li>
-<li>
-<p>Noun-like words used as prepositions:</p>
+<li><p>Noun-like words used as prepositions:</p>
+<ul>
+<li><strong>inú</strong> &quot;inside&quot;</li>
+<li><strong>orí</strong> &quot;on top of&quot;</li>
+<li><strong>ẹ̀hìn</strong> &quot;behind&quot;</li>
+<li><strong>iwájú</strong> &quot;in front of&quot;</li>
+<li><strong>ẹ̀gbẹ́</strong> &quot;beside&quot;</li>
+</ul>
 </li>
-<li><strong>inú</strong> "inside"</li>
-<li><strong>orí</strong> "on top of"</li>
-<li><strong>ẹ̀hìn</strong> "behind"</li>
-<li><strong>iwájú</strong> "in front of"</li>
-<li><strong>ẹ̀gbẹ́</strong> "beside"</li>
 </ol>
-<p>Examples:
-- <strong>ní ilé</strong> "in the house"
-- <strong>sí ọjà</strong> "to the market"
-- <strong>fún ìyá mi</strong> "for my mother"
-- <strong>pẹ̀lú ọ̀rẹ́ rẹ̀</strong> "with his/her friend"
-- <strong>inú àpótí</strong> "inside the box"
-- <strong>lórí tábìlì</strong> "on the table" (ní + orí → lórí)</p>
+<p>Examples:</p>
+<ul>
+<li><strong>ní ilé</strong> &quot;in the house&quot;</li>
+<li><strong>sí ọjà</strong> &quot;to the market&quot;</li>
+<li><strong>fún ìyá mi</strong> &quot;for my mother&quot;</li>
+<li><strong>pẹ̀lú ọ̀rẹ́ rẹ̀</strong> &quot;with his/her friend&quot;</li>
+<li><strong>inú àpótí</strong> &quot;inside the box&quot;</li>
+<li><strong>lórí tábìlì</strong> &quot;on the table&quot; (ní + orí → lórí)</li>
+</ul>
 <h2>Syntax</h2>
 <h3>Basic Word Order</h3>
 <p>The basic word order in Yoruba is Subject-Verb-Object (SVO):</p>
 <p><strong>Adé ra bàtà.</strong>
 Ade buy shoe
-"Ade bought shoes."</p>
+&quot;Ade bought shoes.&quot;</p>
 <p><strong>Ọmọ náà ń kọ ìwé.</strong>
 Child the PROG write book
-"The child is writing a book."</p>
+&quot;The child is writing a book.&quot;</p>
 <h3>Question Formation</h3>
 <p>Yes/no questions are formed by adding the particle <strong>ṣé</strong> at the beginning of a statement:</p>
 <ul>
-<li>Statement: <strong>O ti jẹun.</strong> "You have eaten."</li>
-<li>Question: <strong>Ṣé o ti jẹun?</strong> "Have you eaten?"</li>
+<li>Statement: <strong>O ti jẹun.</strong> &quot;You have eaten.&quot;</li>
+<li>Question: <strong>Ṣé o ti jẹun?</strong> &quot;Have you eaten?&quot;</li>
 </ul>
 <p>Wh-questions use question words in situ (in their normal position):</p>
 <p><strong>O rí ta?</strong>
 You see who
-"Who did you see?"</p>
+&quot;Who did you see?&quot;</p>
 <p><strong>Ó lọ sí ibo?</strong>
 He/She go to where
-"Where did he/she go?"</p>
-<p>Common question words:
-- <strong>ta</strong> "who"
-- <strong>kí</strong> "what"
-- <strong>ibo</strong> / <strong>níbo</strong> "where"
-- <strong>nígbà wo</strong> "when"
-- <strong>báwo</strong> "how"
-- <strong>èéṣe</strong> "why"
-- <strong>mélòó</strong> "how many"</p>
+&quot;Where did he/she go?&quot;</p>
+<p>Common question words:</p>
+<ul>
+<li><strong>ta</strong> &quot;who&quot;</li>
+<li><strong>kí</strong> &quot;what&quot;</li>
+<li><strong>ibo</strong> / <strong>níbo</strong> &quot;where&quot;</li>
+<li><strong>nígbà wo</strong> &quot;when&quot;</li>
+<li><strong>báwo</strong> &quot;how&quot;</li>
+<li><strong>èéṣe</strong> &quot;why&quot;</li>
+<li><strong>mélòó</strong> &quot;how many&quot;</li>
+</ul>
 <h3>Focus and Topicalization</h3>
 <p>Yoruba uses the focus marker <strong>ni</strong> to emphasize particular elements in a sentence:</p>
 <p><strong>Adé ni ó ra bàtà.</strong>
 Ade FOC he buy shoe
-"It was Ade who bought shoes."</p>
+&quot;It was Ade who bought shoes.&quot;</p>
 <p><strong>Lánàá ni mo dé.</strong>
 Yesterday FOC I arrive
-"It was yesterday that I arrived."</p>
+&quot;It was yesterday that I arrived.&quot;</p>
 <p>Topicalization is achieved by fronting the topicalized element and often using a resumptive pronoun:</p>
 <p><strong>Bàtà, Adé ra wọ́n.</strong>
 Shoe, Ade buy them
-"As for shoes, Ade bought them."</p>
+&quot;As for shoes, Ade bought them.&quot;</p>
 <p><strong>Ilé yìí, mo fẹ́ràn rẹ̀.</strong>
 House this, I like it
-"This house, I like it."</p>
+&quot;This house, I like it.&quot;</p>
 <h3>Relative Clauses</h3>
 <p>Relative clauses in Yoruba are introduced by the relative marker <strong>tí</strong> and follow the noun they modify:</p>
 <p><strong>Ọkùnrin tí mo rí lánàá wá.</strong>
 Man that I see yesterday come
-"The man that I saw yesterday came."</p>
+&quot;The man that I saw yesterday came.&quot;</p>
 <p><strong>Ìwé tí mo ra dára.</strong>
 Book that I buy good
-"The book that I bought is good."</p>
+&quot;The book that I bought is good.&quot;</p>
 <h3>Comparison</h3>
-<p>Comparatives are formed using the verb <strong>ju</strong> ("to surpass") and the preposition <strong>lọ</strong> ("to go"):</p>
+<p>Comparatives are formed using the verb <strong>ju</strong> (&quot;to surpass&quot;) and the preposition <strong>lọ</strong> (&quot;to go&quot;):</p>
 <p><strong>Adé ga ju Òjó lọ.</strong>
 Ade tall surpass Ojo go
-"Ade is taller than Ojo."</p>
+&quot;Ade is taller than Ojo.&quot;</p>
 <p><strong>Ilé yìí tóbi ju èyí lọ.</strong>
 House this big surpass that go
-"This house is bigger than that one."</p>
-<p>Superlatives use <strong>jù lọ</strong> ("surpass all"):</p>
+&quot;This house is bigger than that one.&quot;</p>
+<p>Superlatives use <strong>jù lọ</strong> (&quot;surpass all&quot;):</p>
 <p><strong>Adé ga jù lọ.</strong>
 Ade tall surpass all
-"Ade is the tallest."</p>
+&quot;Ade is the tallest.&quot;</p>
 <p><strong>Èyí dára jù lọ.</strong>
 This good surpass all
-"This is the best."</p>
+&quot;This is the best.&quot;</p>
 <h3>Conditional Sentences</h3>
-<p>Conditional sentences in Yoruba typically use the particle <strong>bí</strong> ("if") or <strong>tí</strong> ("if/when"):</p>
+<p>Conditional sentences in Yoruba typically use the particle <strong>bí</strong> (&quot;if&quot;) or <strong>tí</strong> (&quot;if/when&quot;):</p>
 <p><strong>Bí ojú ọjọ́ bá dára, a ó lọ sí etí òkun.</strong>
 If eye day if good, we FUT go to edge ocean
-"If the weather is good, we will go to the beach."</p>
+&quot;If the weather is good, we will go to the beach.&quot;</p>
 <p><strong>Tí o bá fẹ́, o lè wá.</strong>
 If you if want, you can come
-"If you want, you can come."</p>
+&quot;If you want, you can come.&quot;</p>
 <h3>Coordination</h3>
 <p>Coordination in Yoruba is achieved using conjunctions such as:</p>
 <ul>
-<li><strong>àti</strong> "and"</li>
-<li><strong>tàbí</strong> "or"</li>
-<li><strong>ṣùgbọ́n</strong> "but"</li>
-<li><strong>nítorí</strong> "because"</li>
+<li><strong>àti</strong> &quot;and&quot;</li>
+<li><strong>tàbí</strong> &quot;or&quot;</li>
+<li><strong>ṣùgbọ́n</strong> &quot;but&quot;</li>
+<li><strong>nítorí</strong> &quot;because&quot;</li>
 </ul>
 <p>Examples:
 <strong>Mo ra ìwé àti bírò.</strong>
 I buy book and pen
-"I bought a book and a pen."</p>
+&quot;I bought a book and a pen.&quot;</p>
 <p><strong>Ṣé o fẹ́ oúnjẹ tàbí omi?</strong>
 Q you want food or water
-"Do you want food or water?"</p>
+&quot;Do you want food or water?&quot;</p>
 <p><strong>Mo fẹ́ lọ, ṣùgbọ́n kò sí àsìkò.</strong>
 I want go, but NEG exist time
-"I want to go, but there's no time."</p>
+&quot;I want to go, but there's no time.&quot;</p>
 <h2>Idiomatic Expressions and Proverbs</h2>
 <p>Yoruba is rich in idiomatic expressions and proverbs, which are often used to convey wisdom, cultural values, or complex ideas succinctly. Here are some examples:</p>
 <ol>
-<li>
-<p><strong>Ọwọ́ ọmọdé kò tó pẹpẹ, ti àgbàlagbà kò wọ kèrègbè.</strong>
-   "A child's hand cannot reach the shelf, an elder's hand cannot enter a gourd."
-   (Everyone has their limitations.)</p>
+<li><p><strong>Ọwọ́ ọmọdé kò tó pẹpẹ, ti àgbàlagbà kò wọ kèrègbè.</strong>
+&quot;A child's hand cannot reach the shelf, an elder's hand cannot enter a gourd.&quot;
+(Everyone has their limitations.)</p>
 </li>
-<li>
-<p><strong>Bí ọ́kọ̀ bá ṣubú, á yọ́ ìyà; bí ènìyàn bá ṣubú, á yọ́ ẹ̀sìn.</strong>
-   "If a vehicle breaks down, it brings out suffering; if a person falls, it brings out mockery."
-   (People are quick to mock others' misfortunes.)</p>
+<li><p><strong>Bí ọ́kọ̀ bá ṣubú, á yọ́ ìyà; bí ènìyàn bá ṣubú, á yọ́ ẹ̀sìn.</strong>
+&quot;If a vehicle breaks down, it brings out suffering; if a person falls, it brings out mockery.&quot;
+(People are quick to mock others' misfortunes.)</p>
 </li>
-<li>
-<p><strong>Ọgbọ́n ọdún kọ́ ni festival.</strong>
-   "Thirty years is not a festival."
-   (Experience is valuable and takes time to acquire.)</p>
+<li><p><strong>Ọgbọ́n ọdún kọ́ ni festival.</strong>
+&quot;Thirty years is not a festival.&quot;
+(Experience is valuable and takes time to acquire.)</p>
 </li>
-<li>
-<p><strong>Àgbà kò sí ní ìlú, ilú bàjẹ́; baálẹ̀ ìlú kú, ìlú di ahoro.</strong>
-   "When there are no elders in town, the town is ruined; when the town's leader dies, the town becomes desolate."
-   (The importance of leadership and wisdom in a community.)</p>
+<li><p><strong>Àgbà kò sí ní ìlú, ilú bàjẹ́; baálẹ̀ ìlú kú, ìlú di ahoro.</strong>
+&quot;When there are no elders in town, the town is ruined; when the town's leader dies, the town becomes desolate.&quot;
+(The importance of leadership and wisdom in a community.)</p>
 </li>
-<li>
-<p><strong>Ọ̀rọ̀ ọmọdé kò ní ojú, ọ̀rọ̀ àgbà kò ní ẹ̀hìn.</strong>
-   "A child's words have no front, an elder's words have no back."
-   (Children speak without foresight, while elders' words have deep meaning.)</p>
+<li><p><strong>Ọ̀rọ̀ ọmọdé kò ní ojú, ọ̀rọ̀ àgbà kò ní ẹ̀hìn.</strong>
+&quot;A child's words have no front, an elder's words have no back.&quot;
+(Children speak without foresight, while elders' words have deep meaning.)</p>
 </li>
-<li>
-<p><strong>Bí a bá ń sọ̀rọ̀ ọba, à ń sọ̀rọ̀ ara ẹni.</strong>
-   "When we talk about the king, we are talking about ourselves."
-   (Our words about others reflect on us.)</p>
+<li><p><strong>Bí a bá ń sọ̀rọ̀ ọba, à ń sọ̀rọ̀ ara ẹni.</strong>
+&quot;When we talk about the king, we are talking about ourselves.&quot;
+(Our words about others reflect on us.)</p>
 </li>
-<li>
-<p><strong>Ẹni tó bá dúpẹ́ fún oúnjẹ àná, yóò rí ọ̀tún jẹ.</strong>
-   "Whoever gives thanks for yesterday's meal will find another to eat."
-   (Gratitude leads to more blessings.)</p>
+<li><p><strong>Ẹni tó bá dúpẹ́ fún oúnjẹ àná, yóò rí ọ̀tún jẹ.</strong>
+&quot;Whoever gives thanks for yesterday's meal will find another to eat.&quot;
+(Gratitude leads to more blessings.)</p>
 </li>
 </ol>
 <p>These proverbs and idiomatic expressions play a significant role in Yoruba communication, often used to add depth, wisdom, or humor to conversations.</p>
 <h2>Numbers and Counting System</h2>
 <p>Yoruba has a vigesimal (base-20) number system, which is quite different from the decimal system used in many languages. Here's an overview of the Yoruba numbering system:</p>
-<p>1-10:
-- 1: <strong>ọ̀kan</strong>
-- 2: <strong>èjì</strong>
-- 3: <strong>ẹ̀ta</strong>
-- 4: <strong>ẹ̀rin</strong>
-- 5: <strong>àrún</strong>
-- 6: <strong>ẹ̀fà</strong>
-- 7: <strong>èje</strong>
-- 8: <strong>ẹ̀jọ</strong>
-- 9: <strong>ẹ̀sán</strong>
-- 10: <strong>ẹ̀wá</strong></p>
-<p>11-19 are formed by adding <strong>lá</strong> ("on top") to the units:
-- 11: <strong>ọ̀kànlá</strong>
-- 12: <strong>èjìlá</strong>
-- 13: <strong>ẹ̀tàlá</strong>
-- ...
-- 19: <strong>ọ̀kàndínlógún</strong> (literally "one less than twenty")</p>
-<p>20 and above:
-- 20: <strong>ogún</strong>
-- 30: <strong>ọgbọ̀n</strong>
-- 40: <strong>ogójì</strong>
-- 50: <strong>àádọ́ta</strong> (60 minus 10)
-- 60: <strong>ọgọ́ta</strong>
-- 70: <strong>àádọ́rin</strong> (80 minus 10)
-- 80: <strong>ọgọ́rin</strong>
-- 90: <strong>àádọ́rùn-ún</strong> (100 minus 10)
-- 100: <strong>ọgọ́rùn-ún</strong>
-- 200: <strong>igba</strong>
-- 400: <strong>irinwó</strong></p>
-<p>Large numbers:
-- 1,000: <strong>ẹgbẹ̀rún</strong>
-- 2,000: <strong>ẹgbàá</strong>
-- 20,000: <strong>ọ̀kẹ́</strong></p>
-<p>Examples of complex numbers:
-- 25: <strong>àrún-ún lé nì ógún</strong> (5 on top of 20)
-- 78: <strong>ẹẹ́jọ lé ní àádọ́rin</strong> (8 on top of 70)
-- 365: <strong>ọ̀ọ́dúnrún ó lé márùn-ún</strong> (300 + 60 + 5)</p>
+<p>1-10:</p>
+<ul>
+<li>1: <strong>ọ̀kan</strong></li>
+<li>2: <strong>èjì</strong></li>
+<li>3: <strong>ẹ̀ta</strong></li>
+<li>4: <strong>ẹ̀rin</strong></li>
+<li>5: <strong>àrún</strong></li>
+<li>6: <strong>ẹ̀fà</strong></li>
+<li>7: <strong>èje</strong></li>
+<li>8: <strong>ẹ̀jọ</strong></li>
+<li>9: <strong>ẹ̀sán</strong></li>
+<li>10: <strong>ẹ̀wá</strong></li>
+</ul>
+<p>11-19 are formed by adding <strong>lá</strong> (&quot;on top&quot;) to the units:</p>
+<ul>
+<li>11: <strong>ọ̀kànlá</strong></li>
+<li>12: <strong>èjìlá</strong></li>
+<li>13: <strong>ẹ̀tàlá</strong></li>
+<li>...</li>
+<li>19: <strong>ọ̀kàndínlógún</strong> (literally &quot;one less than twenty&quot;)</li>
+</ul>
+<p>20 and above:</p>
+<ul>
+<li>20: <strong>ogún</strong></li>
+<li>30: <strong>ọgbọ̀n</strong></li>
+<li>40: <strong>ogójì</strong></li>
+<li>50: <strong>àádọ́ta</strong> (60 minus 10)</li>
+<li>60: <strong>ọgọ́ta</strong></li>
+<li>70: <strong>àádọ́rin</strong> (80 minus 10)</li>
+<li>80: <strong>ọgọ́rin</strong></li>
+<li>90: <strong>àádọ́rùn-ún</strong> (100 minus 10)</li>
+<li>100: <strong>ọgọ́rùn-ún</strong></li>
+<li>200: <strong>igba</strong></li>
+<li>400: <strong>irinwó</strong></li>
+</ul>
+<p>Large numbers:</p>
+<ul>
+<li>1,000: <strong>ẹgbẹ̀rún</strong></li>
+<li>2,000: <strong>ẹgbàá</strong></li>
+<li>20,000: <strong>ọ̀kẹ́</strong></li>
+</ul>
+<p>Examples of complex numbers:</p>
+<ul>
+<li>25: <strong>àrún-ún lé nì ógún</strong> (5 on top of 20)</li>
+<li>78: <strong>ẹẹ́jọ lé ní àádọ́rin</strong> (8 on top of 70)</li>
+<li>365: <strong>ọ̀ọ́dúnrún ó lé márùn-ún</strong> (300 + 60 + 5)</li>
+</ul>
 <p>The Yoruba counting system can be challenging for learners, but it reflects the cultural and historical importance of the number 20 in Yoruba society.</p>
 <h2>Loanwords and Modern Vocabulary</h2>
 <p>Like many languages, Yoruba has incorporated loanwords to express modern concepts, particularly from English due to Nigeria's colonial history.</p>
+
       </div>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-TXC94JMN4X"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TXC94JMN4X');
+      </script>
 </body>
 </html>

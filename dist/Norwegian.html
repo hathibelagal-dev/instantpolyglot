@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Instant Polyglot</title>
     <link rel="stylesheet" href="../bootstrap.min.css">
+    <link rel="stylesheet" href="../styles.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -46,74 +47,206 @@
 <p>The letters C, Q, W, X, and Z are only used in loanwords and names.</p>
 <h3>Vowels</h3>
 <p>Norwegian has 9 vowel phonemes, which can be short or long:</p>
-<p>| Letter | Short sound | Long sound | Example |
-|--------|-------------|------------|---------|
-| A, a | [ɑ] | [ɑː] | <strong>kant</strong> [kɑnt] (edge), <strong>kake</strong> [ˈkɑːkə] (cake) |
-| E, e | [ɛ] | [eː] | <strong>hekk</strong> [hɛk] (hedge), <strong>lese</strong> [ˈleːsə] (read) |
-| I, i | [ɪ] | [iː] | <strong>tikk</strong> [tɪk] (tick), <strong>si</strong> [siː] (say) |
-| O, o | [ɔ] | [uː] | <strong>topp</strong> [tɔp] (top), <strong>ro</strong> [ruː] (calm) |
-| U, u | [ʉ] | [ʉː] | <strong>bukk</strong> [bʉk] (buck), <strong>hus</strong> [hʉːs] (house) |
-| Y, y | [y] | [yː] | <strong>bytt</strong> [byt] (changed), <strong>by</strong> [byː] (city) |
-| Æ, æ | [æ] | [æː] | <strong>vært</strong> [væɾt] (been), <strong>lære</strong> [ˈlæːɾə] (learn) |
-| Ø, ø | [œ] | [øː] | <strong>høst</strong> [hœst] (autumn), <strong>øl</strong> [øːl] (beer) |
-| Å, å | [ɔ] | [oː] | <strong>hånd</strong> [hɔn] (hand), <strong>gå</strong> [goː] (go) |</p>
+<table>
+<thead>
+<tr>
+  <th>Letter</th>
+  <th>Short sound</th>
+  <th>Long sound</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>A, a</td>
+  <td>[ɑ]</td>
+  <td>[ɑː]</td>
+  <td><strong>kant</strong> [kɑnt] (edge), <strong>kake</strong> [ˈkɑːkə] (cake)</td>
+</tr>
+<tr>
+  <td>E, e</td>
+  <td>[ɛ]</td>
+  <td>[eː]</td>
+  <td><strong>hekk</strong> [hɛk] (hedge), <strong>lese</strong> [ˈleːsə] (read)</td>
+</tr>
+<tr>
+  <td>I, i</td>
+  <td>[ɪ]</td>
+  <td>[iː]</td>
+  <td><strong>tikk</strong> [tɪk] (tick), <strong>si</strong> [siː] (say)</td>
+</tr>
+<tr>
+  <td>O, o</td>
+  <td>[ɔ]</td>
+  <td>[uː]</td>
+  <td><strong>topp</strong> [tɔp] (top), <strong>ro</strong> [ruː] (calm)</td>
+</tr>
+<tr>
+  <td>U, u</td>
+  <td>[ʉ]</td>
+  <td>[ʉː]</td>
+  <td><strong>bukk</strong> [bʉk] (buck), <strong>hus</strong> [hʉːs] (house)</td>
+</tr>
+<tr>
+  <td>Y, y</td>
+  <td>[y]</td>
+  <td>[yː]</td>
+  <td><strong>bytt</strong> [byt] (changed), <strong>by</strong> [byː] (city)</td>
+</tr>
+<tr>
+  <td>Æ, æ</td>
+  <td>[æ]</td>
+  <td>[æː]</td>
+  <td><strong>vært</strong> [væɾt] (been), <strong>lære</strong> [ˈlæːɾə] (learn)</td>
+</tr>
+<tr>
+  <td>Ø, ø</td>
+  <td>[œ]</td>
+  <td>[øː]</td>
+  <td><strong>høst</strong> [hœst] (autumn), <strong>øl</strong> [øːl] (beer)</td>
+</tr>
+<tr>
+  <td>Å, å</td>
+  <td>[ɔ]</td>
+  <td>[oː]</td>
+  <td><strong>hånd</strong> [hɔn] (hand), <strong>gå</strong> [goː] (go)</td>
+</tr>
+</tbody>
+</table>
 <h3>Consonants</h3>
-<p>| Letter | Sound | Example |
-|--------|-------|---------|
-| B, b | [b] | <strong>bil</strong> [biːl] (car) |
-| D, d | [d] | <strong>dag</strong> [dɑːɡ] (day) |
-| F, f | [f] | <strong>fin</strong> [fiːn] (fine) |
-| G, g | [ɡ] | <strong>god</strong> [ɡuː] (good) |
-| H, h | [h] | <strong>hav</strong> [hɑːv] (sea) |
-| J, j | [j] | <strong>ja</strong> [jɑː] (yes) |
-| K, k | [k] | <strong>katt</strong> [kɑt] (cat) |
-| L, l | [l] | <strong>lys</strong> [lyːs] (light) |
-| M, m | [m] | <strong>mat</strong> [mɑːt] (food) |
-| N, n | [n] | <strong>natt</strong> [nɑt] (night) |
-| P, p | [p] | <strong>park</strong> [pɑɾk] (park) |
-| R, r | [ɾ] | <strong>rødt</strong> [ɾøt] (red) |
-| S, s | [s] | <strong>sol</strong> [suːl] (sun) |
-| T, t | [t] | <strong>tid</strong> [tiː] (time) |
-| V, v | [ʋ] | <strong>vann</strong> [ʋɑn] (water) |</p>
+<table>
+<thead>
+<tr>
+  <th>Letter</th>
+  <th>Sound</th>
+  <th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>B, b</td>
+  <td>[b]</td>
+  <td><strong>bil</strong> [biːl] (car)</td>
+</tr>
+<tr>
+  <td>D, d</td>
+  <td>[d]</td>
+  <td><strong>dag</strong> [dɑːɡ] (day)</td>
+</tr>
+<tr>
+  <td>F, f</td>
+  <td>[f]</td>
+  <td><strong>fin</strong> [fiːn] (fine)</td>
+</tr>
+<tr>
+  <td>G, g</td>
+  <td>[ɡ]</td>
+  <td><strong>god</strong> [ɡuː] (good)</td>
+</tr>
+<tr>
+  <td>H, h</td>
+  <td>[h]</td>
+  <td><strong>hav</strong> [hɑːv] (sea)</td>
+</tr>
+<tr>
+  <td>J, j</td>
+  <td>[j]</td>
+  <td><strong>ja</strong> [jɑː] (yes)</td>
+</tr>
+<tr>
+  <td>K, k</td>
+  <td>[k]</td>
+  <td><strong>katt</strong> [kɑt] (cat)</td>
+</tr>
+<tr>
+  <td>L, l</td>
+  <td>[l]</td>
+  <td><strong>lys</strong> [lyːs] (light)</td>
+</tr>
+<tr>
+  <td>M, m</td>
+  <td>[m]</td>
+  <td><strong>mat</strong> [mɑːt] (food)</td>
+</tr>
+<tr>
+  <td>N, n</td>
+  <td>[n]</td>
+  <td><strong>natt</strong> [nɑt] (night)</td>
+</tr>
+<tr>
+  <td>P, p</td>
+  <td>[p]</td>
+  <td><strong>park</strong> [pɑɾk] (park)</td>
+</tr>
+<tr>
+  <td>R, r</td>
+  <td>[ɾ]</td>
+  <td><strong>rødt</strong> [ɾøt] (red)</td>
+</tr>
+<tr>
+  <td>S, s</td>
+  <td>[s]</td>
+  <td><strong>sol</strong> [suːl] (sun)</td>
+</tr>
+<tr>
+  <td>T, t</td>
+  <td>[t]</td>
+  <td><strong>tid</strong> [tiː] (time)</td>
+</tr>
+<tr>
+  <td>V, v</td>
+  <td>[ʋ]</td>
+  <td><strong>vann</strong> [ʋɑn] (water)</td>
+</tr>
+</tbody>
+</table>
 <p>Note: The pronunciation of 'r' can vary significantly between dialects, from the alveolar flap [ɾ] to a uvular trill [ʀ] or approximant [ʁ].</p>
 <h3>Consonant clusters and special sounds</h3>
 <ol>
-<li>Retroflex consonants:
-   When /r/ is followed by /d/, /l/, /n/, /s/, or /t/, they often form retroflex consonants in Eastern Norwegian:</li>
+<li><p>Retroflex consonants:
+When /r/ is followed by /d/, /l/, /n/, /s/, or /t/, they often form retroflex consonants in Eastern Norwegian:</p>
+<ul>
 <li>rd [ɖ]: <strong>hard</strong> [hɑːɖ] (hard)</li>
 <li>rl [ɭ]: <strong>perle</strong> [ˈpæːɭə] (pearl)</li>
 <li>rn [ɳ]: <strong>barn</strong> [bɑːɳ] (child)</li>
 <li>rs [ʂ]: <strong>vers</strong> [ʋæʂ] (verse)</li>
 <li>rt [ʈ]: <strong>svart</strong> [sʋɑʈ] (black)</li>
-</ol>
+</ul>
 <p>Note: These retroflex sounds are not used in all dialects.</p>
-<ol>
-<li>The "sj" sound [ʃ]:</li>
+</li>
+<li><p>The &quot;sj&quot; sound [ʃ]:</p>
+<ul>
 <li><strong>sj</strong>: <strong>sjø</strong> [ʃøː] (sea)</li>
 <li><strong>skj</strong>: <strong>skjære</strong> [ˈʃæːɾə] (magpie)</li>
-<li>
-<p><strong>sk</strong> before front vowels: <strong>ski</strong> [ʃiː] (ski)</p>
+<li><strong>sk</strong> before front vowels: <strong>ski</strong> [ʃiː] (ski)</li>
+</ul>
 </li>
-<li>
-<p>The "kj" sound [ç]:</p>
-</li>
+<li><p>The &quot;kj&quot; sound [ç]:</p>
+<ul>
 <li><strong>kj</strong>: <strong>kjøpe</strong> [ˈçøːpə] (buy)</li>
 <li><strong>tj</strong>: <strong>tjue</strong> [ˈçʉːə] (twenty)</li>
 <li><strong>k</strong> before front vowels: <strong>kino</strong> [ˈçiːnu] (cinema)</li>
-</ol>
+</ul>
 <p>Note: In some dialects and among younger speakers, the [ç] sound is merging with [ʃ].</p>
-<ol>
-<li>The "ng" sound [ŋ]:</li>
+</li>
+<li><p>The &quot;ng&quot; sound [ŋ]:</p>
+<ul>
 <li><strong>ng</strong>: <strong>sang</strong> [sɑŋ] (song)</li>
 <li><strong>nk</strong>: <strong>tanke</strong> [ˈtɑŋkə] (thought)</li>
+</ul>
+</li>
 </ol>
 <h3>Stress</h3>
-<p>Stress in Norwegian words is typically on the first syllable:
-- <strong>arbeid</strong> [ˈɑɾbɛid] (work)
-- <strong>vinter</strong> [ˈʋɪntəɾ] (winter)</p>
-<p>Exceptions include:
-- Many loanwords: <strong>banan</strong> [bɑˈnɑːn] (banana)
-- Words with certain prefixes: <strong>betale</strong> [bəˈtɑːlə] (pay)</p>
+<p>Stress in Norwegian words is typically on the first syllable:</p>
+<ul>
+<li><strong>arbeid</strong> [ˈɑɾbɛid] (work)</li>
+<li><strong>vinter</strong> [ˈʋɪntəɾ] (winter)</li>
+</ul>
+<p>Exceptions include:</p>
+<ul>
+<li>Many loanwords: <strong>banan</strong> [bɑˈnɑːn] (banana)</li>
+<li>Words with certain prefixes: <strong>betale</strong> [bəˈtɑːlə] (pay)</li>
+</ul>
 <h3>Tone</h3>
 <p>Norwegian is a tonal language with two distinct pitch accents, often called Tone 1 and Tone 2. This feature is known as toneme and can distinguish between otherwise identical words:</p>
 <ul>
@@ -125,96 +258,278 @@
 <h3>Nouns</h3>
 <p>Bokmål Norwegian has a flexible gender system, allowing for both a three-gender (masculine, feminine, neuter) and a two-gender (common, neuter) approach:</p>
 <p>Three-gender system:</p>
-<p>| Gender | Indefinite sg. | Definite sg. | Indefinite pl. | Definite pl. |
-|--------|----------------|--------------|----------------|--------------|
-| Masculine | en bil (a car) | bilen (the car) | biler (cars) | bilene (the cars) |
-| Feminine | ei bok (a book) | boka (the book) | bøker (books) | bøkene (the books) |
-| Neuter | et hus (a house) | huset (the house) | hus (houses) | husa/husene (the houses) |</p>
+<table>
+<thead>
+<tr>
+  <th>Gender</th>
+  <th>Indefinite sg.</th>
+  <th>Definite sg.</th>
+  <th>Indefinite pl.</th>
+  <th>Definite pl.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Masculine</td>
+  <td>en bil (a car)</td>
+  <td>bilen (the car)</td>
+  <td>biler (cars)</td>
+  <td>bilene (the cars)</td>
+</tr>
+<tr>
+  <td>Feminine</td>
+  <td>ei bok (a book)</td>
+  <td>boka (the book)</td>
+  <td>bøker (books)</td>
+  <td>bøkene (the books)</td>
+</tr>
+<tr>
+  <td>Neuter</td>
+  <td>et hus (a house)</td>
+  <td>huset (the house)</td>
+  <td>hus (houses)</td>
+  <td>husa/husene (the houses)</td>
+</tr>
+</tbody>
+</table>
 <p>Two-gender system:</p>
-<p>| Gender | Indefinite sg. | Definite sg. | Indefinite pl. | Definite pl. |
-|--------|----------------|--------------|----------------|--------------|
-| Common | en bil (a car) | bilen (the car) | biler (cars) | bilene (the cars) |
-| Common | en bok (a book) | boka/boken (the book) | bøker (books) | bøkene (the books) |
-| Neuter | et hus (a house) | huset (the house) | hus (houses) | husa/husene (the houses) |</p>
+<table>
+<thead>
+<tr>
+  <th>Gender</th>
+  <th>Indefinite sg.</th>
+  <th>Definite sg.</th>
+  <th>Indefinite pl.</th>
+  <th>Definite pl.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Common</td>
+  <td>en bil (a car)</td>
+  <td>bilen (the car)</td>
+  <td>biler (cars)</td>
+  <td>bilene (the cars)</td>
+</tr>
+<tr>
+  <td>Common</td>
+  <td>en bok (a book)</td>
+  <td>boka/boken (the book)</td>
+  <td>bøker (books)</td>
+  <td>bøkene (the books)</td>
+</tr>
+<tr>
+  <td>Neuter</td>
+  <td>et hus (a house)</td>
+  <td>huset (the house)</td>
+  <td>hus (houses)</td>
+  <td>husa/husene (the houses)</td>
+</tr>
+</tbody>
+</table>
 <p>Many speakers and writers use a mixed system, treating some traditionally feminine nouns as masculine. The choice often depends on dialect, personal preference, or style.</p>
-<p>Some nouns have irregular plurals:
-- <strong>mus</strong> (mouse, fem.) → <strong>mus</strong> (mice)</p>
+<p>Some nouns have irregular plurals:</p>
+<ul>
+<li><strong>mus</strong> (mouse, fem.) → <strong>mus</strong> (mice)</li>
+</ul>
 <h3>Adjectives</h3>
 <p>Adjectives agree with the noun they modify in gender, number, and definiteness:</p>
-<p>| Gender | Indefinite sg. | Definite sg./pl. | Indefinite pl. |
-|--------|----------------|------------------|----------------|
-| Masc./Common | en <strong>stor</strong> bil (a big car) | den <strong>store</strong> bilen (the big car) | <strong>store</strong> biler (big cars) |
-| Feminine | ei <strong>stor</strong> bok (a big book) | den <strong>store</strong> boka/boken (the big book) | <strong>store</strong> bøker (big books) |
-| Neuter | et <strong>stort</strong> hus (a big house) | det <strong>store</strong> huset (the big house) | <strong>store</strong> hus (big houses) |</p>
-<p>Comparative and superlative forms:
-- Positive: <strong>stor</strong> (big)
-- Comparative: <strong>større</strong> (bigger)
-- Superlative: <strong>størst</strong> (biggest)</p>
-<p>Irregular comparisons:
-- <strong>god</strong> (good) → <strong>bedre</strong> (better) → <strong>best</strong> (best)
-- <strong>mange</strong> (many) → <strong>flere</strong> (more) → <strong>flest</strong> (most)</p>
+<table>
+<thead>
+<tr>
+  <th>Gender</th>
+  <th>Indefinite sg.</th>
+  <th>Definite sg./pl.</th>
+  <th>Indefinite pl.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Masc./Common</td>
+  <td>en <strong>stor</strong> bil (a big car)</td>
+  <td>den <strong>store</strong> bilen (the big car)</td>
+  <td><strong>store</strong> biler (big cars)</td>
+</tr>
+<tr>
+  <td>Feminine</td>
+  <td>ei <strong>stor</strong> bok (a big book)</td>
+  <td>den <strong>store</strong> boka/boken (the big book)</td>
+  <td><strong>store</strong> bøker (big books)</td>
+</tr>
+<tr>
+  <td>Neuter</td>
+  <td>et <strong>stort</strong> hus (a big house)</td>
+  <td>det <strong>store</strong> huset (the big house)</td>
+  <td><strong>store</strong> hus (big houses)</td>
+</tr>
+</tbody>
+</table>
+<p>Comparative and superlative forms:</p>
+<ul>
+<li>Positive: <strong>stor</strong> (big)</li>
+<li>Comparative: <strong>større</strong> (bigger)</li>
+<li>Superlative: <strong>størst</strong> (biggest)</li>
+</ul>
+<p>Irregular comparisons:</p>
+<ul>
+<li><strong>god</strong> (good) → <strong>bedre</strong> (better) → <strong>best</strong> (best)</li>
+<li><strong>mange</strong> (many) → <strong>flere</strong> (more) → <strong>flest</strong> (most)</li>
+</ul>
 <h3>Pronouns</h3>
 <p>Personal pronouns:</p>
-<p>| Person | Nominative | Accusative |
-|--------|------------|------------|
-| 1st sg. | <strong>jeg</strong> (I) | <strong>meg</strong> (me) |
-| 2nd sg. | <strong>du</strong> (you) | <strong>deg</strong> (you) |
-| 3rd sg. masc. | <strong>han</strong> (he) | <strong>ham</strong>/<strong>han</strong> (him) |
-| 3rd sg. fem. | <strong>hun</strong> (she) | <strong>henne</strong> (her) |
-| 3rd sg. neut. | <strong>det</strong> (it) | <strong>det</strong> (it) |
-| 1st pl. | <strong>vi</strong> (we) | <strong>oss</strong> (us) |
-| 2nd pl. | <strong>dere</strong> (you) | <strong>dere</strong> (you) |
-| 3rd pl. | <strong>de</strong> (they) | <strong>dem</strong> (them) |</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Nominative</th>
+  <th>Accusative</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st sg.</td>
+  <td><strong>jeg</strong> (I)</td>
+  <td><strong>meg</strong> (me)</td>
+</tr>
+<tr>
+  <td>2nd sg.</td>
+  <td><strong>du</strong> (you)</td>
+  <td><strong>deg</strong> (you)</td>
+</tr>
+<tr>
+  <td>3rd sg. masc.</td>
+  <td><strong>han</strong> (he)</td>
+  <td><strong>ham</strong>/<strong>han</strong> (him)</td>
+</tr>
+<tr>
+  <td>3rd sg. fem.</td>
+  <td><strong>hun</strong> (she)</td>
+  <td><strong>henne</strong> (her)</td>
+</tr>
+<tr>
+  <td>3rd sg. neut.</td>
+  <td><strong>det</strong> (it)</td>
+  <td><strong>det</strong> (it)</td>
+</tr>
+<tr>
+  <td>1st pl.</td>
+  <td><strong>vi</strong> (we)</td>
+  <td><strong>oss</strong> (us)</td>
+</tr>
+<tr>
+  <td>2nd pl.</td>
+  <td><strong>dere</strong> (you)</td>
+  <td><strong>dere</strong> (you)</td>
+</tr>
+<tr>
+  <td>3rd pl.</td>
+  <td><strong>de</strong> (they)</td>
+  <td><strong>dem</strong> (them)</td>
+</tr>
+</tbody>
+</table>
 <p>Note: In casual speech, <strong>han</strong> is often used instead of <strong>ham</strong> in the accusative.</p>
 <p>Possessive pronouns:</p>
-<p>| Person | Masc./Fem. | Neuter | Plural |
-|--------|------------|--------|--------|
-| 1st sg. | <strong>min</strong> | <strong>mitt</strong> | <strong>mine</strong> |
-| 2nd sg. | <strong>din</strong> | <strong>ditt</strong> | <strong>dine</strong> |
-| 3rd sg. masc. | <strong>hans</strong> | <strong>hans</strong> | <strong>hans</strong> |
-| 3rd sg. fem. | <strong>hennes</strong> | <strong>hennes</strong> | <strong>hennes</strong> |
-| 3rd sg. neut. | <strong>dets</strong> | <strong>dets</strong> | <strong>dets</strong> |
-| 1st pl. | <strong>vår</strong> | <strong>vårt</strong> | <strong>våre</strong> |
-| 2nd pl. | <strong>deres</strong> | <strong>deres</strong> | <strong>deres</strong> |
-| 3rd pl. | <strong>deres</strong> | <strong>deres</strong> | <strong>deres</strong> |</p>
-<p>Demonstrative pronouns:
-- <strong>denne</strong> (this, common), <strong>dette</strong> (this, neuter), <strong>disse</strong> (these)
-- <strong>den</strong> (that, common), <strong>det</strong> (that, neuter), <strong>de</strong> (those)</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Masc./Fem.</th>
+  <th>Neuter</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st sg.</td>
+  <td><strong>min</strong></td>
+  <td><strong>mitt</strong></td>
+  <td><strong>mine</strong></td>
+</tr>
+<tr>
+  <td>2nd sg.</td>
+  <td><strong>din</strong></td>
+  <td><strong>ditt</strong></td>
+  <td><strong>dine</strong></td>
+</tr>
+<tr>
+  <td>3rd sg. masc.</td>
+  <td><strong>hans</strong></td>
+  <td><strong>hans</strong></td>
+  <td><strong>hans</strong></td>
+</tr>
+<tr>
+  <td>3rd sg. fem.</td>
+  <td><strong>hennes</strong></td>
+  <td><strong>hennes</strong></td>
+  <td><strong>hennes</strong></td>
+</tr>
+<tr>
+  <td>3rd sg. neut.</td>
+  <td><strong>dets</strong></td>
+  <td><strong>dets</strong></td>
+  <td><strong>dets</strong></td>
+</tr>
+<tr>
+  <td>1st pl.</td>
+  <td><strong>vår</strong></td>
+  <td><strong>vårt</strong></td>
+  <td><strong>våre</strong></td>
+</tr>
+<tr>
+  <td>2nd pl.</td>
+  <td><strong>deres</strong></td>
+  <td><strong>deres</strong></td>
+  <td><strong>deres</strong></td>
+</tr>
+<tr>
+  <td>3rd pl.</td>
+  <td><strong>deres</strong></td>
+  <td><strong>deres</strong></td>
+  <td><strong>deres</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Demonstrative pronouns:</p>
+<ul>
+<li><strong>denne</strong> (this, common), <strong>dette</strong> (this, neuter), <strong>disse</strong> (these)</li>
+<li><strong>den</strong> (that, common), <strong>det</strong> (that, neuter), <strong>de</strong> (those)</li>
+</ul>
 <h3>Verbs</h3>
 <p>Norwegian verbs are conjugated for tense but not for person or number. There are four main verb classes, with some flexibility in conjugation:</p>
 <ol>
-<li>Regular weak verbs (Group 1):
-   Infinitive: <strong>å kaste</strong> (to throw)</li>
+<li><p>Regular weak verbs (Group 1):
+Infinitive: <strong>å kaste</strong> (to throw)</p>
+<ul>
 <li>Present: <strong>kaster</strong></li>
 <li>Past: <strong>kasta</strong> / <strong>kastet</strong> (alternative forms)</li>
-<li>
-<p>Perfect: <strong>har kasta</strong> / <strong>har kastet</strong></p>
+<li>Perfect: <strong>har kasta</strong> / <strong>har kastet</strong></li>
+</ul>
 </li>
-<li>
-<p>Regular weak verbs (Group 2):
-   Infinitive: <strong>å kjøpe</strong> (to buy)</p>
-</li>
+<li><p>Regular weak verbs (Group 2):
+Infinitive: <strong>å kjøpe</strong> (to buy)</p>
+<ul>
 <li>Present: <strong>kjøper</strong></li>
 <li>Past: <strong>kjøpte</strong></li>
-<li>
-<p>Perfect: <strong>har kjøpt</strong></p>
+<li>Perfect: <strong>har kjøpt</strong></li>
+</ul>
 </li>
-<li>
-<p>Strong verbs:
-   Infinitive: <strong>å synge</strong> (to sing)</p>
-</li>
+<li><p>Strong verbs:
+Infinitive: <strong>å synge</strong> (to sing)</p>
+<ul>
 <li>Present: <strong>synger</strong></li>
 <li>Past: <strong>sang</strong></li>
-<li>
-<p>Perfect: <strong>har sunget</strong></p>
+<li>Perfect: <strong>har sunget</strong></li>
+</ul>
 </li>
-<li>
-<p>Irregular verbs:
-   Infinitive: <strong>å være</strong> (to be)</p>
-</li>
+<li><p>Irregular verbs:
+Infinitive: <strong>å være</strong> (to be)</p>
+<ul>
 <li>Present: <strong>er</strong></li>
 <li>Past: <strong>var</strong></li>
 <li>Perfect: <strong>har vært</strong></li>
+</ul>
+</li>
 </ol>
 <p>Verb tenses:</p>
 <ol>
@@ -222,25 +537,35 @@
 <li>Past tense: <strong>Jeg spiste</strong> (I ate/was eating)</li>
 <li>Present perfect: <strong>Jeg har spist</strong> (I have eaten)</li>
 <li>Past perfect: <strong>Jeg hadde spist</strong> (I had eaten)</li>
-<li>Future: </li>
+<li>Future:<ul>
 <li>With auxiliary: <strong>Jeg skal spise</strong> (I will eat)</li>
 <li>Present tense: <strong>Jeg spiser i morgen</strong> (I'm eating tomorrow)</li>
+</ul>
+</li>
 </ol>
-<p>Passive voice:
-- S-passive: Add -s to the verb stem: <strong>Huset bygges</strong> (The house is being built)
-- Bli-passive: Use <strong>bli</strong> + past participle: <strong>Huset blir bygd/bygget</strong> (The house is being built)</p>
-<p>Imperative:
-- Usually identical to the verb stem: <strong>Spis!</strong> (Eat!)
-- Irregular for some verbs: <strong>Vær stille!</strong> (Be quiet!)</p>
+<p>Passive voice:</p>
+<ul>
+<li>S-passive: Add -s to the verb stem: <strong>Huset bygges</strong> (The house is being built)</li>
+<li>Bli-passive: Use <strong>bli</strong> + past participle: <strong>Huset blir bygd/bygget</strong> (The house is being built)</li>
+</ul>
+<p>Imperative:</p>
+<ul>
+<li>Usually identical to the verb stem: <strong>Spis!</strong> (Eat!)</li>
+<li>Irregular for some verbs: <strong>Vær stille!</strong> (Be quiet!)</li>
+</ul>
 <h3>Numbers</h3>
-<p>Cardinal numbers:
-- 0-10: <strong>null, en/ett, to, tre, fire, fem, seks, sju/syv, åtte, ni, ti</strong>
-- 11-19: <strong>elleve, tolv, tretten, fjorten, femten, seksten, sytten, atten, nitten</strong>
-- 20-90: <strong>tjue/tyve, tretti, førti, femti, seksti, sytti, åtti, nitti</strong>
-- 100: <strong>hundre</strong>
-- 1000: <strong>tusen</strong></p>
-<p>Ordinal numbers:
-- 1st-10th: <strong>første, andre, tredje, fjerde, femte, sjette, sjuende/syvende, åttende, niende, tiende</strong></p>
+<p>Cardinal numbers:</p>
+<ul>
+<li>0-10: <strong>null, en/ett, to, tre, fire, fem, seks, sju/syv, åtte, ni, ti</strong></li>
+<li>11-19: <strong>elleve, tolv, tretten, fjorten, femten, seksten, sytten, atten, nitten</strong></li>
+<li>20-90: <strong>tjue/tyve, tretti, førti, femti, seksti, sytti, åtti, nitti</strong></li>
+<li>100: <strong>hundre</strong></li>
+<li>1000: <strong>tusen</strong></li>
+</ul>
+<p>Ordinal numbers:</p>
+<ul>
+<li>1st-10th: <strong>første, andre, tredje, fjerde, femte, sjette, sjuende/syvende, åttende, niende, tiende</strong></li>
+</ul>
 <h2>Syntax</h2>
 <h3>Word Order</h3>
 <p>Norwegian generally follows the SVO (Subject-Verb-Object) word order:</p>
@@ -267,45 +592,46 @@
 <p>Relative clauses are introduced by the relative pronoun <strong>som</strong>:</p>
 <p><strong>Mannen som står der er faren min</strong> (The man who is standing there is my father)</p>
 <h3>Conjunctions</h3>
-<p>Coordinating conjunctions:
-- <strong>og</strong> (and)
-- <strong>men</strong> (but)
-- <strong>eller</strong> (or)</p>
-<p>Subordinating conjunctions:
-- <strong>at</strong> (that)
-- <strong>fordi</strong> (because)
-- <strong>hvis</strong> (if)</p>
+<p>Coordinating conjunctions:</p>
+<ul>
+<li><strong>og</strong> (and)</li>
+<li><strong>men</strong> (but)</li>
+<li><strong>eller</strong> (or)</li>
+</ul>
+<p>Subordinating conjunctions:</p>
+<ul>
+<li><strong>at</strong> (that)</li>
+<li><strong>fordi</strong> (because)</li>
+<li><strong>hvis</strong> (if)</li>
+</ul>
 <h3>Modal Verbs</h3>
 <p>Modal verbs are followed by the main verb in the infinitive form without <strong>å</strong>:</p>
 <p><strong>Jeg kan snakke norsk</strong> (I can speak Norwegian)</p>
-<p>Common modal verbs:
-- <strong>kan</strong> (can)
-- <strong>vil</strong> (want)
-- <strong>må</strong> (must)
-- <strong>skal</strong> (shall)
-- <strong>bør</strong> (should)</p>
+<p>Common modal verbs:</p>
+<ul>
+<li><strong>kan</strong> (can)</li>
+<li><strong>vil</strong> (want)</li>
+<li><strong>må</strong> (must)</li>
+<li><strong>skal</strong> (shall)</li>
+<li><strong>bør</strong> (should)</li>
+</ul>
 <h2>Vocabulary</h2>
 <p>Norwegian vocabulary is primarily Germanic in origin, with significant influence from other languages:</p>
 <ol>
-<li>
-<p>Old Norse: The base of most Norwegian words
-   Example: <strong>hus</strong> (house), <strong>skip</strong> (ship)</p>
+<li><p>Old Norse: The base of most Norwegian words
+Example: <strong>hus</strong> (house), <strong>skip</strong> (ship)</p>
 </li>
-<li>
-<p>Low German: Due to Hanseatic influence
-   Example: <strong>arbeid</strong> (work), <strong>betale</strong> (pay)</p>
+<li><p>Low German: Due to Hanseatic influence
+Example: <strong>arbeid</strong> (work), <strong>betale</strong> (pay)</p>
 </li>
-<li>
-<p>Danish: Due to the long union with Denmark
-   Example: <strong>betydning</strong> (meaning), <strong>forsøk</strong> (attempt)</p>
+<li><p>Danish: Due to the long union with Denmark
+Example: <strong>betydning</strong> (meaning), <strong>forsøk</strong> (attempt)</p>
 </li>
-<li>
-<p>French: Mostly in cuisine and culture
-   Example: <strong>sjåfør</strong> (chauffeur), <strong>paraply</strong> (umbrella)</p>
+<li><p>French: Mostly in cuisine and culture
+Example: <strong>sjåfør</strong> (chauffeur), <strong>paraply</strong> (umbrella)</p>
 </li>
-<li>
-<p>English: Especially in modern and technical terms
-   Example: <strong>weekend</strong> (weekend), <strong>bacon</strong> (bacon)</p>
+<li><p>English: Especially in modern and technical terms
+Example: <strong>weekend</strong> (weekend), <strong>bacon</strong> (bacon)</p>
 </li>
 </ol>
 <h3>Word Formation</h3>
@@ -316,13 +642,11 @@
 </ul>
 <p>Prefixes and suffixes are used to form new words:</p>
 <ul>
-<li>
-<p>Prefixes: <strong>u-</strong> (un-), <strong>for-</strong> (for-), <strong>mis-</strong> (mis-)
-  Example: <strong>uheldig</strong> (unfortunate), <strong>forsiktig</strong> (careful), <strong>misforstå</strong> (misunderstand)</p>
+<li><p>Prefixes: <strong>u-</strong> (un-), <strong>for-</strong> (for-), <strong>mis-</strong> (mis-)
+Example: <strong>uheldig</strong> (unfortunate), <strong>forsiktig</strong> (careful), <strong>misforstå</strong> (misunderstand)</p>
 </li>
-<li>
-<p>Suffixes: <strong>-lig</strong> (-ly), <strong>-het</strong> (-ness), <strong>-else</strong> (-tion)
-  Example: <strong>vennlig</strong> (friendly), <strong>skjønnhet</strong> (beauty), <strong>følelse</strong> (feeling)</p>
+<li><p>Suffixes: <strong>-lig</strong> (-ly), <strong>-het</strong> (-ness), <strong>-else</strong> (-tion)
+Example: <strong>vennlig</strong> (friendly), <strong>skjønnhet</strong> (beauty), <strong>følelse</strong> (feeling)</p>
 </li>
 </ul>
 <h2>Dialects and Variation</h2>
@@ -342,7 +666,7 @@
 </ul>
 <h2>Colloquial Norwegian</h2>
 <p>Spoken Norwegian often differs from the written standard. Some common features of colloquial Norwegian include:</p>
-<ol>
+<ol start="2">
 <li>Contraction of common phrases: <strong>har ikke</strong> → <strong>hakke</strong> (have not)</li>
 <li>Use of English loanwords: <strong>nice</strong>, <strong>chill</strong>, <strong>keen</strong></li>
 <li>Slang expressions: <strong>fett</strong> (cool), <strong>drit-</strong> (very, extremely)</li>
@@ -355,6 +679,16 @@
 <li>Titles are rarely used; first names are common even in professional settings.</li>
 <li>Politeness is often expressed through tone and use of modal verbs rather than specific polite forms.</li>
 </ol>
+
       </div>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-TXC94JMN4X"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TXC94JMN4X');
+      </script>
 </body>
 </html>

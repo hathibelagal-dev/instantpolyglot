@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Instant Polyglot</title>
     <link rel="stylesheet" href="../bootstrap.min.css">
+    <link rel="stylesheet" href="../styles.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -36,11 +37,44 @@
 <h2>Phonology</h2>
 <h3>Consonants</h3>
 <p>PIE had a rich consonant system, including stops with a three-way distinction:</p>
-<p>| | Labial | Dental | Palatal | Velar | Labiovelar |
-|--|--------|--------|---------|-------|------------|
-| Voiceless | p | t | ḱ | k | kʷ |
-| Voiced | b | d | ǵ | g | gʷ |
-| Voiced aspirated | bʰ | dʰ | ǵʰ | gʰ | gʷʰ |</p>
+<table>
+<thead>
+<tr>
+  <th></th>
+  <th>Labial</th>
+  <th>Dental</th>
+  <th>Palatal</th>
+  <th>Velar</th>
+  <th>Labiovelar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Voiceless</td>
+  <td>p</td>
+  <td>t</td>
+  <td>ḱ</td>
+  <td>k</td>
+  <td>kʷ</td>
+</tr>
+<tr>
+  <td>Voiced</td>
+  <td>b</td>
+  <td>d</td>
+  <td>ǵ</td>
+  <td>g</td>
+  <td>gʷ</td>
+</tr>
+<tr>
+  <td>Voiced aspirated</td>
+  <td>bʰ</td>
+  <td>dʰ</td>
+  <td>ǵʰ</td>
+  <td>gʰ</td>
+  <td>gʷʰ</td>
+</tr>
+</tbody>
+</table>
 <p>Other consonants included:</p>
 <ul>
 <li>Fricatives: s</li>
@@ -48,30 +82,54 @@
 <li>Liquids: l, r</li>
 <li>Semivowels: y, w</li>
 </ul>
-<p>Examples:
-- <strong>*peh₂tēr* ('father')
-- </strong>*bʰer-<em> ('to carry')
-- </em><em>*ǵʰes-</em> ('hand')
-- *<em>*kʷod</em> ('what')</p>
+<p>Examples:</p>
+<ul>
+<li>***peh₂tēr* ('father')</li>
+<li>***bʰer-* ('to carry')</li>
+<li>***ǵʰes-* ('hand')</li>
+<li>***kʷod* ('what')</li>
+</ul>
 <h3>Vowels</h3>
 <p>PIE had a simple vowel system:</p>
-<p>| Short | Long |
-|-------|------|
-| e | ē |
-| o | ō |
-| i | ī |
-| u | ū |</p>
+<table>
+<thead>
+<tr>
+  <th>Short</th>
+  <th>Long</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>e</td>
+  <td>ē</td>
+</tr>
+<tr>
+  <td>o</td>
+  <td>ō</td>
+</tr>
+<tr>
+  <td>i</td>
+  <td>ī</td>
+</tr>
+<tr>
+  <td>u</td>
+  <td>ū</td>
+</tr>
+</tbody>
+</table>
 <p>Additionally, PIE had three laryngeals, represented as h₁, h₂, and h₃. These sounds were lost in most daughter languages but left traces in vowel quality and quantity.</p>
-<p>Examples:
-- <strong>*h₂ner-* ('man')
-- </strong>*ped-<em> ('foot')
-- </em><em>*suHnús</em> ('son')</p>
+<p>Examples:</p>
+<ul>
+<li>***h₂ner-* ('man')</li>
+<li>***ped-* ('foot')</li>
+<li>***suHnús* ('son')</li>
+</ul>
 <h3>Ablaut</h3>
 <p>PIE featured a systematic alternation of vowels called ablaut. The most common pattern was the e/o/zero ablaut:</p>
 <ul>
-<li>e-grade: *<em>*bʰer-</em> ('to carry')</li>
-<li>o-grade: *<em>*bʰor-</em> ('carrier')</li>
-<li>zero-grade: *<em>*bʰr̥-</em> ('carried')</li>
+<li>e-grade: ***bʰer-* ('to carry')</li>
+<li>o-grade: ***bʰor-* ('carrier')</li>
+<li>zero-grade: ***bʰr̥-* ('carried')</li>
 </ul>
 <h2>Morphology</h2>
 <p>PIE was a highly inflected language with complex morphological systems for nouns, verbs, and other parts of speech.</p>
@@ -82,40 +140,156 @@
 <li>Gender: masculine, feminine, neuter</li>
 <li>Case: nominative, accusative, genitive, dative, instrumental, locative, vocative, ablative</li>
 </ul>
-<p>Example paradigm for *<em>*wĺ̥kʷos</em> ('wolf'):</p>
-<p>| Case | Singular | Plural |
-|------|----------|--------|
-| Nominative | <strong>*wĺ̥kʷos* | </strong>*wĺ̥kʷōs<em> |
-| Accusative | </em><em>*wĺ̥kʷom</em> | <strong>*wĺ̥kʷons* |
-| Genitive | </strong>*wĺ̥kʷosyo<em> | </em><em>*wĺ̥kʷōm</em> |
-| Dative | <strong>*wĺ̥kʷōi* | </strong>*wĺ̥kʷobʰos<em> |
-| Instrumental | </em><em>*wĺ̥kʷoh₁</em> | <strong>*wĺ̥kʷōis* |
-| Locative | </strong>*wĺ̥kʷoi<em> | </em><em>*wĺ̥kʷoisu</em> |
-| Vocative | <strong>*wĺ̥kʷe* | </strong>*wĺ̥kʷōs<em> |
-| Ablative | </em><em>*wĺ̥kʷōd</em> | *<em>*wĺ̥kʷobʰos</em> |</p>
+<p>Example paradigm for ***wĺ̥kʷos* ('wolf'):</p>
+<table>
+<thead>
+<tr>
+  <th>Case</th>
+  <th>Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Nominative</td>
+  <td>***wĺ̥kʷos*</td>
+  <td>***wĺ̥kʷōs*</td>
+</tr>
+<tr>
+  <td>Accusative</td>
+  <td>***wĺ̥kʷom*</td>
+  <td>***wĺ̥kʷons*</td>
+</tr>
+<tr>
+  <td>Genitive</td>
+  <td>***wĺ̥kʷosyo*</td>
+  <td>***wĺ̥kʷōm*</td>
+</tr>
+<tr>
+  <td>Dative</td>
+  <td>***wĺ̥kʷōi*</td>
+  <td>***wĺ̥kʷobʰos*</td>
+</tr>
+<tr>
+  <td>Instrumental</td>
+  <td>***wĺ̥kʷoh₁*</td>
+  <td>***wĺ̥kʷōis*</td>
+</tr>
+<tr>
+  <td>Locative</td>
+  <td>***wĺ̥kʷoi*</td>
+  <td>***wĺ̥kʷoisu*</td>
+</tr>
+<tr>
+  <td>Vocative</td>
+  <td>***wĺ̥kʷe*</td>
+  <td>***wĺ̥kʷōs*</td>
+</tr>
+<tr>
+  <td>Ablative</td>
+  <td>***wĺ̥kʷōd*</td>
+  <td>***wĺ̥kʷobʰos*</td>
+</tr>
+</tbody>
+</table>
 <h3>Adjectives</h3>
 <p>Adjectives in PIE were inflected similarly to nouns, agreeing with the noun they modified in gender, number, and case.</p>
-<p>Example: *<em>*newos</em> ('new')</p>
-<p>| Case | Masculine | Feminine | Neuter |
-|------|-----------|----------|--------|
-| Nom. Sg. | <strong>*newos* | </strong>*neweh₂<em> | </em><em>*newom</em> |
-| Acc. Sg. | <strong>*newom* | </strong>*neweh₂m<em> | </em><em>*newom</em> |
-| Gen. Sg. | <strong>*newosyo* | </strong>*neweh₂s<em> | </em><em>*newosyo</em> |</p>
+<p>Example: ***newos* ('new')</p>
+<table>
+<thead>
+<tr>
+  <th>Case</th>
+  <th>Masculine</th>
+  <th>Feminine</th>
+  <th>Neuter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Nom. Sg.</td>
+  <td>***newos*</td>
+  <td>***neweh₂*</td>
+  <td>***newom*</td>
+</tr>
+<tr>
+  <td>Acc. Sg.</td>
+  <td>***newom*</td>
+  <td>***neweh₂m*</td>
+  <td>***newom*</td>
+</tr>
+<tr>
+  <td>Gen. Sg.</td>
+  <td>***newosyo*</td>
+  <td>***neweh₂s*</td>
+  <td>***newosyo*</td>
+</tr>
+</tbody>
+</table>
 <h3>Pronouns</h3>
 <p>PIE had various pronoun types, including personal, demonstrative, interrogative, and relative pronouns.</p>
 <p>Personal pronouns (1st and 2nd person):</p>
-<p>| | Singular | Plural |
-|--|----------|--------|
-| 1st Nom. | <strong>*éǵoh₂* | </strong>*wéy<em> |
-| 1st Acc. | </em><em>*mé</em> | <strong>*nsmé* |
-| 2nd Nom. | </strong>*túh₂<em> | </em><em>*yūs</em> |
-| 2nd Acc. | <strong>*twé* | </strong>*uswé* |</p>
-<p>Demonstrative pronoun *<em>*so</em> ('this, that'):</p>
-<p>| Case | Masculine | Feminine | Neuter |
-|------|-----------|----------|--------|
-| Nom. Sg. | <strong>*so* | </strong>*seh₂<em> | </em><em>*tod</em> |
-| Acc. Sg. | <strong>*tom* | </strong>*teh₂m<em> | </em><em>*tod</em> |
-| Gen. Sg. | <strong>*tosyo* | </strong>*tasyeh₂s<em> | </em><em>*tosyo</em> |</p>
+<table>
+<thead>
+<tr>
+  <th></th>
+  <th>Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st Nom.</td>
+  <td>***éǵoh₂*</td>
+  <td>***wéy*</td>
+</tr>
+<tr>
+  <td>1st Acc.</td>
+  <td>***mé*</td>
+  <td>***nsmé*</td>
+</tr>
+<tr>
+  <td>2nd Nom.</td>
+  <td>***túh₂*</td>
+  <td>***yūs*</td>
+</tr>
+<tr>
+  <td>2nd Acc.</td>
+  <td>***twé*</td>
+  <td>***uswé*</td>
+</tr>
+</tbody>
+</table>
+<p>Demonstrative pronoun ***so* ('this, that'):</p>
+<table>
+<thead>
+<tr>
+  <th>Case</th>
+  <th>Masculine</th>
+  <th>Feminine</th>
+  <th>Neuter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Nom. Sg.</td>
+  <td>***so*</td>
+  <td>***seh₂*</td>
+  <td>***tod*</td>
+</tr>
+<tr>
+  <td>Acc. Sg.</td>
+  <td>***tom*</td>
+  <td>***teh₂m*</td>
+  <td>***tod*</td>
+</tr>
+<tr>
+  <td>Gen. Sg.</td>
+  <td>***tosyo*</td>
+  <td>***tasyeh₂s*</td>
+  <td>***tosyo*</td>
+</tr>
+</tbody>
+</table>
 <h3>Verbs</h3>
 <p>PIE verbs were highly complex, with inflections for:</p>
 <ul>
@@ -127,165 +301,220 @@
 <li>Aspect: imperfective, perfective, stative</li>
 </ul>
 <p>Verbs also featured various stem formations and could be augmented or reduplicated.</p>
-<p>Example paradigm for *<em>*bʰer-</em> ('to carry') in the present indicative active:</p>
-<p>| Person | Singular | Plural |
-|--------|----------|--------|
-| 1st | <strong>*bʰéroh₂* | </strong>*bʰéromes<em> |
-| 2nd | </em><em>*bʰéresi</em> | <strong>*bʰérete* |
-| 3rd | </strong>*bʰéreti<em> | </em><em>*bʰéronti</em> |</p>
-<p>Aorist of *<em>*bʰer-</em>:</p>
-<p>| Person | Singular | Plural |
-|--------|----------|--------|
-| 1st | <strong>*é-bʰer-m̥* | </strong>*é-bʰer-me<em> |
-| 2nd | </em><em>*é-bʰer-s</em> | <strong>*é-bʰer-te* |
-| 3rd | </strong>*é-bʰer-t<em> | </em><em>*é-bʰer-nt</em> |</p>
-<p>Perfect of *<em>*bʰer-</em>:</p>
-<p>| Person | Singular | Plural |
-|--------|----------|--------|
-| 1st | <strong>*bʰe-bʰór-h₂e* | </strong>*bʰe-bʰŕ̥-me<em> |
-| 2nd | </em><em>*bʰe-bʰór-th₂e</em> | <strong>*bʰe-bʰŕ̥-te* |
-| 3rd | </strong>*bʰe-bʰór-e<em> | </em><em>*bʰe-bʰŕ̥-r̥</em> |</p>
+<p>Example paradigm for ***bʰer-* ('to carry') in the present indicative active:</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st</td>
+  <td>***bʰéroh₂*</td>
+  <td>***bʰéromes*</td>
+</tr>
+<tr>
+  <td>2nd</td>
+  <td>***bʰéresi*</td>
+  <td>***bʰérete*</td>
+</tr>
+<tr>
+  <td>3rd</td>
+  <td>***bʰéreti*</td>
+  <td>***bʰéronti*</td>
+</tr>
+</tbody>
+</table>
+<p>Aorist of ***bʰer-*:</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st</td>
+  <td>***é-bʰer-m̥*</td>
+  <td>***é-bʰer-me*</td>
+</tr>
+<tr>
+  <td>2nd</td>
+  <td>***é-bʰer-s*</td>
+  <td>***é-bʰer-te*</td>
+</tr>
+<tr>
+  <td>3rd</td>
+  <td>***é-bʰer-t*</td>
+  <td>***é-bʰer-nt*</td>
+</tr>
+</tbody>
+</table>
+<p>Perfect of ***bʰer-*:</p>
+<table>
+<thead>
+<tr>
+  <th>Person</th>
+  <th>Singular</th>
+  <th>Plural</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>1st</td>
+  <td>***bʰe-bʰór-h₂e*</td>
+  <td>***bʰe-bʰŕ̥-me*</td>
+</tr>
+<tr>
+  <td>2nd</td>
+  <td>***bʰe-bʰór-th₂e*</td>
+  <td>***bʰe-bʰŕ̥-te*</td>
+</tr>
+<tr>
+  <td>3rd</td>
+  <td>***bʰe-bʰór-e*</td>
+  <td>***bʰe-bʰŕ̥-r̥*</td>
+</tr>
+</tbody>
+</table>
 <h3>Participles</h3>
 <p>PIE had several participle forms:</p>
 <ul>
-<li>Present active: <strong>*-ont-* (e.g., </strong>*bʰér-ont-* 'carrying')</li>
-<li>Aorist active: <strong>*-wos-* (e.g., </strong>*bʰér-wos-* 'having carried')</li>
-<li>Perfect active: <strong>*-wes-* (e.g., </strong>*bʰe-bʰór-wes-* 'having carried')</li>
-<li>Passive: <strong>*-mh₁no-* (e.g., </strong>*bʰér-mh₁no-* 'being carried')</li>
+<li>Present active: ***-ont-* (e.g., ***bʰér-ont-* 'carrying')</li>
+<li>Aorist active: ***-wos-* (e.g., ***bʰér-wos-* 'having carried')</li>
+<li>Perfect active: ***-wes-* (e.g., ***bʰe-bʰór-wes-* 'having carried')</li>
+<li>Passive: ***-mh₁no-* (e.g., ***bʰér-mh₁no-* 'being carried')</li>
 </ul>
 <h3>Numerals</h3>
 <p>Cardinal numbers in PIE:</p>
 <ol>
-<li>*<em>*Hóynos</em> ('one')</li>
-<li>*<em>*dwóh₁</em> ('two')</li>
-<li>*<em>*tréyes</em> ('three')</li>
-<li>*<em>*kʷetwóres</em> ('four')</li>
-<li>*<em>*pénkʷe</em> ('five')</li>
-<li>*<em>*swéḱs</em> ('six')</li>
-<li>*<em>*septḿ̥</em> ('seven')</li>
-<li>*<em>*oḱtṓw</em> ('eight')</li>
-<li>*<em>*h₁néwn̥</em> ('nine')</li>
-<li>*<em>*déḱm̥</em> ('ten')</li>
+<li>***Hóynos* ('one')</li>
+<li>***dwóh₁* ('two')</li>
+<li>***tréyes* ('three')</li>
+<li>***kʷetwóres* ('four')</li>
+<li>***pénkʷe* ('five')</li>
+<li>***swéḱs* ('six')</li>
+<li>***septḿ̥* ('seven')</li>
+<li>***oḱtṓw* ('eight')</li>
+<li>***h₁néwn̥* ('nine')</li>
+<li>***déḱm̥* ('ten')</li>
 </ol>
-<p>Ordinal numbers were formed with the suffix <strong>*-to-* or </strong>*-o-<em>, e.g., </em><em>*pr̥h₂wós</em> ('first'), <strong>*dwi-tó-s* ('second'), </strong>*tri-tó-s* ('third').</p>
+<p>Ordinal numbers were formed with the suffix ***-to-* or ***-o-<em>, e.g., **\</em>pr̥h₂wós* ('first'), ***dwi-tó-s* ('second'), ***tri-tó-s* ('third').</p>
 <h2>Syntax</h2>
 <h3>Word Order</h3>
 <p>The basic word order in PIE is believed to have been Subject-Object-Verb (SOV), though other orders were likely possible for emphasis or in specific constructions.</p>
 <p>Example:
-*<em>*wĺ̥kʷos owim esti</em> ('The wolf eats the sheep')</p>
+***wĺ̥kʷos owim esti* ('The wolf eats the sheep')</p>
 <h3>Cases</h3>
 <p>The rich case system in PIE allowed for complex syntactic relationships:</p>
 <ul>
 <li>Nominative: subject of a clause
-  *<em>*wĺ̥kʷos esti</em> ('The wolf is')</li>
+***wĺ̥kʷos esti* ('The wolf is')</li>
 <li>Accusative: direct object
-  *<em>*wĺ̥kʷom widn̥ti</em> ('They see the wolf')</li>
+***wĺ̥kʷom widn̥ti* ('They see the wolf')</li>
 <li>Genitive: possession, partitive
-  *<em>*wĺ̥kʷosyo ḱerd</em> ('The wolf's heart')</li>
+***wĺ̥kʷosyo ḱerd* ('The wolf's heart')</li>
 <li>Dative: indirect object, recipient
-  *<em>*wĺ̥kʷōi deh₃-</em> ('Give to the wolf')</li>
+***wĺ̥kʷōi deh₃-* ('Give to the wolf')</li>
 <li>Instrumental: instrument, means
-  *<em>*su̯ekurúh₁ h₂eǵeti</em> ('He drives with the axe')</li>
+***su̯ekurúh₁ h₂eǵeti* ('He drives with the axe')</li>
 <li>Locative: location
-  *<em>*dom-oi h₁esti</em> ('He is at home')</li>
+***dom-oi h₁esti* ('He is at home')</li>
 <li>Vocative: direct address
-  *<em>*wĺ̥kʷe!</em> ('O wolf!')</li>
+***wĺ̥kʷe!* ('O wolf!')</li>
 <li>Ablative: separation, source
-  *<em>*gʷem-e dems-</em> ('He came from the house')</li>
+***gʷem-e dems-* ('He came from the house')</li>
 </ul>
 <h3>Relative Clauses</h3>
 <p>PIE used relative pronouns to form relative clauses. The relative pronoun agreed with its antecedent in gender and number but took its case from its function in the relative clause.</p>
 <p>Example:
-*<em>*wiros yos gwem-e</em> ('The man who came')</p>
+***wiros yos gwem-e* ('The man who came')</p>
 <h3>Subordinate Clauses</h3>
 <p>Various types of subordinate clauses existed in PIE:</p>
 <ul>
-<li>Conditional clauses: using particles like <strong>*yod* ('if')
-  </strong>*yod gwem-e-si, wid-e-si* ('If you come, you will see')</li>
+<li>Conditional clauses: using particles like ***yod* ('if')
+***yod gwem-e-si, wid-e-si* ('If you come, you will see')</li>
 <li>Purpose clauses: often using the subjunctive mood
-  *<em>*gʷem-e-t kʷod wid-yeh₁-t</em> ('He came so that he might see')</li>
+***gʷem-e-t kʷod wid-yeh₁-t* ('He came so that he might see')</li>
 <li>Indirect speech: using the optative mood
-  *<em>*wekʷ-e-t kʷod gʷem-yeh₁-t</em> ('He said that he would come')</li>
+***wekʷ-e-t kʷod gʷem-yeh₁-t* ('He said that he would come')</li>
 </ul>
 <h2>Lexicon</h2>
 <p>PIE had a rich vocabulary, much of which can be reconstructed through comparative analysis. Here are some examples of PIE roots and their derivatives in various Indo-European languages:</p>
 <ol>
-<li>*<em>*h₂ner-</em> ('man')</li>
+<li><p>***h₂ner-* ('man')</p>
+<ul>
 <li>Greek: ἀνήρ (anḗr)</li>
 <li>Latin: Nero (proper name)</li>
-<li>
-<p>Sanskrit: नर (nára)</p>
+<li>Sanskrit: नर (nára)</li>
+</ul>
 </li>
-<li>
-<p>*<em>*h₂ster-</em> ('star')</p>
-</li>
+<li><p>***h₂ster-* ('star')</p>
+<ul>
 <li>Greek: ἀστήρ (astḗr)</li>
 <li>Latin: stella</li>
 <li>Sanskrit: तारा (tārā)</li>
-<li>
-<p>English: star</p>
+<li>English: star</li>
+</ul>
 </li>
-<li>
-<p>*<em>*peh₂tēr</em> ('father')</p>
-</li>
+<li><p>***peh₂tēr* ('father')</p>
+<ul>
 <li>Greek: πατήρ (patḗr)</li>
 <li>Latin: pater</li>
 <li>Sanskrit: पितृ (pitṛ)</li>
-<li>
-<p>English: father</p>
+<li>English: father</li>
+</ul>
 </li>
-<li>
-<p>*<em>*kʷon-</em> ('dog')</p>
-</li>
+<li><p>***kʷon-* ('dog')</p>
+<ul>
 <li>Greek: κύων (kúōn)</li>
 <li>Latin: canis</li>
-<li>
-<p>Sanskrit: श्वन् (śvan)</p>
+<li>Sanskrit: श्वन् (śvan)</li>
+</ul>
 </li>
-<li>
-<p>*<em>*h₁esti</em> ('is')</p>
-</li>
+<li><p>***h₁esti* ('is')</p>
+<ul>
 <li>Greek: ἐστί (estí)</li>
 <li>Latin: est</li>
 <li>Sanskrit: अस्ति (ásti)</li>
-<li>
-<p>English: is</p>
+<li>English: is</li>
+</ul>
 </li>
-<li>
-<p>*<em>*h₂ówis</em> ('sheep')</p>
-</li>
+<li><p>***h₂ówis* ('sheep')</p>
+<ul>
 <li>Greek: ὄϊς (óïs)</li>
 <li>Latin: ovis</li>
-<li>
-<p>Sanskrit: अवि (ávi)</p>
+<li>Sanskrit: अवि (ávi)</li>
+</ul>
 </li>
-<li>
-<p>*<em>*wódr̥</em> ('water')</p>
-</li>
+<li><p>***wódr̥* ('water')</p>
+<ul>
 <li>Greek: ὕδωρ (húdōr)</li>
 <li>English: water</li>
-<li>
-<p>Russian: вода (voda)</p>
+<li>Russian: вода (voda)</li>
+</ul>
 </li>
-<li>
-<p>*<em>*méh₂tēr</em> ('mother')</p>
-</li>
+<li><p>***méh₂tēr* ('mother')</p>
+<ul>
 <li>Greek: μήτηρ (mḗtēr)</li>
 <li>Latin: māter</li>
 <li>Sanskrit: मातृ (mātṛ)</li>
-<li>
-<p>English: mother</p>
+<li>English: mother</li>
+</ul>
 </li>
-<li>
-<p>*<em>*gʷem-</em> ('to go, come')</p>
-</li>
+<li><p>***gʷem-* ('to go, come')</p>
+<ul>
 <li>Greek: βαίνω (baínō)</li>
 <li>Latin: venio</li>
-<li>
-<p>Sanskrit: गच्छति (gacchati)</p>
+<li>Sanskrit: गच्छति (gacchati)</li>
+</ul>
 </li>
-<li>
-<p>*<em>*h₁ed-</em> ('to eat')</p>
+<li><p>***h₁ed-* ('to eat')</p>
 <ul>
 <li>Greek: ἔδω (édō)</li>
 <li>Latin: edo</li>
@@ -298,174 +527,141 @@
 <h3>Compounding</h3>
 <p>Compounds were formed by combining two or more stems:</p>
 <ul>
-<li><strong>*kʷo-dʰh₁-o-* ('what-put' &gt; 'what') from </strong>*kʷo-<em> ('who, what') and </em><em>*dʰeh₁-</em> ('put, place')</li>
-<li><strong>*meǵh₂-dʰh₁-o-* ('great-put' &gt; 'great') from </strong>*meǵh₂-<em> ('great') and </em><em>*dʰeh₁-</em> ('put, place')</li>
+<li>***kʷo-dʰh₁-o-* ('what-put' &gt; 'what') from ***kʷo-* ('who, what') and ***dʰeh₁-* ('put, place')</li>
+<li>***meǵh₂-dʰh₁-o-* ('great-put' &gt; 'great') from ***meǵh₂-* ('great') and ***dʰeh₁-* ('put, place')</li>
 </ul>
 <h3>Derivation</h3>
 <p>New words were created using various affixes:</p>
 <ul>
-<li>
-<p>Agent nouns: <strong>*-ter-* / </strong>*-tor-<em>
-  </em><em>*deh₃-tor-</em> ('giver') from *<em>*deh₃-</em> ('give')</p>
+<li><p>Agent nouns: ***-ter-* / ***-tor-*
+***deh₃-tor-* ('giver') from ***deh₃-* ('give')</p>
 </li>
-<li>
-<p>Abstract nouns: <strong>*-ti-*
-  </strong>*mn̥-ti-<em> ('thought') from </em><em>*men-</em> ('think')</p>
+<li><p>Abstract nouns: ***-ti-*
+***mn̥-ti-* ('thought') from ***men-* ('think')</p>
 </li>
-<li>
-<p>Adjectives: <strong>*-no-*, </strong>*-wo-<em>, </em><em>*-ro-</em>
-  <strong>*new-o-* ('new') from </strong>*new-* ('now')</p>
+<li><p>Adjectives: ***-no-<em>, **\</em>-wo-<em>, **\</em>-ro-*
+***new-o-* ('new') from ***new-* ('now')</p>
 </li>
 </ul>
 <h3>Root Extensions</h3>
 <p>PIE roots could be extended with additional elements to create new meanings:</p>
 <ul>
-<li><strong>*plew-* ('flow') &gt; </strong>*plew-d-* ('float')</li>
-<li><strong>*ster-* ('stiff') &gt; </strong>*ster-k-* ('rigid')</li>
+<li>***plew-* ('flow') &gt; ***plew-d-* ('float')</li>
+<li>***ster-* ('stiff') &gt; ***ster-k-* ('rigid')</li>
 </ul>
 <h2>Semantic Fields</h2>
 <p>PIE vocabulary covered various semantic fields, including:</p>
 <ol>
-<li>
-<p>Family terms:
-   <strong>*swesor* ('sister'), </strong>*bʰréh₂tēr* ('brother')</p>
+<li><p>Family terms:
+***swesor* ('sister'), ***bʰréh₂tēr* ('brother')</p>
 </li>
-<li>
-<p>Body parts:
-   <strong>*h₃ókʷs* ('eye'), </strong>*ǵónu* ('knee')</p>
+<li><p>Body parts:
+***h₃ókʷs* ('eye'), ***ǵónu* ('knee')</p>
 </li>
-<li>
-<p>Natural phenomena:
-       <strong>*h₂ster-* ('star'), </strong>*h₂awsōs<em> ('dawn'), </em><em>*nébʰos</em> ('cloud, sky')</p>
+<li><p>Natural phenomena:
+***h₂ster-* ('star'), ***h₂awsōs* ('dawn'), ***nébʰos* ('cloud, sky')</p>
 </li>
-<li>
-<p>Animals:
-   <strong>*h₁ékʷos* ('horse'), </strong>*gwṓws<em> ('cow'), </em><em>*h₂ŕ̥tḱos</em> ('bear')</p>
+<li><p>Animals:
+***h₁ékʷos* ('horse'), ***gwṓws* ('cow'), ***h₂ŕ̥tḱos* ('bear')</p>
 </li>
-<li>
-<p>Plants:
-   <strong>*dóru* ('tree, wood'), </strong>*h₂ḱers-<em> ('oak'), </em><em>*h₃réwh₁os</em> ('nut')</p>
+<li><p>Plants:
+***dóru* ('tree, wood'), ***h₂ḱers-* ('oak'), ***h₃réwh₁os* ('nut')</p>
 </li>
-<li>
-<p>Colors:
-   <strong>*h₁rewdʰ-* ('red'), </strong>*kʷey-<em> ('white'), </em><em>*ḱyeh₁-</em> ('dark')</p>
+<li><p>Colors:
+***h₁rewdʰ-* ('red'), ***kʷey-* ('white'), ***ḱyeh₁-* ('dark')</p>
 </li>
-<li>
-<p>Emotions:
-   <strong>*preyH-* ('to love'), </strong>*bʰeyh₂-<em> ('to fear'), </em><em>*ǵʰers-</em> ('to rejoice')</p>
+<li><p>Emotions:
+***preyH-* ('to love'), ***bʰeyh₂-* ('to fear'), ***ǵʰers-* ('to rejoice')</p>
 </li>
-<li>
-<p>Abstract concepts:
-   <strong>*men-* ('to think'), </strong>*weid-<em> ('to know, see'), </em><em>*h₁es-</em> ('to be')</p>
+<li><p>Abstract concepts:
+***men-* ('to think'), ***weid-* ('to know, see'), ***h₁es-* ('to be')</p>
 </li>
 </ol>
 <h2>Particles and Interjections</h2>
 <p>PIE had various particles and interjections that added nuance to utterances or expressed emotions:</p>
 <ul>
-<li>
-<p><strong>*kʷe* (and): enclitic conjunction
-  Example: </strong>*wiros kʷe gʷeneh₂* ('man and woman')</p>
+<li><p>***kʷe* (and): enclitic conjunction
+Example: ***wiros kʷe gʷeneh₂* ('man and woman')</p>
 </li>
-<li>
-<p><strong>*-kʷid* (indefinite particle): added to interrogative pronouns
-  Example: </strong>*kʷis-kʷid* ('someone, anyone')</p>
+<li><p>***-kʷid* (indefinite particle): added to interrogative pronouns
+Example: ***kʷis-kʷid* ('someone, anyone')</p>
 </li>
-<li>
-<p><strong>*nu* (now): temporal particle
-  Example: </strong>*nu gʷem-* ('come now')</p>
+<li><p>***nu* (now): temporal particle
+Example: ***nu gʷem-* ('come now')</p>
 </li>
-<li>
-<p><strong>*gʰe* (indeed, at least): emphatic particle
-  Example: </strong>*so gʰe wiros* ('that man indeed')</p>
+<li><p>***gʰe* (indeed, at least): emphatic particle
+Example: ***so gʰe wiros* ('that man indeed')</p>
 </li>
-<li>
-<p>*<em>*h₁oh₁</em> (oh): exclamation of surprise or distress</p>
+<li><p>***h₁oh₁* (oh): exclamation of surprise or distress</p>
 </li>
 </ul>
 <h2>Aspect and Aktionsart</h2>
 <p>PIE verbs distinguished between different aspects and Aktionsarten (types of action):</p>
 <ol>
-<li>
-<p>Imperfective: ongoing or repeated action
-   Formed by the present stem
-   Example: *<em>*bʰér-e-ti</em> ('he is carrying, he carries')</p>
+<li><p>Imperfective: ongoing or repeated action
+Formed by the present stem
+Example: ***bʰér-e-ti* ('he is carrying, he carries')</p>
 </li>
-<li>
-<p>Perfective: completed action
-   Formed by the aorist stem
-   Example: *<em>*é-bʰer-t</em> ('he carried')</p>
+<li><p>Perfective: completed action
+Formed by the aorist stem
+Example: ***é-bʰer-t* ('he carried')</p>
 </li>
-<li>
-<p>Stative: state resulting from an action
-   Formed by the perfect stem
-   Example: *<em>*bʰe-bʰór-e</em> ('he has carried, he is in a state of having carried')</p>
+<li><p>Stative: state resulting from an action
+Formed by the perfect stem
+Example: ***bʰe-bʰór-e* ('he has carried, he is in a state of having carried')</p>
 </li>
-<li>
-<p>Iterative: repeated action
-   Formed with suffix <strong>*-sḱe/o-*
-   Example: </strong>*gʷm̥-sḱé-ti* ('he keeps coming')</p>
+<li><p>Iterative: repeated action
+Formed with suffix ***-sḱe/o-*
+Example: ***gʷm̥-sḱé-ti* ('he keeps coming')</p>
 </li>
-<li>
-<p>Inchoative: beginning of an action
-   Formed with suffix <strong>*-eh₁-*
-   Example: </strong>*rúdʰ-eh₁-ti* ('it becomes red')</p>
+<li><p>Inchoative: beginning of an action
+Formed with suffix ***-eh₁-*
+Example: ***rúdʰ-eh₁-ti* ('it becomes red')</p>
 </li>
-<li>
-<p>Causative: causing an action
-   Formed with o-grade root and suffix <strong>*-éye-*
-   Example: </strong>*sod-éye-ti* ('he makes sit')</p>
+<li><p>Causative: causing an action
+Formed with o-grade root and suffix ***-éye-*
+Example: ***sod-éye-ti* ('he makes sit')</p>
 </li>
 </ol>
 <h2>Nominal Formations</h2>
 <p>PIE had various ways to form nouns from roots or other stems:</p>
 <ol>
-<li>
-<p>Root nouns: formed directly from the root
-   Example: <strong>*pōds* ('foot') from root </strong>*ped-*</p>
+<li><p>Root nouns: formed directly from the root
+Example: ***pōds* ('foot') from root ***ped-*</p>
 </li>
-<li>
-<p>Thematic nouns: formed with thematic vowel <strong>*-o-*/</strong>*-e-<em>
-   Example: </em><em>*wĺ̥kʷ-o-s</em> ('wolf')</p>
+<li><p>Thematic nouns: formed with thematic vowel <strong>*-o-*/</strong>*-e-*
+Example: ***wĺ̥kʷ-o-s* ('wolf')</p>
 </li>
-<li>
-<p>Athematic nouns: formed without a thematic vowel
-   Example: *<em>*dʰéǵʰ-ōm</em> ('earth')</p>
+<li><p>Athematic nouns: formed without a thematic vowel
+Example: ***dʰéǵʰ-ōm* ('earth')</p>
 </li>
-<li>
-<p>Action nouns: formed with suffix <strong>*-ti-*
-   Example: </strong>*mn̥-ti-s<em> ('thought') from </em><em>*men-</em> ('to think')</p>
+<li><p>Action nouns: formed with suffix ***-ti-*
+Example: ***mn̥-ti-s* ('thought') from ***men-* ('to think')</p>
 </li>
-<li>
-<p>Agent nouns: formed with suffix <strong>*-ter-*/</strong>*-tor-<em>
-   Example: </em><em>*deh₃-tōr</em> ('giver') from *<em>*deh₃-</em> ('to give')</p>
+<li><p>Agent nouns: formed with suffix <strong>*-ter-*/</strong>*-tor-*
+Example: ***deh₃-tōr* ('giver') from ***deh₃-* ('to give')</p>
 </li>
-<li>
-<p>Instrument nouns: formed with suffix <strong>*-tro-*/</strong>*-tlo-<em>
-   Example: </em><em>*h₂erh₃-tro-m</em> ('plow') from *<em>*h₂erh₃-</em> ('to plow')</p>
+<li><p>Instrument nouns: formed with suffix <strong>*-tro-*/</strong>*-tlo-*
+Example: ***h₂erh₃-tro-m* ('plow') from ***h₂erh₃-* ('to plow')</p>
 </li>
 </ol>
 <h2>Adjective Formations</h2>
 <p>Adjectives in PIE were formed through various means:</p>
 <ol>
-<li>
-<p>Thematic adjectives: formed with thematic vowel <strong>*-o-*/</strong>*-eh₂-<em>
-   Example: </em><em>*new-o-s</em> ('new', m.), *<em>*new-eh₂</em> ('new', f.)</p>
+<li><p>Thematic adjectives: formed with thematic vowel <strong>*-o-*/</strong>*-eh₂-*
+Example: ***new-o-s* ('new', m.), ***new-eh₂* ('new', f.)</p>
 </li>
-<li>
-<p>Comparative adjectives: formed with suffix <strong>*-yos-*
-   Example: </strong>*new-yos-* ('newer')</p>
+<li><p>Comparative adjectives: formed with suffix ***-yos-*
+Example: ***new-yos-* ('newer')</p>
 </li>
-<li>
-<p>Superlative adjectives: formed with suffix <strong>*-isto-*
-   Example: </strong>*new-isto-* ('newest')</p>
+<li><p>Superlative adjectives: formed with suffix ***-isto-*
+Example: ***new-isto-* ('newest')</p>
 </li>
-<li>
-<p>Possessive adjectives: formed with suffix <strong>*-yo-*
-   Example: </strong>*ped-yo-* ('of the foot')</p>
+<li><p>Possessive adjectives: formed with suffix ***-yo-*
+Example: ***ped-yo-* ('of the foot')</p>
 </li>
-<li>
-<p>Verbal adjectives: formed with various suffixes
-   Example: <strong>*gʷm̥-tó-* ('gone, having come') with </strong>*-to-* suffix</p>
+<li><p>Verbal adjectives: formed with various suffixes
+Example: ***gʷm̥-tó-* ('gone, having come') with ***-to-* suffix</p>
 </li>
 </ol>
 <h2>Syntax of Noun Phrases</h2>
@@ -473,91 +669,90 @@
 <ol>
 <li>(Demonstrative) + (Adjective) + Noun + (Genitive modifier)</li>
 </ol>
-<p>Example: *<em>*so méǵh₂s wĺ̥kʷos pedōm</em> ('this big wolf of feet')</p>
+<p>Example: ***so méǵh₂s wĺ̥kʷos pedōm* ('this big wolf of feet')</p>
 <p>Adjectives agreed with the noun in gender, number, and case:</p>
-<p><strong>*méǵh₂eh₂ gʷéneh₂* ('big woman', nom. sg. f.)
-</strong>*méǵh₂m̥ gʷenh₂m* ('big woman', acc. sg. f.)</p>
+<p>***méǵh₂eh₂ gʷéneh₂* ('big woman', nom. sg. f.)
+***méǵh₂m̥ gʷenh₂m* ('big woman', acc. sg. f.)</p>
 <h2>Verb Phrase Structure</h2>
 <p>Verb phrases in PIE could be quite complex, including various elements:</p>
 <ol>
 <li>(Preverb) + Verb stem + Tense/Aspect marker + Mood marker + Person/Number ending</li>
 </ol>
-<p>Example: <strong>*peri-bʰér-e-ti* ('he carries around')
-- </strong>*peri-<em> : preverb meaning 'around'
-- </em><em>*bʰer-</em> : verb root 'carry'
-- <strong>*-e-* : present tense marker
-- </strong>*-ti* : 3rd person singular active ending</p>
+<p>Example: ***peri-bʰér-e-ti* ('he carries around')</p>
+<ul>
+<li>***peri-* : preverb meaning 'around'</li>
+<li>***bʰer-* : verb root 'carry'</li>
+<li>***-e-* : present tense marker</li>
+<li>***-ti* : 3rd person singular active ending</li>
+</ul>
 <h2>Phonological Rules</h2>
 <p>PIE had various phonological rules that affected word formation and inflection:</p>
 <ol>
-<li>
-<p>Ablaut: Systematic vowel alternation
-   Example: <strong>*sed-* (zero grade) / </strong>*sod-<em> (o-grade) / </em><em>*sēd-</em> (lengthened grade)</p>
+<li><p>Ablaut: Systematic vowel alternation
+Example: ***sed-* (zero grade) / ***sod-* (o-grade) / ***sēd-* (lengthened grade)</p>
 </li>
-<li>
-<p>Laryngeal coloring: Laryngeals affected adjacent vowels
-   <strong>*h₁e* &gt; </strong>*e<em>, </em><em>*h₂e</em> &gt; <strong>*a*, </strong>*h₃e<em> &gt; </em><em>*o</em></p>
+<li><p>Laryngeal coloring: Laryngeals affected adjacent vowels
+***h₁e* &gt; ***e<em>, **\</em>h₂e* &gt; ***a<em>, **\</em>h₃e* &gt; ***o*</p>
 </li>
-<li>
-<p>Grassmann's law: Dissimilation of aspirates
-   <strong>*dʰi-dʰeh₁-* &gt; </strong>*di-dʰeh₁-* ('put', reduplicated present)</p>
+<li><p>Grassmann's law: Dissimilation of aspirates
+***dʰi-dʰeh₁-* &gt; ***di-dʰeh₁-* ('put', reduplicated present)</p>
 </li>
-<li>
-<p>Bartholomae's law: Voicing assimilation
-   <strong>*h₃eid-dʰi* &gt; </strong>*h₃eid-dʰi* ('know!', imperative)</p>
+<li><p>Bartholomae's law: Voicing assimilation
+***h₃eid-dʰi* &gt; ***h₃eid-dʰi* ('know!', imperative)</p>
 </li>
-<li>
-<p>Sievers' law: Insertion of <em>i</em> after heavy syllables
-   <strong>*med-yo-* &gt; </strong>*med-iyo-* ('middle')</p>
+<li><p>Sievers' law: Insertion of <em>i</em> after heavy syllables
+***med-yo-* &gt; ***med-iyo-* ('middle')</p>
 </li>
 </ol>
 <h2>Accent</h2>
 <p>PIE had a pitch accent system, though its exact nature is debated. The accent could fall on different syllables and played a role in ablaut alternations:</p>
 <ul>
-<li><strong>*pə₂tḗr* ('father', nom. sg.) vs. </strong>*ph₂trés* (gen. sg.)</li>
-<li><strong>*wódr̥* ('water', nom. sg.) vs. </strong>*udnés* (gen. sg.)</li>
+<li>***pə₂tḗr* ('father', nom. sg.) vs. ***ph₂trés* (gen. sg.)</li>
+<li>***wódr̥* ('water', nom. sg.) vs. ***udnés* (gen. sg.)</li>
 </ul>
 <h2>Dialectal Variations</h2>
 <p>While PIE is reconstructed as a single language, it likely had dialectal variations. Some proposed isoglosses include:</p>
 <ol>
-<li>
-<p>Centum-Satem split: Treatment of palatovelars
-   Centum: <strong>*ḱm̥tóm* &gt; Latin centum
-   Satem: </strong>*ḱm̥tóm* &gt; Sanskrit śatám</p>
+<li><p>Centum-Satem split: Treatment of palatovelars
+Centum: ***ḱm̥tóm* &gt; Latin centum
+Satem: ***ḱm̥tóm* &gt; Sanskrit śatám</p>
 </li>
-<li>
-<p>Merger of <strong>*a* and </strong>*o<em> in some branches
-   Example: PIE </em><em>*h₂ówis</em> &gt; Latin ovis, but &gt; Sanskrit ávi-</p>
+<li><p>Merger of ***a* and ***o* in some branches
+Example: PIE ***h₂ówis* &gt; Latin ovis, but &gt; Sanskrit ávi-</p>
 </li>
-<li>
-<p>Treatment of syllabic resonants
-   Some dialects may have developed vowels before syllabic resonants earlier than others</p>
+<li><p>Treatment of syllabic resonants
+Some dialects may have developed vowels before syllabic resonants earlier than others</p>
 </li>
 </ol>
 <h2>Sample Texts</h2>
 <p>Here are some reconstructed PIE sentences to illustrate the language's structure:</p>
 <ol>
-<li>
-<p>*<em>*h₂ówis h₁ekʷōs-kʷe</em>
-   "The sheep and the horses"</p>
+<li><p>***h₂ówis h₁ekʷōs-kʷe*
+&quot;The sheep and the horses&quot;</p>
 </li>
-<li>
-<p>*<em>*h₂ówis, kʷesyo wĺ̥h₁neh₂ ne h₁ést, h₁ékʷōns dedorḱe</em>
-   "The sheep, whose wool was gone (lit. 'not was'), saw horses"</p>
+<li><p>***h₂ówis, kʷesyo wĺ̥h₁neh₂ ne h₁ést, h₁ékʷōns dedorḱe*
+&quot;The sheep, whose wool was gone (lit. 'not was'), saw horses&quot;</p>
 </li>
-<li>
-<p>*<em>*h₁ekʷōms su̯ekurúh₁ wógʰom wégʰontm̥ h₂ner-m̥-kʷe méǵh₂m̥ bʰórom, h₂ówis-kʷe méǵh₂m̥ bʰórom wégʰontm̥</em>
-   "One carrying a heavy wagon, one carrying a heavy load, and the sheep carrying a heavy load"</p>
+<li><p>***h₁ekʷōms su̯ekurúh₁ wógʰom wégʰontm̥ h₂ner-m̥-kʷe méǵh₂m̥ bʰórom, h₂ówis-kʷe méǵh₂m̥ bʰórom wégʰontm̥*
+&quot;One carrying a heavy wagon, one carrying a heavy load, and the sheep carrying a heavy load&quot;</p>
 </li>
-<li>
-<p>*<em>*h₂ówis h₁ekʷoibʰyós u̯ekʷét</em>
-   "The sheep said to the horses"</p>
+<li><p>***h₂ówis h₁ekʷoibʰyós u̯ekʷét*
+&quot;The sheep said to the horses&quot;</p>
 </li>
-<li>
-<p>*<em>*ḱḗr moi agʰnutoi h₁ékʷōns h₂eǵontm̥ h₂nerm̥ widn̥téi</em>
-   "My heart pains me seeing a man driving horses"</p>
+<li><p>***ḱḗr moi agʰnutoi h₁ékʷōns h₂eǵontm̥ h₂nerm̥ widn̥téi*
+&quot;My heart pains me seeing a man driving horses&quot;</p>
 </li>
 </ol>
+
       </div>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-TXC94JMN4X"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TXC94JMN4X');
+      </script>
 </body>
 </html>
