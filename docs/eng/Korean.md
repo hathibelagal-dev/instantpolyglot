@@ -1,5 +1,3 @@
-Here's a detailed overview of the Korean language, similar in structure to the Polish text you provided, but focused on Korean:
-
 # Korean
 
 Korean (한국어 / 韓國語 Hangugeo) is the official language of both South Korea and North Korea, spoken by about 80 million people worldwide. It is a language isolate, meaning it has no proven genetic relationship with any other language, although some linguists propose it may be related to Japanese or the Altaic language family.

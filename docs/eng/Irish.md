@@ -1,5 +1,3 @@
-Here's a detailed overview of the Irish language, following the structure and style you requested:
-
 # Irish
 
 Irish (Gaeilge) is a Goidelic language of the Insular Celtic branch of the Celtic language family. It is spoken as a first language by a small minority of Irish people and as a second language by a larger group. Irish is one of the official languages of Ireland and an official language of the European Union.

@@ -1,5 +1,3 @@
-Here's a text about Modern Greek, following your guidelines:
-
 # Modern Greek
 
 Modern Greek (Νέα Ελληνική, Néa Elliniká) is the official language of Greece and Cyprus, spoken by approximately 13 million people worldwide. It is a continuation of Ancient Greek, with a history spanning over 3,000 years. The language has undergone significant changes over time, but still retains many features of its ancient predecessor.

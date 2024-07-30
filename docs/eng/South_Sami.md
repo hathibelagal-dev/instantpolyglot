@@ -1,5 +1,3 @@
-Here's a detailed text about South Sami, following your guidelines:
-
 # South Sami
 
 South Sami (Åarjelsaemien gïele) is a Sami language spoken in central Sweden and Norway. It is the southernmost of the Sami languages, which belong to the Uralic language family. South Sami is considered an endangered language, with estimates ranging from 300 to 500 speakers as of 2023.

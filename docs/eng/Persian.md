@@ -1,5 +1,3 @@
-Here's a 4000-word text about Persian, similar in style to the one provided about Polish:
-
 # Persian (فارسی)
 
 Persian, also known as Farsi (فارسی), is an Indo-European language spoken by around 110 million people, primarily in Iran, Afghanistan, and Tajikistan. It has a rich literary history dating back over a millennium and has influenced many languages in Central and South Asia. Persian is written in a modified version of the Arabic script, with additional letters to represent sounds not found in Arabic.

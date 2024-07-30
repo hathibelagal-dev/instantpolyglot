@@ -1,5 +1,3 @@
-Here's a 4000-word text about Japanese, similar in style to the Polish text, including both original script and romaji with tone marks:
-
 # Japanese
 
 Japanese (日本語, nihongo) is an East Asian language spoken by about 128 million people, primarily in Japan. It is an agglutinative language with a complex system of honorifics reflecting the hierarchical nature of Japanese society. The language is relatively uniform, with only minor dialectal differences in grammar, though pronunciation can vary significantly between regions.

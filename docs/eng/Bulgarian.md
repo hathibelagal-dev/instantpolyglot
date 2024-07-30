@@ -257,8 +257,6 @@ Tenses in Bulgarian:
 
 2. Imperfect (Past Imperfective): **Аз четях книга.** (Az chetyah kniga, "I was reading a book.")
 
-3. Aorist (Past Perfective): **Аз прочетох книга.** (Continuing with the Bulgarian language overview:
-
 3. Aorist (Past Perfective): **Аз прочетох книга.** (Az prochetoh kniga, "I read a book" - completed action)
 
 4. Perfect: **Аз съм чел книга.** (Az sǎm chel kniga, "I have read a book")

@@ -309,8 +309,6 @@ Adjectives typically precede the noun they modify:
 
 - **červené auto** ('red car')
 
-Continuing with the Czech language overview:
-
 ### Case usage
 
 Czech's seven cases are used to indicate the grammatical function of nouns, pronouns, and adjectives in a sentence. Here's an overview of their main uses:

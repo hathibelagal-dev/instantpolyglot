@@ -1,4 +1,3 @@
-
 # Arabic Varieties
 
 Arabic is a Semitic language spoken by over 400 million people across the Middle East, North Africa, and beyond. It's known for its rich history, complex grammar, and significant dialectal variation. This text will explore the various forms of Arabic, from the standardized written language to the diverse spoken dialects.

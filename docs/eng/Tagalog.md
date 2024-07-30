@@ -1,5 +1,3 @@
-Here's a comprehensive overview of Tagalog, similar in style and structure to the provided text about Polish:
-
 # Tagalog
 
 Tagalog is an Austronesian language spoken by about 28 million people as a first language, primarily in the Philippines. It serves as the basis for Filipino, the national language of the Philippines. Tagalog is closely related to other Philippine languages such as Cebuano, Ilocano, and Hiligaynon, and more distantly to other Austronesian languages like Indonesian and Malay.
@@ -370,8 +368,6 @@ Colloquial Tagalog has many slang terms and expressions:
 - **chika**: gossip
 - **gigil**: the urge to pinch or squeeze something cute
 - **kilig**: excitement or elation, especially from romantic situations
-- **pasContinuing with colloquial Tagalog:
-
 - **pasok**: literally "enter," but used to mean "it fits" or "it's acceptable"
 - **petmalu**: cool, awesome (from reversed "malupet")
 - **lodi**: idol (from reversed "idolo")

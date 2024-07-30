@@ -1,5 +1,3 @@
-Here's a comprehensive overview of the Russian language, written for laymen and learners, with examples in both the original script and romanized form with stress marks. The text is approximately 4000 words long and covers various aspects of the language:
-
 # Russian
 
 Russian (русский язык, russkij jazýk) is an East Slavic language spoken by about 258 million people worldwide, primarily in Russia, Belarus, Kazakhstan, and Ukraine. It is the most widely spoken Slavic language and the largest native language in Europe. Russian is an official language in Russia, Belarus, Kazakhstan, and Kyrgyzstan, and is used as a lingua franca in many former Soviet republics.
@@ -265,9 +263,7 @@ Russian has a relatively flexible word order due to its extensive case system, b
    - Wh-question: **Что чита́ет Ива́н?** (Čto čitájet Iván?) "What is Ivan reading?"
 
 3. Negation:
-   **Ива́н не чита́ет кни́гу** (Iván ne čitájet knígu) "Ivan is not reading aHere's the continuation of the overview of the Russian language:
-
-book"
+   **Ива́н не чита́ет кни́гу** (Iván ne čitájet knígu) "Ivan is not reading a book"
 
 ### Word Order Flexibility
 

@@ -1,4 +1,3 @@
-
 # Romance Languages
 
 The Romance languages are a group of closely related languages that evolved from Vulgar Latin, the spoken form of Latin used in the Roman Empire. They are part of the Indo-European language family and are spoken by over 800 million people worldwide as first or second languages.

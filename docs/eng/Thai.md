@@ -1,5 +1,3 @@
-Here's a comprehensive text about Thai, following your guidelines:
-
 # Thai
 
 Thai (ภาษาไทย, phāasǎa thai) is the official language of Thailand, spoken by approximately 60 million people. It belongs to the Tai-Kadai language family and is closely related to Lao, Shan, and other languages in Southeast Asia. Thai is a tonal language with a complex orthography that reflects its long literary history.

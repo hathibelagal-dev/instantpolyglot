@@ -1,5 +1,3 @@
-Here's a 4000-word text about Welsh, similar in style and structure to the one provided about Polish:
-
 # Welsh
 
 Welsh (Cymraeg) is a Celtic language spoken by approximately 880,000 people, primarily in Wales, a country that is part of the United Kingdom. It belongs to the Brythonic branch of the Celtic languages, closely related to Cornish and Breton. Welsh has a rich history dating back to the 6th century and has experienced a revival in recent decades, with increasing numbers of speakers and a strong presence in education and media.

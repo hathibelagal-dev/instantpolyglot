@@ -1,5 +1,3 @@
-Here's a comprehensive overview of North Sami, similar in style and structure to the provided text about Polish:
-
 # North Sami
 
 North Sami (Northern Sami, or simply Sami) is a Uralic language spoken by approximately 25,000 people, primarily in the northern parts of Norway, Sweden, and Finland. It is the most widely spoken of the Sami languages, which form a branch of the Uralic language family. North Sami has several dialects, but there is a standardized written form used across national borders.

@@ -1,5 +1,3 @@
-Here's a comprehensive text about Indonesian, similar in style and structure to the one provided about Polish:
-
 # Indonesian
 
 Indonesian, also known as Bahasa Indonesia, is the official language of Indonesia. It is spoken by over 200 million people, making it one of the most widely spoken languages in the world. Indonesian is a standardized form of Malay, which has been used as a lingua franca in the Indonesian archipelago for centuries.

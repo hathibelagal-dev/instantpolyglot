@@ -1,5 +1,3 @@
-Here's a 4000-word text about Icelandic, similar in style to the one provided about Polish:
-
 # Icelandic
 
 Icelandic is a North Germanic language spoken by about 360,000 people, primarily in Iceland. It is closely related to Faroese and Western Norwegian dialects, and more distantly to other Scandinavian languages. Icelandic is known for its conservative nature, having changed relatively little since the medieval period, which allows modern Icelanders to read Old Norse sagas with relative ease.

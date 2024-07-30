@@ -382,7 +382,7 @@ While not as extensive as in some languages, Latvian exhibits a form of vowel ha
 - **zāle** (grass) → **zālīte** (diminutive, little grass)
 - **māja** (house) → **mājiņa** (diminutive, little house)
 
-## Syntax (continued)
+## Syntax
 
 ### Impersonal Constructions
 

@@ -1,5 +1,3 @@
-Here's a comprehensive text about the Macedonian language, following your guidelines:
-
 # Macedonian
 
 Macedonian (македонски јазик, makedonski jazik) is a South Slavic language primarily spoken in North Macedonia and by Macedonian diaspora communities worldwide. It's closely related to Bulgarian and Serbian, sharing many features with these neighboring languages. Macedonian is the official language of North Macedonia and is spoken by approximately 2 million people.

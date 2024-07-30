@@ -1,4 +1,3 @@
-
 # Linguistic Concepts for Language Learners
 
 ## Language Families and Relations

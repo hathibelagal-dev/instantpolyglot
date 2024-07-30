@@ -1,4 +1,3 @@
-
 # Polish
 
 Polish is a West Slavic language spoken by about 40 million people, mostly in Poland. It is closely related to Czech and Slovak, and more distantly to Russian and other Slavic languages. The language is fairly uniform, with only very minor dialectal differences.

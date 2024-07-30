@@ -1,4 +1,3 @@
-
 # Serbo-Croatian
 
 Serbo-Croatian is a South Slavic language spoken primarily in Serbia, Croatia, Bosnia and Herzegovina, and Montenegro. It's often referred to by different names in different countries, such as Serbian, Croatian, Bosnian, or Montenegrin, but linguistically these are considered varieties of the same language. There are about 21 million native speakers.

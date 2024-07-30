@@ -1,5 +1,3 @@
-Here's a detailed overview of the Albanian language, similar in structure to the Polish text you provided:
-
 # Albanian
 
 Albanian (shqip) is an Indo-European language spoken by approximately 7.5 million people, primarily in Albania, Kosovo, and North Macedonia, with significant diaspora communities worldwide. It forms its own branch within the Indo-European language family, having no close relatives. Albanian has two main dialects: Gheg (spoken in northern Albania and Kosovo) and Tosk (spoken in southern Albania), with the standard language based primarily on Tosk.
