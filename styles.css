@@ -22,3 +22,8 @@ h3 {
 .n-languages {
     margin-bottom: 1.2em;
 }
+
+footer {
+    padding: 1.2em;
+    border-top: solid 1px gray;
+}
