@@ -14,6 +14,6 @@ with open("render_template.dat") as template:
         with open(path + file) as f:
             md = f.read()
             rendered = markdown(md)
-            generated_html = template_contents.replace(to_replace, rendered)
+            generated_html = template_contents.replace(to_replace, rendered).replace("#LANGUAGE_NAME#", file.split(".")[0])
             with open(output_file_path, "w") as output_file:
                 output_file.write(generated_html)
