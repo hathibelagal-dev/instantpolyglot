@@ -39,6 +39,10 @@
         "file_html": "dist/Armenian.html",
         "file_md": "docs/eng/Armenian.md"
     },
+    "Aromanian": {
+        "file_html": "dist/Aromanian.html",
+        "file_md": "docs/eng/Aromanian.md"
+    },
     "Assamese": {
         "file_html": "dist/Assamese.html",
         "file_md": "docs/eng/Assamese.md"
@@ -86,6 +90,10 @@
     "Cantonese": {
         "file_html": "dist/Cantonese.html",
         "file_md": "docs/eng/Cantonese.md"
+    },
+    "Cape_Verdean_Creole": {
+        "file_html": "dist/Cape_Verdean_Creole.html",
+        "file_md": "docs/eng/Cape_Verdean_Creole.md"
     },
     "Catalan": {
         "file_html": "dist/Catalan.html",
@@ -142,6 +150,10 @@
     "Elfdalian": {
         "file_html": "dist/Elfdalian.html",
         "file_md": "docs/eng/Elfdalian.md"
+    },
+    "English_Varieties": {
+        "file_html": "dist/English_Varieties.html",
+        "file_md": "docs/eng/English_Varieties.md"
     },
     "Esperanto": {
         "file_html": "dist/Esperanto.html",
@@ -255,6 +267,26 @@
         "file_html": "dist/Ido.html",
         "file_md": "docs/eng/Ido.md"
     },
+    "Igbo": {
+        "file_html": "dist/Igbo.html",
+        "file_md": "docs/eng/Igbo.md"
+    },
+    "Indian_Subcontinent_Linguistic_Area": {
+        "file_html": "dist/Indian_Subcontinent_Linguistic_Area.html",
+        "file_md": "docs/eng/Indian_Subcontinent_Linguistic_Area.md"
+    },
+    "Indigenous_Languages_Of_Central_America": {
+        "file_html": "dist/Indigenous_Languages_Of_Central_America.html",
+        "file_md": "docs/eng/Indigenous_Languages_Of_Central_America.md"
+    },
+    "Indigenous_Languages_Of_North_America": {
+        "file_html": "dist/Indigenous_Languages_Of_North_America.html",
+        "file_md": "docs/eng/Indigenous_Languages_Of_North_America.md"
+    },
+    "Indigenous_Languages_Of_South_America": {
+        "file_html": "dist/Indigenous_Languages_Of_South_America.html",
+        "file_md": "docs/eng/Indigenous_Languages_Of_South_America.md"
+    },
     "Indonesian": {
         "file_html": "dist/Indonesian.html",
         "file_md": "docs/eng/Indonesian.md"
@@ -359,6 +391,10 @@
         "file_html": "dist/Lojban.html",
         "file_md": "docs/eng/Lojban.md"
     },
+    "Louisiana_Creole": {
+        "file_html": "dist/Louisiana_Creole.html",
+        "file_md": "docs/eng/Louisiana_Creole.md"
+    },
     "Low_German": {
         "file_html": "dist/Low_German.html",
         "file_md": "docs/eng/Low_German.md"
@@ -375,6 +411,10 @@
         "file_html": "dist/Macedonian.html",
         "file_md": "docs/eng/Macedonian.md"
     },
+    "Mainland_Southeast_Asia_Linguistic_Area": {
+        "file_html": "dist/Mainland_Southeast_Asia_Linguistic_Area.html",
+        "file_md": "docs/eng/Mainland_Southeast_Asia_Linguistic_Area.md"
+    },
     "Malagasy": {
         "file_html": "dist/Malagasy.html",
         "file_md": "docs/eng/Malagasy.md"
@@ -382,6 +422,10 @@
     "Malay": {
         "file_html": "dist/Malay.html",
         "file_md": "docs/eng/Malay.md"
+    },
+    "Malayalam": {
+        "file_html": "dist/Malayalam.html",
+        "file_md": "docs/eng/Malayalam.md"
     },
     "Maltese": {
         "file_html": "dist/Maltese.html",
@@ -443,6 +487,10 @@
         "file_html": "dist/North_Sami.html",
         "file_md": "docs/eng/North_Sami.md"
     },
+    "Northeast_Asia_Linguistic_Area": {
+        "file_html": "dist/Northeast_Asia_Linguistic_Area.html",
+        "file_md": "docs/eng/Northeast_Asia_Linguistic_Area.md"
+    },
     "Norwegian_Bokm\u00e5l": {
         "file_html": "dist/Norwegian_Bokm\u00e5l.html",
         "file_md": "docs/eng/Norwegian_Bokm\u00e5l.md"
@@ -479,9 +527,17 @@
         "file_html": "dist/Old_Norse.html",
         "file_md": "docs/eng/Old_Norse.md"
     },
+    "Oromo": {
+        "file_html": "dist/Oromo.html",
+        "file_md": "docs/eng/Oromo.md"
+    },
     "Pali": {
         "file_html": "dist/Pali.html",
         "file_md": "docs/eng/Pali.md"
+    },
+    "Papiamento": {
+        "file_html": "dist/Papiamento.html",
+        "file_md": "docs/eng/Papiamento.md"
     },
     "Persian": {
         "file_html": "dist/Persian.html",
@@ -603,6 +659,10 @@
         "file_html": "dist/Spanish.html",
         "file_md": "docs/eng/Spanish.md"
     },
+    "Standard_Average_European": {
+        "file_html": "dist/Standard_Average_European.html",
+        "file_md": "docs/eng/Standard_Average_European.md"
+    },
     "Sundanese": {
         "file_html": "dist/Sundanese.html",
         "file_md": "docs/eng/Sundanese.md"
@@ -662,6 +722,10 @@
     "Tigrinya": {
         "file_html": "dist/Tigrinya.html",
         "file_md": "docs/eng/Tigrinya.md"
+    },
+    "Tok_Pisin": {
+        "file_html": "dist/Tok_Pisin.html",
+        "file_md": "docs/eng/Tok_Pisin.md"
     },
     "Toki_Pona": {
         "file_html": "dist/Toki_Pona.html",
