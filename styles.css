@@ -7,6 +7,10 @@ th, td {
     border: solid 1px;    
 }
 
+th {
+    font-weight: bold;
+}
+
 h3 {
     padding-top: 16px;
 }
