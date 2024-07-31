@@ -114,22 +114,27 @@ Examples:
 
 Plural formation in Irish is complex, with many patterns:
 
-1. Adding -a or -e:
+1. Slenderizing the final consonant:
    **cat** → **cait** (cats)
    **bád** → **báid** (boats)
 
-2. Slenderizing the final consonant:
-   **bord** → **boird** (tables)
+2. Adding -(e)anna:
+   **leabhar** → **leabhanna** (books)
 
-3. Broadening the final consonant:
-   **sráid** → **sráideanna** (streets)
+3. Adding -(a)í:
+   **cailín** → **cailíní** (girls)
 
-4. Adding -anna or -eanna:
-   **leabhar** → **leabhair** (books)
+4. Internal vowel change:
+   **fear** → **fir** (men)
 
 5. Irregular plurals:
-   **bean** → **mná** (women)
    **teach** → **tithe** (houses)
+   **lá** → **laethanta** (days)
+
+6. No change (same form for singular and plural):
+   **caora** → **caora** (sheep)
+
+Irish plurals are complex and there can be exceptions and variations. Some words may have multiple accepted plural forms, and usage can vary by dialect.
 
 #### Case
 

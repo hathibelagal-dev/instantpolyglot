@@ -1,5 +1,3 @@
-Thank you for the feedback. I'll expand on the Arlandic language description to provide more depth and detail. Here's a more comprehensive overview:
-
 # Arlandic
 
 Arlandic is a fictional Indo-European language spoken by approximately 8 million people in the imaginary country of Arland. It forms its own distinct branch of the Indo-European language family, sharing some features with other branches but also possessing unique characteristics. Arlandic has two main dialects: Coastal and Inland, with the Coastal dialect being considered the standard form used in official contexts and media.

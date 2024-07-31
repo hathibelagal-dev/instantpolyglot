@@ -274,11 +274,6 @@ Examples:
 Similar to さえ, but more emphatic.
 
 Examples:
-- **彼は挨拶すらしませんでした。** (Kare wa aisatsu sura shimasendeshita.) - "He didn'tCertainly, I'll continue with the detailed exploration of Japanese particles:
-
-### すら (sura) - Even (More Emphatic) (continued)
-
-Examples:
 - **彼は挨拶すらしませんでした。** (Kare wa aisatsu sura shimasendeshita.) - "He didn't even say hello."
 - **名前すら覚えていません。** (Namae sura oboete imasen.) - "I don't even remember the name."
 
