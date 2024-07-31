@@ -23,7 +23,7 @@ with open("index.html", "w") as f:
         contents = template.read()
         for item in output:
             list_items += f"""
-                <li class="list-group-item"><a href="{output[item]["file_html"]}">{item}</li>
+                <li class="list-group-item"><a href="{output[item]["file_html"]}">{item}</a></li>
             """
         contents = contents.replace("#LANGUAGE_INDEX#", list_items)
         f.write(contents)
