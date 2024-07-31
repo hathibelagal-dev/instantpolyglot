@@ -1,798 +1,798 @@
 {
     "African-American_Vernacular_English": {
-        "file_html": "dist/African-American_Vernacular_English.html",
+        "file_html": "articles/African-American_Vernacular_English.html",
         "file_md": "docs/eng/African-American_Vernacular_English.md"
     },
     "Afrikaans": {
-        "file_html": "dist/Afrikaans.html",
+        "file_html": "articles/Afrikaans.html",
         "file_md": "docs/eng/Afrikaans.md"
     },
     "Akkadian": {
-        "file_html": "dist/Akkadian.html",
+        "file_html": "articles/Akkadian.html",
         "file_md": "docs/eng/Akkadian.md"
     },
     "Albanian": {
-        "file_html": "dist/Albanian.html",
+        "file_html": "articles/Albanian.html",
         "file_md": "docs/eng/Albanian.md"
     },
     "Amharic": {
-        "file_html": "dist/Amharic.html",
+        "file_html": "articles/Amharic.html",
         "file_md": "docs/eng/Amharic.md"
     },
     "Ancient_Greek": {
-        "file_html": "dist/Ancient_Greek.html",
+        "file_html": "articles/Ancient_Greek.html",
         "file_md": "docs/eng/Ancient_Greek.md"
     },
     "Arabic_Varieties": {
-        "file_html": "dist/Arabic_Varieties.html",
+        "file_html": "articles/Arabic_Varieties.html",
         "file_md": "docs/eng/Arabic_Varieties.md"
     },
     "Aramaic": {
-        "file_html": "dist/Aramaic.html",
+        "file_html": "articles/Aramaic.html",
         "file_md": "docs/eng/Aramaic.md"
     },
     "Arlandic": {
-        "file_html": "dist/Arlandic.html",
+        "file_html": "articles/Arlandic.html",
         "file_md": "docs/eng/Arlandic.md"
     },
     "Armenian": {
-        "file_html": "dist/Armenian.html",
+        "file_html": "articles/Armenian.html",
         "file_md": "docs/eng/Armenian.md"
     },
     "Aromanian": {
-        "file_html": "dist/Aromanian.html",
+        "file_html": "articles/Aromanian.html",
         "file_md": "docs/eng/Aromanian.md"
     },
     "Assamese": {
-        "file_html": "dist/Assamese.html",
+        "file_html": "articles/Assamese.html",
         "file_md": "docs/eng/Assamese.md"
     },
     "Azerbaijani": {
-        "file_html": "dist/Azerbaijani.html",
+        "file_html": "articles/Azerbaijani.html",
         "file_md": "docs/eng/Azerbaijani.md"
     },
     "Basque": {
-        "file_html": "dist/Basque.html",
+        "file_html": "articles/Basque.html",
         "file_md": "docs/eng/Basque.md"
     },
     "Bavarian": {
-        "file_html": "dist/Bavarian.html",
+        "file_html": "articles/Bavarian.html",
         "file_md": "docs/eng/Bavarian.md"
     },
     "Belarusian": {
-        "file_html": "dist/Belarusian.html",
+        "file_html": "articles/Belarusian.html",
         "file_md": "docs/eng/Belarusian.md"
     },
     "Bengali": {
-        "file_html": "dist/Bengali.html",
+        "file_html": "articles/Bengali.html",
         "file_md": "docs/eng/Bengali.md"
     },
     "Biblical_Hebrew": {
-        "file_html": "dist/Biblical_Hebrew.html",
+        "file_html": "articles/Biblical_Hebrew.html",
         "file_md": "docs/eng/Biblical_Hebrew.md"
     },
     "Breton": {
-        "file_html": "dist/Breton.html",
+        "file_html": "articles/Breton.html",
         "file_md": "docs/eng/Breton.md"
     },
     "British_Dialects": {
-        "file_html": "dist/British_Dialects.html",
+        "file_html": "articles/British_Dialects.html",
         "file_md": "docs/eng/British_Dialects.md"
     },
     "Bulgarian": {
-        "file_html": "dist/Bulgarian.html",
+        "file_html": "articles/Bulgarian.html",
         "file_md": "docs/eng/Bulgarian.md"
     },
     "Burmese": {
-        "file_html": "dist/Burmese.html",
+        "file_html": "articles/Burmese.html",
         "file_md": "docs/eng/Burmese.md"
     },
     "Cantonese": {
-        "file_html": "dist/Cantonese.html",
+        "file_html": "articles/Cantonese.html",
         "file_md": "docs/eng/Cantonese.md"
     },
     "Cape_Verdean_Creole": {
-        "file_html": "dist/Cape_Verdean_Creole.html",
+        "file_html": "articles/Cape_Verdean_Creole.html",
         "file_md": "docs/eng/Cape_Verdean_Creole.md"
     },
     "Catalan": {
-        "file_html": "dist/Catalan.html",
+        "file_html": "articles/Catalan.html",
         "file_md": "docs/eng/Catalan.md"
     },
     "Cebuano": {
-        "file_html": "dist/Cebuano.html",
+        "file_html": "articles/Cebuano.html",
         "file_md": "docs/eng/Cebuano.md"
     },
     "Chinese": {
-        "file_html": "dist/Chinese.html",
+        "file_html": "articles/Chinese.html",
         "file_md": "docs/eng/Chinese.md"
     },
     "Cornish": {
-        "file_html": "dist/Cornish.html",
+        "file_html": "articles/Cornish.html",
         "file_md": "docs/eng/Cornish.md"
     },
     "Corsican": {
-        "file_html": "dist/Corsican.html",
+        "file_html": "articles/Corsican.html",
         "file_md": "docs/eng/Corsican.md"
     },
     "Cree": {
-        "file_html": "dist/Cree.html",
+        "file_html": "articles/Cree.html",
         "file_md": "docs/eng/Cree.md"
     },
     "Czech": {
-        "file_html": "dist/Czech.html",
+        "file_html": "articles/Czech.html",
         "file_md": "docs/eng/Czech.md"
     },
     "Danish": {
-        "file_html": "dist/Danish.html",
+        "file_html": "articles/Danish.html",
         "file_md": "docs/eng/Danish.md"
     },
     "Dinka": {
-        "file_html": "dist/Dinka.html",
+        "file_html": "articles/Dinka.html",
         "file_md": "docs/eng/Dinka.md"
     },
     "Dutch": {
-        "file_html": "dist/Dutch.html",
+        "file_html": "articles/Dutch.html",
         "file_md": "docs/eng/Dutch.md"
     },
     "Dzongkha": {
-        "file_html": "dist/Dzongkha.html",
+        "file_html": "articles/Dzongkha.html",
         "file_md": "docs/eng/Dzongkha.md"
     },
     "Ecclesiastical_Latin_Varieties": {
-        "file_html": "dist/Ecclesiastical_Latin_Varieties.html",
+        "file_html": "articles/Ecclesiastical_Latin_Varieties.html",
         "file_md": "docs/eng/Ecclesiastical_Latin_Varieties.md"
     },
     "Egyptian_Arabic": {
-        "file_html": "dist/Egyptian_Arabic.html",
+        "file_html": "articles/Egyptian_Arabic.html",
         "file_md": "docs/eng/Egyptian_Arabic.md"
     },
     "Elfdalian": {
-        "file_html": "dist/Elfdalian.html",
+        "file_html": "articles/Elfdalian.html",
         "file_md": "docs/eng/Elfdalian.md"
     },
     "English_Varieties": {
-        "file_html": "dist/English_Varieties.html",
+        "file_html": "articles/English_Varieties.html",
         "file_md": "docs/eng/English_Varieties.md"
     },
     "Esperanto": {
-        "file_html": "dist/Esperanto.html",
+        "file_html": "articles/Esperanto.html",
         "file_md": "docs/eng/Esperanto.md"
     },
     "Estonian": {
-        "file_html": "dist/Estonian.html",
+        "file_html": "articles/Estonian.html",
         "file_md": "docs/eng/Estonian.md"
     },
     "Faroese": {
-        "file_html": "dist/Faroese.html",
+        "file_html": "articles/Faroese.html",
         "file_md": "docs/eng/Faroese.md"
     },
     "Finnish": {
-        "file_html": "dist/Finnish.html",
+        "file_html": "articles/Finnish.html",
         "file_md": "docs/eng/Finnish.md"
     },
     "French": {
-        "file_html": "dist/French.html",
+        "file_html": "articles/French.html",
         "file_md": "docs/eng/French.md"
     },
     "Frisian": {
-        "file_html": "dist/Frisian.html",
+        "file_html": "articles/Frisian.html",
         "file_md": "docs/eng/Frisian.md"
     },
     "Fula": {
-        "file_html": "dist/Fula.html",
+        "file_html": "articles/Fula.html",
         "file_md": "docs/eng/Fula.md"
     },
     "Galician": {
-        "file_html": "dist/Galician.html",
+        "file_html": "articles/Galician.html",
         "file_md": "docs/eng/Galician.md"
     },
     "Georgian": {
-        "file_html": "dist/Georgian.html",
+        "file_html": "articles/Georgian.html",
         "file_md": "docs/eng/Georgian.md"
     },
     "German": {
-        "file_html": "dist/German.html",
+        "file_html": "articles/German.html",
         "file_md": "docs/eng/German.md"
     },
     "German_Dialects": {
-        "file_html": "dist/German_Dialects.html",
+        "file_html": "articles/German_Dialects.html",
         "file_md": "docs/eng/German_Dialects.md"
     },
     "Gothic": {
-        "file_html": "dist/Gothic.html",
+        "file_html": "articles/Gothic.html",
         "file_md": "docs/eng/Gothic.md"
     },
     "Greek": {
-        "file_html": "dist/Greek.html",
+        "file_html": "articles/Greek.html",
         "file_md": "docs/eng/Greek.md"
     },
     "Greenlandic": {
-        "file_html": "dist/Greenlandic.html",
+        "file_html": "articles/Greenlandic.html",
         "file_md": "docs/eng/Greenlandic.md"
     },
     "Guarani": {
-        "file_html": "dist/Guarani.html",
+        "file_html": "articles/Guarani.html",
         "file_md": "docs/eng/Guarani.md"
     },
     "Gujarati": {
-        "file_html": "dist/Gujarati.html",
+        "file_html": "articles/Gujarati.html",
         "file_md": "docs/eng/Gujarati.md"
     },
     "Haitian_Creole": {
-        "file_html": "dist/Haitian_Creole.html",
+        "file_html": "articles/Haitian_Creole.html",
         "file_md": "docs/eng/Haitian_Creole.md"
     },
     "Hausa": {
-        "file_html": "dist/Hausa.html",
+        "file_html": "articles/Hausa.html",
         "file_md": "docs/eng/Hausa.md"
     },
     "Hawaiian": {
-        "file_html": "dist/Hawaiian.html",
+        "file_html": "articles/Hawaiian.html",
         "file_md": "docs/eng/Hawaiian.md"
     },
     "Hindi": {
-        "file_html": "dist/Hindi.html",
+        "file_html": "articles/Hindi.html",
         "file_md": "docs/eng/Hindi.md"
     },
     "Historical_Dravidian_Linguistics": {
-        "file_html": "dist/Historical_Dravidian_Linguistics.html",
+        "file_html": "articles/Historical_Dravidian_Linguistics.html",
         "file_md": "docs/eng/Historical_Dravidian_Linguistics.md"
     },
     "Historical_Germanic_Linguistics": {
-        "file_html": "dist/Historical_Germanic_Linguistics.html",
+        "file_html": "articles/Historical_Germanic_Linguistics.html",
         "file_md": "docs/eng/Historical_Germanic_Linguistics.md"
     },
     "Historical_Indo-Aryan_Linguistics": {
-        "file_html": "dist/Historical_Indo-Aryan_Linguistics.html",
+        "file_html": "articles/Historical_Indo-Aryan_Linguistics.html",
         "file_md": "docs/eng/Historical_Indo-Aryan_Linguistics.md"
     },
     "Historical_Indo-European_Linguistics": {
-        "file_html": "dist/Historical_Indo-European_Linguistics.html",
+        "file_html": "articles/Historical_Indo-European_Linguistics.html",
         "file_md": "docs/eng/Historical_Indo-European_Linguistics.md"
     },
     "Hungarian": {
-        "file_html": "dist/Hungarian.html",
+        "file_html": "articles/Hungarian.html",
         "file_md": "docs/eng/Hungarian.md"
     },
     "IPA": {
-        "file_html": "dist/IPA.html",
+        "file_html": "articles/IPA.html",
         "file_md": "docs/eng/IPA.md"
     },
     "Icelandic": {
-        "file_html": "dist/Icelandic.html",
+        "file_html": "articles/Icelandic.html",
         "file_md": "docs/eng/Icelandic.md"
     },
     "Ido": {
-        "file_html": "dist/Ido.html",
+        "file_html": "articles/Ido.html",
         "file_md": "docs/eng/Ido.md"
     },
     "Igbo": {
-        "file_html": "dist/Igbo.html",
+        "file_html": "articles/Igbo.html",
         "file_md": "docs/eng/Igbo.md"
     },
     "Indian_Subcontinent_Linguistic_Area": {
-        "file_html": "dist/Indian_Subcontinent_Linguistic_Area.html",
+        "file_html": "articles/Indian_Subcontinent_Linguistic_Area.html",
         "file_md": "docs/eng/Indian_Subcontinent_Linguistic_Area.md"
     },
     "Indigenous_Languages_Of_Central_America": {
-        "file_html": "dist/Indigenous_Languages_Of_Central_America.html",
+        "file_html": "articles/Indigenous_Languages_Of_Central_America.html",
         "file_md": "docs/eng/Indigenous_Languages_Of_Central_America.md"
     },
     "Indigenous_Languages_Of_North_America": {
-        "file_html": "dist/Indigenous_Languages_Of_North_America.html",
+        "file_html": "articles/Indigenous_Languages_Of_North_America.html",
         "file_md": "docs/eng/Indigenous_Languages_Of_North_America.md"
     },
     "Indigenous_Languages_Of_South_America": {
-        "file_html": "dist/Indigenous_Languages_Of_South_America.html",
+        "file_html": "articles/Indigenous_Languages_Of_South_America.html",
         "file_md": "docs/eng/Indigenous_Languages_Of_South_America.md"
     },
     "Indonesian": {
-        "file_html": "dist/Indonesian.html",
+        "file_html": "articles/Indonesian.html",
         "file_md": "docs/eng/Indonesian.md"
     },
     "Interlingua": {
-        "file_html": "dist/Interlingua.html",
+        "file_html": "articles/Interlingua.html",
         "file_md": "docs/eng/Interlingua.md"
     },
     "Interslavic": {
-        "file_html": "dist/Interslavic.html",
+        "file_html": "articles/Interslavic.html",
         "file_md": "docs/eng/Interslavic.md"
     },
     "Irish": {
-        "file_html": "dist/Irish.html",
+        "file_html": "articles/Irish.html",
         "file_md": "docs/eng/Irish.md"
     },
     "Italian": {
-        "file_html": "dist/Italian.html",
+        "file_html": "articles/Italian.html",
         "file_md": "docs/eng/Italian.md"
     },
     "Jamaican_Patois": {
-        "file_html": "dist/Jamaican_Patois.html",
+        "file_html": "articles/Jamaican_Patois.html",
         "file_md": "docs/eng/Jamaican_Patois.md"
     },
     "Japanese": {
-        "file_html": "dist/Japanese.html",
+        "file_html": "articles/Japanese.html",
         "file_md": "docs/eng/Japanese.md"
     },
     "Japanese_Particles": {
-        "file_html": "dist/Japanese_Particles.html",
+        "file_html": "articles/Japanese_Particles.html",
         "file_md": "docs/eng/Japanese_Particles.md"
     },
     "Javanese": {
-        "file_html": "dist/Javanese.html",
+        "file_html": "articles/Javanese.html",
         "file_md": "docs/eng/Javanese.md"
     },
     "Kannada": {
-        "file_html": "dist/Kannada.html",
+        "file_html": "articles/Kannada.html",
         "file_md": "docs/eng/Kannada.md"
     },
     "Kashmiri": {
-        "file_html": "dist/Kashmiri.html",
+        "file_html": "articles/Kashmiri.html",
         "file_md": "docs/eng/Kashmiri.md"
     },
     "Kashubian": {
-        "file_html": "dist/Kashubian.html",
+        "file_html": "articles/Kashubian.html",
         "file_md": "docs/eng/Kashubian.md"
     },
     "Kazakh": {
-        "file_html": "dist/Kazakh.html",
+        "file_html": "articles/Kazakh.html",
         "file_md": "docs/eng/Kazakh.md"
     },
     "Khmer": {
-        "file_html": "dist/Khmer.html",
+        "file_html": "articles/Khmer.html",
         "file_md": "docs/eng/Khmer.md"
     },
     "Konkani": {
-        "file_html": "dist/Konkani.html",
+        "file_html": "articles/Konkani.html",
         "file_md": "docs/eng/Konkani.md"
     },
     "Korean": {
-        "file_html": "dist/Korean.html",
+        "file_html": "articles/Korean.html",
         "file_md": "docs/eng/Korean.md"
     },
     "Kurdish": {
-        "file_html": "dist/Kurdish.html",
+        "file_html": "articles/Kurdish.html",
         "file_md": "docs/eng/Kurdish.md"
     },
     "Kyrgyz": {
-        "file_html": "dist/Kyrgyz.html",
+        "file_html": "articles/Kyrgyz.html",
         "file_md": "docs/eng/Kyrgyz.md"
     },
     "Lao": {
-        "file_html": "dist/Lao.html",
+        "file_html": "articles/Lao.html",
         "file_md": "docs/eng/Lao.md"
     },
     "Latin": {
-        "file_html": "dist/Latin.html",
+        "file_html": "articles/Latin.html",
         "file_md": "docs/eng/Latin.md"
     },
     "Latvian": {
-        "file_html": "dist/Latvian.html",
+        "file_html": "articles/Latvian.html",
         "file_md": "docs/eng/Latvian.md"
     },
     "Levantine_Arabic": {
-        "file_html": "dist/Levantine_Arabic.html",
+        "file_html": "articles/Levantine_Arabic.html",
         "file_md": "docs/eng/Levantine_Arabic.md"
     },
     "Lingala": {
-        "file_html": "dist/Lingala.html",
+        "file_html": "articles/Lingala.html",
         "file_md": "docs/eng/Lingala.md"
     },
     "Linguistics": {
-        "file_html": "dist/Linguistics.html",
+        "file_html": "articles/Linguistics.html",
         "file_md": "docs/eng/Linguistics.md"
     },
     "Lithuanian": {
-        "file_html": "dist/Lithuanian.html",
+        "file_html": "articles/Lithuanian.html",
         "file_md": "docs/eng/Lithuanian.md"
     },
     "Lojban": {
-        "file_html": "dist/Lojban.html",
+        "file_html": "articles/Lojban.html",
         "file_md": "docs/eng/Lojban.md"
     },
     "Louisiana_Creole": {
-        "file_html": "dist/Louisiana_Creole.html",
+        "file_html": "articles/Louisiana_Creole.html",
         "file_md": "docs/eng/Louisiana_Creole.md"
     },
     "Low_German": {
-        "file_html": "dist/Low_German.html",
+        "file_html": "articles/Low_German.html",
         "file_md": "docs/eng/Low_German.md"
     },
     "Lower_Sorbian": {
-        "file_html": "dist/Lower_Sorbian.html",
+        "file_html": "articles/Lower_Sorbian.html",
         "file_md": "docs/eng/Lower_Sorbian.md"
     },
     "Luxembourgish": {
-        "file_html": "dist/Luxembourgish.html",
+        "file_html": "articles/Luxembourgish.html",
         "file_md": "docs/eng/Luxembourgish.md"
     },
     "Macedonian": {
-        "file_html": "dist/Macedonian.html",
+        "file_html": "articles/Macedonian.html",
         "file_md": "docs/eng/Macedonian.md"
     },
     "Mainland_Southeast_Asia_Linguistic_Area": {
-        "file_html": "dist/Mainland_Southeast_Asia_Linguistic_Area.html",
+        "file_html": "articles/Mainland_Southeast_Asia_Linguistic_Area.html",
         "file_md": "docs/eng/Mainland_Southeast_Asia_Linguistic_Area.md"
     },
     "Malagasy": {
-        "file_html": "dist/Malagasy.html",
+        "file_html": "articles/Malagasy.html",
         "file_md": "docs/eng/Malagasy.md"
     },
     "Malay": {
-        "file_html": "dist/Malay.html",
+        "file_html": "articles/Malay.html",
         "file_md": "docs/eng/Malay.md"
     },
     "Malayalam": {
-        "file_html": "dist/Malayalam.html",
+        "file_html": "articles/Malayalam.html",
         "file_md": "docs/eng/Malayalam.md"
     },
     "Maltese": {
-        "file_html": "dist/Maltese.html",
+        "file_html": "articles/Maltese.html",
         "file_md": "docs/eng/Maltese.md"
     },
     "Manx": {
-        "file_html": "dist/Manx.html",
+        "file_html": "articles/Manx.html",
         "file_md": "docs/eng/Manx.md"
     },
     "Maori": {
-        "file_html": "dist/Maori.html",
+        "file_html": "articles/Maori.html",
         "file_md": "docs/eng/Maori.md"
     },
     "Marathi": {
-        "file_html": "dist/Marathi.html",
+        "file_html": "articles/Marathi.html",
         "file_md": "docs/eng/Marathi.md"
     },
     "Modern_Hebrew": {
-        "file_html": "dist/Modern_Hebrew.html",
+        "file_html": "articles/Modern_Hebrew.html",
         "file_md": "docs/eng/Modern_Hebrew.md"
     },
     "Modern_Standard_Arabic": {
-        "file_html": "dist/Modern_Standard_Arabic.html",
+        "file_html": "articles/Modern_Standard_Arabic.html",
         "file_md": "docs/eng/Modern_Standard_Arabic.md"
     },
     "Mongolian": {
-        "file_html": "dist/Mongolian.html",
+        "file_html": "articles/Mongolian.html",
         "file_md": "docs/eng/Mongolian.md"
     },
     "Moroccan Arabic": {
-        "file_html": "dist/Moroccan Arabic.html",
+        "file_html": "articles/Moroccan Arabic.html",
         "file_md": "docs/eng/Moroccan Arabic.md"
     },
     "Nahuatl": {
-        "file_html": "dist/Nahuatl.html",
+        "file_html": "articles/Nahuatl.html",
         "file_md": "docs/eng/Nahuatl.md"
     },
     "Navajo": {
-        "file_html": "dist/Navajo.html",
+        "file_html": "articles/Navajo.html",
         "file_md": "docs/eng/Navajo.md"
     },
     "Neo-Aramaic": {
-        "file_html": "dist/Neo-Aramaic.html",
+        "file_html": "articles/Neo-Aramaic.html",
         "file_md": "docs/eng/Neo-Aramaic.md"
     },
     "Nepali": {
-        "file_html": "dist/Nepali.html",
+        "file_html": "articles/Nepali.html",
         "file_md": "docs/eng/Nepali.md"
     },
     "Nigerian_Pidgin": {
-        "file_html": "dist/Nigerian_Pidgin.html",
+        "file_html": "articles/Nigerian_Pidgin.html",
         "file_md": "docs/eng/Nigerian_Pidgin.md"
     },
     "North_Korean": {
-        "file_html": "dist/North_Korean.html",
+        "file_html": "articles/North_Korean.html",
         "file_md": "docs/eng/North_Korean.md"
     },
     "North_Sami": {
-        "file_html": "dist/North_Sami.html",
+        "file_html": "articles/North_Sami.html",
         "file_md": "docs/eng/North_Sami.md"
     },
     "Northeast_Asia_Linguistic_Area": {
-        "file_html": "dist/Northeast_Asia_Linguistic_Area.html",
+        "file_html": "articles/Northeast_Asia_Linguistic_Area.html",
         "file_md": "docs/eng/Northeast_Asia_Linguistic_Area.md"
     },
     "Norwegian_Bokm\u00e5l": {
-        "file_html": "dist/Norwegian_Bokm\u00e5l.html",
+        "file_html": "articles/Norwegian_Bokm\u00e5l.html",
         "file_md": "docs/eng/Norwegian_Bokm\u00e5l.md"
     },
     "Norwegian_Nynorsk": {
-        "file_html": "dist/Norwegian_Nynorsk.html",
+        "file_html": "articles/Norwegian_Nynorsk.html",
         "file_md": "docs/eng/Norwegian_Nynorsk.md"
     },
     "Occitan": {
-        "file_html": "dist/Occitan.html",
+        "file_html": "articles/Occitan.html",
         "file_md": "docs/eng/Occitan.md"
     },
     "Odia": {
-        "file_html": "dist/Odia.html",
+        "file_html": "articles/Odia.html",
         "file_md": "docs/eng/Odia.md"
     },
     "Old_Chinese": {
-        "file_html": "dist/Old_Chinese.html",
+        "file_html": "articles/Old_Chinese.html",
         "file_md": "docs/eng/Old_Chinese.md"
     },
     "Old_Church_Slavonic": {
-        "file_html": "dist/Old_Church_Slavonic.html",
+        "file_html": "articles/Old_Church_Slavonic.html",
         "file_md": "docs/eng/Old_Church_Slavonic.md"
     },
     "Old_English": {
-        "file_html": "dist/Old_English.html",
+        "file_html": "articles/Old_English.html",
         "file_md": "docs/eng/Old_English.md"
     },
     "Old_Latin": {
-        "file_html": "dist/Old_Latin.html",
+        "file_html": "articles/Old_Latin.html",
         "file_md": "docs/eng/Old_Latin.md"
     },
     "Old_Norse": {
-        "file_html": "dist/Old_Norse.html",
+        "file_html": "articles/Old_Norse.html",
         "file_md": "docs/eng/Old_Norse.md"
     },
     "Oromo": {
-        "file_html": "dist/Oromo.html",
+        "file_html": "articles/Oromo.html",
         "file_md": "docs/eng/Oromo.md"
     },
     "Pali": {
-        "file_html": "dist/Pali.html",
+        "file_html": "articles/Pali.html",
         "file_md": "docs/eng/Pali.md"
     },
     "Papiamento": {
-        "file_html": "dist/Papiamento.html",
+        "file_html": "articles/Papiamento.html",
         "file_md": "docs/eng/Papiamento.md"
     },
     "Persian": {
-        "file_html": "dist/Persian.html",
+        "file_html": "articles/Persian.html",
         "file_md": "docs/eng/Persian.md"
     },
     "Polish": {
-        "file_html": "dist/Polish.html",
+        "file_html": "articles/Polish.html",
         "file_md": "docs/eng/Polish.md"
     },
     "Portuguese": {
-        "file_html": "dist/Portuguese.html",
+        "file_html": "articles/Portuguese.html",
         "file_md": "docs/eng/Portuguese.md"
     },
     "Proto-Indo-European": {
-        "file_html": "dist/Proto-Indo-European.html",
+        "file_html": "articles/Proto-Indo-European.html",
         "file_md": "docs/eng/Proto-Indo-European.md"
     },
     "Proto-Norse": {
-        "file_html": "dist/Proto-Norse.html",
+        "file_html": "articles/Proto-Norse.html",
         "file_md": "docs/eng/Proto-Norse.md"
     },
     "Proto-Slavic": {
-        "file_html": "dist/Proto-Slavic.html",
+        "file_html": "articles/Proto-Slavic.html",
         "file_md": "docs/eng/Proto-Slavic.md"
     },
     "Punjabi": {
-        "file_html": "dist/Punjabi.html",
+        "file_html": "articles/Punjabi.html",
         "file_md": "docs/eng/Punjabi.md"
     },
     "Quechua": {
-        "file_html": "dist/Quechua.html",
+        "file_html": "articles/Quechua.html",
         "file_md": "docs/eng/Quechua.md"
     },
     "Romance_languages": {
-        "file_html": "dist/Romance_languages.html",
+        "file_html": "articles/Romance_languages.html",
         "file_md": "docs/eng/Romance_languages.md"
     },
     "Romani": {
-        "file_html": "dist/Romani.html",
+        "file_html": "articles/Romani.html",
         "file_md": "docs/eng/Romani.md"
     },
     "Romanian": {
-        "file_html": "dist/Romanian.html",
+        "file_html": "articles/Romanian.html",
         "file_md": "docs/eng/Romanian.md"
     },
     "Romansh": {
-        "file_html": "dist/Romansh.html",
+        "file_html": "articles/Romansh.html",
         "file_md": "docs/eng/Romansh.md"
     },
     "Russian": {
-        "file_html": "dist/Russian.html",
+        "file_html": "articles/Russian.html",
         "file_md": "docs/eng/Russian.md"
     },
     "Rusyn": {
-        "file_html": "dist/Rusyn.html",
+        "file_html": "articles/Rusyn.html",
         "file_md": "docs/eng/Rusyn.md"
     },
     "Sanskrit": {
-        "file_html": "dist/Sanskrit.html",
+        "file_html": "articles/Sanskrit.html",
         "file_md": "docs/eng/Sanskrit.md"
     },
     "Santali": {
-        "file_html": "dist/Santali.html",
+        "file_html": "articles/Santali.html",
         "file_md": "docs/eng/Santali.md"
     },
     "Scandoromani": {
-        "file_html": "dist/Scandoromani.html",
+        "file_html": "articles/Scandoromani.html",
         "file_md": "docs/eng/Scandoromani.md"
     },
     "Scots": {
-        "file_html": "dist/Scots.html",
+        "file_html": "articles/Scots.html",
         "file_md": "docs/eng/Scots.md"
     },
     "Scottish_Gaelic": {
-        "file_html": "dist/Scottish_Gaelic.html",
+        "file_html": "articles/Scottish_Gaelic.html",
         "file_md": "docs/eng/Scottish_Gaelic.md"
     },
     "Serbo-Croatian": {
-        "file_html": "dist/Serbo-Croatian.html",
+        "file_html": "articles/Serbo-Croatian.html",
         "file_md": "docs/eng/Serbo-Croatian.md"
     },
     "Shanghainese": {
-        "file_html": "dist/Shanghainese.html",
+        "file_html": "articles/Shanghainese.html",
         "file_md": "docs/eng/Shanghainese.md"
     },
     "Sicilian": {
-        "file_html": "dist/Sicilian.html",
+        "file_html": "articles/Sicilian.html",
         "file_md": "docs/eng/Sicilian.md"
     },
     "Silesian": {
-        "file_html": "dist/Silesian.html",
+        "file_html": "articles/Silesian.html",
         "file_md": "docs/eng/Silesian.md"
     },
     "Sindhi": {
-        "file_html": "dist/Sindhi.html",
+        "file_html": "articles/Sindhi.html",
         "file_md": "docs/eng/Sindhi.md"
     },
     "Sinhala": {
-        "file_html": "dist/Sinhala.html",
+        "file_html": "articles/Sinhala.html",
         "file_md": "docs/eng/Sinhala.md"
     },
     "Slovak": {
-        "file_html": "dist/Slovak.html",
+        "file_html": "articles/Slovak.html",
         "file_md": "docs/eng/Slovak.md"
     },
     "Slovenian": {
-        "file_html": "dist/Slovenian.html",
+        "file_html": "articles/Slovenian.html",
         "file_md": "docs/eng/Slovenian.md"
     },
     "Somali": {
-        "file_html": "dist/Somali.html",
+        "file_html": "articles/Somali.html",
         "file_md": "docs/eng/Somali.md"
     },
     "South_Sami": {
-        "file_html": "dist/South_Sami.html",
+        "file_html": "articles/South_Sami.html",
         "file_md": "docs/eng/South_Sami.md"
     },
     "Spanish": {
-        "file_html": "dist/Spanish.html",
+        "file_html": "articles/Spanish.html",
         "file_md": "docs/eng/Spanish.md"
     },
     "Standard_Average_European": {
-        "file_html": "dist/Standard_Average_European.html",
+        "file_html": "articles/Standard_Average_European.html",
         "file_md": "docs/eng/Standard_Average_European.md"
     },
     "Sundanese": {
-        "file_html": "dist/Sundanese.html",
+        "file_html": "articles/Sundanese.html",
         "file_md": "docs/eng/Sundanese.md"
     },
     "Surzhyk": {
-        "file_html": "dist/Surzhyk.html",
+        "file_html": "articles/Surzhyk.html",
         "file_md": "docs/eng/Surzhyk.md"
     },
     "Swahili": {
-        "file_html": "dist/Swahili.html",
+        "file_html": "articles/Swahili.html",
         "file_md": "docs/eng/Swahili.md"
     },
     "Swedish": {
-        "file_html": "dist/Swedish.html",
+        "file_html": "articles/Swedish.html",
         "file_md": "docs/eng/Swedish.md"
     },
     "Swiss_German": {
-        "file_html": "dist/Swiss_German.html",
+        "file_html": "articles/Swiss_German.html",
         "file_md": "docs/eng/Swiss_German.md"
     },
     "Taa": {
-        "file_html": "dist/Taa.html",
+        "file_html": "articles/Taa.html",
         "file_md": "docs/eng/Taa.md"
     },
     "Tagalog": {
-        "file_html": "dist/Tagalog.html",
+        "file_html": "articles/Tagalog.html",
         "file_md": "docs/eng/Tagalog.md"
     },
     "Tajik": {
-        "file_html": "dist/Tajik.html",
+        "file_html": "articles/Tajik.html",
         "file_md": "docs/eng/Tajik.md"
     },
     "Tamazight": {
-        "file_html": "dist/Tamazight.html",
+        "file_html": "articles/Tamazight.html",
         "file_md": "docs/eng/Tamazight.md"
     },
     "Tamil": {
-        "file_html": "dist/Tamil.html",
+        "file_html": "articles/Tamil.html",
         "file_md": "docs/eng/Tamil.md"
     },
     "Telugu": {
-        "file_html": "dist/Telugu.html",
+        "file_html": "articles/Telugu.html",
         "file_md": "docs/eng/Telugu.md"
     },
     "Thai": {
-        "file_html": "dist/Thai.html",
+        "file_html": "articles/Thai.html",
         "file_md": "docs/eng/Thai.md"
     },
     "The_Balkan_Sprachbund": {
-        "file_html": "dist/The_Balkan_Sprachbund.html",
+        "file_html": "articles/The_Balkan_Sprachbund.html",
         "file_md": "docs/eng/The_Balkan_Sprachbund.md"
     },
     "Tibetan": {
-        "file_html": "dist/Tibetan.html",
+        "file_html": "articles/Tibetan.html",
         "file_md": "docs/eng/Tibetan.md"
     },
     "Tigrinya": {
-        "file_html": "dist/Tigrinya.html",
+        "file_html": "articles/Tigrinya.html",
         "file_md": "docs/eng/Tigrinya.md"
     },
     "Tok_Pisin": {
-        "file_html": "dist/Tok_Pisin.html",
+        "file_html": "articles/Tok_Pisin.html",
         "file_md": "docs/eng/Tok_Pisin.md"
     },
     "Toki_Pona": {
-        "file_html": "dist/Toki_Pona.html",
+        "file_html": "articles/Toki_Pona.html",
         "file_md": "docs/eng/Toki_Pona.md"
     },
     "Turkic_Languages": {
-        "file_html": "dist/Turkic_Languages.html",
+        "file_html": "articles/Turkic_Languages.html",
         "file_md": "docs/eng/Turkic_Languages.md"
     },
     "Turkish": {
-        "file_html": "dist/Turkish.html",
+        "file_html": "articles/Turkish.html",
         "file_md": "docs/eng/Turkish.md"
     },
     "Turkmen": {
-        "file_html": "dist/Turkmen.html",
+        "file_html": "articles/Turkmen.html",
         "file_md": "docs/eng/Turkmen.md"
     },
     "Ukrainian": {
-        "file_html": "dist/Ukrainian.html",
+        "file_html": "articles/Ukrainian.html",
         "file_md": "docs/eng/Ukrainian.md"
     },
     "Upper_Sorbian": {
-        "file_html": "dist/Upper_Sorbian.html",
+        "file_html": "articles/Upper_Sorbian.html",
         "file_md": "docs/eng/Upper_Sorbian.md"
     },
     "Uralic_languages": {
-        "file_html": "dist/Uralic_languages.html",
+        "file_html": "articles/Uralic_languages.html",
         "file_md": "docs/eng/Uralic_languages.md"
     },
     "Urdu": {
-        "file_html": "dist/Urdu.html",
+        "file_html": "articles/Urdu.html",
         "file_md": "docs/eng/Urdu.md"
     },
     "Vietnamese": {
-        "file_html": "dist/Vietnamese.html",
+        "file_html": "articles/Vietnamese.html",
         "file_md": "docs/eng/Vietnamese.md"
     },
     "Volap\u00fck": {
-        "file_html": "dist/Volap\u00fck.html",
+        "file_html": "articles/Volap\u00fck.html",
         "file_md": "docs/eng/Volap\u00fck.md"
     },
     "Vulgar_Latin": {
-        "file_html": "dist/Vulgar_Latin.html",
+        "file_html": "articles/Vulgar_Latin.html",
         "file_md": "docs/eng/Vulgar_Latin.md"
     },
     "Welsh": {
-        "file_html": "dist/Welsh.html",
+        "file_html": "articles/Welsh.html",
         "file_md": "docs/eng/Welsh.md"
     },
     "Wolof": {
-        "file_html": "dist/Wolof.html",
+        "file_html": "articles/Wolof.html",
         "file_md": "docs/eng/Wolof.md"
     },
     "Xhosa": {
-        "file_html": "dist/Xhosa.html",
+        "file_html": "articles/Xhosa.html",
         "file_md": "docs/eng/Xhosa.md"
     },
     "Yiddish": {
-        "file_html": "dist/Yiddish.html",
+        "file_html": "articles/Yiddish.html",
         "file_md": "docs/eng/Yiddish.md"
     },
     "Yoruba": {
-        "file_html": "dist/Yoruba.html",
+        "file_html": "articles/Yoruba.html",
         "file_md": "docs/eng/Yoruba.md"
     },
     "Zulu": {
-        "file_html": "dist/Zulu.html",
+        "file_html": "articles/Zulu.html",
         "file_md": "docs/eng/Zulu.md"
     }
 }

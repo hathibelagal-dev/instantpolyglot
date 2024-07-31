@@ -1,5 +1,8 @@
 import os
 import json
+from transformers import pipeline
+
+pipe = pipeline("text-generation", model="microsoft/Phi-3-mini-128k-instruct")
 
 path = "docs/eng/"
 files = os.listdir(path)
@@ -9,7 +12,7 @@ output = {}
 for file in files:
     language_name = file.split(".")[0]
     output[language_name] = {
-        "file_html" : "dist/" + language_name + ".html",
+        "file_html" : "articles/" + language_name + ".html",
         "file_md" : path + file
     }
 
