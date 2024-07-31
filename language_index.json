@@ -27,6 +27,10 @@
         "file_html": "dist/Arabic_Varieties.html",
         "file_md": "docs/eng/Arabic_Varieties.md"
     },
+    "Aramaic": {
+        "file_html": "dist/Aramaic.html",
+        "file_md": "docs/eng/Aramaic.md"
+    },
     "Arlandic": {
         "file_html": "dist/Arlandic.html",
         "file_md": "docs/eng/Arlandic.md"
@@ -35,6 +39,10 @@
         "file_html": "dist/Armenian.html",
         "file_md": "docs/eng/Armenian.md"
     },
+    "Assamese": {
+        "file_html": "dist/Assamese.html",
+        "file_md": "docs/eng/Assamese.md"
+    },
     "Azerbaijani": {
         "file_html": "dist/Azerbaijani.html",
         "file_md": "docs/eng/Azerbaijani.md"
@@ -42,6 +50,10 @@
     "Basque": {
         "file_html": "dist/Basque.html",
         "file_md": "docs/eng/Basque.md"
+    },
+    "Bavarian": {
+        "file_html": "dist/Bavarian.html",
+        "file_md": "docs/eng/Bavarian.md"
     },
     "Belarusian": {
         "file_html": "dist/Belarusian.html",
@@ -87,6 +99,14 @@
         "file_html": "dist/Chinese.html",
         "file_md": "docs/eng/Chinese.md"
     },
+    "Cornish": {
+        "file_html": "dist/Cornish.html",
+        "file_md": "docs/eng/Cornish.md"
+    },
+    "Corsican": {
+        "file_html": "dist/Corsican.html",
+        "file_md": "docs/eng/Corsican.md"
+    },
     "Cree": {
         "file_html": "dist/Cree.html",
         "file_md": "docs/eng/Cree.md"
@@ -98,6 +118,10 @@
     "Danish": {
         "file_html": "dist/Danish.html",
         "file_md": "docs/eng/Danish.md"
+    },
+    "Dinka": {
+        "file_html": "dist/Dinka.html",
+        "file_md": "docs/eng/Dinka.md"
     },
     "Dutch": {
         "file_html": "dist/Dutch.html",
@@ -119,6 +143,10 @@
         "file_html": "dist/Elfdalian.html",
         "file_md": "docs/eng/Elfdalian.md"
     },
+    "Esperanto": {
+        "file_html": "dist/Esperanto.html",
+        "file_md": "docs/eng/Esperanto.md"
+    },
     "Estonian": {
         "file_html": "dist/Estonian.html",
         "file_md": "docs/eng/Estonian.md"
@@ -138,6 +166,14 @@
     "Frisian": {
         "file_html": "dist/Frisian.html",
         "file_md": "docs/eng/Frisian.md"
+    },
+    "Fula": {
+        "file_html": "dist/Fula.html",
+        "file_md": "docs/eng/Fula.md"
+    },
+    "Galician": {
+        "file_html": "dist/Galician.html",
+        "file_md": "docs/eng/Galician.md"
     },
     "Georgian": {
         "file_html": "dist/Georgian.html",
@@ -215,9 +251,21 @@
         "file_html": "dist/Icelandic.html",
         "file_md": "docs/eng/Icelandic.md"
     },
+    "Ido": {
+        "file_html": "dist/Ido.html",
+        "file_md": "docs/eng/Ido.md"
+    },
     "Indonesian": {
         "file_html": "dist/Indonesian.html",
         "file_md": "docs/eng/Indonesian.md"
+    },
+    "Interlingua": {
+        "file_html": "dist/Interlingua.html",
+        "file_md": "docs/eng/Interlingua.md"
+    },
+    "Interslavic": {
+        "file_html": "dist/Interslavic.html",
+        "file_md": "docs/eng/Interslavic.md"
     },
     "Irish": {
         "file_html": "dist/Irish.html",
@@ -247,6 +295,14 @@
         "file_html": "dist/Kannada.html",
         "file_md": "docs/eng/Kannada.md"
     },
+    "Kashmiri": {
+        "file_html": "dist/Kashmiri.html",
+        "file_md": "docs/eng/Kashmiri.md"
+    },
+    "Kashubian": {
+        "file_html": "dist/Kashubian.html",
+        "file_md": "docs/eng/Kashubian.md"
+    },
     "Kazakh": {
         "file_html": "dist/Kazakh.html",
         "file_md": "docs/eng/Kazakh.md"
@@ -254,6 +310,10 @@
     "Khmer": {
         "file_html": "dist/Khmer.html",
         "file_md": "docs/eng/Khmer.md"
+    },
+    "Konkani": {
+        "file_html": "dist/Konkani.html",
+        "file_md": "docs/eng/Konkani.md"
     },
     "Korean": {
         "file_html": "dist/Korean.html",
@@ -283,6 +343,10 @@
         "file_html": "dist/Levantine_Arabic.html",
         "file_md": "docs/eng/Levantine_Arabic.md"
     },
+    "Lingala": {
+        "file_html": "dist/Lingala.html",
+        "file_md": "docs/eng/Lingala.md"
+    },
     "Linguistics": {
         "file_html": "dist/Linguistics.html",
         "file_md": "docs/eng/Linguistics.md"
@@ -291,9 +355,21 @@
         "file_html": "dist/Lithuanian.html",
         "file_md": "docs/eng/Lithuanian.md"
     },
+    "Lojban": {
+        "file_html": "dist/Lojban.html",
+        "file_md": "docs/eng/Lojban.md"
+    },
     "Low_German": {
         "file_html": "dist/Low_German.html",
         "file_md": "docs/eng/Low_German.md"
+    },
+    "Lower_Sorbian": {
+        "file_html": "dist/Lower_Sorbian.html",
+        "file_md": "docs/eng/Lower_Sorbian.md"
+    },
+    "Luxembourgish": {
+        "file_html": "dist/Luxembourgish.html",
+        "file_md": "docs/eng/Luxembourgish.md"
     },
     "Macedonian": {
         "file_html": "dist/Macedonian.html",
@@ -303,9 +379,17 @@
         "file_html": "dist/Malagasy.html",
         "file_md": "docs/eng/Malagasy.md"
     },
+    "Malay": {
+        "file_html": "dist/Malay.html",
+        "file_md": "docs/eng/Malay.md"
+    },
     "Maltese": {
         "file_html": "dist/Maltese.html",
         "file_md": "docs/eng/Maltese.md"
+    },
+    "Manx": {
+        "file_html": "dist/Manx.html",
+        "file_md": "docs/eng/Manx.md"
     },
     "Maori": {
         "file_html": "dist/Maori.html",
@@ -331,9 +415,21 @@
         "file_html": "dist/Moroccan Arabic.html",
         "file_md": "docs/eng/Moroccan Arabic.md"
     },
+    "Nahuatl": {
+        "file_html": "dist/Nahuatl.html",
+        "file_md": "docs/eng/Nahuatl.md"
+    },
     "Navajo": {
         "file_html": "dist/Navajo.html",
         "file_md": "docs/eng/Navajo.md"
+    },
+    "Neo-Aramaic": {
+        "file_html": "dist/Neo-Aramaic.html",
+        "file_md": "docs/eng/Neo-Aramaic.md"
+    },
+    "Nepali": {
+        "file_html": "dist/Nepali.html",
+        "file_md": "docs/eng/Nepali.md"
     },
     "Nigerian_Pidgin": {
         "file_html": "dist/Nigerian_Pidgin.html",
@@ -354,6 +450,14 @@
     "Norwegian_Nynorsk": {
         "file_html": "dist/Norwegian_Nynorsk.html",
         "file_md": "docs/eng/Norwegian_Nynorsk.md"
+    },
+    "Occitan": {
+        "file_html": "dist/Occitan.html",
+        "file_md": "docs/eng/Occitan.md"
+    },
+    "Odia": {
+        "file_html": "dist/Odia.html",
+        "file_md": "docs/eng/Odia.md"
     },
     "Old_Chinese": {
         "file_html": "dist/Old_Chinese.html",
@@ -423,9 +527,17 @@
         "file_html": "dist/Romanian.html",
         "file_md": "docs/eng/Romanian.md"
     },
+    "Romansh": {
+        "file_html": "dist/Romansh.html",
+        "file_md": "docs/eng/Romansh.md"
+    },
     "Russian": {
         "file_html": "dist/Russian.html",
         "file_md": "docs/eng/Russian.md"
+    },
+    "Rusyn": {
+        "file_html": "dist/Rusyn.html",
+        "file_md": "docs/eng/Rusyn.md"
     },
     "Sanskrit": {
         "file_html": "dist/Sanskrit.html",
@@ -455,6 +567,18 @@
         "file_html": "dist/Shanghainese.html",
         "file_md": "docs/eng/Shanghainese.md"
     },
+    "Sicilian": {
+        "file_html": "dist/Sicilian.html",
+        "file_md": "docs/eng/Sicilian.md"
+    },
+    "Silesian": {
+        "file_html": "dist/Silesian.html",
+        "file_md": "docs/eng/Silesian.md"
+    },
+    "Sindhi": {
+        "file_html": "dist/Sindhi.html",
+        "file_md": "docs/eng/Sindhi.md"
+    },
     "Sinhala": {
         "file_html": "dist/Sinhala.html",
         "file_md": "docs/eng/Sinhala.md"
@@ -483,6 +607,10 @@
         "file_html": "dist/Sundanese.html",
         "file_md": "docs/eng/Sundanese.md"
     },
+    "Surzhyk": {
+        "file_html": "dist/Surzhyk.html",
+        "file_md": "docs/eng/Surzhyk.md"
+    },
     "Swahili": {
         "file_html": "dist/Swahili.html",
         "file_md": "docs/eng/Swahili.md"
@@ -490,6 +618,10 @@
     "Swedish": {
         "file_html": "dist/Swedish.html",
         "file_md": "docs/eng/Swedish.md"
+    },
+    "Swiss_German": {
+        "file_html": "dist/Swiss_German.html",
+        "file_md": "docs/eng/Swiss_German.md"
     },
     "Taa": {
         "file_html": "dist/Taa.html",
@@ -527,6 +659,14 @@
         "file_html": "dist/Tibetan.html",
         "file_md": "docs/eng/Tibetan.md"
     },
+    "Tigrinya": {
+        "file_html": "dist/Tigrinya.html",
+        "file_md": "docs/eng/Tigrinya.md"
+    },
+    "Toki_Pona": {
+        "file_html": "dist/Toki_Pona.html",
+        "file_md": "docs/eng/Toki_Pona.md"
+    },
     "Turkic_Languages": {
         "file_html": "dist/Turkic_Languages.html",
         "file_md": "docs/eng/Turkic_Languages.md"
@@ -543,6 +683,10 @@
         "file_html": "dist/Ukrainian.html",
         "file_md": "docs/eng/Ukrainian.md"
     },
+    "Upper_Sorbian": {
+        "file_html": "dist/Upper_Sorbian.html",
+        "file_md": "docs/eng/Upper_Sorbian.md"
+    },
     "Uralic_languages": {
         "file_html": "dist/Uralic_languages.html",
         "file_md": "docs/eng/Uralic_languages.md"
@@ -555,6 +699,10 @@
         "file_html": "dist/Vietnamese.html",
         "file_md": "docs/eng/Vietnamese.md"
     },
+    "Volap\u00fck": {
+        "file_html": "dist/Volap\u00fck.html",
+        "file_md": "docs/eng/Volap\u00fck.md"
+    },
     "Vulgar_Latin": {
         "file_html": "dist/Vulgar_Latin.html",
         "file_md": "docs/eng/Vulgar_Latin.md"
@@ -562,6 +710,10 @@
     "Welsh": {
         "file_html": "dist/Welsh.html",
         "file_md": "docs/eng/Welsh.md"
+    },
+    "Wolof": {
+        "file_html": "dist/Wolof.html",
+        "file_md": "docs/eng/Wolof.md"
     },
     "Xhosa": {
         "file_html": "dist/Xhosa.html",
