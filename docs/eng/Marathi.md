@@ -282,9 +282,7 @@ Example: **मी चहा आणि कॉफी पितो** /miː t͡ʃəh
 Marathi uses postpositions instead of prepositions:
 
 - **वर** /ʋər/ (on): **टेबलावर** /ʈebəlaːʋər/ (on the table)
-- **मध्ये** /məd̪ʰje/ (in): **घरामध्ये** /ɡʰəraːməd̪Certainly, I'll continue with the Marathi language overview:
-
-ʰje/ (in the house)
+- **मध्ये** /məd̪ʰje/ (in): **घरामध्ये** /ɡʰəraːməd̪ʰje/ (in the house)
 - **साठी** /saːʈʰiː/ (for): **तुझ्यासाठी** /t̪ud͡ʒʰjaːsaːʈʰiː/ (for you)
 - **पासून** /paːsuːn/ (from): **मुंबईपासून** /mumbaːipaːsuːn/ (from Mumbai)
 
