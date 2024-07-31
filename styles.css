@@ -15,6 +15,10 @@ h3 {
     padding-top: 16px;
 }
 
-.copyright {
-    
+.logo {
+    width: 256px;    
+}
+
+.n-languages {
+    margin-bottom: 1.2em;
 }

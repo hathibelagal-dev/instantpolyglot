@@ -26,6 +26,5 @@ with open("index.html", "w") as f:
                 <li class="list-group-item"><a href="{output[item]["file_html"]}">{item}</a></li>
             """
         contents = contents.replace("#LANGUAGE_INDEX#", list_items)
+        contents = contents.replace("#N_LANGUAGES#", str(len(files)))
         f.write(contents)
-
-
