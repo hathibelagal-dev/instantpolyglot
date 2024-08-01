@@ -2,3 +2,4 @@ mistune
 torch
 transformers
 fire
+SQLAlchemy
