@@ -10,6 +10,8 @@ files.sort()
 output = {}
 
 for file in files:
+    if os.path.isdir(os.path.join(path, file)):            
+            continue
     language_name = file.split(".")[0]
     output[language_name] = {
         "file_html" : "dist/" + language_name + ".html",

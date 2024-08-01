@@ -9,7 +9,9 @@ output_path1 = "dist/"
 markdown = mistune.create_markdown(plugins=[table, 'footnotes', 'strikethrough'])
 with open("render_template.dat") as template:
     template_contents = template.read()
-    for file in files:
+    for file in files:        
+        if os.path.isdir(os.path.join(path, file)):            
+            continue
         output_file_path1 = output_path1 + file.split(".")[0] + ".html"
         with open(path + file) as f:
             md = f.read()

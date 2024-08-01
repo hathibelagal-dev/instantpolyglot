@@ -311,14 +311,6 @@
         "file_html": "dist/Jamaican_Patois.html",
         "file_md": "docs/eng/Jamaican_Patois.md"
     },
-    "Japanese": {
-        "file_html": "dist/Japanese.html",
-        "file_md": "docs/eng/Japanese.md"
-    },
-    "Japanese_Particles": {
-        "file_html": "dist/Japanese_Particles.html",
-        "file_md": "docs/eng/Japanese_Particles.md"
-    },
     "Javanese": {
         "file_html": "dist/Javanese.html",
         "file_md": "docs/eng/Javanese.md"
