@@ -2,7 +2,8 @@ import os
 import json
 from transformers import pipeline
 
-pipe = pipeline("text-generation", model="microsoft/Phi-3-mini-128k-instruct")
+pipe = pipeline("text-generation", model="microsoft/Phi-3-mini-128k-instruct", trust_remote_code=True, max_length=100)
+prompt = "You just tell me the language family of the language I pass to you. Just the name. I don't want any sentences."
 
 path = "docs/eng/"
 files = os.listdir(path)
@@ -13,6 +14,17 @@ for file in files:
     if os.path.isdir(os.path.join(path, file)):            
             continue
     language_name = file.split(".")[0]
+    llm_inputs = [
+         {
+            "role": "system", 
+            "content": prompt
+          },
+         {
+              "role": "user", 
+              "content": language_name
+         },
+    ]
+    print(pipe(llm_inputs))
     output[language_name] = {
         "file_html" : "dist/" + language_name + ".html",
         "file_md" : path + file
