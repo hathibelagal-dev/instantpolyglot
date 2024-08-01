@@ -219,7 +219,7 @@ Questions can be formed by changing the intonation or using question words:
 
 Negation is formed by adding **nje-** to the verb:
 
-**Nan nječita knihu.** (The father doesn't read a book.)
+**Nan nječita knihu.** (The father doesn’t read a book.)
 
 Subordinate clauses often use the conjunction **zo** (that):
 
@@ -287,14 +287,14 @@ Some common Upper Sorbian words and phrases:
 
 Examples of German loanwords in Upper Sorbian:
 
-- **šula** (school) from German "Schule"
-- **blidak** (pencil) from German "Bleistift"
-- **ryća** (speech) from German "Rede"
-- **familija** (family) from German "Familie"
+- **šula** (school) from German “Schule”
+- **blidak** (pencil) from German “Bleistift”
+- **ryća** (speech) from German “Rede”
+- **familija** (family) from German “Familie”
 
 Upper Sorbian has also developed its own terms for modern concepts:
 
-- **ličak** (computer) - literally "counter"
+- **ličak** (computer) - literally “counter”
 - **syćownja** (internet) - from **syć** (net)
 - **mobilka** (mobile phone) - from **mobilny** (mobile)
 
@@ -324,7 +324,7 @@ Colloquial Upper Sorbian may differ from the standard written language in severa
 
 2. German influence:
    Standard: **To je jara rjane.** (That is very beautiful.)
-   Colloquial: **To je cyle šik.** (Using German "schick" for "chic/nice")
+   Colloquial: **To je cyle šik.** (Using German “schick” for “chic/nice”)
 
 3. Contracted forms:
    Standard: **Ja sym** (I am)
@@ -447,7 +447,7 @@ Upper Sorbian uses various conjunctions and particles to connect clauses and add
    - **pak** (however, but)
    - **tola** (indeed, after all)
 
-Example: **Wón drje přińdźe, ja pak njewěm hdy.** (He will probably come, but I don't know when.)
+Example: **Wón drje přińdźe, ja pak njewěm hdy.** (He will probably come, but I don’t know when.)
 
 ## Numerals and counting
 

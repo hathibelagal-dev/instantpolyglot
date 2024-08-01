@@ -374,7 +374,7 @@ a) Coordination:
    - Spanish: Me gusta el té **y** el café.
 
 b) Subordination:
-   - English: I'll go **if** it doesn't rain.
+   - English: I'll go **if** it doesn’t rain.
    - French: J'irai **si** il ne pleut pas.
    - Italian: Andrò **se** non piove.
 
@@ -393,7 +393,7 @@ b) Double negation:
 c) Multiple negation:
    - Spanish: **No** veo a **nadie**.
    - Russian: Я **никого не** вижу.
-   (Both mean "I don't see anyone")
+   (Both mean “I don’t see anyone”)
 
 ### 13. Question Formation
 
@@ -436,7 +436,7 @@ Many SAE languages use impersonal constructions, particularly for weather phenom
 a) French: **Il** pleut. (It's raining.)
 b) German: **Es** regnet. (It's raining.)
 c) Spanish: **Llueve**. (It's raining.)
-d) Russian: **Идёт дождь**. (It's raining, lit. "Rain goes")
+d) Russian: **Идёт дождь**. (It's raining, lit. “Rain goes”)
 
 ## Semantic and Pragmatic Features
 
@@ -546,7 +546,7 @@ b) Focus marking:
 Many SAE languages use particles to convey speaker attitude or perspective:
 
 a) German: 
-   - **Doch** (contradiction): Du kommst doch, oder? (You are coming, aren't you?)
+   - **Doch** (contradiction): Du kommst doch, oder? (You are coming, aren’t you?)
    - **Ja** (emphasis): Das ist ja toll! (That's great indeed!)
 
 b) Dutch:
@@ -559,12 +559,12 @@ c) Greek:
 
 Many SAE languages share similar idiomatic expressions:
 
-a) "To kill two birds with one stone":
+a) “To kill two birds with one stone”:
    - French: Faire d'une pierre deux coups
    - German: Zwei Fliegen mit einer Klappe schlagen
    - Spanish: Matar dos pájaros de un tiro
 
-b) "It's raining cats and dogs":
+b) “It's raining cats and dogs”:
    - French: Il pleut des cordes (It's raining ropes)
    - German: Es regnet Bindfäden (It's raining strings)
    - Greek: Βρέχει καρεκλοπόδαρα (It's raining chair legs)
@@ -574,14 +574,14 @@ b) "It's raining cats and dogs":
 SAE languages often use similar strategies for dealing with taboo subjects:
 
 a) Death euphemisms:
-   - English: "passed away", "departed"
-   - French: "s'est éteint" (went out), "nous a quittés" (left us)
-   - German: "entschlafen" (fell asleep), "von uns gegangen" (left us)
+   - English: “passed away”, “departed”
+   - French: “s'est éteint” (went out), “nous a quittés” (left us)
+   - German: “entschlafen” (fell asleep), “von uns gegangen” (left us)
 
 b) Bodily function euphemisms:
-   - English: "to go to the bathroom"
-   - French: "aller aux toilettes" (go to the toilets)
-   - Spanish: "ir al baño" (go to the bathroom)
+   - English: “to go to the bathroom”
+   - French: “aller aux toilettes” (go to the toilets)
+   - Spanish: “ir al baño” (go to the bathroom)
 
 This expanded exploration of Standard Average European linguistic features provides a comprehensive overview of the shared characteristics among many European languages. While not every SAE language will exhibit all these features, and some non-SAE languages may share some of them, these patterns represent common tendencies across a wide range of European languages.
 a) With modal verbs:

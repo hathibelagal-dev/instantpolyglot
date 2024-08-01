@@ -93,8 +93,8 @@ Indefinite article:
 - **yon**: **yon liv** (a book)
 
 Possessive constructions use **de** (of):
-- **liv David la** (David's book, literally "book of David the")
-- **kay mesye a** (the man's house, literally "house of man the")
+- **liv David la** (David's book, literally “book of David the”)
+- **kay mesye a** (the man's house, literally “house of man the”)
 
 ### Pronouns
 
@@ -147,10 +147,10 @@ Conditional:
 - **ta**: **Mwen ta manje.** (I would eat.)
 
 Negation:
-- **pa**: **Mwen pa manje.** (I don't eat.)
+- **pa**: **Mwen pa manje.** (I don’t eat.)
 
 These markers can be combined:
-- **Mwen pa t ap manje.** (I wasn't eating.)
+- **Mwen pa t ap manje.** (I wasn’t eating.)
 
 ### Adjectives
 
@@ -249,7 +249,7 @@ Common prepositions in Haitian Creole include:
 Common conjunctions include:
 
 - **e** (and): **Mwen renmen kafe e te.** (I like coffee and tea.)
-- **men** (but): **Mwen grangou, men mwen pa gen lajan.** (I'm hungry, but I don't have money.)
+- **men** (but): **Mwen grangou, men mwen pa gen lajan.** (I'm hungry, but I don’t have money.)
 - **ou** (or): **Ou vle kafe ou te?** (Do you want coffee or tea?)
 - **paske** (because): **Mwen pa ale paske mwen malad.** (I didn't go because I'm sick.)
 - **si** (if): **Si lapli tonbe, m ap rete lakay.** (If it rains, I'll stay home.)
@@ -272,12 +272,12 @@ In questions, the word order typically remains the same, with question words at 
 
 Negation is formed by placing **pa** before the verb:
 
-- **Mwen pa konnen.** (I don't know.)
-- **Li pa vle ale.** (He/She doesn't want to go.)
+- **Mwen pa konnen.** (I don’t know.)
+- **Li pa vle ale.** (He/She doesn’t want to go.)
 
 ### Passive Voice
 
-Haitian Creole doesn't have a true passive voice. Instead, it uses active constructions with indefinite subjects:
+Haitian Creole doesn’t have a true passive voice. Instead, it uses active constructions with indefinite subjects:
 
 - **Yo bati kay la an 1900.** (They built the house in 1900. / The house was built in 1900.)
 
@@ -293,25 +293,25 @@ Haitian Creole uses serial verb constructions, where multiple verbs are used in 
 Haitian Creole vocabulary is primarily derived from French, with significant influences from various African languages, Spanish, English, and Taíno. Some examples:
 
 French-derived words:
-- **manje** (food, to eat) from French "manger"
-- **dlo** (water) from French "de l'eau"
-- **liv** (book) from French "livre"
+- **manje** (food, to eat) from French “manger”
+- **dlo** (water) from French “de l'eau”
+- **liv** (book) from French “livre”
 
 African-derived words:
-- **zonbi** (zombie) from Kongo "nzambi" (god)
-- **ginen** (Africa) from Kikongo "ngina" (ancestral land)
+- **zonbi** (zombie) from Kongo “nzambi” (god)
+- **ginen** (Africa) from Kikongo “ngina” (ancestral land)
 
 Taíno-derived words:
-- **kasav** (cassava bread) from Taíno "casabi"
-- **mabouya** (type of lizard) from Taíno "mabuya"
+- **kasav** (cassava bread) from Taíno “casabi”
+- **mabouya** (type of lizard) from Taíno “mabuya”
 
 English-derived words:
-- **bokit** (bucket) from English "bucket"
-- **mèsi** (thank you) possibly influenced by English "mercy"
+- **bokit** (bucket) from English “bucket”
+- **mèsi** (thank you) possibly influenced by English “mercy”
 
 Spanish-derived words:
-- **kanson** (pants) from Spanish "calzón"
-- **chape** (to escape) from Spanish "escapar"
+- **kanson** (pants) from Spanish “calzón”
+- **chape** (to escape) from Spanish “escapar”
 
 Some common phrases:
 - **Bonjou** (Hello, Good morning)
@@ -320,16 +320,16 @@ Some common phrases:
 - **Mwen byen, mèsi** (I'm fine, thank you)
 - **Mwen rele...** (My name is...)
 - **Kote ou rete?** (Where do you live?)
-- **Mwen pa konprann** (I don't understand)
+- **Mwen pa konprann** (I don’t understand)
 - **Pale dousman** (Speak slowly)
 
 ## Idiomatic Expressions
 
 Haitian Creole has many colorful idiomatic expressions:
 
-- **Piti piti zwazo fè nich li.** (Little by little the bird builds its nest. - Rome wasn't built in a day.)
+- **Piti piti zwazo fè nich li.** (Little by little the bird builds its nest. - Rome wasn’t built in a day.)
 - **Bouch pa gen baryè.** (The mouth has no barrier. - People will say anything.)
-- **Sak vid pa kanpe.** (An empty sack doesn't stand up. - You can't work on an empty stomach.)
+- **Sak vid pa kanpe.** (An empty sack doesn’t stand up. - You can’t work on an empty stomach.)
 - **Dèyè mòn gen mòn.** (Beyond mountains there are mountains. - There are always more challenges ahead.)
 - **Tout moun se moun.** (Every person is a person. - All people deserve respect.)
 
@@ -342,7 +342,7 @@ Haitian Creole, like all living languages, has a rich variety of colloquial expr
 - **Kop** (Cop, police)
 - **Monchè** (My dear, used for both men and women)
 - **Tèt kale** (Bald head, used to refer to someone who is broke)
-- **Kòk** (Tough guy, literally "rooster")
+- **Kòk** (Tough guy, literally “rooster”)
 
 ## Reduced Forms and Contractions
 
@@ -363,7 +363,7 @@ Examples:
 Given Haiti's bilingual situation, code-switching between Haitian Creole and French is common, especially among educated speakers. This can occur within sentences or between sentences:
 
 - **Mwen prale nan market la pou achte quelques fruits.** (I'm going to the market to buy some fruits.)
-- **Li di m konsa, "Je ne comprends pas pourquoi ou fè sa."** (He told me, "I don't understand why you did that.")
+- **Li di m konsa, “Je ne comprends pas pourquoi ou fè sa.”** (He told me, “I don’t understand why you did that.”)
 
 ## Dialects and Variation
 
@@ -377,8 +377,8 @@ While Haitian Creole is relatively uniform across Haiti, there are some regional
 
 Examples of dialectal differences:
 
-- "Now" is **kounye a** in the standard dialect, but **konnyè a** in the north.
-- "To give" is **bay** in most of Haiti, but **ban** in some northern areas.
+- “Now” is **kounye a** in the standard dialect, but **konnyè a** in the north.
+- “To give” is **bay** in most of Haiti, but **ban** in some northern areas.
 
 ## Phonological Processes
 
@@ -421,15 +421,15 @@ Example: **Li mache dousman dousman.** (He walked very slowly.)
 Haitian Creole forms compound words in various ways:
 
 1. Noun + Noun:
-   - **pye bwa** (tree, literally "foot wood")
-   - **kay manje** (restaurant, literally "house eat")
+   - **pye bwa** (tree, literally “foot wood”)
+   - **kay manje** (restaurant, literally “house eat”)
 
 2. Adjective + Noun:
-   - **bonè** (happiness, from "bon" good + "è" air)
-   - **malèt** (suitcase, from "mal" bad + "lèt" milk)
+   - **bonè** (happiness, from “bon” good + “è” air)
+   - **malèt** (suitcase, from “mal” bad + “lèt” milk)
 
 3. Verb + Noun:
-   - **kassav** (cassava bread, from "kase" to break + "av" root)
+   - **kassav** (cassava bread, from “kase” to break + “av” root)
 
 ## Affixation
 
@@ -453,14 +453,14 @@ Suffixes:
 
 Haitian Creole continues to evolve, incorporating new words from other languages, especially French and English:
 
-- **òdinatè** (computer, from French "ordinateur")
+- **òdinatè** (computer, from French “ordinateur”)
 - **entènèt** (internet)
 - **selilè** (cell phone)
 - **tweeté** (to tweet)
 
 Neologisms are also created using existing Haitian Creole words:
-- **kout flèch** (text message, literally "arrow hit")
-- **bwat imèl** (email inbox, literally "email box")
+- **kout flèch** (text message, literally “arrow hit”)
+- **bwat imèl** (email inbox, literally “email box”)
 
 ## Proverbs and Sayings
 
@@ -480,7 +480,7 @@ Proverbs play a significant role in Haitian culture and language:
 
 ## Politeness and Formality
 
-While Haitian Creole doesn't have a formal "you" like French "vous", politeness is expressed through other means:
+While Haitian Creole doesn’t have a formal “you” like French “vous”, politeness is expressed through other means:
 
 - Using titles: **Mesye** (Mr.), **Madanm** (Mrs.), **Matmwazèl** (Miss)
   Example: **Bonjou, Mesye Jan.** (Hello, Mr. John.)
@@ -528,7 +528,7 @@ Haitian Creole forms new words through various processes:
 1. Compounding: **pye + bwa** → **pyebwa** (tree)
 2. Derivation: **travay** (work) → **travayè** (worker)
 3. Borrowing: **telefòn** (telephone)
-4. Calquing: **gratsyèl** (skyscraper, calque of English "sky-scraper")
+4. Calquing: **gratsyèl** (skyscraper, calque of English “sky-scraper”)
 
 ## Discourse Markers
 

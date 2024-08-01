@@ -166,7 +166,7 @@ In questions, the verb typically comes before the subject:
 
 Negation is usually formed using the particle **inte** or **itte**, placed after the verb:
 
-**Me dikkar inte i rakli.** (I don't see the girl.)
+**Me dikkar inte i rakli.** (I don’t see the girl.)
 
 ### Subordinate Clauses
 
@@ -308,7 +308,7 @@ Code-switching between Scandoromani and the local Scandinavian language is commo
 
 **Me ska gå til skolan för att dikka miro pral.** (I will go to school to see my brother.)
 
-Here, "skolan" (school) and "för att" (in order to) are Scandinavian, while "dikka" (see) and "pral" (brother) are Romani.
+Here, “skolan” (school) and “för att” (in order to) are Scandinavian, while “dikka” (see) and “pral” (brother) are Romani.
 
 ### Register and Formality
 
@@ -366,12 +366,12 @@ These case forms are mostly fossilized and not productively used in modern Scand
 
 Scandoromani has developed its own set of idioms and expressions, often blending Romani and Scandinavian elements:
 
-- **Čor sar morro** (Lit: "Thief like bread") - As sneaky as a thief
-- **Dža pa grai!** (Lit: "Go on horse!") - Get lost! / Go away!
+- **Čor sar morro** (Lit: “Thief like bread”) - As sneaky as a thief
+- **Dža pa grai!** (Lit: “Go on horse!”) - Get lost! / Go away!
 - **Lačho bakt!** - Good luck!
-- **De vurma hoi** (Lit: "The wolves howl") - Things are getting tough
+- **De vurma hoi** (Lit: “The wolves howl”) - Things are getting tough
 - **Dikk avri!** - Watch out!
-- **Ker tiro šero!** (Lit: "Do your head!") - Use your brain!
+- **Ker tiro šero!** (Lit: “Do your head!”) - Use your brain!
 
 ## Sample Sentences
 
@@ -425,11 +425,11 @@ Scandoromani has adopted many Scandinavian consonant clusters, which were less c
 
 Scandoromani has borrowed extensively from Scandinavian languages, particularly in domains related to modern life, technology, and local culture. Some examples include:
 
-- **bil** (car) from Swedish "bil"
-- **jobb** (job) from Swedish "jobb"
-- **fika** (coffee break) from Swedish "fika"
-- **hytta** (cottage) from Norwegian "hytte"
-- **fjäll** (mountain) from Swedish "fjäll"
+- **bil** (car) from Swedish “bil”
+- **jobb** (job) from Swedish “jobb”
+- **fika** (coffee break) from Swedish “fika”
+- **hytta** (cottage) from Norwegian “hytte”
+- **fjäll** (mountain) from Swedish “fjäll”
 
 However, core vocabulary and basic concepts often retain their Romani origins:
 
@@ -442,8 +442,8 @@ However, core vocabulary and basic concepts often retain their Romani origins:
 
 Some Romani words have undergone semantic shifts in Scandoromani:
 
-- **raklo** originally meant "non-Roma boy" in Romani, but in Scandoromani it often simply means "boy"
-- **gažo** traditionally meant "non-Roma person" in Romani, but in some Scandoromani dialects it has shifted to mean "farmer" or "country person"
+- **raklo** originally meant “non-Roma boy” in Romani, but in Scandoromani it often simply means “boy”
+- **gažo** traditionally meant “non-Roma person” in Romani, but in some Scandoromani dialects it has shifted to mean “farmer” or “country person”
 
 ## Verbal System
 
@@ -577,7 +577,7 @@ Questions are formed similarly to Scandinavian languages, often by inverting the
 
 Negation in Scandoromani usually follows Scandinavian patterns:
 
-- **Me inte džanav.** (I don't know.)
+- **Me inte džanav.** (I don’t know.)
 - **Han aldrig dikkas kado filmos.** (He never saw this movie.)
 
 ## Reflexives
@@ -613,7 +613,7 @@ Scandoromani uses both Romani and Scandinavian derivational morphemes:
 As a mixed language, Scandoromani shows many features of language contact:
 
 - Code-switching: **Me džal til affären för att köpa marro.** (I'm going to the store to buy bread.)
-- Calques: **džal avri** (to go out) calqued from Swedish "gå ut"
-- Semantic convergence: **čhuri** (knife) extended to mean "aware, sharp" as in Swedish "vass"
+- Calques: **džal avri** (to go out) calqued from Swedish “gå ut”
+- Semantic convergence: **čhuri** (knife) extended to mean “aware, sharp” as in Swedish “vass”
 
 This overview provides a comprehensive look at the linguistic features of Scandoromani, highlighting its unique status as a mixed language combining elements of Romani and Scandinavian languages.

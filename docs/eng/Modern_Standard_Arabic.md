@@ -56,7 +56,7 @@ Arabic uses an abjad writing system, written from right to left. The alphabet co
 
 ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي
 
-Most letters have four forms: isolated, initial, medial, and final. For example, the letter "ب" (b):
+Most letters have four forms: isolated, initial, medial, and final. For example, the letter “ب” (b):
 - Isolated: ب
 - Initial: بـ
 - Medial: ـبـ
@@ -101,7 +101,7 @@ Example:
 Number:
 - Singular: unmarked
 - Dual: suffix -āni (nominative) or -ayni (accusative/genitive)
-- Plural: various patterns, including "sound" and "broken" plurals
+- Plural: various patterns, including “sound” and “broken” plurals
 
 Example:
 - Singular: **kitāb** (book)
@@ -204,12 +204,12 @@ The basic word order in Arabic is Verb-Subject-Object (VSO), although Subject-Ve
 VSO example:
 **kataba l-waladu r-risālata**
 wrote the-boy the-letter
-"The boy wrote the letter."
+“The boy wrote the letter.”
 
 SVO example:
 **al-waladu kataba r-risālata**
 the-boy wrote the-letter
-"The boy wrote the letter."
+“The boy wrote the letter.”
 
 ### Agreement
 
@@ -229,7 +229,7 @@ The construct state is used to express possession and compound nouns. The first 
 
 **kitābu l-waladi**
 book the-boy-GEN
-"the boy's book"
+“the boy's book”
 
 ### Negation
 
@@ -254,12 +254,12 @@ Arabic has two main types of conditional sentences:
 1. Real condition (likely or possible):
    **ʾin tadrus tanjaḥ**
    if you-study you-succeed
-   "If you study, you will succeed."
+   “If you study, you will succeed.”
 
 2. Unreal condition (unlikely or impossible):
    **law darasta la-najaḥta**
    if you-had-studied you-would-have-succeeded
-   "If you had studied, you would have succeeded."
+   “If you had studied, you would have succeeded.”
 
 ## Lexicon
 
@@ -339,7 +339,7 @@ While MSA is the standard form, colloquial Arabic has some distinctive features:
    Levantine: **wēn rāyeḥ?**
 
 5. Use of different negation patterns:
-   MSA: **lā ʾaʿrifu** (I don't know)
+   MSA: **lā ʾaʿrifu** (I don’t know)
    Egyptian: **maʿrafš**
    Levantine: **mā baʿref**
 
@@ -349,7 +349,7 @@ While MSA is the standard form, colloquial Arabic has some distinctive features:
    Levantine: **raḥ**
 
 7. Borrowing from other languages:
-   French influence in Maghrebi: **fōršēta** (fork, from French "fourchette")
+   French influence in Maghrebi: **fōršēta** (fork, from French “fourchette”)
    English influence in Gulf: **bārkēn** (parking)
 
 ## Phonological Processes
@@ -357,10 +357,10 @@ While MSA is the standard form, colloquial Arabic has some distinctive features:
 ### Assimilation
 
 1. Sun and Moon Letters:
-   The definite article **al-** assimilates to the following consonant if it's a "sun letter" (ت، ث، د، ذ، ر، ز، س، ش، ص، ض، ط، ظ، ل، ن):
+   The definite article **al-** assimilates to the following consonant if it's a “sun letter” (ت، ث، د، ذ، ر، ز، س، ش، ص، ض، ط، ظ، ل، ن):
    - **aš-šams** (the sun)
    - **an-nār** (the fire)
-   But not with "moon letters":
+   But not with “moon letters”:
    - **al-qamar** (the moon)
    - **al-kitāb** (the book)
 
@@ -387,8 +387,8 @@ Form I: **faʿala** - Basic meaning
 - **ḏahaba** (to go)
 
 Form II: **faʿʿala** - Intensive or causative
-- **darrasa** (to teach, causative of "to study")
-- **kassara** (to smash, intensive of "to break")
+- **darrasa** (to teach, causative of “to study”)
+- **kassara** (to smash, intensive of “to break”)
 
 Form III: **fāʿala** - Reciprocal or effort
 - **qātala** (to fight against)

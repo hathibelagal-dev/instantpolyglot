@@ -1,6 +1,6 @@
 # Lojban
 
-Lojban is an artificial language created by the Logical Language Group in 1987. It is designed to be culturally neutral, logically structured, and unambiguous. The name "Lojban" is derived from the Lojban words **logji** (logic) and **bangu** (language).
+Lojban is an artificial language created by the Logical Language Group in 1987. It is designed to be culturally neutral, logically structured, and unambiguous. The name “Lojban” is derived from the Lojban words **logji** (logic) and **bangu** (language).
 
 ## Phonology and Orthography
 
@@ -114,7 +114,7 @@ A basic Lojban sentence (bridi) consists of one predicate and one or more argume
 
 **mi klama lo zarci**
 I go-to the market
-"I go to the market"
+“I go to the market”
 
 Here, **klama** is the predicate, **mi** is the first argument (the one going), and **lo zarci** is the second argument (the destination).
 
@@ -124,7 +124,7 @@ The selbri is the central concept of a Lojban sentence, expressing a relationshi
 
 **mi nelci lo gerku**
 I like the dog
-"I like the dog"
+“I like the dog”
 
 Here, **nelci** is the selbri, expressing the relationship of liking between **mi** (I) and **lo gerku** (the dog).
 
@@ -142,7 +142,7 @@ Descriptions in Lojban start with an article (**lo**, **le**, **la**) and end wi
 
 **lo prenu [ku] cu klama**
 The person comes
-"The person comes"
+“The person comes”
 
 ### Tenses and Aspects
 
@@ -150,11 +150,11 @@ Lojban uses a system of tense and aspect markers called BAI. These are placed be
 
 **mi pu klama lo zarci**
 I past go-to the market
-"I went to the market"
+“I went to the market”
 
 **mi ca'o tavla**
 I [present continuous] talk
-"I am talking"
+“I am talking”
 
 ### Questions
 
@@ -162,11 +162,11 @@ Questions in Lojban are formed using question words or by placing **xu** at the 
 
 **ma klama lo zarci**
 Who goes-to the market?
-"Who goes to the market?"
+“Who goes to the market?”
 
 **xu do nelci lo gerku**
 [yes/no] you like the dog
-"Do you like the dog?"
+“Do you like the dog?”
 
 ### Negation
 
@@ -174,7 +174,7 @@ Negation in Lojban is typically done using **na** before the selbri:
 
 **mi na nelci lo gerku**
 I not like the dog
-"I don't like the dog"
+“I don’t like the dog”
 
 ### Logical Connectives
 
@@ -182,11 +182,11 @@ Lojban has a sophisticated system of logical connectives for joining phrases and
 
 **mi nelci lo gerku .e lo mlatu**
 I like the dog and the cat
-"I like the dog and the cat"
+“I like the dog and the cat”
 
 **mi nelci lo gerku .a lo mlatu**
 I like the dog or the cat
-"I like the dog or the cat (or both)"
+“I like the dog or the cat (or both)”
 
 ### Attitudinals
 
@@ -194,15 +194,15 @@ Lojban uses cmavo called attitudinals to express emotions and attitudes. These c
 
 **mi .ui klama lo zarci**
 I [happiness] go-to the market
-"I happily go to the market"
+“I happily go to the market”
 
 ### Quotations
 
 Lojban has a system for quoting text in other languages or Lojban itself:
 
 **mi cusku lu mi prami do li'u**
-I express ["I love you"]
-"I say 'I love you'"
+I express [“I love you”]
+“I say 'I love you'”
 
 ### Numbers and Quantifiers
 
@@ -215,7 +215,7 @@ Example:
 
 **mi ponse re gerku**
 I possess two dogs
-"I have two dogs"
+“I have two dogs”
 
 ### Abstractions
 
@@ -223,11 +223,11 @@ Lojban can form abstract concepts using specific cmavo:
 
 **lo nu mi klama cu pluka**
 The event-of (I go) is-pleasant
-"Going is pleasant"
+“Going is pleasant”
 
 **lo ka melbi cu xamgu**
 The quality-of being-beautiful is-good
-"Beauty is good"
+“Beauty is good”
 
 ## Vocabulary
 
@@ -245,7 +245,7 @@ Lojban has a system of color gismu that can be combined to describe specific sha
 Example:
 **ti xunre blanu skari**
 This (is) red-blue color
-"This is purple"
+“This is purple”
 
 ### Kinship Terms
 
@@ -267,7 +267,7 @@ Lojban has a unique calendar system based on the Gregorian calendar:
 Example:
 **mi jbena fi li paremoi pi'e ci pi'e pasoxaso**
 I am-born on the 12th of-the 3rd of-the 1980
-"I was born on March 12, 1980"
+“I was born on March 12, 1980”
 
 ### Lojban-Specific Concepts
 
@@ -292,7 +292,7 @@ Lojban uses various cmavo to structure discourse:
 Example:
 **mi klama lo zarci .i to ku'i mi na djica toi .i mi bilga**
 I go-to the market. (But I not want). I am-obliged.
-"I go to the market. (However, I don't want to.) I have to."
+“I go to the market. (However, I don’t want to.) I have to.”
 
 ### Evidentials
 
@@ -306,7 +306,7 @@ Lojban has a system of evidentials to indicate the source or reliability of info
 Example:
 **ba'a do klama lo zarci**
 [I-expect] you go-to the market
-"I expect you're going to the market"
+“I expect you're going to the market”
 
 ### Modality
 
@@ -319,7 +319,7 @@ Lojban expresses modality through various cmavo:
 Example:
 **mi ka'e limna**
 I can swim
-"I can swim"
+“I can swim”
 
 ### Emphasis and Focus
 
@@ -327,19 +327,19 @@ Lojban can emphasize or focus on different parts of a sentence through word orde
 
 **lo gerku cu klama**
 The dog comes
-"The dog comes"
+“The dog comes”
 
 **klama fa lo gerku**
 Comes [focus] the dog
-"It's the dog that comes"
+“It's the dog that comes”
 
 ### Metalinguistic Features
 
 Lojban has specific constructs for discussing language itself:
 
 **zo gerku cmene lo'e gerku**
-The-word "gerku" is-the-name-of the-typical dog
-"The word 'gerku' means 'dog'"
+The-word “gerku” is-the-name-of the-typical dog
+“The word 'gerku' means 'dog'”
 
 ## Writing System
 

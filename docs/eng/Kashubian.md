@@ -187,7 +187,7 @@ Kashubian generally follows a Subject-Verb-Object (SVO) word order, but like oth
    **Cze të lubisz kaszëbsczi jãzëk?** (Do you like the Kashubian language?)
 
 3. Negative sentence:
-   **Jô nie gôdóm pò niemiecku.** (I don't speak German.)
+   **Jô nie gôdóm pò niemiecku.** (I don’t speak German.)
 
 ### Word Order Variations
 
@@ -240,8 +240,8 @@ Kashubian vocabulary shares many similarities with Polish, but it also has uniqu
 
 ### Unique Kashubian Expressions
 
-1. **Na, tej!** - a common greeting, similar to "Well, then!"
-2. **Mòrze Bôłt** - the Baltic Sea (literally "White Sea")
+1. **Na, tej!** - a common greeting, similar to “Well, then!”
+2. **Mòrze Bôłt** - the Baltic Sea (literally “White Sea”)
 3. **Bëlny dzéń!** - Have a nice day!
 
 ## Dialectal Variation
@@ -332,7 +332,7 @@ The seven cases in Kashubian are used to indicate the grammatical function of no
 
 3. Genitive: possession, negation, some prepositions
    **To je ksążka chłopa.** (This is the man's book.)
-   **Jô ni móm ksążczi.** (I don't have a book.)
+   **Jô ni móm ksążczi.** (I don’t have a book.)
 
 4. Dative: indirect object, some verbs
    **Jô dôł ksążkã chłopowi.** (I gave the book to the man.)
@@ -497,7 +497,7 @@ Kashubian uses various conjunctions to connect words, phrases, and clauses:
    - **bò** (because)
 
 Example:
-**Jô lubiã kaszëbsczi jãzëk, ale jô nie gôdóm dobrze.** (I like the Kashubian language, but I don't speak well.)
+**Jô lubiã kaszëbsczi jãzëk, ale jô nie gôdóm dobrze.** (I like the Kashubian language, but I don’t speak well.)
 
 ## Word Formation
 

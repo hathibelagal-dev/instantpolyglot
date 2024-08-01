@@ -108,7 +108,7 @@ Cree has an obviative (third person obviate) form, used when there are two or mo
 
 Example:
 **nāpēw wāpamēw atimwa** (ᓈᐯᐤ ᐙᐸᒣᐤ ᐊᑎᒧᐊ)
-"The man sees the dog"
+“The man sees the dog”
 - **nāpēw** (ᓈᐯᐤ) - man, is the proximate (unmarked) third person
 - **atimwa** (ᐊᑎᒧᐊ) - dog, is the obviative form, marked with the suffix **-wa** (-ᐘ)
 
@@ -177,13 +177,13 @@ The basic word order in Cree is Subject-Object-Verb (SOV), but it can be flexibl
 Example:
 **iskwēw masinahikan ayamihcikēw** (ᐃᐢᑵᐤ ᒪᓯᓇᐦᐃᑲᐣ ᐊᔭᒥᐦᒋᑫᐤ)
 woman   book        reads
-"The woman reads a book"
+“The woman reads a book”
 
 ### Negation
 
 Negation is typically expressed using the particle **namōya** (ᓇᒨᔭ) before the verb:
 
-**namōya ninipān** (ᓇᒨᔭ ᓂᓂᐹᐣ) - I don't sleep
+**namōya ninipān** (ᓇᒨᔭ ᓂᓂᐹᐣ) - I don’t sleep
 
 ### Questions
 
@@ -226,7 +226,7 @@ Family terms:
 
 ## Verb Conjugation
 
-Let's look at the conjugation of the VAI verb **pimohtē-** (ᐱᒧᐦᑌ-) meaning "to walk" in the present tense:
+Let's look at the conjugation of the VAI verb **pimohtē-** (ᐱᒧᐦᑌ-) meaning “to walk” in the present tense:
 
 | Person | Singular | Plural |
 |--------|----------|--------|
@@ -296,7 +296,7 @@ Cree has a system of directional particles that can be added to verbs to indicat
 
 Cree has many idiomatic expressions that reflect its cultural context. Here are a few examples:
 
-1. **tānisi** (ᑖᓂᓯ) - Hello/How are you? (literally "how")
+1. **tānisi** (ᑖᓂᓯ) - Hello/How are you? (literally “how”)
 2. **ay-hay** (ᐊᔨᐦᐊᕀ) - Thank you
 3. **kiyām** (ᑭᔮᒼ) - It's okay/Never mind (used to express acceptance or resignation)
 4. **tāpwē** (ᑖᑊᐍ) - It's true/Indeed (often used as a filler word)

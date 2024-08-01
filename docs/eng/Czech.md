@@ -70,7 +70,7 @@ Czech has both voicing and place assimilation. Voiced consonants become voiceles
 
 ### Soft and hard consonants
 
-Czech consonants are divided into "soft" and "hard" categories, which affect the spelling of following vowels:
+Czech consonants are divided into “soft” and “hard” categories, which affect the spelling of following vowels:
 
 Soft consonants: **ž**, **š**, **č**, **ř**, **c**, **j**, **ď**, **ť**, **ň**
 Hard consonants: **h**, **ch**, **k**, **r**, **d**, **t**, **n**
@@ -286,11 +286,11 @@ Questions can be formed by adding the particle **zda** or **jestli** at the begi
 
 Negation is formed by adding the prefix **ne-** to the verb:
 
-- **Nemluvím česky** ('I don't speak Czech')
+- **Nemluvím česky** ('I don’t speak Czech')
 
 For compound tenses, **ne-** is added to the auxiliary verb:
 
-- **Nebudu mluvit česky** ('I won't speak Czech')
+- **Nebudu mluvit česky** ('I won’t speak Czech')
 
 There are no articles in Czech. Definiteness is expressed through word order, demonstratives, or context:
 
@@ -315,7 +315,7 @@ Czech's seven cases are used to indicate the grammatical function of nouns, pron
 
 1. Nominative (1. pád):
    - Used for the subject of a sentence
-   - Predicate noun after the verb "to be"
+   - Predicate noun after the verb “to be”
    Example: **Petr je student** ('Petr is a student')
 
 2. Accusative (4. pád):
@@ -331,12 +331,12 @@ Czech's seven cases are used to indicate the grammatical function of nouns, pron
    Examples:
    - **kniha Petra** ('Petr's book')
    - **sklenice vody** ('a glass of water')
-   - **Nemám času** ('I don't have time')
+   - **Nemám času** ('I don’t have time')
 
 4. Dative (3. pád):
    - Indirect object
    - After certain verbs and prepositions
-   - To express "to" or "for" someone
+   - To express “to” or “for” someone
    Example: **Dávám knihu Petrovi** ('I'm giving the book to Petr')
 
 5. Vocative (5. pád):
@@ -351,7 +351,7 @@ Czech's seven cases are used to indicate the grammatical function of nouns, pron
 7. Instrumental (7. pád):
    - Expresses means or instrument
    - Used with certain verbs and prepositions
-   - Indicates "with" or "by means of"
+   - Indicates “with” or “by means of”
    Example: **Píšu perem** ('I write with a pen')
 
 Prepositions govern specific cases. Some prepositions can be used with multiple cases, changing the meaning. For example:
@@ -491,7 +491,7 @@ Interjections are used to express emotions or imitate sounds:
 
 ### Register and formality
 
-Czech has a complex system of formal and informal address. The formal "you" (**Vy**) is used with strangers, elders, or in professional settings, while the informal "you" (**ty**) is used with friends, family, and children.
+Czech has a complex system of formal and informal address. The formal “you” (**Vy**) is used with strangers, elders, or in professional settings, while the informal “you” (**ty**) is used with friends, family, and children.
 
 This distinction affects not only pronouns but also verb conjugations:
 
@@ -530,18 +530,18 @@ Some additional features of Czech phonology include:
 
 Czech has many idiomatic expressions. Here are a few examples:
 
-- **Mít máslo na hlavě** (lit. "to have butter on one's head"): to be guilty of something
-- **Házet hrách na stěnu** (lit. "to throw peas at the wall"): to do something futile
-- **Být v sedmém nebi** (lit. "to be in seventh heaven"): to be extremely happy
-- **Mít z něčeho těžkou hlavu** (lit. "to have a heavy head from something"): to be worried about something
+- **Mít máslo na hlavě** (lit. “to have butter on one's head”): to be guilty of something
+- **Házet hrách na stěnu** (lit. “to throw peas at the wall”): to do something futile
+- **Být v sedmém nebi** (lit. “to be in seventh heaven”): to be extremely happy
+- **Mít z něčeho těžkou hlavu** (lit. “to have a heavy head from something”): to be worried about something
 
 ### Loanwords and influences
 
 Czech vocabulary has been influenced by various languages throughout its history:
 
 1. German: due to centuries of Habsburg rule
-   - **šnek** ('snail') from German "Schnecke"
-   - **knedlík** ('dumpling') from German "Knödel"
+   - **šnek** ('snail') from German “Schnecke”
+   - **knedlík** ('dumpling') from German “Knödel”
 
 2. Latin and Greek: especially in scientific and academic terms
    - **universita** ('university')
@@ -572,7 +572,7 @@ The differences between dialects are mainly phonological and lexical, with some 
 
 ### Common Czech (Obecná čeština)
 
-Common Czech, known as "obecná čeština" in Czech, is a widely spoken interdialect of the Czech language. It serves as an informal, colloquial variety used in everyday communication, particularly in Bohemia (the western part of the Czech Republic) and parts of western Moravia. While Standard Czech remains the official language used in formal situations, media, and education, Common Czech is the de facto spoken standard for many Czechs in informal contexts.
+Common Czech, known as “obecná čeština” in Czech, is a widely spoken interdialect of the Czech language. It serves as an informal, colloquial variety used in everyday communication, particularly in Bohemia (the western part of the Czech Republic) and parts of western Moravia. While Standard Czech remains the official language used in formal situations, media, and education, Common Czech is the de facto spoken standard for many Czechs in informal contexts.
 
 #### Historical development
 
@@ -643,7 +643,7 @@ However, its use can vary depending on factors such as:
 Attitudes towards Common Czech are mixed:
 
 - Some view it as a natural, living form of the language and advocate for its wider acceptance.
-- Others see it as "incorrect" Czech and prefer to maintain a strict distinction between the standard and colloquial forms.
+- Others see it as “incorrect” Czech and prefer to maintain a strict distinction between the standard and colloquial forms.
 - Linguists generally recognize it as a legitimate variety of Czech, worthy of study and description.
 
 #### Common Czech in media and literature

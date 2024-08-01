@@ -75,8 +75,8 @@ Nouns in Kyrgyz are inflected for number, case, and possession.
 
 The plural is formed by adding the suffix **-лар** (-lar) or its variants according to vowel harmony:
 
-- **китеп** (kitep) "book" → **китептер** (kitepter) "books"
-- **үй** (üy) "house" → **үйлөр** (üylör) "houses"
+- **китеп** (kitep) “book” → **китептер** (kitepter) “books”
+- **үй** (üy) “house” → **үйлөр** (üylör) “houses”
 
 #### Cases
 
@@ -89,7 +89,7 @@ Kyrgyz has six cases:
 5. Locative: **-да/-де/-та/-те** (-da/-de/-ta/-te)
 6. Ablative: **-дан/-ден/-тан/-тен** (-dan/-den/-tan/-ten)
 
-Example with **үй** (üy) "house":
+Example with **үй** (üy) “house”:
 
 - Nominative: **үй** (üy)
 - Accusative: **үйдү** (üydü)
@@ -108,27 +108,27 @@ Possessive suffixes are added to nouns to indicate ownership:
 | 2nd | -ң (-ŋ) | -ңар/-ңер/-ңор/-ңөр (-ŋar/-ŋer/-ŋor/-ŋör) |
 | 3rd | -сы/-си/-су/-сү (-sy/-si/-su/-sü) | -сы/-си/-су/-сү (-sy/-si/-su/-sü) |
 
-Example with **үй** (üy) "house":
+Example with **үй** (üy) “house”:
 
-- **үйүм** (üyüm) "my house"
-- **үйүң** (üyüŋ) "your house"
-- **үйү** (üyü) "his/her house"
-- **үйүбүз** (üyübüz) "our house"
-- **үйүңөр** (üyüŋör) "your (plural) house"
-- **үйү** (üyü) "their house"
+- **үйүм** (üyüm) “my house”
+- **үйүң** (üyüŋ) “your house”
+- **үйү** (üyü) “his/her house”
+- **үйүбүз** (üyübüz) “our house”
+- **үйүңөр** (üyüŋör) “your (plural) house”
+- **үйү** (üyü) “their house”
 
 ### Adjectives
 
 Adjectives in Kyrgyz typically precede the nouns they modify and do not agree in number or case:
 
-- **кызыл алма** (kyzyl alma) "red apple"
-- **кызыл алмалар** (kyzyl almalar) "red apples"
+- **кызыл алма** (kyzyl alma) “red apple”
+- **кызыл алмалар** (kyzyl almalar) “red apples”
 
 Comparative and superlative forms are created using the words **-раак** (-raak) and **эң** (eŋ) respectively:
 
-- **чоң** (çoŋ) "big"
-- **чоңураак** (çoŋuraak) "bigger"
-- **эң чоң** (eŋ çoŋ) "biggest"
+- **чоң** (çoŋ) “big”
+- **чоңураак** (çoŋuraak) “bigger”
+- **эң чоң** (eŋ çoŋ) “biggest”
 
 ### Pronouns
 
@@ -144,16 +144,16 @@ Personal pronouns are declined for case similarly to nouns.
 
 #### Demonstrative Pronouns
 
-- **бул** (bul) "this"
-- **ошол** (oşol) "that"
-- **тигил** (tigil) "that (farther)"
+- **бул** (bul) “this”
+- **ошол** (oşol) “that”
+- **тигил** (tigil) “that (farther)”
 
 #### Interrogative Pronouns
 
-- **ким** (kim) "who"
-- **эмне** (emne) "what"
-- **кайсы** (kaysy) "which"
-- **канча** (kança) "how many"
+- **ким** (kim) “who”
+- **эмне** (emne) “what”
+- **кайсы** (kaysy) “which”
+- **канча** (kança) “how many”
 
 ### Verbs
 
@@ -163,8 +163,8 @@ Kyrgyz verbs are highly complex, with numerous suffixes indicating tense, aspect
 
 The infinitive is formed by adding **-уу/-үү** (-uu/-üü) to the verb stem:
 
-- **жаз-** (jaz-) "write" → **жазуу** (jazuu) "to write"
-- **кел-** (kel-) "come" → **келүү** (kelüü) "to come"
+- **жаз-** (jaz-) “write” → **жазуу** (jazuu) “to write”
+- **кел-** (kel-) “come” → **келүү** (kelüü) “to come”
 
 #### Present Tense
 
@@ -176,14 +176,14 @@ The present tense is formed by adding **-а/-е/-й** (-a/-e/-y) to the verb ste
 | 2nd | -сың/-сиң (-syŋ/-siŋ) | -сыңар/-сиңер (-syŋar/-siŋer) |
 | 3rd | -т (-t) | -шат/-шет (-şat/-şet) |
 
-Example with **жаз-** (jaz-) "write":
+Example with **жаз-** (jaz-) “write”:
 
-- **жазам** (jazam) "I write"
-- **жазасың** (jazasyŋ) "you write"
-- **жазат** (jazat) "he/she writes"
-- **жазабыз** (jazabyz) "we write"
-- **жазасыңар** (jazasyŋar) "you (plural) write"
-- **жазышат** (jazaşat) "they write"
+- **жазам** (jazam) “I write”
+- **жазасың** (jazasyŋ) “you write”
+- **жазат** (jazat) “he/she writes”
+- **жазабыз** (jazabyz) “we write”
+- **жазасыңар** (jazasyŋar) “you (plural) write”
+- **жазышат** (jazaşat) “they write”
 
 #### Past Tense
 
@@ -195,35 +195,35 @@ The past tense is formed by adding **-ды/-ди/-ду/-дү** (-dy/-di/-du/-dü
 | 2nd | -ң (-ŋ) | -ңар/-ңер (-ŋar/-ŋer) |
 | 3rd | - | -шты/-шти (-şty/-şti) |
 
-Example with **кел-** (kel-) "come":
+Example with **кел-** (kel-) “come”:
 
-- **келдим** (keldim) "I came"
-- **келдиң** (keldiŋ) "you came"
-- **келди** (keldi) "he/she came"
-- **келдик** (keldik) "we came"
-- **келдиңер** (keldiŋer) "you (plural) came"
-- **келишти** (kelişti) "they came"
+- **келдим** (keldim) “I came”
+- **келдиң** (keldiŋ) “you came”
+- **келди** (keldi) “he/she came”
+- **келдик** (keldik) “we came”
+- **келдиңер** (keldiŋer) “you (plural) came”
+- **келишти** (kelişti) “they came”
 
 #### Future Tense
 
 The future tense is formed by adding **-а/-е/-й** (-a/-e/-y) to the verb stem, followed by **-т** (-t) and personal endings:
 
-Example with **бар-** (bar-) "go":
+Example with **бар-** (bar-) “go”:
 
-- **барат** (barat) "he/she will go"
-- **баратам** (baratam) "I will go"
-- **баратасың** (baratasıŋ) "you will go"
-- **баратабыз** (baratabız) "we will go"
-- **баратасыңар** (baratasıŋar) "you (plural) will go"
-- **барашат** (baraşat) "they will go"
+- **барат** (barat) “he/she will go”
+- **баратам** (baratam) “I will go”
+- **баратасың** (baratasıŋ) “you will go”
+- **баратабыз** (baratabız) “we will go”
+- **баратасыңар** (baratasıŋar) “you (plural) will go”
+- **барашат** (baraşat) “they will go”
 
 #### Imperative
 
 The imperative mood has different forms for each person:
 
-- 2nd person singular: verb stem (e.g., **кел** (kel) "come!")
-- 2nd person plural: verb stem + **-гыла/-гиле/-гула/-гүлө** (-gyla/-gile/-gula/-gülö) (e.g., **келгиле** (kengile) "come! (plural)")
-- 1st person plural: verb stem + **-алы/-ели** (-aly/-eli) (e.g., **келели** (keleli) "let's come")
+- 2nd person singular: verb stem (e.g., **кел** (kel) “come!”)
+- 2nd person plural: verb stem + **-гыла/-гиле/-гула/-гүлө** (-gyla/-gile/-gula/-gülö) (e.g., **келгиле** (kengile) “come! (plural)”)
+- 1st person plural: verb stem + **-алы/-ели** (-aly/-eli) (e.g., **келели** (keleli) “let's come”)
 
 #### Participles
 
@@ -237,56 +237,56 @@ Kyrgyz has several participle forms, including:
 
 Verbal nouns are formed by adding **-уу/-үү** (-uu/-üü) to the verb stem:
 
-- **окуу** (okuu) "reading" (from **оку-** (oku-) "read")
-- **жазуу** (jazuu) "writing" (from **жаз-** (jaz-) "write")
+- **окуу** (okuu) “reading” (from **оку-** (oku-) “read”)
+- **жазуу** (jazuu) “writing” (from **жаз-** (jaz-) “write”)
 
 ## Syntax
 
 Kyrgyz follows a Subject-Object-Verb (SOV) word order:
 
 **Мен китеп окуйм.** (Men kitep okuyum.)
-"I book read." (I read a book.)
+“I book read.” (I read a book.)
 
 ### Questions
 
 Yes/no questions are formed by adding the particle **-бы/-би/-пы/-пи** (-by/-bi/-py/-pi) to the end of a statement:
 
 **Сен китеп окуйсуңбу?** (Sen kitep okuysuŋbu?)
-"You book read-QUESTION?" (Do you read a book?)
+“You book read-QUESTION?” (Do you read a book?)
 
 Wh-questions use interrogative pronouns in the position of the word being questioned:
 
 **Сен эмне окуйсуң?** (Sen emne okuysuŋ?)
-"You what read?" (What do you read?)
+“You what read?” (What do you read?)
 
 ### Negation
 
 Negation is expressed by adding **-ба/-бе/-бо/-бө** (-ba/-be/-bo/-bö) to the verb stem:
 
 **Мен китеп окубайм.** (Men kitep okubaym.)
-"I book not-read." (I don't read a book.)
+“I book not-read.” (I don’t read a book.)
 
 ### Compound Sentences
 
 Coordinating conjunctions in Kyrgyz include:
 
-- **жана** (jana) "and"
-- **бирок** (birok) "but"
-- **же** (je) "or"
+- **жана** (jana) “and”
+- **бирок** (birok) “but”
+- **же** (je) “or”
 
 Example:
 **Мен китеп окуйм жана жазам.** (Men kitep okuym jana jazam.)
-"I book read and write." (I read and write a book.)
+“I book read and write.” (I read and write a book.)
 
 Subordinating conjunctions include:
 
-- **эгер** (eger) "if"
-- **себеби** (sebebi) "because"
-- **ошондуктан** (oşonduktan) "therefore"
+- **эгер** (eger) “if”
+- **себеби** (sebebi) “because”
+- **ошондуктан** (oşonduktan) “therefore”
 
 Example:
 **Эгер жааса, мен үйдө калам.** (Eger jaasa, men üydö kalam.)
-"If it-rains, I home-at stay." (If it rains, I'll stay at home.)
+“If it-rains, I home-at stay.” (If it rains, I'll stay at home.)
 
 ## Lexicon
 
@@ -316,7 +316,7 @@ Kyrgyz vocabulary is primarily Turkic in origin, with loanwords from Arabic, Per
 - Yes: **Ооба** (Ooba)
 - No: **Жок** (Jok)
 - How are you?: **Кандайсыз?** (Kandaysyz?)
-- I don't understand: **Мен түшүнбөйм** (Men tüşünböym)
+- I don’t understand: **Мен түшүнбөйм** (Men tüşünböym)
 - What's your name?: **Атыңыз ким?** (Atyŋyz kim?)
 - My name is...: **Менин атым...** (Menin atym...)
 
@@ -367,23 +367,23 @@ Kyrgyz vocabulary is primarily Turkic in origin, with loanwords from Arabic, Per
 Kyrgyz, like many languages, has a rich set of idiomatic expressions. Here are a few examples:
 
 1. **Көз жетпеген** (Köz jetpegen)
-   Literal: "Eye doesn't reach"
+   Literal: “Eye doesn’t reach”
    Meaning: Unimaginable, beyond comprehension
 
 2. **Кулак салуу** (Kulak saluu)
-   Literal: "To put ear"
+   Literal: “To put ear”
    Meaning: To listen attentively
 
 3. **Тил табышуу** (Til tabyşuu)
-   Literal: "To find a language"
+   Literal: “To find a language”
    Meaning: To come to an agreement, to find common ground
 
 4. **Көңүл калуу** (Köŋül kaluu)
-   Literal: "Heart remains"
+   Literal: “Heart remains”
    Meaning: To be offended or upset
 
 5. **Баш катыруу** (Baş katyruu)
-   Literal: "To harden the head"
+   Literal: “To harden the head”
    Meaning: To think hard, to rack one's brains
 
 ## Phonological Processes
@@ -401,20 +401,20 @@ Kyrgyz exhibits vowel harmony, a common feature in Turkic languages. This means 
    - Unrounded vowels: а, е, ы, и
 
 Example:
-- **китеп** (kitep) "book" + locative case **-де** (-de) → **китепте** (kitepte) "in the book"
-- **балык** (balyk) "fish" + locative case **-да** (-da) → **балыкта** (balykta) "in the fish"
+- **китеп** (kitep) “book” + locative case **-де** (-de) → **китепте** (kitepte) “in the book”
+- **балык** (balyk) “fish” + locative case **-да** (-da) → **балыкта** (balykta) “in the fish”
 
 ### Consonant Assimilation
 
 Kyrgyz also exhibits consonant assimilation, where consonants change to become more similar to neighboring consonants. This often occurs with suffixes:
 
 1. Voicing assimilation:
-   - **китеп** (kitep) "book" + plural **-лар** (-lar) → **китептер** (kitepter) "books"
-   - **тоо** (too) "mountain" + plural **-лар** (-lar) → **тоолор** (toolor) "mountains"
+   - **китеп** (kitep) “book” + plural **-лар** (-lar) → **китептер** (kitepter) “books”
+   - **тоо** (too) “mountain” + plural **-лар** (-lar) → **тоолор** (toolor) “mountains”
 
 2. Nasal assimilation:
-   - **китеп** (kitep) "book" + genitive **-нын** (-nyn) → **китептин** (kiteptin) "of the book"
-   - **тоо** (too) "mountain" + genitive **-нын** (-nyn) → **тоонун** (toonun) "of the mountain"
+   - **китеп** (kitep) “book” + genitive **-нын** (-nyn) → **китептин** (kiteptin) “of the book”
+   - **тоо** (too) “mountain” + genitive **-нын** (-nyn) → **тоонун** (toonun) “of the mountain”
 
 ## Dialectal Variations
 
@@ -431,26 +431,26 @@ While Kyrgyz is relatively uniform across its speakers, there are some dialectal
 Some differences include:
 
 - Pronunciation: The southern dialect tends to pronounce **ж** (j) more like **й** (y) in some words.
-  Example: **жок** (jok) "no" is pronounced more like **йок** (yok) in the south.
+  Example: **жок** (jok) “no” is pronounced more like **йок** (yok) in the south.
 
 - Vocabulary: Some words differ between dialects.
-  Example: "potato" is **картөшкө** (kartöşkö) in the north, but **картошка** (kartoşka) in the south.
+  Example: “potato” is **картөшкө** (kartöşkö) in the north, but **картошка** (kartoşka) in the south.
 
 ## Loanwords
 
 Kyrgyz has borrowed words from various languages throughout its history:
 
 1. Arabic and Persian loanwords (often related to religion, science, or culture):
-   - **китеп** (kitep) "book" (from Arabic "kitab")
-   - **дүйнө** (düynö) "world" (from Persian "dunya")
+   - **китеп** (kitep) “book” (from Arabic “kitab”)
+   - **дүйнө** (düynö) “world” (from Persian “dunya”)
 
 2. Russian loanwords (often related to modern concepts or technology):
-   - **машина** (maşina) "car" (from Russian "машина")
-   - **телефон** (telefon) "telephone" (from Russian "телефон")
+   - **машина** (maşina) “car” (from Russian “машина”)
+   - **телефон** (telefon) “telephone” (from Russian “телефон”)
 
 3. More recent English loanwords:
-   - **компьютер** (kompyuter) "computer"
-   - **интернет** (internet) "internet"
+   - **компьютер** (kompyuter) “computer”
+   - **интернет** (internet) “internet”
 
 ## Verb Aspects
 
@@ -458,27 +458,27 @@ Like many Turkic languages, Kyrgyz verbs can express aspectual distinctions. Whi
 
 1. Perfective aspect (completed action):
    Often formed by adding prefixes or using specific auxiliary verbs.
-   Example: **окуп бүттүм** (okup büttüm) "I finished reading"
+   Example: **окуп бүттүм** (okup büttüm) “I finished reading”
 
 2. Imperfective aspect (ongoing or habitual action):
    Often expressed through the simple present tense or specific constructions.
-   Example: **окуп жатам** (okup jatam) "I am reading"
+   Example: **окуп жатам** (okup jatam) “I am reading”
 
 ## Honorifics and Politeness
 
 Kyrgyz has a system of honorifics and polite forms, reflecting the importance of respect and social hierarchies in Kyrgyz culture:
 
 1. Second person pronouns:
-   - Informal: **сен** (sen) "you"
-   - Formal: **сиз** (siz) "you (polite)"
+   - Informal: **сен** (sen) “you”
+   - Formal: **сиз** (siz) “you (polite)”
 
 2. Verb endings:
    - Informal: **-сың/-сиң** (-syŋ/-siŋ)
    - Formal: **-сыз/-сиз** (-syz/-siz)
 
 Example:
-- Informal: **Кайда барасың?** (Kayda barasyŋ?) "Where are you going?"
-- Formal: **Кайда барасыз?** (Kayda barasyz?) "Where are you going? (polite)"
+- Informal: **Кайда барасың?** (Kayda barasyŋ?) “Where are you going?”
+- Formal: **Кайда барасыз?** (Kayda barasyz?) “Where are you going? (polite)”
 
 3. Titles:
    - **байке** (bayke) - respectful term for an older male
@@ -490,22 +490,22 @@ Kyrgyz has a rich tradition of proverbs and sayings, often reflecting cultural v
 
 1. **Бирөөнүн жок дагы минерге аты, бирөөнүн жок дагы басарга жери.**
    (Biröönün jok dagy minerge aty, biröönün jok dagy basarga jeri.)
-   "One has no horse to ride, another has no land to walk on."
+   “One has no horse to ride, another has no land to walk on.”
    Meaning: Everyone has their own problems.
 
 2. **Жети өлчөп, бир кес.**
    (Jeti ölçöp, bir kes.)
-   "Measure seven times, cut once."
+   “Measure seven times, cut once.”
    Meaning: Think carefully before acting.
 
 3. **Тил - акыл таразасы.**
    (Til - akyl tarazasy.)
-   "The tongue is the scale of the mind."
+   “The tongue is the scale of the mind.”
    Meaning: Your words reveal your thoughts and intelligence.
 
 4. **Досуң миң болсо да аз, душманың бир болсо да көп.**
    (Dosuŋ miŋ bolso da az, duşmanyŋ bir bolso da köp.)
-   "A thousand friends are too few, one enemy is too many."
+   “A thousand friends are too few, one enemy is too many.”
    Meaning: Cherish your friends and avoid making enemies.
 
 These proverbs often use metaphorical language and require cultural context to fully understand, making them an interesting area of study for learners of Kyrgyz.

@@ -377,7 +377,7 @@ These typically come at the beginning of the sentence:
 As mentioned earlier, negation is typically formed by adding **-ul** to the verb:
 
 **Demul.** (He/She didn't go.)
-**Xamu ma ko.** (I don't know him/her.)
+**Xamu ma ko.** (I don’t know him/her.)
 
 In some focus constructions, **du** is used for negation:
 
@@ -434,14 +434,14 @@ Wolof uses serial verb constructions, where two or more verbs are used in sequen
 Wolof has borrowed words from various languages due to historical and cultural influences:
 
 1. Arabic (due to Islamic influence):
-   **alxames** (Thursday) from Arabic "al-khamis"
-   **juma** (Friday) from Arabic "jumu'ah"
-   **adduna** (world) from Arabic "ad-dunya"
+   **alxames** (Thursday) from Arabic “al-khamis”
+   **juma** (Friday) from Arabic “jumu'ah”
+   **adduna** (world) from Arabic “ad-dunya”
 
 2. French (due to colonial history):
-   **lekol** (school) from French "l'école"
-   **taabal** (table) from French "table"
-   **sigarett** (cigarette) from French "cigarette"
+   **lekol** (school) from French “l'école”
+   **taabal** (table) from French “table”
+   **sigarett** (cigarette) from French “cigarette”
 
 3. English (modern influence):
    **kompyutar** (computer)
@@ -449,15 +449,15 @@ Wolof has borrowed words from various languages due to historical and cultural i
    **fureeto** (freezer)
 
 4. Portuguese (early European contact):
-   **palanteer** (window) from Portuguese "janela"
-   **kawas** (calabash) from Portuguese "cabaça"
+   **palanteer** (window) from Portuguese “janela”
+   **kawas** (calabash) from Portuguese “cabaça”
 
 Wolof also has many idiomatic expressions:
 
-**Nit ku baax** (lit. "person who is good") - a kind person
-**Bul tëdd ci gaal gu dul sa gaal** (lit. "Don't lie in a boat that's not your boat") - Don't meddle in others' affairs
-**Ku am nit, am na alal** (lit. "Who has people, has wealth") - Relationships are more valuable than material wealth
-**Bëgg bëgg du tax a mën** (lit. "Wanting doesn't mean being able") - Desire doesn't equal ability
+**Nit ku baax** (lit. “person who is good”) - a kind person
+**Bul tëdd ci gaal gu dul sa gaal** (lit. “Don’t lie in a boat that's not your boat”) - Don’t meddle in others' affairs
+**Ku am nit, am na alal** (lit. “Who has people, has wealth”) - Relationships are more valuable than material wealth
+**Bëgg bëgg du tax a mën** (lit. “Wanting doesn’t mean being able”) - Desire doesn’t equal ability
 
 ## Dialects
 
@@ -475,11 +475,11 @@ While Wolof is relatively uniform across its speaking area, there are some diale
 
 Differences are mainly in vocabulary and some phonological features, but mutual intelligibility is high. For example:
 
-- "How are you?": 
+- “How are you?”: 
   Dakar-Wolof: **Na nga def?**
   Baol: **No mu deme?**
 
-- "I'm fine":
+- “I'm fine”:
   Dakar-Wolof: **Maa ngi fi rekk**
   Cayor: **Jàmm rekk**
 

@@ -249,7 +249,7 @@ Negation in Taa is typically expressed by the particle **ǃáo** [ǃáo] placed 
 **ń ǃáo ǃqhàa**
 [ń ǃáo ǃqʰàa]
 I NEG see
-'I don't see'
+'I don’t see'
 
 ### Relative clauses
 

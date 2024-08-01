@@ -23,13 +23,13 @@ Here's a table showing the basic characters and their vowel forms:
 
 The seven vowels in Amharic are:
 
-1. ä (አ) - like the 'a' in "about"
-2. u (ኡ) - like the 'oo' in "food"
-3. i (ኢ) - like the 'ee' in "see"
-4. a (ኣ) - like the 'a' in "father"
-5. e (ኤ) - like the 'e' in "hey"
-6. ə (እ) - like the 'u' in "but"
-7. o (ኦ) - like the 'o' in "go"
+1. ä (አ) - like the 'a' in “about”
+2. u (ኡ) - like the 'oo' in “food”
+3. i (ኢ) - like the 'ee' in “see”
+4. a (ኣ) - like the 'a' in “father”
+5. e (ኤ) - like the 'e' in “hey”
+6. ə (እ) - like the 'u' in “but”
+7. o (ኦ) - like the 'o' in “go”
 
 ### Consonants
 
@@ -141,7 +141,7 @@ Amharic verbs are complex and can express various grammatical categories through
 
 #### Root System
 
-Verbs are based on a root system, typically consisting of three consonants. For example, the root s-b-r (ስ-ብ-ር) relates to "breaking":
+Verbs are based on a root system, typically consisting of three consonants. For example, the root s-b-r (ስ-ብ-ር) relates to “breaking”:
 
 - **säbbärä** (ሰበረ) - he broke
 - **yǝsäbral** (ይሰብራል) - he breaks
@@ -159,7 +159,7 @@ Imperfective:
 
 #### Person, Number, and Gender
 
-Verbs are conjugated for person, number, and gender. Here's an example with the verb "to eat" (መብላት, **mäblat**) in the perfective:
+Verbs are conjugated for person, number, and gender. Here's an example with the verb “to eat” (መብላት, **mäblat**) in the perfective:
 
 | Person | Singular | Plural |
 |--------|----------|--------|
@@ -211,7 +211,7 @@ The basic word order in Amharic is Subject-Object-Verb (SOV):
 
 **Lemma mäṣhaf anäbbäbä** (ለማ መጽሐፍ አነበበ)
 Lemma book read
-"Lemma read a book"
+“Lemma read a book”
 
 However, the word order can be flexible for emphasis or in certain constructions.
 
@@ -241,7 +241,7 @@ Common conjunctions include:
 
 Example:
 **ǝnna tämari näñ gǝn asdäragi aydälläm** (እና ተማሪ ነኝ ግን አስደራጊ አይደለም)
-"And I am a student but not an organizer"
+“And I am a student but not an organizer”
 
 ## Vocabulary
 
@@ -287,15 +287,15 @@ Many common words are native to Amharic:
 
 Amharic has many idiomatic expressions that reflect cultural values and ways of thinking:
 
-1. **ənkwan dehna mäṭṭah** (እንኳን ደህና መጣህ) - Welcome (lit. "Well done for coming")
+1. **ənkwan dehna mäṭṭah** (እንኳን ደህና መጣህ) - Welcome (lit. “Well done for coming”)
 
-2. **əjh yəmas** (እጅህ ይማስ) - Thank you (lit. "May your hand be blessed")
+2. **əjh yəmas** (እጅህ ይማስ) - Thank you (lit. “May your hand be blessed”)
 
-3. **ərədata yadrəg** (እርዳታ ያድርግ) - God help us (lit. "May He make help")
+3. **ərədata yadrəg** (እርዳታ ያድርግ) - God help us (lit. “May He make help”)
 
-4. **əgzər yəmäsgən** (እግዚር ይመስግን) - Thank God (lit. "May God be praised")
+4. **əgzər yəmäsgən** (እግዚር ይመስግን) - Thank God (lit. “May God be praised”)
 
-5. **aynəh səga ayəbəla** (አይንህ ስጋ አይብላ) - Don't be envious (lit. "May your eye not eat meat")
+5. **aynəh səga ayəbəla** (አይንህ ስጋ አይብላ) - Don’t be envious (lit. “May your eye not eat meat”)
 
 ## Phonological Processes
 
@@ -310,7 +310,7 @@ Consonant gemination (doubling) is phonemic in Amharic and can change the meanin
 
 Some consonants undergo palatalization in certain environments:
 
-- /t/ → [tʃ] before /i/ or /j/: **antši** (አንቺ) "you (f.)" is pronounced [antʃi]
+- /t/ → [tʃ] before /i/ or /j/: **antši** (አንቺ) “you (f.)” is pronounced [antʃi]
 
 ### Labialization
 
@@ -323,8 +323,8 @@ As mentioned earlier, some consonants have labialized counterparts:
 
 Stress in Amharic is generally predictable, falling on the penultimate syllable of the word:
 
-- **mäkina** (መኪና) - car (stress on "ki")
-- **tämari** (ተማሪ) - student (stress on "ma")
+- **mäkina** (መኪና) - car (stress on “ki”)
+- **tämari** (ተማሪ) - student (stress on “ma”)
 
 However, there are exceptions, particularly with some verb forms and loanwords.
 
@@ -335,9 +335,9 @@ Intonation in Amharic serves grammatical and pragmatic functions:
 3. Wh-questions usually have a falling intonation.
 
 Example:
-- Declarative: **Addis Abäba hedku.** (አዲስ አበባ ሄድኩ።) - "I went to Addis Ababa." (falling intonation)
-- Yes/no question: **Addis Abäba hedkn?** (አዲስ አበባ ሄድክን?) - "Did you go to Addis Ababa?" (rising intonation)
-- Wh-question: **wädät hedk?** (ወዴት ሄድክ?) - "Where did you go?" (falling intonation)
+- Declarative: **Addis Abäba hedku.** (አዲስ አበባ ሄድኩ።) - “I went to Addis Ababa.” (falling intonation)
+- Yes/no question: **Addis Abäba hedkn?** (አዲስ አበባ ሄድክን?) - “Did you go to Addis Ababa?” (rising intonation)
+- Wh-question: **wädät hedk?** (ወዴት ሄድክ?) - “Where did you go?” (falling intonation)
 
 ## Honorifics and Politeness
 
@@ -368,13 +368,13 @@ Titles are commonly used before names to show respect:
 - **wäyzärit** (ወይዘሪት) - Miss
 
 Example:
-**Ato Lämma mäṭṭu.** (አቶ ለማ መጡ።) - "Mr. Lemma came." (using honorific verb form)
+**Ato Lämma mäṭṭu.** (አቶ ለማ መጡ።) - “Mr. Lemma came.” (using honorific verb form)
 
 ## Sentence Structure
 
 ### Copula
 
-The copula ("to be") in Amharic is expressed differently in the present and past tenses:
+The copula (“to be”) in Amharic is expressed differently in the present and past tenses:
 
 Present:
 - **näw** (ነው) - is (masculine)
@@ -385,26 +385,26 @@ Past:
 - **näbbär** (ነበር) - was (for all genders)
 
 Example:
-**əssu tämari näw.** (እሱ ተማሪ ነው።) - "He is a student."
-**əssu tämari näbbär.** (እሱ ተማሪ ነበር።) - "He was a student."
+**əssu tämari näw.** (እሱ ተማሪ ነው።) - “He is a student.”
+**əssu tämari näbbär.** (እሱ ተማሪ ነበር።) - “He was a student.”
 
 ### Existential Sentences
 
 The verb **allä** (አለ) is used to express existence:
 
-- **wəha allä.** (ውሃ አለ።) - "There is water."
-- **wəha yälläm.** (ውሃ የለም።) - "There is no water." (negative form)
+- **wəha allä.** (ውሃ አለ።) - “There is water.”
+- **wəha yälläm.** (ውሃ የለም።) - “There is no water.” (negative form)
 
 ### Comparative and Superlative
 
-Comparatives are formed using the preposition **kä-** (ከ-) "than" and the verb **yəbälṭal** (ይበልጣል) "exceeds":
+Comparatives are formed using the preposition **kä-** (ከ-) “than” and the verb **yəbälṭal** (ይበልጣል) “exceeds”:
 
-**yəhe bet käza yəbälṭal.** (ይህ ቤት ከዛ ይበልጣል።) - "This house is better than that one."
+**yəhe bet käza yəbälṭal.** (ይህ ቤት ከዛ ይበልጣል።) - “This house is better than that one.”
 
-Superlatives use **hullu** (ሁሉ) "all" or **bäṭam** (በጣም) "very":
+Superlatives use **hullu** (ሁሉ) “all” or **bäṭam** (በጣም) “very”:
 
-**yəhe bet kähullum yəbälṭal.** (ይህ ቤት ከሁሉም ይበልጣል።) - "This house is the best of all."
-**yəhe bet bäṭam ṭəru näw.** (ይህ ቤት በጣም ጥሩ ነው።) - "This house is very good/the best."
+**yəhe bet kähullum yəbälṭal.** (ይህ ቤት ከሁሉም ይበልጣል።) - “This house is the best of all.”
+**yəhe bet bäṭam ṭəru näw.** (ይህ ቤት በጣም ጥሩ ነው።) - “This house is very good/the best.”
 
 ## Tense and Aspect
 
@@ -414,67 +414,67 @@ Amharic has a complex tense-aspect system. Here are some key forms:
 
 Describes completed actions:
 
-**bälla** (በላ) - "He ate"
+**bälla** (በላ) - “He ate”
 
 ### Imperfect
 
 Used for habitual or ongoing actions:
 
-**yəbälallä** (ይበላል) - "He eats" / "He will eat"
+**yəbälallä** (ይበላል) - “He eats” / “He will eat”
 
 ### Present Perfect
 
 Expresses actions completed in the recent past with current relevance:
 
-**bältoal** (በልቷል) - "He has eaten"
+**bältoal** (በልቷል) - “He has eaten”
 
 ### Gerund
 
 Used for concurrent actions or states:
 
-**əyäbälla** (እየበላ) - "while eating"
+**əyäbälla** (እየበላ) - “while eating”
 
 ### Compound Tenses
 
 Formed using the gerund and auxiliary verbs:
 
-**əyäbälla näw** (እየበላ ነው) - "He is eating" (present continuous)
-**əyäbälla näbbär** (እየበላ ነበር) - "He was eating" (past continuous)
+**əyäbälla näw** (እየበላ ነው) - “He is eating” (present continuous)
+**əyäbälla näbbär** (እየበላ ነበር) - “He was eating” (past continuous)
 
 ## Conjunctions and Connectives
 
 Amharic uses various conjunctions and connectives to link clauses and sentences:
 
-- **əna** (እና) - "and"
-- **wäyəm** (ወይም) - "or"
-- **gən** (ግን) - "but"
-- **səlä** (ስለ) - "because"
-- **əndä** (እንደ) - "that" (complementizer)
-- **bəččəgna** (ብቻ) - "only"
+- **əna** (እና) - “and”
+- **wäyəm** (ወይም) - “or”
+- **gən** (ግን) - “but”
+- **səlä** (ስለ) - “because”
+- **əndä** (እንደ) - “that” (complementizer)
+- **bəččəgna** (ብቻ) - “only”
 
 Example:
-**wəha əna məgəb fälləgku.** (ውሃ እና ምግብ ፈለግኩ።) - "I wanted water and food."
+**wəha əna məgəb fälləgku.** (ውሃ እና ምግብ ፈለግኩ።) - “I wanted water and food.”
 
 ## Reduplication
 
 Amharic uses reduplication for various purposes:
 
 1. Intensification:
-   **ṭəqəṭ ṭəqəṭ** (ጥቅጥ ጥቅጥ) - "very thick"
+   **ṭəqəṭ ṭəqəṭ** (ጥቅጥ ጥቅጥ) - “very thick”
 
 2. Distributive meaning:
-   **andand** (አንዳንድ) - "some, a few" (from **and** "one")
+   **andand** (አንዳንድ) - “some, a few” (from **and** “one”)
 
 3. Repetitive action:
-   **qäläṭṭäqäläṭṭä** (ቀለጠቀለጠ) - "to flicker repeatedly"
+   **qäläṭṭäqäläṭṭä** (ቀለጠቀለጠ) - “to flicker repeatedly”
 
 ## Interjections and Exclamations
 
 Amharic has various interjections and exclamations:
 
-- **əshi** (እሺ) - "okay"
+- **əshi** (እሺ) - “okay”
 - **əwäy** (እወይ) - expression of surprise or dismay
-- **əndet** (እንዴት) - "how?" (also used as an exclamation)
+- **əndet** (እንዴት) - “how?” (also used as an exclamation)
 - **wäy** (ወይ) - expression of admiration or surprise
 
 ## Proverbs and Sayings
@@ -483,17 +483,17 @@ Amharic is rich in proverbs and sayings, which often use metaphorical language:
 
 1. **የሚናገረው ሰው አፍ አለው፤ የማይናገረው ሰው ጆሮ አለው።**
    **yämminaggäräw säw af alläw; yämaynaggäräw säw joro alläw.**
-   "The one who speaks has a mouth; the one who doesn't speak has ears."
+   “The one who speaks has a mouth; the one who doesn’t speak has ears.”
    (Meaning: It's wise to listen more than you speak.)
 
 2. **ቆየት ያለ ወተት አይበላሽም።**
    **qoyyät yalä wätät aybälaššəm.**
-   "Milk that has been around for a long time doesn't spoil."
+   “Milk that has been around for a long time doesn’t spoil.”
    (Meaning: Experience is valuable.)
 
 3. **አንድ እጅ ጭብጥ አያወጣም።**
    **and əjj č̣əbəṭ ayawäṭam.**
-   "One hand doesn't produce a clap."
+   “One hand doesn’t produce a clap.”
    (Meaning: Cooperation is necessary for success.)
 
 ## Dialects
@@ -514,7 +514,7 @@ Differences between dialects can include variations in vocabulary, pronunciation
 
 In urban areas, particularly Addis Ababa, code-switching between Amharic and English is common, especially among younger, educated speakers:
 
-**Computer-u crash adärräggä.** (ኮምፒውተሩ crash አደረገ።) - "The computer crashed."
+**Computer-u crash adärräggä.** (ኮምፒውተሩ crash አደረገ።) - “The computer crashed.”
 
 This phenomenon reflects the increasing influence of English in education and technology.
 

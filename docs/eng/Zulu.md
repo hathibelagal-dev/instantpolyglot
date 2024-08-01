@@ -107,14 +107,14 @@ The use of clicks in Zulu adds a unique dimension to its phonology and can be ch
 
 Zulu is a tonal language, with two basic tones: high and low. Tone can distinguish between otherwise identical words. However, tone is not marked in the standard orthography. This can sometimes lead to ambiguity in written Zulu, which is typically resolved through context. Here are some examples of minimal pairs distinguished by tone:
 
-- **ukubala** (low-low-low-low) means "to count"
-- **ukubala** (low-low-low-high) means "to write"
+- **ukubala** (low-low-low-low) means “to count”
+- **ukubala** (low-low-low-high) means “to write”
 
-- **uthando** (low-low-low) means "love"
-- **uthando** (low-high-low) means "wood"
+- **uthando** (low-low-low) means “love”
+- **uthando** (low-high-low) means “wood”
 
-- **amabele** (low-low-low-low) means "sorghum"
-- **amabele** (low-low-low-high) means "breasts"
+- **amabele** (low-low-low-low) means “sorghum”
+- **amabele** (low-low-low-high) means “breasts”
 
 While tone is crucial in spoken Zulu, native speakers naturally interpret the correct meaning based on context in written form. For learners, it's important to practice with native speakers to grasp the tonal distinctions.
 
@@ -127,7 +127,7 @@ The most common syllable structure in Zulu is CV (Consonant-Vowel). However, oth
 - CCV: **mla** (in **umlambo**, river)
 - CCCV: **ntwa** (in **intwa**, fight)
 
-Zulu does not allow consonant clusters at the end of syllables, which is why many loanwords are adapted to fit this pattern. For example, the English word "desk" becomes **idesiki** in Zulu.
+Zulu does not allow consonant clusters at the end of syllables, which is why many loanwords are adapted to fit this pattern. For example, the English word “desk” becomes **idesiki** in Zulu.
 
 ## Morphology
 
@@ -418,7 +418,7 @@ Negative: **Angihambanga** (I did not go)
 
 ### Copulative Sentences
 
-Copulative sentences (equational sentences) in Zulu don't use a verb "to be". Instead, they use prefixes that agree with the subject's noun class. For example:
+Copulative sentences (equational sentences) in Zulu don’t use a verb “to be”. Instead, they use prefixes that agree with the subject's noun class. For example:
 
 **UThemba ungumfundi** (Themba is a student)
 - U- (Class 1 subject prefix)
@@ -456,7 +456,7 @@ Some nouns have irregular locative forms:
 Zulu uses various conjunctions to connect words, phrases, and clauses. Some common conjunctions include:
 
 - **futhi** (and, also): **Ngidla futhi ngiphuza** (I eat and I drink)
-- **kodwa** (but): **Ngiyamthanda kodwa akangithandi** (I love him/her but he/she doesn't love me)
+- **kodwa** (but): **Ngiyamthanda kodwa akangithandi** (I love him/her but he/she doesn’t love me)
 - **ngoba** (because): **Ngiyagijima ngoba ngisheshe** (I'm running because I'm in a hurry)
 - **uma** (if): **Uma lina, angizi** (If it rains, I'm not coming)
 - **noma** (or): **Ufuna itiye noma ikhofi?** (Do you want tea or coffee?)

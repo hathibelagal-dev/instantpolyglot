@@ -93,7 +93,7 @@ Stress in Cape Verdean Creole is generally predictable and falls on the penultim
    Example: **kanta** [ˈkãnta] (to sing)
 
 3. Consonant clusters: Unlike Portuguese, Cape Verdean Creole tends to break up consonant clusters with epenthetic vowels.
-   Example: Portuguese "flor" → Cape Verdean Creole **flor** [fiˈlor] (flower)
+   Example: Portuguese “flor” → Cape Verdean Creole **flor** [fiˈlor] (flower)
 
 ## Morphology
 
@@ -218,7 +218,7 @@ Cape Verdean Creole generally follows a Subject-Verb-Object (SVO) word order.
 
 2. Negative sentences:
    The negative particle **ka** is placed before the verb or TMA marker.
-   **N ka ta kume pexe** (I don't eat fish)
+   **N ka ta kume pexe** (I don’t eat fish)
 
 3. Interrogative sentences:
    Questions are typically formed by raising intonation at the end of a declarative sentence.
@@ -282,9 +282,9 @@ For pronominal possession, possessive pronouns are used:
 Cape Verdean Creole vocabulary is primarily derived from Portuguese, with influences from West African languages, particularly Wolof and Mandinka. Some examples of words from different origins:
 
 1. Portuguese-derived:
-   - **águ** (water) - from Portuguese "água"
-   - **kasa** (house) - from Portuguese "casa"
-   - **kume** (to eat) - from Portuguese "comer"
+   - **águ** (water) - from Portuguese “água”
+   - **kasa** (house) - from Portuguese “casa”
+   - **kume** (to eat) - from Portuguese “comer”
 
 2. African-derived:
    - **djunta-mon** (mutual aid, cooperation) - from Mandinka
@@ -292,8 +292,8 @@ Cape Verdean Creole vocabulary is primarily derived from Portuguese, with influe
    - **funana** (traditional music and dance style) - of African origin
 
 3. Creole innovations:
-   - **rabenta** (to explode, burst) - possibly from Portuguese "rebentar" with influence from African languages
-   - **matxo-femia** (hermaphrodite) - literally "male-female"
+   - **rabenta** (to explode, burst) - possibly from Portuguese “rebentar” with influence from African languages
+   - **matxo-femia** (hermaphrodite) - literally “male-female”
 
 Some common expressions:
 
@@ -375,23 +375,23 @@ The months in Cape Verdean Creole are similar to Portuguese:
 
 Cape Verdean Creole has many idiomatic expressions that reflect the culture and history of the islands. Here are some examples:
 
-1. **Kusa sabi ka ta dura** (Good things don't last long)
-   Literally: "Tasty thing doesn't last"
+1. **Kusa sabi ka ta dura** (Good things don’t last long)
+   Literally: “Tasty thing doesn’t last”
 
 2. **Pedra ki ka ta move ka ta kria limo** (A rolling stone gathers no moss)
-   Literally: "Stone that doesn't move doesn't create moss"
+   Literally: “Stone that doesn’t move doesn’t create moss”
 
-3. **Sabi ku sabi ka ta fazi sabi** (Two wrongs don't make a right)
-   Literally: "Tasty with tasty doesn't make tasty"
+3. **Sabi ku sabi ka ta fazi sabi** (Two wrongs don’t make a right)
+   Literally: “Tasty with tasty doesn’t make tasty”
 
 4. **Kabalu bai, sela fika** (Life goes on even after someone is gone)
-   Literally: "Horse goes, saddle stays"
+   Literally: “Horse goes, saddle stays”
 
 5. **Boka dosi ta mata moska** (You catch more flies with honey than with vinegar)
-   Literally: "Sweet mouth kills fly"
+   Literally: “Sweet mouth kills fly”
 
 6. **Mas vale un pásaru na mon ki sen ta vua** (A bird in the hand is worth two in the bush)
-   Literally: "Better one bird in hand than a hundred flying"
+   Literally: “Better one bird in hand than a hundred flying”
 
 ## Colloquial Language
 
@@ -401,7 +401,7 @@ Cape Verdean Creole, like many creole languages, has a rich colloquial vocabular
    Example: **Kel festa staba fixon** (That party was awesome)
 
 2. **Bai ku Deus** (goodbye)
-   Literally: "Go with God"
+   Literally: “Go with God”
 
 3. **Nha genti** (my people, used to address a group)
    Example: **Nha genti, nu bai** (Let's go, guys)
@@ -413,16 +413,16 @@ Cape Verdean Creole, like many creole languages, has a rich colloquial vocabular
    Example: **Nu bai dar un grogo** (Let's go have a drink)
 
 6. **Papia sabi** (to sweet talk, to flatter)
-   Example: **Ka bu tenta papia sabi ku mi** (Don't try to sweet talk me)
+   Example: **Ka bu tenta papia sabi ku mi** (Don’t try to sweet talk me)
 
-7. **Djam** (already - a shortened form of "dja")
+7. **Djam** (already - a shortened form of “dja”)
    Example: **N djam kume** (I've already eaten)
 
 ## Phonological Variation
 
 As mentioned earlier, there are several varieties of Cape Verdean Creole. Here are some examples of phonological variation between the Sotavento (southern) and Barlavento (northern) varieties:
 
-1. Pronunciation of "r":
+1. Pronunciation of “r”:
    - Sotavento: [ɾ] (alveolar tap)
    - Barlavento: [ʁ] (uvular fricative)
    Example: **karu** (car)
@@ -436,7 +436,7 @@ As mentioned earlier, there are several varieties of Cape Verdean Creole. Here a
    - Sotavento: [ˈkaza]
    - Barlavento: [ˈkaz]
 
-3. Pronunciation of "lh":
+3. Pronunciation of “lh”:
    - Sotavento: [ʎ] (palatal lateral approximant)
    - Barlavento: [j] (palatal approximant)
    Example: **fidju** (son)
@@ -457,21 +457,21 @@ There are also some grammatical differences between the varieties:
 1. First-person singular pronoun:
    - Sotavento: **N**
    - Barlavento: **Mi**
-   Example: "I eat"
+   Example: “I eat”
    - Sotavento: **N ta kume**
    - Barlavento: **Mi ta kume**
 
 2. Progressive aspect marker:
    - Sotavento: **sata**
    - Barlavento: **tita**
-   Example: "I am eating"
+   Example: “I am eating”
    - Sotavento: **N sata kume**
    - Barlavento: **Mi tita kume**
 
 3. Negation:
    - Sotavento: **ka** (preverbal)
    - Barlavento: **ka** ... **nau** (preverbal and sentence-final)
-   Example: "I don't eat"
+   Example: “I don’t eat”
    - Sotavento: **N ka ta kume**
    - Barlavento: **Mi ka ta kume nau**
 
@@ -481,40 +481,40 @@ Due to the official status of Portuguese and increasing global connections, code
 
 Examples of code-switching:
 1. **N ta bai pa beach oji** (I'm going to the beach today)
-   - "beach" is used instead of the Creole "praia"
+   - “beach” is used instead of the Creole “praia”
 
 2. **Bu pode give me un call más tardi?** (Can you give me a call later?)
-   - "give me un call" is used instead of the Creole "da-m un tokada"
+   - “give me un call” is used instead of the Creole “da-m un tokada”
 
 Examples of borrowing:
 1. **N mesti upload kel file** (I need to upload that file)
-   - "upload" and "file" are English borrowings
+   - “upload” and “file” are English borrowings
 
 2. **El ten un smartphone novu** (He/She has a new smartphone)
-   - "smartphone" is an English borrowing
+   - “smartphone” is an English borrowing
 
 ## Proverbs and Sayings
 
 Proverbs play an important role in Cape Verdean culture and language. Here are some examples:
 
 1. **Kusa ki bu ka kre, bu ka ta pô riba bu kama**
-   Literally: "What you don't want, you don't put on your bed"
-   Meaning: Don't invite trouble into your life
+   Literally: “What you don’t want, you don’t put on your bed”
+   Meaning: Don’t invite trouble into your life
 
 2. **Kada kabesa, kada sentidu**
-   Literally: "Each head, each sense"
+   Literally: “Each head, each sense”
    Meaning: Everyone has their own opinion
 
 3. **Gotu ta enxe ku pinga**
-   Literally: "The glass fills with drops"
+   Literally: “The glass fills with drops”
    Meaning: Little by little, you can achieve great things
 
 4. **Ken ki ta mara burro e ki ta dismara-l**
-   Literally: "Who ties the donkey is who unties it"
+   Literally: “Who ties the donkey is who unties it”
    Meaning: The person who creates a problem should solve it
 
 5. **Agu ta kori pa mar**
-   Literally: "Water runs to the sea"
+   Literally: “Water runs to the sea”
    Meaning: Things naturally follow their course
 
 ## Writing System
@@ -523,17 +523,17 @@ While Cape Verdean Creole is primarily a spoken language, there have been effort
 
 Some key features of the ALUPEC system:
 
-1. Use of **k** instead of **c** for the [k] sound: **kasa** (house) instead of "casa"
+1. Use of **k** instead of **c** for the [k] sound: **kasa** (house) instead of “casa”
 
-2. Use of **s** instead of **c** before **e** and **i**: **sima** (like) instead of "cima"
+2. Use of **s** instead of **c** before **e** and **i**: **sima** (like) instead of “cima”
 
-3. Use of **x** for the [ʃ] sound: **xavi** (key) instead of "chave"
+3. Use of **x** for the [ʃ] sound: **xavi** (key) instead of “chave”
 
-4. Use of **dj** for the [dʒ] sound: **odja** (to see) instead of "odjâ"
+4. Use of **dj** for the [dʒ] sound: **odja** (to see) instead of “odjâ”
 
-5. Use of **tx** for the [tʃ] sound: **txon** (ground) instead of "chon"
+5. Use of **tx** for the [tʃ] sound: **txon** (ground) instead of “chon”
 
-6. Representation of nasalized vowels with **n**: **mon** (hand) instead of "mão"
+6. Representation of nasalized vowels with **n**: **mon** (hand) instead of “mão”
 
 However, it's worth noting that the use of this standardized orthography is not universal, and variations in spelling are common, especially in informal contexts.
 

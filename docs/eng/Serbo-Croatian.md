@@ -38,7 +38,7 @@ There are five vowel phonemes:
 | o | [o] | close-mid back rounded |
 | u | [u] | close back rounded |
 
-Vowel length is phonemic, meaning it can distinguish between words. For example, "pas" [pas] means "dog", while "pȃs" [pâːs] means "belt".
+Vowel length is phonemic, meaning it can distinguish between words. For example, “pas” [pas] means “dog”, while “pȃs” [pâːs] means “belt”.
 
 ### Consonants
 
@@ -62,7 +62,7 @@ Vowel length is phonemic, meaning it can distinguish between words. For example,
 | r | [r] | alveolar trill |
 | j | [j] | palatal approximant |
 
-The consonant /r/ can be syllabic, meaning it can form the nucleus of a syllable, as in the word "prst" [pr̩st] (finger).
+The consonant /r/ can be syllabic, meaning it can form the nucleus of a syllable, as in the word “prst” [pr̩st] (finger).
 
 ### Stress and Pitch Accent
 
@@ -74,10 +74,10 @@ Serbo-Croatian has a pitch accent system, which is relatively rare among Europea
 4. Long rising: ⟨˝⟩
 
 For example:
-- "grad" [ɡrâd] (city) - long falling
-- "ruka" [ˈrûka] (hand) - short falling
-- "noga" [ˈnòɡa] (leg) - short rising
-- "glava" [ˈɡláʋa] (head) - long rising
+- “grad” [ɡrâd] (city) - long falling
+- “ruka” [ˈrûka] (hand) - short falling
+- “noga” [ˈnòɡa] (leg) - short rising
+- “glava” [ˈɡláʋa] (head) - long rising
 
 The position of stress is not fixed and can distinguish between words. However, it always falls on the first syllable in a word with two syllables.
 
@@ -89,7 +89,7 @@ Serbo-Croatian is a highly inflected language, with complex systems for nouns, a
 
 Nouns in Serbo-Croatian have three genders (masculine, feminine, neuter), two numbers (singular, plural), and seven cases (nominative, accusative, genitive, dative, instrumental, locative, vocative).
 
-Example declension for "grad" (city, masculine):
+Example declension for “grad” (city, masculine):
 
 | Case | Singular | Plural |
 |------|----------|--------|
@@ -101,7 +101,7 @@ Example declension for "grad" (city, masculine):
 | Locative | gradu | gradovima |
 | Vocative | grade | gradovi |
 
-Example declension for "žena" (woman, feminine):
+Example declension for “žena” (woman, feminine):
 
 | Case | Singular | Plural |
 |------|----------|--------|
@@ -113,7 +113,7 @@ Example declension for "žena" (woman, feminine):
 | Locative | ženi | ženama |
 | Vocative | ženo | žene |
 
-Example declension for "selo" (village, neuter):
+Example declension for “selo” (village, neuter):
 
 | Case | Singular | Plural |
 |------|----------|--------|
@@ -129,7 +129,7 @@ Example declension for "selo" (village, neuter):
 
 Adjectives agree with nouns in gender, number, and case. They also have definite and indefinite forms. The definite form is used when the noun is specific or previously mentioned, while the indefinite form is used for general statements.
 
-Example: "velik" (big)
+Example: “velik” (big)
 
 Indefinite declension (masculine singular):
 
@@ -165,7 +165,7 @@ Personal pronouns in nominative case:
 | 2nd | ti | vi |
 | 3rd (m/f/n) | on / ona / ono | oni / one / ona |
 
-Pronouns also decline for case. For example, the declension of "ja" (I):
+Pronouns also decline for case. For example, the declension of “ja” (I):
 
 | Case | Form |
 |------|------|
@@ -180,7 +180,7 @@ Pronouns also decline for case. For example, the declension of "ja" (I):
 
 Verbs in Serbo-Croatian are conjugated for person, number, tense, aspect, and mood. The aspect system distinguishes between perfective and imperfective verbs.
 
-Present tense of "čitati" (to read, imperfective):
+Present tense of “čitati” (to read, imperfective):
 
 | Person | Singular | Plural |
 |--------|----------|--------|
@@ -188,7 +188,7 @@ Present tense of "čitati" (to read, imperfective):
 | 2nd | čitaš | čitate |
 | 3rd | čita | čitaju |
 
-Perfective aspect: "pročitati" (to read through)
+Perfective aspect: “pročitati” (to read through)
 
 | Person | Singular | Plural |
 |--------|----------|--------|
@@ -196,13 +196,13 @@ Perfective aspect: "pročitati" (to read through)
 | 2nd | pročitaš | pročitate |
 | 3rd | pročita | pročitaju |
 
-Future tense is formed with the auxiliary "htjeti" (will) + infinitive:
+Future tense is formed with the auxiliary “htjeti” (will) + infinitive:
 - Ja ću čitati (I will read)
 
-Past tense uses the auxiliary "biti" (to be) + active participle:
+Past tense uses the auxiliary “biti” (to be) + active participle:
 - Ja sam čitao/čitala (I read, m/f)
 
-Conditional mood is formed with the auxiliary "biti" in the aorist tense + active participle:
+Conditional mood is formed with the auxiliary “biti” in the aorist tense + active participle:
 - Ja bih čitao/čitala (I would read, m/f)
 
 Imperative mood:
@@ -217,12 +217,12 @@ Verbal aspect is a crucial feature of Serbo-Croatian verbs. Most verbs come in a
 - Perfective: describes completed actions or actions viewed as a whole
 
 For example:
-- "pisati" (to write, imperfective) / "napisati" (to write, perfective)
-- "čitati" (to read, imperfective) / "pročitati" (to read, perfective)
+- “pisati” (to write, imperfective) / “napisati” (to write, perfective)
+- “čitati” (to read, imperfective) / “pročitati” (to read, perfective)
 
 The aspect can change the meaning of a sentence:
-- "Čitao sam knjigu" (I was reading a book - emphasis on the process)
-- "Pročitao sam knjigu" (I read/finished the book - emphasis on completion)
+- “Čitao sam knjigu” (I was reading a book - emphasis on the process)
+- “Pročitao sam knjigu” (I read/finished the book - emphasis on completion)
 
 ### Numbers
 
@@ -231,12 +231,12 @@ Cardinal numbers:
 
 Numbers decline for case when used with nouns. The numbers 1-4 have special forms:
 
-- "jedan čovjek" (one man, nom.)
-- "jednog čovjeka" (one man, acc./gen.)
-- "dva čovjeka" (two men)
-- "tri čovjeka" (three men)
-- "četiri čovjeka" (four men)
-- "pet ljudi" (five people)
+- “jedan čovjek” (one man, nom.)
+- “jednog čovjeka” (one man, acc./gen.)
+- “dva čovjeka” (two men)
+- “tri čovjeka” (three men)
+- “četiri čovjeka” (four men)
+- “pet ljudi” (five people)
 
 Note that for 5 and above, the noun takes the genitive plural form.
 
@@ -262,7 +262,7 @@ Questions can be formed in several ways:
 1. By intonation:
    - Ti govoriš hrvatski? (You speak Croatian?)
 
-2. Using the particle "li":
+2. Using the particle “li”:
    - Govoriš li hrvatski? (Do you speak Croatian?)
 
 3. Using question words:
@@ -271,21 +271,21 @@ Questions can be formed in several ways:
 
 ### Negation
 
-Negation is formed by placing "ne" before the verb:
-- Ne govorim hrvatski. (I don't speak Croatian.)
+Negation is formed by placing “ne” before the verb:
+- Ne govorim hrvatski. (I don’t speak Croatian.)
 
-In the case of the verb "biti" (to be) in the present tense, "ne" combines with the verb:
+In the case of the verb “biti” (to be) in the present tense, “ne” combines with the verb:
 - Nisam sretan. (I'm not happy.)
 
 Double negatives are standard in Serbo-Croatian:
-- Nitko nije došao. (Nobody came. Literally: "Nobody didn't come.")
+- Nitko nije došao. (Nobody came. Literally: “Nobody didn't come.”)
 
 ### Articles
 
 There are no articles in Serbo-Croatian. Definiteness can be expressed through:
 
 1. Word order: Known information tends to come earlier in the sentence.
-2. Demonstratives: "ovaj" (this), "taj" (that), "onaj" (that over there)
+2. Demonstratives: “ovaj” (this), “taj” (that), “onaj” (that over there)
 3. Context
 4. Definite/indefinite forms of adjectives
 
@@ -293,19 +293,19 @@ There are no articles in Serbo-Croatian. Definiteness can be expressed through:
 
 Serbo-Croatian has several types of participles:
 
-1. Present active participle: formed from imperfective verbs, e.g., "čitajući" (reading)
-2. Past active participle: used to form past tense, e.g., "čitao" (read)
-3. Passive participle: used to form passive voice, e.g., "čitan" (read/being read)
+1. Present active participle: formed from imperfective verbs, e.g., “čitajući” (reading)
+2. Past active participle: used to form past tense, e.g., “čitao” (read)
+3. Passive participle: used to form passive voice, e.g., “čitan” (read/being read)
 
 ### Passive Voice
 
-Passive voice is formed using the verb "biti" (to be) + passive participle:
+Passive voice is formed using the verb “biti” (to be) + passive participle:
 - Knjiga je čitana. (The book is/was being read.)
 
 ### Reflexive Verbs
 
-Many verbs in Serbo-Croatian are reflexive, using the reflexive pronoun "se":
-- Zovem se Ivan. (My name is Ivan. Literally: "I call myself Ivan.")
+Many verbs in Serbo-Croatian are reflexive, using the reflexive pronoun “se”:
+- Zovem se Ivan. (My name is Ivan. Literally: “I call myself Ivan.”)
 
 ## Vocabulary
 
@@ -313,39 +313,39 @@ Serbo-Croatian vocabulary is primarily Slavic in origin, with loanwords from var
 
 1. Turkish: due to Ottoman influence
    Examples: 
-   - "šećer" (sugar)
-   - "čarapa" (sock)
-   - "rakija" (fruit brandy)
+   - “šećer” (sugar)
+   - “čarapa” (sock)
+   - “rakija” (fruit brandy)
 
 2. German: especially in technical and everyday terms
    Examples:
-   - "šrafciger" (screwdriver)
-   - "paradajz" (tomato)
-   - "šnajder" (tailor)
+   - “šrafciger” (screwdriver)
+   - “paradajz” (tomato)
+   - “šnajder” (tailor)
 
 3. Italian: particularly in coastal areas
    Examples:
-   - "pjaca" (square, from Italian "piazza")
-   - "špageti" (spaghetti)
-   - "barka" (boat)
+   - “pjaca” (square, from Italian “piazza”)
+   - “špageti” (spaghetti)
+   - “barka” (boat)
 
 4. Hungarian: due to historical connections
    Examples:
-   - "cipela" (shoe)
-   - "soba" (room)
-   - "lopov" (thief)
+   - “cipela” (shoe)
+   - “soba” (room)
+   - “lopov” (thief)
 
 5. English: modern loanwords, especially in technology and pop culture
    Examples:
-   - "kompjuter" (computer)
-   - "menadžer" (manager)
-   - "vikend" (weekend)
+   - “kompjuter” (computer)
+   - “menadžer” (manager)
+   - “vikend” (weekend)
 
 6. French: mostly in cuisine and fashion
    Examples:
-   - "restoran" (restaurant)
-   - "garderoba" (wardrobe)
-   - "dekolte" (décolletage)
+   - “restoran” (restaurant)
+   - “garderoba” (wardrobe)
+   - “dekolte” (décolletage)
 
 Many words vary between the standard varieties. For example:
 
@@ -367,18 +367,18 @@ There are three main dialect groups in Serbo-Croatian:
 
 3. Čakavian: Spoken along the Adriatic coast in Croatia and some islands.
 
-These dialects are named after their word for "what": što, kaj, and ča respectively.
+These dialects are named after their word for “what”: što, kaj, and ča respectively.
 
 The standard languages are based on the Štokavian dialect, but there are further subdivisions based on the reflex of the Common Slavic vowel yat:
 
 - Ekavian: mainly used in Serbia
-  Example: "mleko" (milk)
+  Example: “mleko” (milk)
 
 - Ijekavian: used in Croatia, Bosnia and Herzegovina, and Montenegro
-  Example: "mlijeko" (milk)
+  Example: “mlijeko” (milk)
 
 - Ikavian: used in some dialects, particularly in parts of Dalmatia and western Herzegovina
-  Example: "mliko" (milk)
+  Example: “mliko” (milk)
 
 Despite these differences, mutual intelligibility remains high across all varieties.
 
@@ -388,40 +388,40 @@ Despite these differences, mutual intelligibility remains high across all variet
 
 Serbo-Croatian, like many European languages, distinguishes between formal and informal forms of address:
 
-- "ti" is the informal singular "you"
-- "vi" is both the formal singular "you" and the plural "you" (both formal and informal)
+- “ti” is the informal singular “you”
+- “vi” is both the formal singular “you” and the plural “you” (both formal and informal)
 
-Using "ti" vs "Vi" (capitalized in writing when used as the formal singular) is important in social interactions. "Vi" is used:
+Using “ti” vs “Vi” (capitalized in writing when used as the formal singular) is important in social interactions. “Vi” is used:
 - With older people
 - In formal situations
-- With people you don't know well
+- With people you don’t know well
 - To show respect
 
 For example:
-- "Kako si?" (How are you? - informal)
-- "Kako ste?" (How are you? - formal or plural)
+- “Kako si?” (How are you? - informal)
+- “Kako ste?” (How are you? - formal or plural)
 
 ### Politeness and Etiquette
 
 Politeness in Serbo-Croatian is often expressed through the use of the conditional mood:
-- "Htio bih..." (I would like...) is more polite than "Hoću..." (I want...)
+- “Htio bih...” (I would like...) is more polite than “Hoću...” (I want...)
 
-The word "molim" (please) is often used, both as a request and as a response to "hvala" (thank you).
+The word “molim” (please) is often used, both as a request and as a response to “hvala” (thank you).
 
 ### Idiomatic Expressions
 
 Serbo-Croatian has many idiomatic expressions. Here are a few examples:
 
-- "Pada mi mrak na oči" (Darkness is falling on my eyes) - I'm getting very angry
-- "Bacati pare kroz prozor" (To throw money through the window) - To waste money
-- "Prodavati maglu" (To sell fog) - To deceive or make empty promises
+- “Pada mi mrak na oči” (Darkness is falling on my eyes) - I'm getting very angry
+- “Bacati pare kroz prozor” (To throw money through the window) - To waste money
+- “Prodavati maglu” (To sell fog) - To deceive or make empty promises
 
 ### Regional Variations
 
 While the language is largely the same across countries, there are some regional preferences in vocabulary and expression. For example:
 
-- In Croatia, "doviđenja" is commonly used for "goodbye", while in Serbia "doviđenja" or "prijatno" are more common.
-- The phrase "Kako si?" (How are you?) is more common in informal situations in Croatia, while "Šta ima?" (What's up?) is more common in Serbia.
+- In Croatia, “doviđenja” is commonly used for “goodbye”, while in Serbia “doviđenja” or “prijatno” are more common.
+- The phrase “Kako si?” (How are you?) is more common in informal situations in Croatia, while “Šta ima?” (What's up?) is more common in Serbia.
 
 ## Writing System and Orthography
 
@@ -433,21 +433,21 @@ Latin: A B C Č Ć D Dž Đ E F G H I J K L Lj M N Nj O P R S Š T U V Z Ž
 
 Cyrillic: А Б В Г Д Ђ Е Ж З И Ј К Л Љ М Н Њ О П Р С Т Ћ У Ф Х Ц Ч Џ Ш
 
-Note that digraphs like "lj", "nj", and "dž" are treated as single letters.
+Note that digraphs like “lj”, “nj”, and “dž” are treated as single letters.
 
 ### Capitalization Rules
 
 Capitalization rules in Serbo-Croatian are similar to English, with a few notable differences:
 
-- Names of months and days of the week are not capitalized: "januar" (January), "ponedeljak" (Monday)
-- Names of languages and nationalities are not capitalized: "srpski" (Serbian), "hrvat" (Croat)
+- Names of months and days of the week are not capitalized: “januar” (January), “ponedeljak” (Monday)
+- Names of languages and nationalities are not capitalized: “srpski” (Serbian), “hrvat” (Croat)
 - In titles, only the first word and proper nouns are capitalized
 
 ### Punctuation
 
 Punctuation in Serbo-Croatian is generally similar to English, with a few differences:
 
-- Quotation marks: „quote" or »quote« (note the position of the marks)
+- Quotation marks: „quote“ or »quote« (note the position of the marks)
 - Time is written with a period: 9.45 (9:45 in English)
 - Decimal numbers use a comma instead of a period: 3,14 (3.14 in English)
 
@@ -466,7 +466,7 @@ Here are some common phrases in Serbo-Croatian:
 - Izvinite / Oprostite - Excuse me (Izvinite more common in Serbia, Oprostite in Croatia)
 - Gdje je...? - Where is...?
 - Koliko košta...? - How much does ... cost?
-- Ne razumijem - I don't understand
+- Ne razumijem - I don’t understand
 - Govorite li engleski? - Do you speak English?
 
 ## Grammar Peculiarities
@@ -482,13 +482,13 @@ Serbo-Croatian uses clitic (unstressed) forms of pronouns, which have strict rul
 
 As mentioned earlier, most verbs come in aspect pairs. Learning to use these correctly is crucial for mastering Serbo-Croatian:
 
-- "Pisati" (to write, imperfective) / "napisati" (to write, perfective)
-- "Učiti" (to learn/study, imperfective) / "naučiti" (to learn, perfective)
+- ”Pisati“ (to write, imperfective) / ”napisati“ (to write, perfective)
+- ”Učiti“ (to learn/study, imperfective) / ”naučiti“ (to learn, perfective)
 
 The choice between imperfective and perfective can change the meaning of a sentence:
 
-- "Učio sam cijeli dan." (I was studying all day.)
-- "Naučio sam lekciju." (I learned the lesson.)
+- ”Učio sam cijeli dan.“ (I was studying all day.)
+- ”Naučio sam lekciju.“ (I learned the lesson.)
 
 ### The Vocative Case
 
@@ -501,21 +501,21 @@ The vocative case, used for direct address, is becoming less common in everyday 
 
 Serbo-Croatian often uses impersonal constructions where English might use a personal subject:
 
-- "Hladno mi je." (I'm cold. Literally: "It is cold to me.")
-- "Spava mi se." (I feel sleepy. Literally: "It sleeps itself to me.")
+- ”Hladno mi je.“ (I'm cold. Literally: ”It is cold to me.“)
+- ”Spava mi se.“ (I feel sleepy. Literally: ”It sleeps itself to me.“)
 
 ### Verbal Adverbs
 
-Serbo-Croatian has verbal adverbs that don't exist in English:
+Serbo-Croatian has verbal adverbs that don’t exist in English:
 
-- Present verbal adverb: "Trčeći je pao." (He fell while running.)
-- Past verbal adverb: "Završivši posao, otišao je kući." (Having finished work, he went home.)
+- Present verbal adverb: ”Trčeći je pao.“ (He fell while running.)
+- Past verbal adverb: ”Završivši posao, otišao je kući.“ (Having finished work, he went home.)
 
 ## Language Learning Resources
 
 For those interested in learning Serbo-Croatian, there are various resources available:
 
-1. Textbooks: "Teach Yourself Croatian" or "Colloquial Serbian" are good starting points.
+1. Textbooks: ”Teach Yourself Croatian“ or ”Colloquial Serbian" are good starting points.
 2. Online courses: Websites like Duolingo and Memrise offer Serbo-Croatian courses.
 3. Language exchange apps: Tandem and HelloTalk can connect learners with native speakers.
 4. YouTube channels: There are many channels dedicated to teaching Serbo-Croatian, offering lessons for various levels.

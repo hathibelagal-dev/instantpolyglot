@@ -72,7 +72,7 @@ Stress in Corsican is phonemic and can fall on any of the last three syllables o
 
 ## Orthography
 
-Corsican uses the Latin alphabet with some additional characters and digraphs. The most common orthography is the "Spelling of 1971" (Ortografia di u 1971), but other systems exist.
+Corsican uses the Latin alphabet with some additional characters and digraphs. The most common orthography is the “Spelling of 1971” (Ortografia di u 1971), but other systems exist.
 
 ### Alphabet
 
@@ -86,10 +86,10 @@ ch, ghj, gli, sc, sg
 
 ### Special characters and sounds
 
-- **chj**: represents /c/ before a, o, u (e.g., **chjama** [ˈcama] "call")
-- **ghj**: represents /ɟ/ (e.g., **ghjente** [ˈɟente] "people")
-- **sc**: represents /ʃ/ (e.g., **pesciu** [ˈpeʃu] "fish")
-- **sg**: represents /ʒ/ in some dialects (e.g., **sgiaccu** [ˈʒakku] "jacket")
+- **chj**: represents /c/ before a, o, u (e.g., **chjama** [ˈcama] “call”)
+- **ghj**: represents /ɟ/ (e.g., **ghjente** [ˈɟente] “people”)
+- **sc**: represents /ʃ/ (e.g., **pesciu** [ˈpeʃu] “fish”)
+- **sg**: represents /ʒ/ in some dialects (e.g., **sgiaccu** [ˈʒakku] “jacket”)
 
 ### Accent marks
 
@@ -134,7 +134,7 @@ Plural formation generally follows these patterns:
    - **casa** → **case** (houses)
    - **figlia** → **figlie** (daughters)
 
-3. Nouns ending in -e often don't change:
+3. Nouns ending in -e often don’t change:
    - **pane** → **pane** (breads)
    - **notte** → **notte** (nights)
 
@@ -345,7 +345,7 @@ However, the word order can be more flexible due to the case system and for emph
 
 Negation is typically formed by placing **ùn** before the verb and **micca** after it:
 
-**Ùn parlu micca u corsu** (I don't speak Corsican)
+**Ùn parlu micca u corsu** (I don’t speak Corsican)
 
 In some cases, **micca** can be omitted:
 
@@ -404,28 +404,28 @@ Corsican vocabulary is primarily derived from Latin, with influences from Italia
 
 ### Latin-derived words
 
-- **acqua** (water) - from Latin "aqua"
-- **pane** (bread) - from Latin "panis"
-- **casa** (house) - from Latin "casa"
-- **terra** (earth) - from Latin "terra"
-- **omu** (man) - from Latin "homo"
+- **acqua** (water) - from Latin “aqua”
+- **pane** (bread) - from Latin “panis”
+- **casa** (house) - from Latin “casa”
+- **terra** (earth) - from Latin “terra”
+- **omu** (man) - from Latin “homo”
 
 ### Italian/Tuscan influence
 
-- **zitellu** (boy) - from Italian "zitello" (archaic for "young man")
-- **addunassi** (to realize) - from Italian "addonarsi"
-- **macchja** (maquis, shrubland) - from Italian "macchia"
+- **zitellu** (boy) - from Italian “zitello” (archaic for “young man”)
+- **addunassi** (to realize) - from Italian “addonarsi”
+- **macchja** (maquis, shrubland) - from Italian “macchia”
 
 ### French influence
 
-- **sciarpa** (scarf) - from French "écharpe"
-- **baracca** (shack) - from French "baraque"
-- **purtone** (gate) - from French "portail"
+- **sciarpa** (scarf) - from French “écharpe”
+- **baracca** (shack) - from French “baraque”
+- **purtone** (gate) - from French “portail”
 
 ### Other influences
 
-- **zinzala** (mosquito) - possibly from Arabic "zanzara"
-- **battellu** (boat) - from Germanic "bat" (boat)
+- **zinzala** (mosquito) - possibly from Arabic “zanzara”
+- **battellu** (boat) - from Germanic “bat” (boat)
 
 ### Common phrases
 
@@ -465,7 +465,7 @@ Some key differences between these dialects include:
    - Ultramontane: **andemu** (let's go)
 
 2. Semantic differences:
-   - **babbu** means "father" in Cismontane but "stupid" in Ultramontane
+   - **babbu** means “father” in Cismontane but “stupid” in Ultramontane
 
 ### Grammar
 
@@ -481,25 +481,25 @@ Some key differences between these dialects include:
 
 Corsican has many idiomatic expressions that reflect its culture and history. Here are some examples:
 
-1. **Fà una cuccagna** (literally: "to make a feast")
+1. **Fà una cuccagna** (literally: “to make a feast”)
    Meaning: To have a great time, to enjoy oneself
 
-2. **Avè u pede marinu** (literally: "to have a marine foot")
+2. **Avè u pede marinu** (literally: “to have a marine foot”)
    Meaning: To be a good sailor, to have sea legs
 
-3. **Esse in lu so brodu** (literally: "to be in one's broth")
+3. **Esse in lu so brodu** (literally: “to be in one's broth”)
    Meaning: To be in one's element, to feel comfortable
 
-4. **Scuzzulà a nuciola** (literally: "to shell the hazelnut")
+4. **Scuzzulà a nuciola** (literally: “to shell the hazelnut”)
    Meaning: To solve a problem, to figure something out
 
-5. **Mette acqua à u so vinu** (literally: "to put water in one's wine")
+5. **Mette acqua à u so vinu** (literally: “to put water in one's wine”)
    Meaning: To moderate oneself, to compromise
 
-6. **Esse in u buschettu** (literally: "to be in the small wood")
+6. **Esse in u buschettu** (literally: “to be in the small wood”)
    Meaning: To be confused, to be lost
 
-7. **Avè a lingua longa** (literally: "to have a long tongue")
+7. **Avè a lingua longa** (literally: “to have a long tongue”)
    Meaning: To be talkative, to gossip
 
 ## Proverbs

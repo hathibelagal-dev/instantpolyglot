@@ -167,7 +167,7 @@ Personal pronouns in Kazakh:
 | 2nd (formal) | сіз [sɪz] (siz) | сіздер [sɪzdér] (sizdér) |
 | 3rd | ол [ol] (ol) | олар [olɑ́r] (olár) |
 
-Pronouns are declined like nouns. Examples with "мен" (I):
+Pronouns are declined like nouns. Examples with “мен” (I):
 
 - Accusative: **мені** [menɪ́] (mení) 'me'
 - Genitive: **менің** [menɪ́ŋ] (meníñ) 'my'
@@ -306,7 +306,7 @@ The imperative is formed by using the bare verb stem for the informal singular, 
 
 The negative is formed by adding **-ма/-ме/-ба/-бе/-па/-пе** to the verb stem before the tense and personal endings:
 
-- **жазбаймын** [ʒɑzbɑjmə́n] (jazbaymı́n) 'I don't write'
+- **жазбаймын** [ʒɑzbɑjmə́n] (jazbaymı́n) 'I don’t write'
 - **келмедім** [kelmedɪ́m] (kelmedím) 'I didn't come'
 
 #### Participles
@@ -417,8 +417,8 @@ Rain     if-fall, I   home stay-will
 
 Reported speech in Kazakh uses the particle **деп** after the quoted speech:
 
-**Ол "мен келемін" деп айтты** [ol "men kelemɪ́n" dep ɑjttə́] (ol "men kelemín" dep ayttı́)
-He "I   will-come" that said
+**Ол “мен келемін” деп айтты** [ol “men kelemɪ́n” dep ɑjttə́] (ol “men kelemín” dep ayttı́)
+He “I   will-come” that said
 'He said that he would come'
 
 ## Colloquial Kazakh
@@ -441,7 +441,7 @@ Colloquial Kazakh differs from the standard written language in several ways:
 
 5. Particle usage: Colloquial speech often uses particles for emphasis or to convey attitude:
    - **ғой** [ɣoj] (ğoy): expresses certainty or obviousness
-     **Ол келеді ғой** [ol keledɪ́ ɣoj] (ol keledí ğoy) 'He's coming, isn't he?'
+     **Ол келеді ғой** [ol keledɪ́ ɣoj] (ol keledí ğoy) 'He's coming, isn’t he?'
    - **шы/ші** [ʃə/ʃɪ] (şı/şi): softens commands or requests
      **Айтшы** [ɑjtʃə́] (aytşı́) 'Tell me, please'
 
@@ -492,17 +492,17 @@ Kazakh has a complex system of honorifics and politeness markers:
 
 Kazakh has many idiomatic expressions. Here are a few examples:
 
-1. **Көз тию** [kœz tijʊ́] (köz tiyú) - literally "eye touching", meaning "to be jinxed" or "to be affected by the evil eye"
+1. **Көз тию** [kœz tijʊ́] (köz tiyú) - literally “eye touching”, meaning “to be jinxed” or “to be affected by the evil eye”
 
-2. **Бас аяғы** [bɑs ɑjɑɣə́] (bas ayağı́) - literally "head-foot", meaning "in total" or "all in all"
+2. **Бас аяғы** [bɑs ɑjɑɣə́] (bas ayağı́) - literally “head-foot”, meaning “in total” or “all in all”
 
 3. **Құлақ түрү** [qʊlɑ́q tʏrʊ́] (qulá
 
-q türú) - literally "to prick up one's ears", meaning "to listen attentively"
+q türú) - literally “to prick up one's ears”, meaning “to listen attentively”
 
-4. **Жүрегі жарылу** [ʒʏreɡɪ́ ʒɑrələ́] (jüregí jarılú) - literally "heart bursting", meaning "to be extremely frightened"
+4. **Жүрегі жарылу** [ʒʏreɡɪ́ ʒɑrələ́] (jüregí jarılú) - literally “heart bursting”, meaning “to be extremely frightened”
 
-5. **Аузы-мұрны қисаймау** [ɑwzə́ mʊrə́ qijsɑjmɑ́w] (awzı́ murı́ qiysaymáw) - literally "mouth and nose not bending", meaning "to be indifferent" or "to not react"
+5. **Аузы-мұрны қисаймау** [ɑwzə́ mʊrə́ qijsɑjmɑ́w] (awzı́ murı́ qiysaymáw) - literally “mouth and nose not bending”, meaning “to be indifferent” or “to not react”
 
 ## Loan Words and Neologisms
 
@@ -522,7 +522,7 @@ Kazakh has borrowed words from various languages throughout its history:
 
 Neologisms are often created to replace foreign words or express new concepts:
 
-- **ғаламтор** [ɣɑlɑmtór] (ğalamtór) 'internet' (lit. "world net")
+- **ғаламтор** [ɣɑlɑmtór] (ğalamtór) 'internet' (lit. “world net”)
 - **қолтырауын** [qoltərɑwə́n] (qoltırawı́n) 'crocodile' (replacing Russian 'крокодил')
 
 ## Writing System

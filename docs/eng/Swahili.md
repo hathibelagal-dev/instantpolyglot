@@ -76,7 +76,7 @@ Swahili is an agglutinative language with a rich system of prefixes and suffixes
 
 ### Noun Classes
 
-Swahili has a system of noun classes, often referred to as "genders" in Bantu linguistics. There are 15-18 noun classes, depending on the analysis. Each class has its own set of prefixes for nouns, adjectives, and verbs. Here are the main classes:
+Swahili has a system of noun classes, often referred to as “genders” in Bantu linguistics. There are 15-18 noun classes, depending on the analysis. Each class has its own set of prefixes for nouns, adjectives, and verbs. Here are the main classes:
 
 | Class | Singular Prefix | Plural Prefix | Typical Meaning |
 |-------|-----------------|---------------|-----------------|
@@ -163,10 +163,10 @@ Examples:
 Negation is marked by prefixes that vary by tense and person:
 
 - Present/Future (1st person): **si-**
-  **Sisomi** (I don't read)
+  **Sisomi** (I don’t read)
 
 - Present/Future (other persons): **ha-**
-  **Hasomi** (He/She doesn't read)
+  **Hasomi** (He/She doesn’t read)
 
 - Past: **-ku-**
   **Sikusomal** (I didn't read)
@@ -233,13 +233,13 @@ The basic word order in Swahili is Subject-Verb-Object (SVO):
 
 **Juma anasoma kitabu.**
 Juma he-PRES-read book
-"Juma is reading a book."
+“Juma is reading a book.”
 
 However, the rich agreement system allows for flexibility:
 
 **Kitabu anakisoma Juma.**
 book he-PRES-it-read Juma
-"The book, Juma is reading it."
+“The book, Juma is reading it.”
 
 ### Agreement
 
@@ -247,25 +247,25 @@ Nouns control agreement on verbs, adjectives, and other elements:
 
 **Mtoto mdogo anacheza.**
 child small he-PRES-play
-"The small child is playing."
+“The small child is playing.”
 
 **Watoto wadogo wanacheza.**
 children small they-PRES-play
-"The small children are playing."
+“The small children are playing.”
 
 ### Copula
 
-The verb "to be" (**kuwa**) is often omitted in the present tense:
+The verb “to be” (**kuwa**) is often omitted in the present tense:
 
 **Juma mwalimu.**
 Juma teacher
-"Juma is a teacher."
+“Juma is a teacher.”
 
 In other tenses, it's explicitly used:
 
 **Juma alikuwa mwalimu.**
 Juma he-PAST-be teacher
-"Juma was a teacher."
+“Juma was a teacher.”
 
 ### Questions
 
@@ -273,21 +273,21 @@ Yes/no questions are formed by intonation or by using the question particle **je
 
 **Unasoma?**
 you-PRES-read
-"Are you reading?"
+“Are you reading?”
 
 **Je, unasoma?**
 Q you-PRES-read
-"Are you reading?"
+“Are you reading?”
 
 Wh-questions use interrogative words in situ:
 
 **Unasoma nini?**
 you-PRES-read what
-"What are you reading?"
+“What are you reading?”
 
 **Unaenda wapi?**
 you-PRES-go where
-"Where are you going?"
+“Where are you going?”
 
 ### Relative Clauses
 
@@ -295,7 +295,7 @@ Relative clauses are formed using the relative marker **-o-** infixed in the ver
 
 **Kitabu ninachokisoma ni kizuri.**
 book I-PRES-REL-it-read is good
-"The book that I am reading is good."
+“The book that I am reading is good.”
 
 ### Comparison
 
@@ -303,13 +303,13 @@ Comparatives are formed with **kuliko** (than):
 
 **Juma ni mrefu kuliko Asha.**
 Juma is tall than Asha
-"Juma is taller than Asha."
+“Juma is taller than Asha.”
 
 Superlatives use **-a** + noun class agreement + **-ote** (all):
 
 **Juma ni mrefu wa wote.**
 Juma is tall of all
-"Juma is the tallest of all."
+“Juma is the tallest of all.”
 
 ## Vocabulary
 
@@ -387,7 +387,7 @@ Dialectal differences can include:
 Colloquial Swahili, especially as spoken by youth in urban areas, often differs from the standard language:
 
 1. Shortened forms:
-   **sina** instead of **siwezi** (I can't)
+   **sina** instead of **siwezi** (I can’t)
 
 2. Slang terms:
    **poa** (cool), **mzuka** (ghost, problem)
@@ -599,7 +599,7 @@ Swahili has a rich tradition of proverbs:
 Meaning: Small efforts eventually lead to big achievements.
 
 **Asiyesikia la mkuu huvunjika guu.**
-(One who doesn't listen to an elder's advice gets a broken leg.)
+(One who doesn’t listen to an elder's advice gets a broken leg.)
 Meaning: It's wise to heed advice from experienced people.
 
 ## Greetings
@@ -610,7 +610,7 @@ Greetings are an important part of Swahili culture:
 **Hamjambo** (How are you? - plural)
 Response: **Sijambo** / **Hatujambo** (I'm fine / We're fine)
 
-**Habari yako?** (How are you? - lit. "Your news?")
+**Habari yako?** (How are you? - lit. “Your news?”)
 Response: **Nzuri** (Good)
 
 Time-specific greetings:
@@ -623,14 +623,14 @@ Time-specific greetings:
 When borrowing words, Swahili often adapts them to fit its phonological and morphological patterns:
 
 1. Adding vowels to final consonants:
-   "bus" → **basi**
-   "plastic" → **plastiki**
+   “bus” → **basi**
+   “plastic” → **plastiki**
 
 2. Replacing sounds not in Swahili:
-   "television" → **televisheni**
+   “television” → **televisheni**
 
 3. Adapting to noun class system:
-   "computer" → **kompyuta** (Class 9/10)
+   “computer” → **kompyuta** (Class 9/10)
 
 ## Swahili Literature
 
@@ -640,10 +640,10 @@ Swahili has a rich literary tradition, including:
    Traditional forms like **utenzi** (epic poems) and **wimbo** (songs)
 
 2. Novels:
-   e.g., "Kusadikika" by Shaaban Robert
+   e.g., “Kusadikika” by Shaaban Robert
 
 3. Plays:
-   e.g., "Kinjeketile" by Ebrahim Hussein
+   e.g., “Kinjeketile” by Ebrahim Hussein
 
 4. Oral literature:
    Folktales, legends, and myths passed down through generations

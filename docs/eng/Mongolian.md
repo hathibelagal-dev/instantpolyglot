@@ -17,7 +17,7 @@ Example:
 ᠮᠣᠩᠭᠣᠯ
 ᠬᠡᠯᠡ
 
-(Mongol khele - "Mongolian language")
+(Mongol khele - “Mongolian language”)
 
 ### Cyrillic Mongolian Script
 
@@ -26,7 +26,7 @@ In Mongolia, the Cyrillic alphabet has been the primary writing system since 194
 Example:
 Монгол хэл
 
-(Mongol khel - "Mongolian language")
+(Mongol khel - “Mongolian language”)
 
 For the purposes of this overview, we'll focus primarily on the Cyrillic script and provide romanizations where appropriate.
 
@@ -260,7 +260,7 @@ The basic word order in Mongolian is Subject-Object-Verb (SOV):
 
 **Би ном уншиж байна.** (Bi nom unshij bayna.)
 I book reading am
-"I am reading a book."
+“I am reading a book.”
 
 However, due to the case system, word order can be somewhat flexible for emphasis or stylistic reasons.
 
@@ -270,13 +270,13 @@ Yes/no questions are formed by adding the particle **уу/үү** to the end of a
 
 **Та Монгол хэл сурч байна уу?** (Ta Mongol khel surj bayna uu?)
 You Mongolian language learning are (question particle)
-"Are you learning Mongolian?"
+“Are you learning Mongolian?”
 
 Wh-questions use question words, which typically appear immediately before the verb:
 
 **Та хаана амьдардаг вэ?** (Ta khaana am'dardag ve?)
 You where live (question particle)
-"Where do you live?"
+“Where do you live?”
 
 Common question words:
 **хэн** (khen) - who
@@ -292,13 +292,13 @@ Negation in Mongolian is typically expressed using the negative particle **-гү
 
 **Би ойлгохгүй байна.** (Bi oylgokhgüy bayna.)
 I understand-not am
-"I don't understand."
+“I don’t understand.”
 
 For nouns and adjectives, the negative word **биш** (bish) is used:
 
 **Энэ ном биш.** (Ene nom bish.)
 This book not
-"This is not a book."
+“This is not a book.”
 
 ### Postpositions
 
@@ -313,7 +313,7 @@ Relative clauses in Mongolian precede the noun they modify and are formed using 
 
 **уншиж байгаа хүн** (unshij baygaa khün)
 reading being person
-"the person who is reading"
+“the person who is reading”
 
 ## Vocabulary
 
@@ -370,7 +370,7 @@ Spoken Mongolian, especially in informal contexts, can differ significantly from
 
 4. Loanwords: Colloquial speech often incorporates more loanwords, especially from Russian and English.
    **окей** (okey) - okay
-   **баяртай** (bayartay) - bye (literally "with joy", but used like the English "bye")
+   **баяртай** (bayartay) - bye (literally “with joy”, but used like the English “bye”)
 
 5. Sentence-final particles: These are used to express the speaker's attitude or emotion.
    **даа** (daa) - indicates certainty or emphasis
@@ -379,7 +379,7 @@ Spoken Mongolian, especially in informal contexts, can differ significantly from
 Example of colloquial speech:
 Written: **Та сайн байна уу? Танийг юу гэдэг вэ?** (Ta sayn bayna uu? Taniyg yuu gedeg ve?)
 Colloquial: **Сайн уу? Чамайг хэн гэдэг вэ?** (Sayn uu? Chamayg khen gedeg ve?)
-"How are you? What's your name?"
+“How are you? What's your name?”
 
 6. Informal pronouns: In casual speech, especially among peers or younger people, informal pronouns are used.
    Formal: **та** (ta) - you (polite)
@@ -401,10 +401,10 @@ A: **За, бга даа. Ажил дээр их завгүй.** (Za, bga daa. A
 B: **Ойлгомжтой. Би ч гэсэн.** (Oylgomjtoy. Bi ch gesen.)
 
 Translation:
-A: "Hey, how's it going?"
-B: "Good, how about you?"
-A: "Well, I'm okay. Very busy at work."
-B: "I see. Me too."
+A: “Hey, how's it going?”
+B: “Good, how about you?”
+A: “Well, I'm okay. Very busy at work.”
+B: “I see. Me too.”
 
 ## Dialects
 
@@ -429,34 +429,34 @@ While Khalkha Mongolian is the standard dialect, there are several other dialect
 
 Mongolian has many idiomatic expressions, often reflecting traditional culture and nomadic lifestyle:
 
-1. **Нохой зэвүүцэх** (Nokhoy zevüütsekh) - lit. "for a dog to be disgusted", meaning extremely cold weather.
+1. **Нохой зэвүүцэх** (Nokhoy zevüütsekh) - lit. “for a dog to be disgusted”, meaning extremely cold weather.
 
-2. **Морины чихэнд шивнэх** (Moriny chikhend shivnekh) - lit. "to whisper in a horse's ear", meaning to speak very quietly.
+2. **Морины чихэнд шивнэх** (Moriny chikhend shivnekh) - lit. “to whisper in a horse's ear”, meaning to speak very quietly.
 
-3. **Нүдээ олох** (Nüdee olokh) - lit. "to find one's eyes", meaning to sober up.
+3. **Нүдээ олох** (Nüdee olokh) - lit. “to find one's eyes”, meaning to sober up.
 
-4. **Хоёр чоно нэг хонин дээр тохирохгүй** (Khoyor chono neg khonin deer tokhirokhgüy) - lit. "two wolves won't agree on one sheep", meaning two people won't share the same profit.
+4. **Хоёр чоно нэг хонин дээр тохирохгүй** (Khoyor chono neg khonin deer tokhirokhgüy) - lit. “two wolves won’t agree on one sheep”, meaning two people won’t share the same profit.
 
-5. **Үхэр малын сүүлээр загас агнах** (Ükher malyn süüleer zagas agnakh) - lit. "to fish with a cow's tail", meaning to do something inefficiently or use the wrong tool for a job.
+5. **Үхэр малын сүүлээр загас агнах** (Ükher malyn süüleer zagas agnakh) - lit. “to fish with a cow's tail”, meaning to do something inefficiently or use the wrong tool for a job.
 
 ## Proverbs
 
 Mongolian proverbs often convey wisdom related to nature, human relationships, and life experiences:
 
 1. **Мэдэх нь эд, мэдэхгүй нь өвчин** (Medekh n' ed, medekhgüy n' övchin)
-   "Knowledge is wealth, ignorance is sickness"
+   “Knowledge is wealth, ignorance is sickness”
 
 2. **Нүдэнд үзэгдэхгүй ч сэтгэлд мэдрэгддэг** (Nüdend üzegdekhgüy ch setgeld medregddog)
-   "Not seen by the eye, but felt by the heart"
+   “Not seen by the eye, but felt by the heart”
 
 3. **Сайн эхнэр гэрийн чимэг, сайн нөхөр төрийн чимэг** (Sayn ekhner geriyn chimeg, sayn nökhör töriyn chimeg)
-   "A good wife is the ornament of the home, a good husband is the ornament of the state"
+   “A good wife is the ornament of the home, a good husband is the ornament of the state”
 
 4. **Хэлсэн үг хурц илднээс хүчтэй** (Khelsen üg khurts ildnees khüchtey)
-   "Spoken words are stronger than a sharp sword"
+   “Spoken words are stronger than a sharp sword”
 
 5. **Мод нэг үндэстэй, хүн олон үндэстэй** (Mod neg ündestey, khün olon ündestey)
-   "A tree has one root, a person has many roots"
+   “A tree has one root, a person has many roots”
 
 ## Mongolian Names
 
@@ -482,8 +482,8 @@ But in everyday use, people are usually called by their given names.
 As Mongolian society modernizes, the language continues to evolve, incorporating new words and concepts:
 
 1. Technology terms:
-   **цахим шуудан** (tsakhim shuudan) - email (lit. "electronic mail")
-   **гар утас** (gar utas) - mobile phone (lit. "hand phone")
+   **цахим шуудан** (tsakhim shuudan) - email (lit. “electronic mail”)
+   **гар утас** (gar utas) - mobile phone (lit. “hand phone”)
 
 2. Social media:
    **нийгмийн сүлжээ** (niygmiyn süljee) - social network
@@ -513,7 +513,7 @@ The Mongolian honorific system extends beyond just vocabulary and includes gramm
 
 3. Pronouns:
    Regular: **та** (ta) - you (polite singular)
-   Honorific: **таны бие** (tany biye) - you (very polite, lit. "your body")
+   Honorific: **таны бие** (tany biye) - you (very polite, lit. “your body”)
 
 4. Titles:
    **ах** (akh) - older brother, also used for any older male
@@ -533,28 +533,28 @@ Mongolian writing styles can vary depending on the context:
 
    Example:
    **Танд энэхүү захидлыг хүргүүлж байгаадаа таатай байна.** (Tand enekhüü zakhidlyg khürgüülj baygaadaa taatay bayna.)
-   "I am pleased to send you this letter."
+   “I am pleased to send you this letter.”
 
 2. Journalistic:
    Used in news articles and reports. It aims for clarity and conciseness, often using short sentences and active voice.
 
    Example:
    **Өнөөдөр Улаанбаатар хотод их цас орлоо.** (Önöödör Ulaanbaatar khotod ikh tsas orloo.)
-   "Heavy snow fell in Ulaanbaatar today."
+   “Heavy snow fell in Ulaanbaatar today.”
 
 3. Literary:
    Used in literature, poetry, and creative writing. It often employs more flowery language, metaphors, and descriptive phrases.
 
    Example:
    **Намрын шаргал навч салхинд хийсэн нь миний сэтгэлийг хөдөлгөв.** (Namryn shargal navch salkhind khiysen n' miniy setgeliig khödölgöv.)
-   "The autumn's yellow leaves flying in the wind stirred my heart."
+   “The autumn's yellow leaves flying in the wind stirred my heart.”
 
 4. Colloquial/Online:
    Used in informal writing, text messages, and social media. It often includes abbreviations, emoticons, and dialect features.
 
    Example:
    **Өнөөд ажилдаа явах уу? Би яваагүй.** (Önööd ajildaa yavakh uu? Bi yavaagüy.)
-   "Are you going to work today? I didn't go."
+   “Are you going to work today? I didn't go.”
 
 ## Mongolian Script (Traditional)
 
@@ -566,12 +566,12 @@ While Cyrillic is now the primary script in Mongolia, the traditional Mongolian 
 
 3. Multiple forms: Many letters have different forms depending on their position in the word (initial, medial, final).
 
-4. Vowel harmony: The script reflects the vowel harmony rules of the language, with different letters used for words with "masculine" or "feminine" vowels.
+4. Vowel harmony: The script reflects the vowel harmony rules of the language, with different letters used for words with “masculine” or “feminine” vowels.
 
 Example in traditional script:
 ᠮᠣᠩᠭᠣᠯ
 ᠬᠡᠯᠡ
 
-(Mongol khele - "Mongolian language")
+(Mongol khele - “Mongolian language”)
 
 While not widely used for everyday communication in Mongolia proper, there's been a resurgence of interest in the traditional script for cultural and historical reasons.

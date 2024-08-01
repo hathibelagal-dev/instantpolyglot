@@ -63,7 +63,7 @@ The acute accent is also used to distinguish between homographs:
 
 ### Diaeresis
 
-The diaeresis (¨) is used over 'u' in the combinations "güe" and "güi" to indicate that the 'u' is pronounced:
+The diaeresis (¨) is used over 'u' in the combinations “güe” and “güi” to indicate that the 'u' is pronounced:
 
 - **lingüística** [liŋˈɡwistika] (linguistics)
 
@@ -281,7 +281,7 @@ Questions can be formed by inversion or using interrogative words:
 
 Negative sentences are formed by placing **non** before the verb:
 
-**O can non ladra** (The dog doesn't bark)
+**O can non ladra** (The dog doesn’t bark)
 
 ### Pronouns and clitic placement
 
@@ -394,8 +394,8 @@ Suffixes:
 
 Some words look similar to Spanish but have different meanings:
 
-- **vaso** (glass in Spanish, but "glass" is **vaso** in Galician)
-- **cereixa** (cherry in Galician, but "cherry" is **cereza** in Spanish)
+- **vaso** (glass in Spanish, but “glass” is **vaso** in Galician)
+- **cereixa** (cherry in Galician, but “cherry” is **cereza** in Spanish)
 
 ## Dialectal variation
 
@@ -498,7 +498,7 @@ Galician allows and sometimes requires clitic doubling, where both a pronoun and
 
 ### Differential object marking
 
-Unlike Spanish, Galician doesn't use the preposition "a" for personal direct objects:
+Unlike Spanish, Galician doesn’t use the preposition “a” for personal direct objects:
 
 **Vexo o home** (I see the man)
 
@@ -506,7 +506,7 @@ Unlike Spanish, Galician doesn't use the preposition "a" for personal direct obj
 
 Galician often uses paratactic constructions where other languages might use subordination:
 
-**Vai ti alá** (You go there) instead of "It's better if you go there"
+**Vai ti alá** (You go there) instead of “It's better if you go there”
 
 ### Emphatic affirmation
 
@@ -555,9 +555,9 @@ The personal infinitive is used in various contexts:
 
 Galician has many unique idiomatic expressions:
 
-- **Chover na mollada** (lit. "to rain on the wet", meaning to make a bad situation worse)
-- **Ser un can sen dono** (lit. "to be a dog without an owner", meaning to be very free or independent)
-- **Meter a galiña** (lit. "to put in the hen", meaning to go to bed early)
+- **Chover na mollada** (lit. “to rain on the wet”, meaning to make a bad situation worse)
+- **Ser un can sen dono** (lit. “to be a dog without an owner”, meaning to be very free or independent)
+- **Meter a galiña** (lit. “to put in the hen”, meaning to go to bed early)
 
 ### Onomatopoeias
 
@@ -614,7 +614,7 @@ The standardization of Galician has been a complex process:
 
 - Creation of the Real Academia Galega in 1906
 - Establishment of Normas Ortográficas e Morfolóxicas do Idioma Galego in 1982
-- Ongoing debates between "reintegrationist" and "isolationist" approaches
+- Ongoing debates between “reintegrationist” and “isolationist” approaches
 
 ### Code-switching
 

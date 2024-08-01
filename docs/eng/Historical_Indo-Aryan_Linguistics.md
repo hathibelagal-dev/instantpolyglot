@@ -41,16 +41,16 @@ Old Indo-Aryan had a rich phonological system, including:
 Examples of phonological contrasts:
 
 1. Vowel length:
-   **vana** [ˈvənə] "forest" vs. **vāṇa** [ˈvaːɳə] "arrow"
+   **vana** [ˈvənə] “forest” vs. **vāṇa** [ˈvaːɳə] “arrow”
 
 2. Aspiration:
-   **kāla** [ˈkaːlə] "time" vs. **khāla** [ˈkʰaːlə] "threshing floor"
+   **kāla** [ˈkaːlə] “time” vs. **khāla** [ˈkʰaːlə] “threshing floor”
 
 3. Retroflex vs. dental:
-   **maṇi** [ˈməɳi] "jewel" vs. **mani** [ˈməni] "to think"
+   **maṇi** [ˈməɳi] “jewel” vs. **mani** [ˈməni] “to think”
 
 4. Sibilant distinctions:
-   **śaṅkha** [ˈʃəŋkʰə] "conch" vs. **ṣaṇḍa** [ˈʂəɳɖə] "bull" vs. **sapta** [ˈsəptə] "seven"
+   **śaṅkha** [ˈʃəŋkʰə] “conch” vs. **ṣaṇḍa** [ˈʂəɳɖə] “bull” vs. **sapta** [ˈsəptə] “seven”
 
 #### Morphology
 
@@ -61,7 +61,7 @@ Old Indo-Aryan was highly inflectional, with a complex system of nominal and ver
    - Three numbers: singular, dual, plural
    - Eight cases: nominative, accusative, instrumental, dative, ablative, genitive, locative, vocative
 
-Example of noun declension for **deva** "god" (masculine):
+Example of noun declension for **deva** “god” (masculine):
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
@@ -74,7 +74,7 @@ Example of noun declension for **deva** "god" (masculine):
 | Locative | **deve** | **devayoḥ** | **deveṣu** |
 | Vocative | **deva** | **devau** | **devāḥ** |
 
-Example of noun declension for **nadī** "river" (feminine):
+Example of noun declension for **nadī** “river” (feminine):
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
@@ -93,7 +93,7 @@ Example of noun declension for **nadī** "river" (feminine):
    - Active and middle voices
    - Ten classes of present stems
 
-Example of verb conjugation for **bhū** "to be" in the present tense (active voice):
+Example of verb conjugation for **bhū** “to be” in the present tense (active voice):
 
 | Person | Singular | Dual | Plural |
 |--------|----------|------|--------|
@@ -101,7 +101,7 @@ Example of verb conjugation for **bhū** "to be" in the present tense (active vo
 | 2nd | **bhavasi** | **bhavathaḥ** | **bhavatha** |
 | 3rd | **bhavati** | **bhavataḥ** | **bhavanti** |
 
-Example of verb conjugation for **kṛ** "to do" in the imperfect tense (active voice):
+Example of verb conjugation for **kṛ** “to do” in the imperfect tense (active voice):
 
 | Person | Singular | Dual | Plural |
 |--------|----------|------|--------|
@@ -112,7 +112,7 @@ Example of verb conjugation for **kṛ** "to do" in the imperfect tense (active 
 3. Adjectives:
    Adjectives in Old Indo-Aryan agree with the nouns they modify in gender, number, and case.
 
-Example: **mahānt** "great"
+Example: **mahānt** “great”
 
 Masculine singular nominative: **mahān**
 Feminine singular nominative: **mahatī**
@@ -135,11 +135,11 @@ Example: Personal pronouns (nominative case)
    Sanskrit was known for its extensive use of compound words, which could be quite long and complex.
 
 Types of compounds:
-- Dvandva (copulative): **rāma-kṛṣṇau** "Rama and Krishna"
-- Tatpuruṣa (determinative): **rāja-putraḥ** "king's son"
-- Karmadhāraya (descriptive): **nīla-kamalam** "blue lotus"
-- Bahuvrīhi (possessive): **bahuvṛīhiḥ** "having much rice" (name of this compound type)
-- Avyayībhāva (adverbial): **yathāśakti** "according to ability"
+- Dvandva (copulative): **rāma-kṛṣṇau** “Rama and Krishna”
+- Tatpuruṣa (determinative): **rāja-putraḥ** “king's son”
+- Karmadhāraya (descriptive): **nīla-kamalam** “blue lotus”
+- Bahuvrīhi (possessive): **bahuvṛīhiḥ** “having much rice” (name of this compound type)
+- Avyayībhāva (adverbial): **yathāśakti** “according to ability”
 
 #### Syntax
 
@@ -148,26 +148,26 @@ Old Indo-Aryan had a relatively free word order, with SOV (Subject-Object-Verb) 
 Examples:
 
 1. SOV (most common):
-   **rāmaḥ sītām paśyati** "Rama sees Sita"
+   **rāmaḥ sītām paśyati** “Rama sees Sita”
 
 2. OSV:
-   **sītām rāmaḥ paśyati** "Rama sees Sita"
+   **sītām rāmaḥ paśyati** “Rama sees Sita”
 
 3. VOS:
-   **paśyati sītām rāmaḥ** "Rama sees Sita"
+   **paśyati sītām rāmaḥ** “Rama sees Sita”
 
 All these sentences convey the same meaning despite the different word orders.
 
 Other syntactic features:
 
 1. Use of participles:
-   **gataḥ rāmaḥ vanam apaśyat** "Having gone, Rama saw the forest"
+   **gataḥ rāmaḥ vanam apaśyat** “Having gone, Rama saw the forest”
 
 2. Absolute constructions:
-   **rāme gate sītā rudati** "Rama having gone, Sita weeps"
+   **rāme gate sītā rudati** “Rama having gone, Sita weeps”
 
 3. Periphrastic constructions:
-   **kartā bhavati** "He will do" (lit. "He becomes a doer")
+   **kartā bhavati** “He will do” (lit. “He becomes a doer”)
 
 ### Middle Indo-Aryan (MIA)
 
@@ -176,27 +176,27 @@ The Middle Indo-Aryan period saw significant changes in phonology, morphology, a
 #### Phonological Changes
 
 1. Loss of aspirated voiced consonants
-   OIA **bhavati** > MIA **havadi** "becomes"
-   OIA **gharma** > MIA **ghamma** "heat"
+   OIA **bhavati** > MIA **havadi** “becomes”
+   OIA **gharma** > MIA **ghamma** “heat”
 
 2. Simplification of consonant clusters
-   OIA **kṣetra** > MIA **khetta** "field"
-   OIA **brahman** > MIA **bamhaṇa** "brahmin"
+   OIA **kṣetra** > MIA **khetta** “field”
+   OIA **brahman** > MIA **bamhaṇa** “brahmin”
 
 3. Vowel changes
-   OIA **vṛkṣa** > MIA **rukkha** "tree"
-   OIA **duhitṛ** > MIA **dhīdā** "daughter"
+   OIA **vṛkṣa** > MIA **rukkha** “tree”
+   OIA **duhitṛ** > MIA **dhīdā** “daughter”
 
 4. Development of new vowels
-   OIA **kalya** > MIA **kajja** "work"
-   OIA **satya** > MIA **sacca** "truth"
+   OIA **kalya** > MIA **kajja** “work”
+   OIA **satya** > MIA **sacca** “truth”
 
 5. Loss of final consonants
-   OIA **vāk** > MIA **vāyā** "speech"
-   OIA **aham** > MIA **ahaṃ** "I"
+   OIA **vāk** > MIA **vāyā** “speech”
+   OIA **aham** > MIA **ahaṃ** “I”
 
 6. Palatalization
-   OIA **kṛta** > MIA **kata** > Late MIA **kia** "done"
+   OIA **kṛta** > MIA **kata** > Late MIA **kia** “done”
 
 #### Morphological Changes
 
@@ -219,15 +219,15 @@ OIA: **devau** (two gods) > MIA: merged with plural **devā**
    Many OIA tenses and moods were lost or merged.
 
 Example from Pali:
-OIA **gacchati** "he goes" (present indicative)
-OIA **gacchet** "he may go" (optative)
+OIA **gacchati** “he goes” (present indicative)
+OIA **gacchet** “he may go” (optative)
 Pali **gacchati** for both meanings
 
 4. Development of new tenses
    MIA languages developed new analytical tenses.
 
 Example from Apabhramsa:
-**karu achi** "I am doing" (present continuous)
+**karu achi** “I am doing” (present continuous)
 
 5. Changes in gender system
    Some MIA languages saw a reduction in gender distinctions.
@@ -242,25 +242,25 @@ OIA **putraḥ** (masc.), **kanyā** (fem.), **phalam** (neut.)
    MIA began to use postpositions to express case relationships, a trend that continued into NIA.
 
 Example from Apabhramsa:
-**gharasya upari** (OIA) > **ghara uvari** (Apabhramsa) "on top of the house"
+**gharasya upari** (OIA) > **ghara uvari** (Apabhramsa) “on top of the house”
 
 2. Development of ergative constructions
    Some MIA languages began to show ergative patterns in past tense constructions.
 
 Example from Apabhramsa:
-**maï kahiu** "by me (it was) said" (ergative construction)
+**maï kahiu** “by me (it was) said” (ergative construction)
 
 3. Shift towards analytic constructions
    MIA languages started using more analytic constructions instead of synthetic forms.
 
 Example from Pali:
-OIA **kartavyam** "should be done" > Pali **kātabbaṃ hoti** "becomes to be done"
+OIA **kartavyam** “should be done” > Pali **kātabbaṃ hoti** “becomes to be done”
 
 4. Changes in word order
    While still flexible, there was a trend towards more consistent SOV order in MIA.
 
 Example from Pali:
-**so taṃ kammaṃ akāsi** "He did that work" (SOV order more consistent)
+**so taṃ kammaṃ akāsi** “He did that work” (SOV order more consistent)
 
 ### New Indo-Aryan (NIA)
 
@@ -269,23 +269,23 @@ The New Indo-Aryan period represents the development of modern Indo-Aryan langua
 #### Phonological Developments
 
 1. Loss of phonemic distinction between short and long vowels in many languages
-   Hindi **din** "day" (< OIA **dina**)
-   Bengali **din** "day" (< OIA **dina**)
+   Hindi **din** “day” (< OIA **dina**)
+   Bengali **din** “day” (< OIA **dina**)
 
 2. Development of new phonemes
-   Hindi retroflex flap **ṛ** as in **baṛā** "big"
-   Punjabi voiced aspirates becoming tones: **kòṛā** "horse" (< OIA **ghoṭaka**)
+   Hindi retroflex flap **ṛ** as in **baṛā** “big”
+   Punjabi voiced aspirates becoming tones: **kòṛā** “horse” (< OIA **ghoṭaka**)
 
 3. Nasalization becoming phonemic
-   Hindi **hā̃** "yes" vs. **hā** "oh"
-   Bengali **cā̐d** "moon" vs. **cād** "taste"
+   Hindi **hā̃** “yes” vs. **hā** “oh”
+   Bengali **cā̐d** “moon” vs. **cād** “taste”
 
 4. Development of schwa
-   Hindi unstressed **a** often pronounced as [ə]: **kamal** [kəməl] "lotus"
+   Hindi unstressed **a** often pronounced as [ə]: **kamal** [kəməl] “lotus”
 
 5. Simplification of sibilants
    Most NIA languages have only one sibilant, usually /s/
-   Hindi **sāt** "seven" (< OIA **sapta**)
+   Hindi **sāt** “seven” (< OIA **sapta**)
 
 #### Morphological Developments
 
@@ -293,60 +293,60 @@ The New Indo-Aryan period represents the development of modern Indo-Aryan langua
    Most NIA languages have two or three cases, with postpositions used for other relations.
 
 Example from Hindi:
-Direct case: **laṛkā** "boy"
+Direct case: **laṛkā** “boy”
 Oblique case: **laṛke**
 Vocative case: **laṛke**
 
 Other relations expressed by postpositions:
-**laṛke ko** "to the boy" (dative)
-**laṛke kā** "of the boy" (genitive)
-**laṛke se** "from/by the boy" (ablative/instrumental)
+**laṛke ko** “to the boy” (dative)
+**laṛke kā** “of the boy” (genitive)
+**laṛke se** “from/by the boy” (ablative/instrumental)
 
 2. Development of new tense-aspect distinctions
-   Hindi perfective **maine khāyā** "I ate" vs. imperfective **main khātā thā** "I was eating"
-   Bengali **āmi kheyechi** "I have eaten" vs. **āmi khācchi** "I am eating"
+   Hindi perfective **maine khāyā** “I ate” vs. imperfective **main khātā thā** “I was eating”
+   Bengali **āmi kheyechi** “I have eaten” vs. **āmi khācchi** “I am eating”
 
 3. Emergence of compound verbs
-   Hindi **kha lenā** "to eat up" (lit. "to eat take")
-   Bengali **kore phelā** "to do completely" (lit. "to do throw")
+   Hindi **kha lenā** “to eat up” (lit. “to eat take”)
+   Bengali **kore phelā** “to do completely” (lit. “to do throw”)
 
 4. Development of definite articles in some languages
-   Bengali **-ṭā/-ṭi**: **baiṭā** "the book", **meyeṭi** "the girl"
+   Bengali **-ṭā/-ṭi**: **baiṭā** “the book”, **meyeṭi** “the girl”
 
 5. Grammaticalization of honorifics
-   Hindi **āp** (honorific "you") with special verb forms: **āp jāte haiṁ** "You (honorific) go"
+   Hindi **āp** (honorific “you”) with special verb forms: **āp jāte haiṁ** “You (honorific) go”
 
 6. Loss of grammatical gender in some languages
-   Bengali has lost the gender system entirely: **bhālo chele** "good boy", **bhālo meye** "good girl"
+   Bengali has lost the gender system entirely: **bhālo chele** “good boy”, **bhālo meye** “good girl”
 
 7. Development of inclusive/exclusive distinction in pronouns
-   Marathi **āmhī** (exclusive "we") vs. **āpaṇ** (inclusive "we")
+   Marathi **āmhī** (exclusive “we”) vs. **āpaṇ** (inclusive “we”)
 
 #### Syntactic Developments
 
 1. Solidification of SOV word order
-   Hindi **maiṁ kitāb paṛhtā hūṁ** "I book read am" (I read a book)
-   Bengali **āmi bai paṛi** "I book read" (I read a book)
+   Hindi **maiṁ kitāb paṛhtā hūṁ** “I book read am” (I read a book)
+   Bengali **āmi bai paṛi** “I book read” (I read a book)
 
 2. Development of complex ergative patterns
    Hindi ergative construction in perfective aspect:
-   **laṛke ne kitāb paṛhī** "The boy read the book" (lit. "By the boy book was read")
-   Marathi: **mulāne pustak vācale** "The boy read the book"
+   **laṛke ne kitāb paṛhī** “The boy read the book” (lit. “By the boy book was read”)
+   Marathi: **mulāne pustak vācale** “The boy read the book”
 
 3. Increased use of relative-correlative constructions
-   Hindi **jo āyā, vah merā bhāī hai** "Who came, he is my brother" (The one who came is my brother)
-   Bengali **je āsbe, se āmār bhāi** "Who will come, he (is) my brother"
+   Hindi **jo āyā, vah merā bhāī hai** “Who came, he is my brother” (The one who came is my brother)
+   Bengali **je āsbe, se āmār bhāi** “Who will come, he (is) my brother”
 
 4. Development of quotative constructions
-   Hindi **usne kahā ki vah āegā** "He said that he will come" (lit. "He said that he will come")
-   Marathi **tyāne mhaṭle kī to yeīl** "He said that he will come"
+   Hindi **usne kahā ki vah āegā** “He said that he will come” (lit. “He said that he will come”)
+   Marathi **tyāne mhaṭle kī to yeīl** “He said that he will come”
 
 5. Verb serialization
-   Hindi **vah gā kar nahātā hai** "He sings while bathing" (lit. "He sing having bathes")
+   Hindi **vah gā kar nahātā hai** “He sings while bathing” (lit. “He sing having bathes”)
 
 6. Development of complex predicates
-   Hindi **intazār karnā** "to wait" (lit. "waiting to do")
-   Bengali **bhraman karā** "to travel" (lit. "travel to do")
+   Hindi **intazār karnā** “to wait” (lit. “waiting to do”)
+   Bengali **bhraman karā** “to travel” (lit. “travel to do”)
 
 ## Specific Developments in Major NIA Languages
 
@@ -355,9 +355,9 @@ Other relations expressed by postpositions:
 Hindi and Urdu, often considered two registers of the same language, have developed some distinct features:
 
 1. Vocabulary differences
-   Hindi **prasann** vs. Urdu **khush** "happy"
-   Hindi **samay** vs. Urdu **vaqt** "time"
-   Hindi **kṣamā** vs. Urdu **muāf** "forgiveness"
+   Hindi **prasann** vs. Urdu **khush** “happy”
+   Hindi **samay** vs. Urdu **vaqt** “time”
+   Hindi **kṣamā** vs. Urdu **muāf** “forgiveness”
 
 2. Script differences
    Hindi uses Devanagari script, while Urdu uses Perso-Arabic script
@@ -365,161 +365,161 @@ Hindi and Urdu, often considered two registers of the same language, have develo
 
 3. Phonological differences
    Urdu retains /q/, /x/, /ɣ/ in loanwords, while Hindi often replaces these with /k/, /kh/, /g/
-   Urdu **qalam** vs. Hindi **kalam** "pen"
-   Urdu **xūn** vs. Hindi **khūn** "blood"
+   Urdu **qalam** vs. Hindi **kalam** “pen”
+   Urdu **xūn** vs. Hindi **khūn** “blood”
 
 4. Morphological preferences
    Hindi prefers Sanskrit-derived suffixes, while Urdu prefers Persian/Arabic ones
-   Hindi **mānvtā** vs. Urdu **insāniyat** "humanity"
+   Hindi **mānvtā** vs. Urdu **insāniyat** “humanity”
 
 5. Compound verb preferences
-   Hindi **kar denā** vs. Urdu **kar ḍālnā** "to do (completely)"
+   Hindi **kar denā** vs. Urdu **kar ḍālnā** “to do (completely)”
 
 ### Bengali
 
 Bengali has developed several unique features:
 
 1. Zero copula in present tense
-   **āmi bhālo** "I (am) good"
-   **se ḍākṭār** "He (is) a doctor"
+   **āmi bhālo** “I (am) good”
+   **se ḍākṭār** “He (is) a doctor”
 
 2. Honorific pronouns and verb forms
-   **āpni** (respectful "you") vs. **tumi** (familiar "you") vs. **tui** (intimate/inferior "you")
-   **āpni korechen** (honorific "you have done") vs. **tumi korecho** vs. **tui korechiś**
+   **āpni** (respectful “you”) vs. **tumi** (familiar “you”) vs. **tui** (intimate/inferior “you”)
+   **āpni korechen** (honorific “you have done”) vs. **tumi korecho** vs. **tui korechiś**
 
-3. Compound verbs with **karā** "to do"
-   **bhālo karā** "to improve" (lit. "good do")
-   **śeṣ karā** "to finish" (lit. "end do")
+3. Compound verbs with **karā** “to do”
+   **bhālo karā** “to improve” (lit. “good do”)
+   **śeṣ karā** “to finish” (lit. “end do”)
 
 4. Definite articles
    **-ṭā** (neutral/inanimate), **-ṭi** (smaller/feminine), **-ṭo** (intimate)
-   **baiṭā** "the book", **meyeṭi** "the girl", **cheleṭo** "the boy (affectionate)"
+   **baiṭā** “the book”, **meyeṭi** “the girl”, **cheleṭo** “the boy (affectionate)”
 
 5. Verb inflection based on formality and tense
-   **āmi kari** "I do" (neutral)
-   **āmi kori** "I do" (formal)
+   **āmi kari** “I do” (neutral)
+   **āmi kori** “I do” (formal)
 
 6. Extensive use of onomatopoeia
-   **jhal-jhal** "glistening", **khaṭ-khaṭ** "knocking sound"
+   **jhal-jhal** “glistening”, **khaṭ-khaṭ** “knocking sound”
 
 ### Punjabi
 
 Punjabi is notable for its tonal system:
 
 1. Three tones: high, low, and level
-   **kóṛā** "whip" (high tone)
-   **kòṛā** "horse" (low tone)
-   **koṛā** "leper" (level tone)
+   **kóṛā** “whip” (high tone)
+   **kòṛā** “horse” (low tone)
+   **koṛā** “leper” (level tone)
 
 2. Aspirated consonants lost, leading to tonal distinctions
-   OIA **ghōḍa** > Punjabi **kòṛā** "horse" (low tone due to lost aspiration)
-   OIA **kaṭu** > Punjabi **káṛā** "bitter" (high tone due to lost voicing)
+   OIA **ghōḍa** > Punjabi **kòṛā** “horse” (low tone due to lost aspiration)
+   OIA **kaṭu** > Punjabi **káṛā** “bitter” (high tone due to lost voicing)
 
 3. Postpositions often fused with nouns
-   **kutteyā̃ nū̃** "to the dogs" (dative)
-   **kutteyā̃ tõ** "from the dogs" (ablative)
+   **kutteyā̃ nū̃** “to the dogs” (dative)
+   **kutteyā̃ tõ** “from the dogs” (ablative)
 
 4. Gender agreement in plural as well
-   **kuṛīā̃ changīā̃ ne** "The girls are good"
-   **munde change ne** "The boys are good"
+   **kuṛīā̃ changīā̃ ne** “The girls are good”
+   **munde change ne** “The boys are good”
 
 5. Pronominal suffixes with verbs
-   **maiṁ jā̃dā̃** "I go" (masculine)
-   **maiṁ jā̃dī ā̃** "I go" (feminine)
+   **maiṁ jā̃dā̃** “I go” (masculine)
+   **maiṁ jā̃dī ā̃** “I go” (feminine)
 
 ### Marathi
 
 Marathi has retained some archaic features:
 
 1. Retention of all three genders
-   **to mulgā** "that boy" (masculine)
-   **tī mulgī** "that girl" (feminine)
-   **te pustak** "that book" (neuter)
+   **to mulgā** “that boy” (masculine)
+   **tī mulgī** “that girl” (feminine)
+   **te pustak** “that book” (neuter)
 
 2. Distinct passive construction
-   **tyāne pustak vācle** "He read the book" (active)
-   **tyācyākadūn pustak vācle gele** "The book was read by him" (passive)
+   **tyāne pustak vācle** “He read the book” (active)
+   **tyācyākadūn pustak vācle gele** “The book was read by him” (passive)
 
 3. Complex agreement system
-   **mī pustik vācto** "I read a book" (masculine speaker)
-   **mī pustik vācte** "I read a book" (feminine speaker)
+   **mī pustik vācto** “I read a book” (masculine speaker)
+   **mī pustik vācte** “I read a book” (feminine speaker)
 
 4. Retention of the OIA instrumental-locative case ending
-   **gharī** "at home", **rātrī** "at night"
+   **gharī** “at home”, **rātrī** “at night”
 
 5. Use of different verbs for animates and inanimates
-   **to āhe** "he is" vs. **te āhe** "it is"
+   **to āhe** “he is” vs. **te āhe** “it is”
 
 ### Assamese
 
 Assamese has developed some unique features:
 
 1. Vowel inventory includes /ɔ/ and /ʊ/
-   **pani** [pani] "water" vs. **koni** [kɔni] "egg"
+   **pani** [pani] “water” vs. **koni** [kɔni] “egg”
 
 2. Lack of gender distinction
-   **xi āhise** "He/she has come"
+   **xi āhise** “He/she has come”
 
 3. Classifier system
-   **ejon manuh** "one person", **ekhon kitāp** "one book"
+   **ejon manuh** “one person”, **ekhon kitāp** “one book”
 
 4. Honorific plurals
-   **āpuni āhile** "You (honorific) came"
+   **āpuni āhile** “You (honorific) came”
 
 5. Negative verbs
-   **nāyābā** "don't go" (prohibitive)
+   **nāyābā** “don’t go” (prohibitive)
 
 ## Loanwords and Language Contact
 
 Indo-Aryan languages have been influenced by various languages throughout their history:
 
 1. Persian influence
-   Hindi **darvāzā** "door", **bāzār** "market"
-   Bengali **dorjā** "door", **hājār** "thousand"
+   Hindi **darvāzā** “door”, **bāzār** “market”
+   Bengali **dorjā** “door”, **hājār** “thousand”
 
 2. Arabic influence (often via Persian)
-   Urdu **kitāb** "book", **ilm** "knowledge"
-   Hindi **javāb** "answer", **vaqt** "time"
+   Urdu **kitāb** “book”, **ilm** “knowledge”
+   Hindi **javāb** “answer”, **vaqt** “time”
 
 3. Portuguese influence
-   Hindi **kamīz** "shirt", **ālmārī** "cupboard"
-   Bengali **cābi** "key", **girjā** "church"
+   Hindi **kamīz** “shirt”, **ālmārī** “cupboard”
+   Bengali **cābi** “key”, **girjā** “church”
 
 4. English influence
-   Hindi **ṭren** "train", **bas** "bus"
-   Bengali **ṭikṭ** "ticket", **iṭkul** "school"
+   Hindi **ṭren** “train”, **bas** “bus”
+   Bengali **ṭikṭ** “ticket”, **iṭkul** “school”
 
 5. Dravidian influence
    Hindi retroflex consonants likely due to Dravidian substrate
    Marathi postpositions: **-lā** (dative), **-hūn** (ablative)
 
 6. Turkic influence
-   Hindi **begam** "lady", **cākū** "knife"
+   Hindi **begam** “lady”, **cākū** “knife”
 
 7. Austroasiatic influence
-   Bengali **ṭheng** "leg", **hā̃ṛi** "pot"
+   Bengali **ṭheng** “leg”, **hā̃ṛi** “pot”
 
 ## Comparative Indo-Aryan Linguistics
 
 Comparative study of Indo-Aryan languages reveals patterns of sound changes and shared innovations:
 
 1. OIA **tr** > Hindi **t**, Bengali **t**, Marathi **t**
-   OIA **putra** "son" > Hindi **pūt**, Bengali **puto**, Marathi **pūt**
+   OIA **putra** “son” > Hindi **pūt**, Bengali **puto**, Marathi **pūt**
 
 2. OIA **ṛ** > Hindi **ri**, Bengali **ri**, Marathi **ru**
-   OIA **vṛddha** "old" > Hindi **bṛiddh**, Bengali **briddho**, Marathi **vṛuddha**
+   OIA **vṛddha** “old” > Hindi **bṛiddh**, Bengali **briddho**, Marathi **vṛuddha**
 
 3. OIA **kṣ** > Hindi **kh**, Bengali **kh**, Marathi **kh**
-   OIA **kṣetra** "field" > Hindi **khet**, Bengali **khet**, Marathi **khet**
+   OIA **kṣetra** “field” > Hindi **khet**, Bengali **khet**, Marathi **khet**
 
 4. OIA **jñ** > Hindi **gy**, Bengali **gy**, Marathi **dny**
-   OIA **jñāna** "knowledge" > Hindi **gyān**, Bengali **gyān**, Marathi **dnyān**
+   OIA **jñāna** “knowledge” > Hindi **gyān**, Bengali **gyān**, Marathi **dnyān**
 
 5. OIA final **-as** > Hindi **-e**, Bengali **-o**, Marathi **-a**
-   OIA **devas** "god" > Hindi **dev**, Bengali **debo**, Marathi **dev**
+   OIA **devas** “god” > Hindi **dev**, Bengali **debo**, Marathi **dev**
 
 6. OIA **sth** > Hindi **th**, Bengali **th**, Marathi **th**
-   OIA **sthāna** "place" > Hindi **thān**, Bengali **thān**, Marathi **ṭhān**
+   OIA **sthāna** “place” > Hindi **thān**, Bengali **thān**, Marathi **ṭhān**
 
 These systematic correspondences help in reconstructing earlier forms and understanding the historical relationships between Indo-Aryan languages.
 
@@ -555,28 +555,28 @@ These scripts have evolved to suit the phonological needs of their respective la
 Indo-Aryan languages exhibit significant dialectal variation, often forming dialect continua across geographical regions. Some notable dialect groups include:
 
 1. Western Hindi dialects:
-   - Braj Bhasha: **हम का करैं** (ham kā karaim) "What should we do?"
-   - Awadhi: **का करी** (kā karī) "What to do?"
-   - Bundeli: **का करें** (kā karen) "What to do?"
+   - Braj Bhasha: **हम का करैं** (ham kā karaim) “What should we do?”
+   - Awadhi: **का करी** (kā karī) “What to do?”
+   - Bundeli: **का करें** (kā karen) “What to do?”
 
 2. Bengali dialects:
-   - Sylheti: **আমি জাইতাম নি** (ami jaitam ni) "I will not go"
-   - Standard Bengali: **আমি যাব না** (ami jabo na) "I will not go"
-   - Chittagonian: **আই জুম নাই** (āi jum nāi) "I will not go"
+   - Sylheti: **আমি জাইতাম নি** (ami jaitam ni) “I will not go”
+   - Standard Bengali: **আমি যাব না** (ami jabo na) “I will not go”
+   - Chittagonian: **আই জুম নাই** (āi jum nāi) “I will not go”
 
 3. Punjabi dialects:
-   - Majhi: **ਮੈਂ ਜਾਣਾ** (maiṁ jāṇā) "I will go"
-   - Malwai: **ਮੈਂ ਜੂੰ** (maiṁ jūṁ) "I will go"
-   - Doabi: **ਮੈਂ ਜਾਊਂ** (maiṁ jāūṁ) "I will go"
+   - Majhi: **ਮੈਂ ਜਾਣਾ** (maiṁ jāṇā) “I will go”
+   - Malwai: **ਮੈਂ ਜੂੰ** (maiṁ jūṁ) “I will go”
+   - Doabi: **ਮੈਂ ਜਾਊਂ** (maiṁ jāūṁ) “I will go”
 
 4. Marathi dialects:
-   - Standard Marathi: **मी जाईन** (mī jāīn) "I will go"
-   - Varhadi: **मी जाईल** (mī jāīl) "I will go"
-   - Konkani: **हांव वचतलों** (hāṁv vacatalōṁ) "I will go"
+   - Standard Marathi: **मी जाईन** (mī jāīn) “I will go”
+   - Varhadi: **मी जाईल** (mī jāīl) “I will go”
+   - Konkani: **हांव वचतलों** (hāṁv vacatalōṁ) “I will go”
 
 5. Bhojpuri dialects:
-   - Western Bhojpuri: **हम जाएम** (ham jāem) "I will go"
-   - Southern Bhojpuri: **हम जाइब** (ham jāib) "I will go"
+   - Western Bhojpuri: **हम जाएम** (ham jāem) “I will go”
+   - Southern Bhojpuri: **हम जाइब** (ham jāib) “I will go”
 
 These dialectal variations provide valuable insights into historical sound changes, lexical innovations, and grammatical developments within the Indo-Aryan language family.
 
@@ -585,12 +585,12 @@ These dialectal variations provide valuable insights into historical sound chang
 The development and current status of Indo-Aryan languages are deeply influenced by sociolinguistic factors:
 
 1. Diglossia: Many Indo-Aryan languages exhibit a diglossic situation, with a formal, literary variety coexisting with colloquial forms.
-   Example: Literary Bengali **kariyāchi** vs. Colloquial **korechi** "I have done"
-   Example: Formal Hindi **main jā rahā hūṁ** vs. Colloquial **main jā rahā hūṁ** "I am going"
+   Example: Literary Bengali **kariyāchi** vs. Colloquial **korechi** “I have done”
+   Example: Formal Hindi **main jā rahā hūṁ** vs. Colloquial **main jā rahā hūṁ** “I am going”
 
 2. Code-switching: Bilingual speakers often switch between Indo-Aryan languages and English or other local languages.
-   Example (Hindi-English): **main office jā rahā hūṁ** "I am going to the office"
-   Example (Bengali-English): **āmi office-e jācchi** "I am going to the office"
+   Example (Hindi-English): **main office jā rahā hūṁ** “I am going to the office”
+   Example (Bengali-English): **āmi office-e jācchi** “I am going to the office”
 
 3. Language standardization: Efforts to standardize languages have led to the development of prestige dialects and official language policies.
    Example: Promotion of Shuddh (Pure) Hindi in India
@@ -627,79 +627,79 @@ Understanding these sociolinguistic aspects is crucial for a comprehensive study
 Several phonological processes are common across modern Indo-Aryan languages, although their specific manifestations may vary:
 
 1. Vowel harmony: Some languages exhibit vowel harmony, where vowels in a word agree in certain features.
-   Example (Bengali): **śunechilam** "I had heard" vs. **bolechilam** "I had said"
+   Example (Bengali): **śunechilam** “I had heard” vs. **bolechilam** “I had said”
 
 2. Consonant clusters simplification: Many languages simplify consonant clusters, especially at the beginning of words.
-   Example (Hindi): Sanskrit **sthāna** > Hindi **thān** "place"
+   Example (Hindi): Sanskrit **sthāna** > Hindi **thān** “place”
 
 3. Schwa deletion: In many languages, especially Hindi, unstressed schwas are often deleted.
-   Example (Hindi): **kamal** [kəməl] > [kməl] "lotus"
+   Example (Hindi): **kamal** [kəməl] > [kməl] “lotus”
 
 4. Nasalization: Vowel nasalization is phonemic in many Indo-Aryan languages.
-   Example (Hindi): **hā̃** "yes" vs. **hā** "oh"
+   Example (Hindi): **hā̃** “yes” vs. **hā** “oh”
 
 5. Assimilation: Consonants often assimilate in voicing or place of articulation.
-   Example (Bengali): **āṭ** "eight" + **ṭā** (classifier) > **āṭṭā** "eight pieces"
+   Example (Bengali): **āṭ** “eight” + **ṭā** (classifier) > **āṭṭā** “eight pieces”
 
 6. Compensatory lengthening: When a consonant is lost, the preceding vowel may be lengthened.
-   Example (Punjabi): OIA **hasta** > Punjabi **hatth** > **hāth** "hand"
+   Example (Punjabi): OIA **hasta** > Punjabi **hatth** > **hāth** “hand”
 
 7. Tone development: Some languages, like Punjabi and Dogri, have developed tonal distinctions.
-   Example (Punjabi): **kóṛā** "whip" (high tone) vs. **kòṛā** "horse" (low tone)
+   Example (Punjabi): **kóṛā** “whip” (high tone) vs. **kòṛā** “horse” (low tone)
 
 ## Grammaticalization Processes
 
 Grammaticalization, the process by which lexical items become grammatical markers, is evident in the historical development of Indo-Aryan languages:
 
 1. Development of postpositions: Many postpositions developed from nouns or verbs.
-   Example (Hindi): **ke pās** "near" (lit. "of side") < Sanskrit **pārśva** "side"
+   Example (Hindi): **ke pās** “near” (lit. “of side”) < Sanskrit **pārśva** “side”
 
 2. Auxiliary verbs: Main verbs grammaticalized into auxiliaries.
-   Example (Hindi): **jānā** "to go" as a completive auxiliary in **kar jānā** "to do (completely)"
+   Example (Hindi): **jānā** “to go” as a completive auxiliary in **kar jānā** “to do (completely)”
 
 3. Honorific pronouns: Nouns grammaticalized into honorific pronouns.
-   Example (Hindi): **āp** "you (honorific)" < Sanskrit **ātman** "self"
+   Example (Hindi): **āp** “you (honorific)” < Sanskrit **ātman** “self”
 
 4. Aspectual markers: Verbs grammaticalized into aspectual markers.
-   Example (Bengali): **-che** (progressive marker) < **āche** "is"
+   Example (Bengali): **-che** (progressive marker) < **āche** “is”
 
 5. Classifiers: Nouns grammaticalized into numeral classifiers.
-   Example (Assamese): **-jon** (human classifier) < Sanskrit **jana** "person"
+   Example (Assamese): **-jon** (human classifier) < Sanskrit **jana** “person”
 
 ## Semantic Changes
 
 Semantic changes are an important aspect of the historical development of Indo-Aryan languages:
 
 1. Broadening: Words taking on a more general meaning.
-   Example (Hindi): **kapḍā** "cloth" > "clothes" (generally)
+   Example (Hindi): **kapḍā** “cloth” > “clothes” (generally)
 
 2. Narrowing: Words becoming more specific in meaning.
-   Example (Bengali): **byādhī** "disease" > "rheumatism" specifically
+   Example (Bengali): **byādhī** “disease” > “rheumatism” specifically
 
 3. Amelioration: Words gaining a more positive connotation.
-   Example (Hindi): **sahī** "tolerated" > "correct, right"
+   Example (Hindi): **sahī** “tolerated” > “correct, right”
 
 4. Pejoration: Words gaining a more negative connotation.
-   Example (Hindi): **caprāsī** "peon" (originally neutral, now somewhat derogatory)
+   Example (Hindi): **caprāsī** “peon” (originally neutral, now somewhat derogatory)
 
 5. Semantic shift: Words changing meaning entirely.
-   Example (Hindi): **khalīfā** "caliph" > **khalīfā** "tailor"
+   Example (Hindi): **khalīfā** “caliph” > **khalīfā** “tailor”
 
 ## Influence on Non-Indo-Aryan Languages
 
 Indo-Aryan languages have also influenced non-Indo-Aryan languages in the region:
 
 1. Dravidian languages: Many Dravidian languages have borrowed extensively from Sanskrit and other Indo-Aryan languages.
-   Example (Telugu): **pustakamu** "book" < Sanskrit **pustaka**
+   Example (Telugu): **pustakamu** “book” < Sanskrit **pustaka**
 
 2. Munda languages: Munda languages have borrowed vocabulary and some structural features from Indo-Aryan languages.
-   Example (Santali): **rāṇī** "queen" < Sanskrit **rājñī**
+   Example (Santali): **rāṇī** “queen” < Sanskrit **rājñī**
 
 3. Tibeto-Burman languages: Languages like Newari have been heavily influenced by Indo-Aryan.
-   Example (Newari): **āju** "grandfather" < Sanskrit **āryaputra**
+   Example (Newari): **āju** “grandfather” < Sanskrit **āryaputra**
 
 4. Persian: While Persian influenced Indo-Aryan languages, the reverse also occurred, especially in India.
-   Example (Persian): **shāl** "shawl" < Sanskrit **śāṭī**
+   Example (Persian): **shāl** “shawl” < Sanskrit **śāṭī**
 
 ## Computational Approaches to Indo-Aryan Historical Linguistics
 

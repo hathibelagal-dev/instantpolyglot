@@ -100,13 +100,13 @@ Tajik has 24 consonant phonemes:
 Stress in Tajik is generally on the last syllable of a word, but there are exceptions:
 
 1. In words ending with the suffix **-ӣ**, stress falls on the penultimate syllable:
-   **тоҷикӣ** /tɔdʒiˈkiː/ "Tajik"
+   **тоҷикӣ** /tɔdʒiˈkiː/ “Tajik”
 
 2. In some compound words, stress may fall on the first element:
-   **гулоб** /ˈɡulɔb/ "rose water"
+   **гулоб** /ˈɡulɔb/ “rose water”
 
 3. Some prefixes and particles attract stress:
-   **мегӯям** /meˈɡuːjam/ "I say"
+   **мегӯям** /meˈɡuːjam/ “I say”
 
 ## Morphology
 
@@ -121,38 +121,38 @@ Tajik nouns have the following characteristics:
 #### Plural Formation
 
 The most common plural suffix is **-ҳо** (-ho):
-- **китоб** (kitob) "book" → **китобҳо** (kitobho) "books"
-- **хона** (khona) "house" → **хонаҳо** (khonaho) "houses"
+- **китоб** (kitob) “book” → **китобҳо** (kitobho) “books”
+- **хона** (khona) “house” → **хонаҳо** (khonaho) “houses”
 
 Some Arabic loanwords use the suffix **-он** (-on):
-- **муаллим** (muallim) "teacher" → **муаллимон** (muallimon) "teachers"
+- **муаллим** (muallim) “teacher” → **муаллимон** (muallimon) “teachers”
 
 #### Definite and Indefinite Articles
 
-Tajik doesn't have articles, but definiteness can be expressed through:
+Tajik doesn’t have articles, but definiteness can be expressed through:
 
 1. The suffix **-е** (-e) for indefiniteness:
-   **китобе** (kitobe) "a book"
+   **китобе** (kitobe) “a book”
 
-2. The demonstrative adjectives **ин** (in) "this" and **он** (on) "that" for definiteness:
-   **ин китоб** (in kitob) "this book" / "the book"
+2. The demonstrative adjectives **ин** (in) “this” and **он** (on) “that” for definiteness:
+   **ин китоб** (in kitob) “this book” / “the book”
 
 ### Adjectives
 
 Adjectives in Tajik usually precede the noun they modify and do not agree in number:
 
-**хуб** (khub) "good":
-- **китоби хуб** (kitobi khub) "good book"
-- **китобҳои хуб** (kitobhoi khub) "good books"
+**хуб** (khub) “good”:
+- **китоби хуб** (kitobi khub) “good book”
+- **китобҳои хуб** (kitobhoi khub) “good books”
 
 Comparative and superlative forms:
 
 1. Comparative: prefix **-тар** (-tar)
-   **хуб** (khub) "good" → **хубтар** (khubtar) "better"
+   **хуб** (khub) “good” → **хубтар** (khubtar) “better”
 
-2. Superlative: prefix **бе-** (be-) or phrases like **аз ҳама** (az hama) "of all"
-   **беҳтарин** (behtarin) "best"
-   **аз ҳама хуб** (az hama khub) "the best"
+2. Superlative: prefix **бе-** (be-) or phrases like **аз ҳама** (az hama) “of all”
+   **беҳтарин** (behtarin) “best”
+   **аз ҳама хуб** (az hama khub) “the best”
 
 ### Pronouns
 
@@ -164,43 +164,43 @@ Comparative and superlative forms:
 | 2nd | **ту** (tu) | **шумо** (shumo) |
 | 3rd | **ӯ** (u) | **онҳо** (onho) |
 
-The pronoun **шумо** (shumo) is also used as the formal "you" (singular).
+The pronoun **шумо** (shumo) is also used as the formal “you” (singular).
 
 #### Possessive Pronouns
 
 Possessive pronouns are formed by adding the suffix **-и** (-i) to personal pronouns:
 
-- **мани** (mani) "my"
-- **туи** (tui) "your"
-- **ӯи** (ui) "his/her"
-- **мои** (moi) "our"
-- **шумои** (shumoi) "your (plural/formal)"
-- **онҳои** (onhoi) "their"
+- **мани** (mani) “my”
+- **туи** (tui) “your”
+- **ӯи** (ui) “his/her”
+- **мои** (moi) “our”
+- **шумои** (shumoi) “your (plural/formal)”
+- **онҳои** (onhoi) “their”
 
 Alternatively, possessive enclitics can be used:
 
-- **-ам** (-am) "my"
-- **-ат** (-at) "your"
-- **-аш** (-ash) "his/her"
-- **-амон** (-amon) "our"
-- **-атон** (-aton) "your (plural/formal)"
-- **-ашон** (-ashon) "their"
+- **-ам** (-am) “my”
+- **-ат** (-at) “your”
+- **-аш** (-ash) “his/her”
+- **-амон** (-amon) “our”
+- **-атон** (-aton) “your (plural/formal)”
+- **-ашон** (-ashon) “their”
 
-Example: **китобам** (kitobam) "my book"
+Example: **китобам** (kitobam) “my book”
 
 #### Demonstrative Pronouns
 
-- **ин** (in) "this"
-- **он** (on) "that"
-- **инҳо** (inho) "these"
-- **онҳо** (onho) "those"
+- **ин** (in) “this”
+- **он** (on) “that”
+- **инҳо** (inho) “these”
+- **онҳо** (onho) “those”
 
 #### Interrogative Pronouns
 
-- **кӣ** (kī) "who"
-- **чӣ** (chī) "what"
-- **кадом** (kadom) "which"
-- **чанд** (chand) "how many"
+- **кӣ** (kī) “who”
+- **чӣ** (chī) “what”
+- **кадом** (kadom) “which”
+- **чанд** (chand) “how many”
 
 ### Verbs
 
@@ -215,8 +215,8 @@ Tajik verbs are complex and have the following characteristics:
 #### Infinitive
 
 The infinitive is formed by adding **-ан** (-an) to the past stem:
-- **хондан** (khondan) "to read"
-- **рафтан** (raftan) "to go"
+- **хондан** (khondan) “to read”
+- **рафтан** (raftan) “to go”
 
 #### Present Tense
 
@@ -228,14 +228,14 @@ The present tense is formed by adding personal endings to the present stem:
 | 2nd | -ӣ (-ī) | -ед (-ed) |
 | 3rd | -ад (-ad) | -анд (-and) |
 
-Example with **рафтан** (raftan) "to go" (present stem: **рав-** rav-):
+Example with **рафтан** (raftan) “to go” (present stem: **рав-** rav-):
 
-- **ман меравам** (man meravam) "I go"
-- **ту меравӣ** (tu meravī) "you go"
-- **ӯ меравад** (u meravad) "he/she goes"
-- **мо меравем** (mo meravem) "we go"
-- **шумо меравед** (shumo meraved) "you go (plural/formal)"
-- **онҳо мераванд** (onho meravand) "they go"
+- **ман меравам** (man meravam) “I go”
+- **ту меравӣ** (tu meravī) “you go”
+- **ӯ меравад** (u meravad) “he/she goes”
+- **мо меравем** (mo meravem) “we go”
+- **шумо меравед** (shumo meraved) “you go (plural/formal)”
+- **онҳо мераванд** (onho meravand) “they go”
 
 The prefix **ме-** (me-) indicates the imperfective aspect.
 
@@ -249,44 +249,44 @@ The past tense is formed by adding personal endings to the past stem:
 | 2nd | -ӣ (-ī) | -ед (-ed) |
 | 3rd | - | -анд (-and) |
 
-Example with **рафтан** (raftan) "to go" (past stem: **рафт-** raft-):
+Example with **рафтан** (raftan) “to go” (past stem: **рафт-** raft-):
 
-- **ман рафтам** (man raftam) "I went"
-- **ту рафтӣ** (tu raftī) "you went"
-- **ӯ рафт** (u raft) "he/she went"
-- **мо рафтем** (mo raftem) "we went"
-- **шумо рафтед** (shumo rafted) "you went (plural/formal)"
-- **онҳо рафтанд** (onho raftand) "they went"
+- **ман рафтам** (man raftam) “I went”
+- **ту рафтӣ** (tu raftī) “you went”
+- **ӯ рафт** (u raft) “he/she went”
+- **мо рафтем** (mo raftem) “we went”
+- **шумо рафтед** (shumo rafted) “you went (plural/formal)”
+- **онҳо рафтанд** (onho raftand) “they went”
 
 #### Future Tense
 
-The future tense is formed using the present tense of the verb **хостан** (khostan) "to want" followed by the infinitive:
+The future tense is formed using the present tense of the verb **хостан** (khostan) “to want” followed by the infinitive:
 
-- **ман хоҳам рафт** (man khoham raft) "I will go"
-- **ту хоҳӣ рафт** (tu khohī raft) "you will go"
-- **ӯ хоҳад рафт** (u khohad raft) "he/she will go"
+- **ман хоҳам рафт** (man khoham raft) “I will go”
+- **ту хоҳӣ рафт** (tu khohī raft) “you will go”
+- **ӯ хоҳад рафт** (u khohad raft) “he/she will go”
 
 #### Subjunctive Mood
 
 The subjunctive mood is formed by adding personal endings to the present stem, without the prefix **ме-** (me-):
 
-- **ман равам** (man ravam) "that I go"
-- **ту равӣ** (tu ravī) "that you go"
-- **ӯ равад** (u ravad) "that he/she go"
+- **ман равам** (man ravam) “that I go”
+- **ту равӣ** (tu ravī) “that you go”
+- **ӯ равад** (u ravad) “that he/she go”
 
 #### Imperative Mood
 
 The imperative is formed from the present stem:
 
-- Singular: present stem (e.g., **рав** rav "go!")
-- Plural: present stem + **-ед** (-ed) (e.g., **равед** raved "go!")
+- Singular: present stem (e.g., **рав** rav “go!”)
+- Plural: present stem + **-ед** (-ed) (e.g., **равед** raved “go!”)
 
 #### Passive Voice
 
-The passive voice is formed using the past participle (past stem + **-а** -a) and the auxiliary verb **шудан** (shudan) "to become":
+The passive voice is formed using the past participle (past stem + **-а** -a) and the auxiliary verb **шудан** (shudan) “to become”:
 
-- **хонда шудан** (khonda shudan) "to be read"
-- **китоб хонда шуд** (kitob khonda shud) "the book was read"
+- **хонда шудан** (khonda shudan) “to be read”
+- **китоб хонда шуд** (kitob khonda shud) “the book was read”
 
 ## Syntax
 
@@ -295,7 +295,7 @@ The passive voice is formed using the past participle (past stem + **-а** -a) a
 The basic word order in Tajik is Subject-Object-Verb (SOV):
 
 **Ман китобро хондам.** (Man kitobro khondam.)
-"I read the book."
+“I read the book.”
 
 However, the word order can be flexible for emphasis or in poetic language.
 
@@ -304,71 +304,71 @@ However, the word order can be flexible for emphasis or in poetic language.
 Direct objects are often marked with the suffix **-ро** (-ro):
 
 **Ман китобро хондам.** (Man kitobro khondam.)
-"I read the book."
+“I read the book.”
 
 ### Ezafe Construction
 
 Tajik uses the ezafe construction to show possession and attribution. The ezafe is represented by the suffix **-и** (-i):
 
-**китоби ман** (kitobi man) "my book"
-**духтари зебо** (dukhtari zebo) "beautiful girl"
+**китоби ман** (kitobi man) “my book”
+**духтари зебо** (dukhtari zebo) “beautiful girl”
 
 ### Compound Verbs
 
 Tajik has many compound verbs formed by combining a noun or adjective with a light verb:
 
-**кор кардан** (kor kardan) "to work" (lit. "work do")
-**хоб рафтан** (khob raftan) "to sleep" (lit. "sleep go")
+**кор кардан** (kor kardan) “to work” (lit. “work do”)
+**хоб рафтан** (khob raftan) “to sleep” (lit. “sleep go”)
 
 ### Negation
 
 Verbs are negated using the prefix **на-** (na-):
 
 **Ман намеравам.** (Man nameravam.)
-"I'm not going."
+“I'm not going.”
 
 In the past tense, the negative prefix is **на-** (na-):
 
 **Ман нарафтам.** (Man naraftam.)
-"I didn't go."
+“I didn't go.”
 
 For the imperative, the negative prefix is **на-** (na-):
 
 **Наравед!** (Naraved!)
-"Don't go!"
+“Don’t go!”
 
 ### Questions
 
 Yes/no questions are formed by intonation or by using the particle **оё** (oyo) at the beginning of the sentence:
 
 **Оё шумо тоҷикӣ мехонед?** (Oyo shumo tojikī mekhoned?)
-"Do you read Tajik?"
+“Do you read Tajik?”
 
 Wh-questions use interrogative pronouns at the beginning of the sentence:
 
 **Шумо чӣ мехонед?** (Shumo chī mekhoned?)
-"What are you reading?"
+“What are you reading?”
 
 ### Conjunctions
 
 Common conjunctions in Tajik include:
 
-- **ва** (va) "and"
-- **ё** (yo) "or"
-- **аммо** (ammo) "but"
-- **ки** (ki) "that"
-- **агар** (agar) "if"
+- **ва** (va) “and”
+- **ё** (yo) “or”
+- **аммо** (ammo) “but”
+- **ки** (ki) “that”
+- **агар** (agar) “if”
 
 Example:
 **Ман китоб мехонам ва ӯ менависад.** (Man kitob mekhondam va ū menavisad.)
-"I read a book and he writes."
+“I read a book and he writes.”
 
 ### Relative Clauses
 
 Relative clauses are introduced by the particle **ки** (ki):
 
 **Мардеро, ки дирӯз дидам, ҳамсояи ман аст.** (Mardero, ki dirūz didam, hamsoyai man ast.)
-"The man whom I saw yesterday is my neighbor."
+“The man whom I saw yesterday is my neighbor.”
 
 ## Vocabulary
 
@@ -378,78 +378,78 @@ Tajik vocabulary is primarily derived from Persian, with significant influences 
 
 Many basic words in Tajik are of Persian origin:
 
-- **об** (ob) "water"
-- **нон** (non) "bread"
-- **мева** (meva) "fruit"
-- **гул** (gul) "flower"
-- **дил** (dil) "heart"
+- **об** (ob) “water”
+- **нон** (non) “bread”
+- **мева** (meva) “fruit”
+- **гул** (gul) “flower”
+- **дил** (dil) “heart”
 
 ### Arabic loanwords
 
 A significant portion of Tajik vocabulary, especially in formal and literary contexts, comes from Arabic:
 
-- **китоб** (kitob) "book"
-- **илм** (ilm) "science"
-- **вақт** (vaqt) "time"
-- **сулҳ** (sulh) "peace"
-- **ҳукумат** (hukumat) "government"
+- **китоб** (kitob) “book”
+- **илм** (ilm) “science”
+- **вақт** (vaqt) “time”
+- **сулҳ** (sulh) “peace”
+- **ҳукумат** (hukumat) “government”
 
 ### Russian loanwords
 
 Due to Soviet influence, many Russian words have entered Tajik, especially in technical and modern contexts:
 
-- **автобус** (avtobus) "bus"
-- **телефон** (telefon) "telephone"
-- **радио** (radio) "radio"
-- **газета** (gazeta) "newspaper"
-- **завод** (zavod) "factory"
+- **автобус** (avtobus) “bus”
+- **телефон** (telefon) “telephone”
+- **радио** (radio) “radio”
+- **газета** (gazeta) “newspaper”
+- **завод** (zavod) “factory”
 
 ### Turkic loanwords
 
 Tajik has also borrowed words from Turkic languages, particularly Uzbek:
 
-- **қаймоқ** (qaymaq) "cream"
-- **қишлоқ** (qishloq) "village"
-- **қӯрбоққа** (qūrbaqqa) "frog"
+- **қаймоқ** (qaymaq) “cream”
+- **қишлоқ** (qishloq) “village”
+- **қӯрбоққа** (qūrbaqqa) “frog”
 
 ### Word Formation
 
 Tajik uses various affixes for word formation:
 
 1. Prefixes:
-   - **бе-** (be-) "without": **беоб** (beob) "waterless"
-   - **ҳам-** (ham-) "co-": **ҳамсинф** (hamsinf) "classmate"
+   - **бе-** (be-) “without”: **беоб** (beob) “waterless”
+   - **ҳам-** (ham-) “co-”: **ҳамсинф** (hamsinf) “classmate”
 
 2. Suffixes:
-   - **-гар** (-gar) "doer": **коргар** (korgar) "worker"
-   - **-истон** (-iston) "place": **Тоҷикистон** (Tojikiston) "Tajikistan"
+   - **-гар** (-gar) “doer”: **коргар** (korgar) “worker”
+   - **-истон** (-iston) “place”: **Тоҷикистон** (Tojikiston) “Tajikistan”
 
 3. Compound words:
-   - **китобхона** (kitobkhona) "library" (kitob "book" + khona "house")
-   - **гулоб** (gulob) "rose water" (gul "flower" + ob "water")
+   - **китобхона** (kitobkhona) “library” (kitob “book” + khona “house”)
+   - **гулоб** (gulob) “rose water” (gul “flower” + ob “water”)
 
 ## Idiomatic Expressions
 
 Tajik has many idiomatic expressions, often shared with Persian:
 
 1. **Чашми касеро равшан кардан** (Chashmi kasero ravshan kardan)
-   Literal: "To brighten someone's eyes"
+   Literal: “To brighten someone's eyes”
    Meaning: To make someone happy with good news
 
 2. **Дасти касеро гирифтан** (Dasti kasero giriftan)
-   Literal: "To take someone's hand"
+   Literal: “To take someone's hand”
    Meaning: To help or support someone
 
 3. **Гапи касеро буридан** (Gapi kasero buridan)
-   Literal: "To cut someone's words"
+   Literal: “To cut someone's words”
    Meaning: To interrupt someone
 
 4. **Сари касе гарм будан** (Sari kase garm budan)
-   Literal: "Someone's head is warm"
+   Literal: “Someone's head is warm”
    Meaning: To be busy or occupied
 
 5. **Забон баровардан** (Zabon barovardan)
-   Literal: "To bring out the tongue"
+   Literal: “To bring out the tongue”
    Meaning: To start speaking (usually about children)
 
 ## Dialects
@@ -466,11 +466,11 @@ The standard literary Tajik is based primarily on the northern dialects.
 Some differences between dialects include:
 
 1. Pronunciation variations:
-   - Standard: **дӯст** (dūst) "friend"
+   - Standard: **дӯст** (dūst) “friend”
    - Southern: **дӯст** (dust)
 
 2. Vocabulary differences:
-   - Standard: **харбуза** (kharbusa) "melon"
+   - Standard: **харбуза** (kharbusa) “melon”
    - Northern: **ҳандалак** (handalak)
 
 3. Grammatical variations:
@@ -482,7 +482,7 @@ Colloquial Tajik differs from the literary standard in several ways:
 
 1. Pronunciation:
    - Dropping of final **-а** (-a) in some words: 
-     **хона** (khona) → **хун** (khun) "house"
+     **хона** (khona) → **хун** (khun) “house”
 
 2. Vocabulary:
    - Use of more Russian loanwords in everyday speech
@@ -493,32 +493,32 @@ Colloquial Tajik differs from the literary standard in several ways:
    - More flexible word order
 
 4. Contractions:
-   - **намедонам** (namedonam) → **намдонам** (namdonam) "I don't know"
+   - **намедонам** (namedonam) → **намдонам** (namdonam) “I don’t know”
 
 ## Code-switching
 
 Due to the multilingual nature of Tajik society, code-switching between Tajik and Russian or Uzbek is common in everyday speech:
 
 **Ман ба магазин рафта, хлеб харидам.** (Man ba magazin rafta, khleb kharidam.)
-"I went to the store and bought bread." (magazin and khleb are Russian words)
+“I went to the store and bought bread.” (magazin and khleb are Russian words)
 
 ## Honorifics and Politeness
 
 Tajik has a system of honorifics and polite forms:
 
-1. Formal "you": **шумо** (shumo) instead of **ту** (tu)
+1. Formal “you”: **шумо** (shumo) instead of **ту** (tu)
 
 2. Titles:
-   - **ҷаноб** (janob) "Mr."
-   - **хонум** (khonum) "Mrs./Ms."
-   - **устод** (ustod) "professor/master"
+   - **ҷаноб** (janob) “Mr.”
+   - **хонум** (khonum) “Mrs./Ms.”
+   - **устод** (ustod) “professor/master”
 
 3. Polite verb forms:
    - Using plural forms for singular referents in formal situations
 
 4. Respect vocabulary:
-   - **ташриф овардан** (tashrif ovardan) "to come" (respectful)
-   instead of **омадан** (omadan) "to come" (neutral)
+   - **ташриф овардан** (tashrif ovardan) “to come” (respectful)
+   instead of **омадан** (omadan) “to come” (neutral)
 
 ## Orthography
 

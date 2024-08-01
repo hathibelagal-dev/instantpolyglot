@@ -69,10 +69,10 @@ Chinese uses a logographic writing system, where each character represents a mor
 Characters are composed of strokes, and there are rules for the order in which these strokes should be written. Many characters share common components called radicals, which often (but not always) provide a clue to the character's meaning.
 
 Examples: 
-- 水 (shuǐ) means "water" and is the radical for many water-related characters
-- 河 (hé) means "river" and includes the water radical
-- 湖 (hú) means "lake" and also includes the water radical
-- 海 (hǎi) means "sea" and also includes the water radical
+- 水 (shuǐ) means “water” and is the radical for many water-related characters
+- 河 (hé) means “river” and includes the water radical
+- 湖 (hú) means “lake” and also includes the water radical
+- 海 (hǎi) means “sea” and also includes the water radical
 
 ### Simplified vs. Traditional Characters
 
@@ -82,10 +82,10 @@ There are two main sets of Chinese characters in use today:
 2. Traditional Chinese: used in Taiwan, Hong Kong, and Macau
 
 Examples:
-- "Dragon" in Simplified: 龙 (lóng)
-- "Dragon" in Traditional: 龍 (lóng)
-- "Write" in Simplified: 写 (xiě)
-- "Write" in Traditional: 寫 (xiě)
+- “Dragon” in Simplified: 龙 (lóng)
+- “Dragon” in Traditional: 龍 (lóng)
+- “Write” in Simplified: 写 (xiě)
+- “Write” in Traditional: 寫 (xiě)
 
 ## Grammar
 
@@ -169,10 +169,10 @@ Questions can be formed in several ways:
 Negation is typically formed by placing 不 (bù) or 没 (méi) before the verb.
 
 Examples:
-- 我不吃肉 (Wǒ bù chī ròu) - I don't eat meat
+- 我不吃肉 (Wǒ bù chī ròu) - I don’t eat meat
 - 他不高兴 (Tā bù gāoxìng) - He is not happy
 - 我没看过这部电影 (Wǒ méi kàn guo zhè bù diànyǐng) - I haven't watched this movie
-- 她没去过中国 (Tā méi qù guo Zhōngguó) - She hasn't been to China
+- 她没去过中国 (Tā méi qù guo Zhōngguó) - She hasn’t been to China
 
 ### Sentence Final Particles
 
@@ -235,7 +235,7 @@ Examples:
 - 对不起 (Duìbuqǐ) - Sorry
 - 没关系 (Méi guānxi) - It's okay / No problem
 - 再见 (Zàijiàn) - Goodbye
-- 慢走 (Màn zǒu) - Take care (literally "walk slowly")
+- 慢走 (Màn zǒu) - Take care (literally “walk slowly”)
 
 ### Loanwords
 
@@ -253,11 +253,11 @@ Chinese has adopted many loanwords, especially for modern concepts. These are of
 Chinese is rich in idiomatic expressions, including four-character idioms known as chengyu (成语). These often come from classical Chinese literature and can be difficult for learners to understand without knowing their origin.
 
 Examples:
-- 马马虎虎 (mǎmǎhūhū) - so-so (lit. "horse horse tiger tiger")
+- 马马虎虎 (mǎmǎhūhū) - so-so (lit. “horse horse tiger tiger”)
 - 一石二鸟 (yī shí èr niǎo) - kill two birds with one stone
-- 四面楚歌 (sì miàn chǔ gē) - surrounded by enemies (lit. "Chu songs on all sides")
-- 守株待兔 (shǒu zhū dài tù) - wait passively for an opportunity (lit. "guard a tree stump, waiting for rabbits")
-- 塞翁失马 (sài wēng shī mǎ) - a blessing in disguise (lit. "the old man lost his horse")
+- 四面楚歌 (sì miàn chǔ gē) - surrounded by enemies (lit. “Chu songs on all sides”)
+- 守株待兔 (shǒu zhū dài tù) - wait passively for an opportunity (lit. “guard a tree stump, waiting for rabbits”)
+- 塞翁失马 (sài wēng shī mǎ) - a blessing in disguise (lit. “the old man lost his horse”)
 
 ## Dialects and Varieties
 
@@ -297,7 +297,7 @@ While not as complex as in some East Asian languages, Chinese does have ways to 
   - 教授 (jiàoshòu, professor)
 
 - Respectful pronouns: 
-  - 您 (nín) instead of 你 (nǐ) for "you"
+  - 您 (nín) instead of 你 (nǐ) for “you”
   Example: 您好吗？(Nín hǎo ma?) - How are you? (polite form)
 
 - Polite phrases: 
@@ -305,7 +305,7 @@ While not as complex as in some East Asian languages, Chinese does have ways to 
   Example: 请坐 (Qǐng zuò) - Please sit down
   - 麻烦你 (máfan nǐ, trouble you)
   Example: 麻烦你帮我一下 (Máfan nǐ bāng wǒ yíxià) - Please help me for a moment
-  - 劳驾 (láojià, excuse me, similar to "pardon me")
+  - 劳驾 (láojià, excuse me, similar to “pardon me”)
   Example: 劳驾，请问卫生间在哪里？(Láojià, qǐngwèn wèishēngjiān zài nǎlǐ?) - Excuse me, where is the bathroom?
 
 ### Names
@@ -326,7 +326,7 @@ When addressing someone formally, the family name is often used with a title:
 Many Chinese expressions reference historical events, literature, or cultural concepts:
 
 - 孔子 (Kǒngzǐ) - Confucius, often referenced in discussions about ethics and education
-  Example: 孔子曰："学而时习之，不亦说乎？" (Kǒngzǐ yuē: "Xué ér shí xí zhī, bú yì yuè hū?") - Confucius said: "Isn't it a joy to study and practice what you have learned?"
+  Example: 孔子曰：“学而时习之，不亦说乎？” (Kǒngzǐ yuē: “Xué ér shí xí zhī, bú yì yuè hū?”) - Confucius said: “Isn’t it a joy to study and practice what you have learned?”
 
 - 成语 (chéngyǔ) - four-character idioms, often from classical literature
   Example: 画蛇添足 (huà shé tiān zú) - to draw legs on a snake (meaning: to ruin something by adding unnecessary details)
@@ -359,7 +359,7 @@ Chinese language often uses metaphors and symbols derived from nature or traditi
 - 凤 (fèng, phoenix) symbolizes beauty and the empress
   Example: 凤凰涅槃 (fènghuáng niè pán) - to rise from the ashes (literally: the phoenix is reborn from the fire)
 
-- 梅兰竹菊 (méi lán zhú jú) - plum blossom, orchid, bamboo, and chrysanthemum, known as the "Four Gentlemen" in Chinese art, each symbolizing different virtues
+- 梅兰竹菊 (méi lán zhú jú) - plum blossom, orchid, bamboo, and chrysanthemum, known as the “Four Gentlemen” in Chinese art, each symbolizing different virtues
 
 ### Business and Professional Language
 
@@ -384,6 +384,6 @@ Like many languages, Chinese has developed a rich vocabulary of internet slang:
 - 给力 (gěilì) - awesome, cool
   Example: 这部电影太给力了 (Zhè bù diànyǐng tài gěilì le) - This movie is awesome
 
-- 卧槽 (wò cáo) - wow! (often used to express surprise, similar to "holy cow" in English)
+- 卧槽 (wò cáo) - wow! (often used to express surprise, similar to “holy cow” in English)
 
 - 666 (liù liù liù) - awesome (because 6 is considered a lucky number and sounds similar to 溜 (liù), which means smooth or skilled)

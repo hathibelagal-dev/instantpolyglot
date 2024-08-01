@@ -311,7 +311,7 @@ The basic word order in Assamese is Subject-Object-Verb (SOV):
 **মই ভাত খাওঁ।** (Moi bhat khaõ.)
 S    O    V
 I   rice  eat
-"I eat rice."
+“I eat rice.”
 
 However, due to the case system, word order can be relatively flexible for emphasis or stylistic reasons:
 
@@ -322,13 +322,13 @@ However, due to the case system, word order can be relatively flexible for empha
 
 Negation in Assamese is typically expressed by adding **ন** (nô) or **নাই** (nai) after the verb:
 
-- **মই নাখাওঁ।** (Moi nakhaõ.) - I don't eat.
+- **মই নাখাওঁ।** (Moi nakhaõ.) - I don’t eat.
 - **মই ভাত খোৱা নাই।** (Moi bhat khowa nai.) - I haven't eaten rice.
 
 For imperatives, **ন** (nô) is used:
 
-- **নাখাবি!** (Nakhabi!) - Don't eat! (informal)
-- **নাখাব!** (Nakhab!) - Don't eat! (formal)
+- **নাখাবি!** (Nakhabi!) - Don’t eat! (informal)
+- **নাখাব!** (Nakhab!) - Don’t eat! (formal)
 
 ### Questions
 
@@ -375,9 +375,9 @@ Examples:
 
 Assamese has a complex system of honorifics:
 
-- **আপুনি** (apuni) - formal "you"
-- **তুমি** (tumi) - informal "you"
-- **তই** (toi) - very informal "you" (used with close friends or younger people)
+- **আপুনি** (apuni) - formal “you”
+- **তুমি** (tumi) - informal “you”
+- **তই** (toi) - very informal “you” (used with close friends or younger people)
 
 Verbs also change based on the level of respect:
 
@@ -455,19 +455,19 @@ While the basic word order is SOV, Assamese allows for considerable flexibility:
 1. Topic-Comment Structure:
    - **মোৰ ভনী, তাই ডাক্তৰ।** (Mor bhôni, tai daktôr.)
      My sister, she (is a) doctor.
-     "As for my sister, she is a doctor."
+     “As for my sister, she is a doctor.”
 
 2. Relative Clauses:
    Assamese uses the relativizer **যি** (zi) or **যাক** (zak):
    - **যি মানুহজন আহিছিল, তেওঁ মোৰ দাদা।** (Zi manuhzôn ahisil, teõ mor dada.)
      Which person came, he my brother.
-     "The person who came is my brother."
+     “The person who came is my brother.”
 
 3. Conditional Sentences:
-   Use **যদি** (zôdi) for "if" and **তেন্তে** (tente) for "then":
+   Use **যদি** (zôdi) for “if” and **তেন্তে** (tente) for “then”:
    - **যদি বৰষুণ হয়, তেন্তে মই নাযাওঁ।** (Zôdi bôrôxun hôy, tente moi nazaõ.)
      If rain happens, then I not-go.
-     "If it rains, I won't go."
+     “If it rains, I won’t go.”
 
 ### Discourse Markers
 
@@ -481,7 +481,7 @@ Example:
 **মই যাব খুজিছিলোঁ, কিন্তু বৰষুণ হ'ল। তথাপিও মই গ'লোঁ।**
 (Moi zab khuzisõ, kintu bôrôxun hôl. Tôthapiô moi gôlõ.)
 I go wanted, but rain happened. Nevertheless I went.
-"I wanted to go, but it rained. Nevertheless, I went."
+“I wanted to go, but it rained. Nevertheless, I went.”
 
 ### Proverbs and Sayings
 
@@ -489,14 +489,14 @@ Assamese has a rich tradition of proverbs:
 
 1. **নাও নাই পাৰঘাট বহুত।** (Naô nai parghata bôhut.)
    No boat, many ghats.
-   "When you're not prepared, you see opportunities everywhere."
+   “When you're not prepared, you see opportunities everywhere.”
 
 2. **কাউৰীয়ে কাউৰী চিনে।** (Kauriye kauri sine.)
    Crow recognizes crow.
-   "Birds of a feather flock together."
+   “Birds of a feather flock together.”
 
 3. **হাতীৰ দাঁত দেখুৱাবলৈ এটা, খাবলৈ আন এটা।** (Hatir dãt dekhuwaboloi eta, khaboloi an eta.)
    Elephant's teeth for showing one set, for eating another set.
-   "Appearances can be deceiving."
+   “Appearances can be deceiving.”
 
 This overview covers many aspects of the Assamese language, including its phonology, writing system, grammar, vocabulary, and usage. It provides a comprehensive introduction for learners and those interested in the language's structure and features.

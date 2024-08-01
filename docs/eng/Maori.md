@@ -1,6 +1,6 @@
 # Maori
 
-Maori, also known as Te Reo Maori or simply Te Reo (meaning "the language"), is the indigenous language of New Zealand (Aotearoa). It is an Eastern Polynesian language closely related to Cook Islands Maori, Tahitian, and Hawaiian. Maori is spoken by approximately 185,000 people, primarily in New Zealand. The language has undergone a significant revival effort since the 1970s, with immersion schools (kura kaupapa Maori) and increased presence in media and public life contributing to its preservation and growth.
+Maori, also known as Te Reo Maori or simply Te Reo (meaning “the language”), is the indigenous language of New Zealand (Aotearoa). It is an Eastern Polynesian language closely related to Cook Islands Maori, Tahitian, and Hawaiian. Maori is spoken by approximately 185,000 people, primarily in New Zealand. The language has undergone a significant revival effort since the 1970s, with immersion schools (kura kaupapa Maori) and increased presence in media and public life contributing to its preservation and growth.
 
 ## Phonology and Orthography
 
@@ -207,7 +207,7 @@ The passive voice is more common in Maori than in English and is often used wher
 
 #### Causative Prefix
 
-The causative prefix **whaka-** is used to form verbs meaning "to cause to" or "to make". This prefix is highly productive and can be applied to many words to create new verbs:
+The causative prefix **whaka-** is used to form verbs meaning “to cause to” or “to make”. This prefix is highly productive and can be applied to many words to create new verbs:
 
 - **pai** (good) → **whakapai** (to improve)
 - **mahana** (warm) → **whakamahana** (to warm up)
@@ -319,14 +319,14 @@ Alternatively, intonation alone can be used to form yes/no questions:
 
 Negation is typically expressed using **kāore** or **ehara**:
 
-- **Kāore au i te mōhio** (I don't know)
+- **Kāore au i te mōhio** (I don’t know)
 - **Kāore he kai** (There is no food)
 - **Ehara tēnei i te pene** (This is not a pen)
 - **Ehara au i te Māori** (I am not Maori)
 
 For imperative sentences, **kaua** is used for negation:
 
-- **Kaua e haere!** (Don't go!)
+- **Kaua e haere!** (Don’t go!)
 
 ### Locatives
 
@@ -442,13 +442,13 @@ Kinship terms in Maori are more specific than in English and often distinguish b
 
 Maori has incorporated many loanwords, particularly for introduced concepts. Some are direct borrowings, while others are calques or neologisms created from Maori roots:
 
-- Car: **motokā** (from "motor car")
-- Computer: **rorohiko** (lit. "electric brain")
-- Television: **pouaka whakaata** (lit. "box of images")
-- Mobile phone: **waea pūkoro** (lit. "pocket telephone")
-- Internet: **ipurangi** (lit. "net container")
-- School: **kura** (from English "school")
-- Church: **whare karakia** (lit. "house of prayer")
+- Car: **motokā** (from “motor car”)
+- Computer: **rorohiko** (lit. “electric brain”)
+- Television: **pouaka whakaata** (lit. “box of images”)
+- Mobile phone: **waea pūkoro** (lit. “pocket telephone”)
+- Internet: **ipurangi** (lit. “net container”)
+- School: **kura** (from English “school”)
+- Church: **whare karakia** (lit. “house of prayer”)
 
 ### Color Terms
 
@@ -493,7 +493,7 @@ While Maori is relatively uniform across New Zealand, there are some regional va
 Examples of dialectal differences:
 
 - The pronunciation of 'wh' as [f] or [ɸ], as mentioned earlier
-- Variation in certain words, e.g., "kumara" (sweet potato) is **kūmara** in some areas and **rīwai** in others
+- Variation in certain words, e.g., “kumara” (sweet potato) is **kūmara** in some areas and **rīwai** in others
 - Slight differences in intonation and stress patterns
 - Use of different particles in some constructions, e.g., **ana** vs. **nei** for the present continuous in some regions
 
@@ -509,8 +509,8 @@ Colloquial Maori, especially as used by younger speakers, often incorporates Eng
 
 Additionally, some traditional Maori words have taken on new meanings in colloquial usage:
 
-- **Ka mau te wehi** (literally "held in awe," used colloquially to mean "awesome" or "cool")
-- **Tau kē** (literally "settled differently," used to mean "awesome" or "choice")
-- **Pō marie** (literally "peaceful night," used as "good night")
+- **Ka mau te wehi** (literally “held in awe,” used colloquially to mean “awesome” or “cool”)
+- **Tau kē** (literally “settled differently,” used to mean “awesome” or “choice”)
+- **Pō marie** (literally “peaceful night,” used as “good night”)
 
 These colloquial expressions reflect the living nature of the language and its adaptation to modern contexts.

@@ -203,7 +203,7 @@ Emphatic order: **Psa jŏ widza.** (It's a dog that I see.)
 
 Negation is formed by adding the particle **nie** before the verb:
 
-**Jŏ nie widza psa.** (I don't see a dog.)
+**Jŏ nie widza psa.** (I don’t see a dog.)
 
 In past tense constructions, **nie** comes before the auxiliary:
 
@@ -253,13 +253,13 @@ Silesian vocabulary shows influences from various languages, particularly German
    **śniŏdanie** (breakfast)
 
 2. German loanwords:
-   **ancug** (suit, from German "Anzug")
-   **familok** (tenement house, from German "Familienhaus")
-   **szrank** (wardrobe, from German "Schrank")
+   **ancug** (suit, from German “Anzug”)
+   **familok** (tenement house, from German “Familienhaus”)
+   **szrank** (wardrobe, from German “Schrank”)
 
 3. Czech influences:
-   **dźwiyrze** (door, compare Czech "dveře")
-   **prŏca** (work, compare Czech "práce")
+   **dźwiyrze** (door, compare Czech “dveře”)
+   **prŏca** (work, compare Czech “práce”)
 
 4. Unique Silesian words:
    **gŏdać** (to speak)
@@ -275,7 +275,7 @@ Silesian exhibits significant dialectal variation. Some of the main dialect grou
 3. Upper Silesian dialect
 4. Jabłonków dialect
 
-These dialects can differ in pronunciation, vocabulary, and some grammatical features. For example, the word for "now" can be **terŏz**, **teraz**, or **terozki** depending on the dialect.
+These dialects can differ in pronunciation, vocabulary, and some grammatical features. For example, the word for “now” can be **terŏz**, **teraz**, or **terozki** depending on the dialect.
 
 ## Phonological differences from Polish
 
@@ -311,7 +311,7 @@ While Silesian grammar is similar to Polish in many respects, there are some not
    Silesian: **bez bratōw**, Polish: **bez braci** (without brothers)
 
 5. More extensive use of the genitive of negation:
-   Silesian: **Ni mōm czasu.** Polish: **Nie mam czasu.** (I don't have time.)
+   Silesian: **Ni mōm czasu.** Polish: **Nie mam czasu.** (I don’t have time.)
 
 ## Writing system
 
@@ -482,7 +482,7 @@ When counting with nouns, the form of the noun changes based on the number:
 
 Silesian has many idiomatic expressions, some shared with Polish and some unique:
 
-- **Niy dŏj sie** - Don't give up (literally: don't give yourself)
+- **Niy dŏj sie** - Don’t give up (literally: don’t give yourself)
 - **Mieć coś na kark** - To have a problem (literally: to have something on one's neck)
 - **Robić za lola** - To work for free (literally: to work for a lollipop)
 - **Łōny rok** - Last year (literally: that year)
@@ -493,10 +493,10 @@ Silesian has many idiomatic expressions, some shared with Polish and some unique
 Due to the multilingual nature of Silesia and the close contact with Polish and German, code-switching and borrowing are common phenomena in Silesian speech:
 
 1. German influence:
-   **Jŏ musza iść na szicht.** (I have to go to work. "szicht" from German "Schicht" - shift)
+   **Jŏ musza iść na szicht.** (I have to go to work. “szicht” from German “Schicht” - shift)
 
 2. Polish influence:
-   **Ōn mo nowy samochōd.** (He has a new car. "samochōd" is a Polish word)
+   **Ōn mo nowy samochōd.** (He has a new car. “samochōd” is a Polish word)
 
 3. English in modern Silesian:
    **Ōna mo fajny smartphone.** (She has a nice smartphone.)
@@ -522,8 +522,8 @@ Silesian exhibits various phonosyntactic processes, including:
 Silesian, like Polish, has a complex system of politeness and formality:
 
 1. T-V distinction: 
-   Informal "you": **ty**
-   Formal "you": **wy** (singular), **wyście** (plural)
+   Informal “you”: **ty**
+   Formal “you”: **wy** (singular), **wyście** (plural)
 
 2. Honorifics:
    **pan** (sir), **pani** (madam), **panoczek** (diminutive for sir)
@@ -542,14 +542,14 @@ Silesian shows considerable regional variation:
 
 1. Opole dialect:
    Tends to be closer to standard Polish in some features
-   **jo** instead of **jŏ** for "I"
+   **jo** instead of **jŏ** for “I”
 
 2. Cieszyn Silesia dialect:
    Influenced by Czech and Slovak
-   **ni ma** instead of **niy ma** for "there isn't"
+   **ni ma** instead of **niy ma** for “there isn’t”
 
 3. Upper Silesian dialect:
-   Often considered the "core" Silesian variety
+   Often considered the “core” Silesian variety
    **Ô** pronunciation is most prominent here
 
 4. Jabłonków dialect:

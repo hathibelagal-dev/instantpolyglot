@@ -260,9 +260,9 @@ In subordinate clauses, the verb moves to the end:
 
 Afrikaans uses a double negative construction:
 
-- **Ek verstaan nie** (I don't understand)
-- **Ek verstaan dit nie** (I don't understand it)
-- **Ek verstaan dit glad nie** (I don't understand it at all)
+- **Ek verstaan nie** (I don’t understand)
+- **Ek verstaan dit nie** (I don’t understand it)
+- **Ek verstaan dit glad nie** (I don’t understand it at all)
 
 The first **nie** comes directly after the verb (or after the object if there is one), and the second **nie** comes at the end of the sentence.
 
@@ -549,7 +549,7 @@ Afrikaans has a rich set of interjections and discourse markers:
 Afrikaans has many calques or loan translations, especially from English:
 
 - **motorkar** (motor car) instead of Dutch **auto**
-- **beroepspeler** (professional player) from English "professional player"
+- **beroepspeler** (professional player) from English “professional player”
 
 ## Idiomatic Expressions
 
@@ -564,12 +564,12 @@ Afrikaans is rich in idiomatic expressions:
 
 Formal address:
 
-- **u** is used as a formal "you" in both subject and object positions
+- **u** is used as a formal “you” in both subject and object positions
 - **Meneer** (Mr.), **Mevrou** (Mrs.), and **Mejuffrou** (Miss) are used as formal titles
 
 Informal address:
 
-- **jy/jou** is used as the informal "you"
+- **jy/jou** is used as the informal “you”
 
 Politeness markers:
 
@@ -596,7 +596,7 @@ Afrikaans has several ways to add emphasis:
    - **Mooi is sy!** (Beautiful she is!)
 
 2. Use of emphatic pronouns:
-   - **Ék het dit gesê.** (I said it - emphasizing "I")
+   - **Ék het dit gesê.** (I said it - emphasizing “I”)
 
 3. Repetition:
    - **Hy is slim, slim.** (He is very smart)
@@ -636,7 +636,7 @@ Code-switching between Afrikaans and English is common in informal contexts:
 
 Rhetorical questions are often used for emphasis:
 
-- **Is dit nie wonderlik nie?** (Isn't it wonderful?)
+- **Is dit nie wonderlik nie?** (Isn’t it wonderful?)
 - **Wie sou dit kon dink?** (Who would have thought?)
 
 This extensive overview covers many aspects of Afrikaans grammar, vocabulary, and usage. It provides a comprehensive look at the language's structure and peculiarities, suitable for learners and those interested in linguistics.

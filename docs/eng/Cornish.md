@@ -208,7 +208,7 @@ The imperative is formed using the bare stem of the verb:
 
 For negative commands, use **na** before the verb:
 
-- **Na wra henna!** (Don't do that!)
+- **Na wra henna!** (Don’t do that!)
 
 #### Verbal nouns
 
@@ -312,12 +312,12 @@ Wh-questions use interrogative words at the beginning of the sentence:
 
 Negation is formed using the particle **ny** before the verb:
 
-- **Ny wonn.** (I don't know.)
-- **Ny wra ev dos.** (He won't come.)
+- **Ny wonn.** (I don’t know.)
+- **Ny wra ev dos.** (He won’t come.)
 
 In the imperative, **na** is used:
 
-- **Na wra mos!** (Don't go!)
+- **Na wra mos!** (Don’t go!)
 
 ### Possession
 
@@ -371,9 +371,9 @@ Cornish vocabulary has been influenced by various languages throughout its histo
 - **ugens** (twenty)
 
 Larger numbers:
-- **deg warn ugens** (thirty, lit. "ten on twenty")
-- **dew-ugens** (forty, lit. "two-twenty")
-- **hanterkans** (fifty, lit. "half-hundred")
+- **deg warn ugens** (thirty, lit. “ten on twenty”)
+- **dew-ugens** (forty, lit. “two-twenty”)
+- **hanterkans** (fifty, lit. “half-hundred”)
 - **kans** (hundred)
 - **mil** (thousand)
 
@@ -408,7 +408,7 @@ Larger numbers:
 - **Myttin da** (Good morning)
 - **Gorthugher da** (Good evening)
 - **Nos da** (Good night)
-- **Duw genes** (Goodbye, lit. "God be with you")
+- **Duw genes** (Goodbye, lit. “God be with you”)
 - **Meur ras** (Thank you)
 - **Mar pleg** (Please)
 - **Py hanow os ta?** (What's your name?)
@@ -421,12 +421,12 @@ Larger numbers:
 Cornish, like all languages, has its share of idiomatic expressions. Here are some examples:
 
 - **Gwell yw genev kig yar es kig margh.**
-  (I prefer chicken to horse meat, lit. "Better with me is chicken meat than horse meat")
+  (I prefer chicken to horse meat, lit. “Better with me is chicken meat than horse meat”)
   Meaning: Used to express a preference.
 
 - **Mar nyns yw ki, ki yw.**
   (If it's not a dog, it's a dog)
-  Meaning: Similar to the English "If it looks like a duck and quacks like a duck, it's probably a duck."
+  Meaning: Similar to the English “If it looks like a duck and quacks like a duck, it's probably a duck.”
 
 - **Gortos mar pleg - nyns yw margh glass.**
   (Wait please - it's not a blue horse)
@@ -455,10 +455,10 @@ Cornish uses several verbal particles that precede the verb in certain construct
    - **Yth esov vy ow mos.** (I am going)
 
 4. **ny**: Used for negation
-   - **Ny wonn.** (I don't know)
+   - **Ny wonn.** (I don’t know)
 
 5. **na**: Used for negative commands
-   - **Na wra mos!** (Don't go!)
+   - **Na wra mos!** (Don’t go!)
 
 ### Aspect
 
@@ -492,7 +492,7 @@ Cornish prepositions often inflect for person and number. Here's an example with
 - 3pl: **dhedha** (to them)
 
 Example in use:
-- **Yma lyver dhymm.** (I have a book, lit. "There is a book to me")
+- **Yma lyver dhymm.** (I have a book, lit. “There is a book to me”)
 
 ### Mutations in Practice
 
@@ -525,7 +525,7 @@ Although modern revived Cornish aims for standardization, historical Cornish had
 
 Some differences included:
 
-- Pronunciation: e.g., the word for "head" was pronounced [pen] in the west but [pdn] in the east.
+- Pronunciation: e.g., the word for “head” was pronounced [pen] in the west but [pdn] in the east.
 - Vocabulary: Some words were specific to certain regions.
 - Grammar: Minor grammatical differences existed between regions.
 
@@ -551,11 +551,11 @@ Modern Cornish literature has seen a revival, with authors producing new works i
 
 The revival of Cornish began in the early 20th century:
 
-1. Henry Jenner's "Handbook of the Cornish Language" (1904) sparked interest.
-2. Robert Morton Nance's "Unified Cornish" orthography in the 1920s provided a standardized system.
+1. Henry Jenner's “Handbook of the Cornish Language” (1904) sparked interest.
+2. Robert Morton Nance's “Unified Cornish” orthography in the 1920s provided a standardized system.
 3. The establishment of Gorsedh Kernow in 1928 promoted Cornish culture and language.
-4. Ken George's "Kernewek Kemmyn" orthography in 1986 attempted phonetic accuracy.
-5. Nicholas Williams' "Unified Cornish Revised" in 1995 aimed to balance historical accuracy and learnability.
+4. Ken George's “Kernewek Kemmyn” orthography in 1986 attempted phonetic accuracy.
+5. Nicholas Williams' “Unified Cornish Revised” in 1995 aimed to balance historical accuracy and learnability.
 6. The Standard Written Form (SWF) was developed in 2008 to unify different orthographies.
 
 ### Current Status
@@ -563,7 +563,7 @@ The revival of Cornish began in the early 20th century:
 Cornish has gained recognition in recent years:
 
 - In 2002, Cornish was recognized under the European Charter for Regional or Minority Languages.
-- In 2010, UNESCO changed its classification of Cornish from "extinct" to "critically endangered".
+- In 2010, UNESCO changed its classification of Cornish from “extinct” to “critically endangered”.
 
 ### Learning and Using Cornish Today
 

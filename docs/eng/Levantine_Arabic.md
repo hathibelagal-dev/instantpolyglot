@@ -260,12 +260,12 @@ The basic word order in Levantine Arabic is Subject-Verb-Object (SVO), but Verb-
 
 Negation in Levantine Arabic is typically formed by adding **ما** (ma) before the verb and **ش** (-sh) after it:
 
-- **ما بْحِبّش القهوة** (ma bḥibbish el-'ahwe) - I don't like coffee
+- **ما بْحِبّش القهوة** (ma bḥibbish el-'ahwe) - I don’t like coffee
 - **ما أكَلش الولد التفّاحة** (ma akalsh el-walad et-teffāḥa) - The boy didn't eat the apple
 
 For present tense verbs, **مش** (mish) can be used:
 
-- **مش عارف** (mish 'ārif) - I don't know
+- **مش عارف** (mish 'ārif) - I don’t know
 
 ### Questions
 
@@ -289,14 +289,14 @@ Examples:
 
 ### Conditional Sentences
 
-Conditional sentences in Levantine Arabic typically use **إذا** (iza) or **لو** (law) for "if":
+Conditional sentences in Levantine Arabic typically use **إذا** (iza) or **لو** (law) for “if”:
 
 - **إذا بْتِروح، بْروح معك** (iza btirūḥ, brūḥ ma'ak) - If you go, I'll go with you
 - **لو كان عندي وقت، كنت رُحت** (law kān 'indi wa'et, kunt ruḥt) - If I had time, I would have gone
 
 ### Relative Clauses
 
-Relative clauses are introduced by **يلّي** (yalli) or **إلّي** (illi), which is equivalent to "who," "which," or "that" in English:
+Relative clauses are introduced by **يلّي** (yalli) or **إلّي** (illi), which is equivalent to “who,” “which,” or “that” in English:
 
 - **الكتاب يلّي قريتو حلو كتير** (el-ktāb yalli 'arēto ḥilu ktīr) - The book that I read is very nice
 - **البنت إلّي شفناها إمبارح** (el-bint illi shufnāha imbāreḥ) - The girl whom we saw yesterday
@@ -369,8 +369,8 @@ Levantine Arabic vocabulary is a mix of Classical Arabic roots, local innovation
 Levantine Arabic has borrowed words from various languages due to historical and cultural influences:
 
 1. Turkish:
-   - **أوضة** (ōḍa) - room (from Turkish "oda")
-   - **دغري** (doghri) - straight, direct (from Turkish "doğru")
+   - **أوضة** (ōḍa) - room (from Turkish “oda”)
+   - **دغري** (doghri) - straight, direct (from Turkish “doğru”)
 
 2. French:
    - **بونجور** (bonjour) - good morning
@@ -390,9 +390,9 @@ While Levantine Arabic shares many features across the region, there are some no
 
 ### Lebanese Arabic
 
-- Often considered the most "softened" version of Levantine Arabic
+- Often considered the most “softened” version of Levantine Arabic
 - Tendency to replace ق [q] with [ʔ]: **قلب** (heart) is pronounced ['alb]
-- Use of **شو** (shū) for "what" instead of **إيش** (ēsh) used in some other areas
+- Use of **شو** (shū) for “what” instead of **إيش** (ēsh) used in some other areas
 
 Example: **شو عم تعمل؟** (shū 'am ti'mel?) - What are you doing?
 
@@ -400,7 +400,7 @@ Example: **شو عم تعمل؟** (shū 'am ti'mel?) - What are you doing?
 
 - Varies between regions, with Damascus dialect often considered the standard
 - In some regions, ق [q] is pronounced as [q], while in others it's [ʔ]
-- Use of **إيش** (ēsh) for "what" in some areas
+- Use of **إيش** (ēsh) for “what” in some areas
 
 Example: **إيش عم تساوي؟** (ēsh 'am tsāwi?) - What are you doing?
 
@@ -408,7 +408,7 @@ Example: **إيش عم تساوي؟** (ēsh 'am tsāwi?) - What are you doing?
 
 - Varies between regions, with notable differences between urban and rural dialects
 - Often retains the ق [q] sound
-- Use of **إيش** (ēsh) for "what" is common
+- Use of **إيش** (ēsh) for “what” is common
 
 Example: **إيش بتعمل؟** (ēsh bti'mel?) - What are you doing?
 
@@ -416,7 +416,7 @@ Example: **إيش بتعمل؟** (ēsh bti'mel?) - What are you doing?
 
 - Influenced by Bedouin dialects, especially in rural areas
 - Often retains the ق [q] sound
-- Use of **وش** (wush) or **إيش** (ēsh) for "what" depending on the region
+- Use of **وش** (wush) or **إيش** (ēsh) for “what” depending on the region
 
 Example: **وش تسوي؟** (wush tsawwi?) - What are you doing?
 
@@ -424,7 +424,7 @@ Example: **وش تسوي؟** (wush tsawwi?) - What are you doing?
 
 ### Emphasis (Tafkhīm)
 
-Levantine Arabic, like other Arabic dialects, features emphatic consonants. These are produced with a retracted tongue root, giving them a "heavier" sound. The emphatic consonants are:
+Levantine Arabic, like other Arabic dialects, features emphatic consonants. These are produced with a retracted tongue root, giving them a “heavier” sound. The emphatic consonants are:
 
 - ص [sˤ]: **صار** (ṣār) - became
 - ض [dˤ]: **ضرب** (ḍarab) - hit
@@ -451,7 +451,7 @@ Imāla is the fronting and raising of the long /aː/ vowel, often to [eː] or ev
 
 ### Existential Phrases
 
-To express existence ("there is/are"), Levantine Arabic uses **في** (fī):
+To express existence (“there is/are”), Levantine Arabic uses **في** (fī):
 
 - **في ناس برّا** (fī nās barra) - There are people outside
 - **ما في مشكلة** (mā fī mushkile) - There's no problem
@@ -466,7 +466,7 @@ Modal verbs in Levantine Arabic are often expressed using particles:
 - **ممكن** (mumken) - can, may
   **ممكن أسأل سؤال؟** (mumken as'al su'āl?) - Can I ask a question?
 
-- **بدي** (biddi) - want to (literally "in my want")
+- **بدي** (biddi) - want to (literally “in my want”)
   **بدي أنام** (biddi anām) - I want to sleep
 
 ### Demonstratives
@@ -499,9 +499,9 @@ Example: **شو عم تعمل هلّأ؟** (shū 'am ti'mel halla'?) - What are 
 
 Levantine Arabic is rich in idiomatic expressions. Here are a few examples:
 
-1. **على راسي** ('ala rāsi) - Literally "on my head," used to express agreement or acceptance
+1. **على راسي** ('ala rāsi) - Literally “on my head,” used to express agreement or acceptance
 
-2. **الله يعطيك العافية** (allah ya'ṭīk el-'āfye) - Literally "May God give you health," used as a way to say "thank you" or "good job"
+2. **الله يعطيك العافية** (allah ya'ṭīk el-'āfye) - Literally “May God give you health,” used as a way to say “thank you” or “good job”
 
 3. **ما في مشكلة** (mā fī mushkile) - No problem
 
@@ -509,9 +509,9 @@ Levantine Arabic is rich in idiomatic expressions. Here are a few examples:
 
 5. **يا سلام** (ya salām) - Wow! (expressing admiration or surprise)
 
-6. **بدي أموت** (biddi amūt) - Literally "I want to die," used to express extreme desire for something
+6. **بدي أموت** (biddi amūt) - Literally “I want to die,” used to express extreme desire for something
 
-7. **على عيني** ('ala 'ayni) - Literally "on my eye," used to express willingness or agreement
+7. **على عيني** ('ala 'ayni) - Literally “on my eye,” used to express willingness or agreement
 
 8. **يلّا** (yalla) - Come on! Let's go!
 

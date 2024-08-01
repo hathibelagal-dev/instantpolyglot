@@ -1,6 +1,6 @@
 # Volapük
 
-Volapük is an artificial language created in 1879-1880 by Johann Martin Schleyer, a Roman Catholic priest in Baden, Germany. It was one of the first constructed international auxiliary languages to achieve significant popularity, predating Esperanto. The name "Volapük" comes from two of its own words: "vol" (world) and "pük" (speech), meaning "world speech".
+Volapük is an artificial language created in 1879-1880 by Johann Martin Schleyer, a Roman Catholic priest in Baden, Germany. It was one of the first constructed international auxiliary languages to achieve significant popularity, predating Esperanto. The name “Volapük” comes from two of its own words: “vol” (world) and “pük” (speech), meaning “world speech”.
 
 ## Phonology and Orthography
 
@@ -328,7 +328,7 @@ Example:
 Negation is expressed by the word **no** placed before the verb:
 
 **Ob no lögob oli.**
-('I don't love you.')
+('I don’t love you.')
 
 ### Subordinate Clauses
 
@@ -356,13 +356,13 @@ Volapük vocabulary is primarily derived from English, German, and French, with 
 
 Examples of Volapük words and their origins:
 
-- **vol** ('world') - from English "world"
-- **pük** ('speech', 'language') - from English "speak"
-- **nam** ('name') - from German "Name"
-- **jeval** ('horse') - from French "cheval"
-- **blod** ('brother') - from English "brother"
-- **sol** ('sun') - from Latin "sol"
-- **yag** ('hunt') - from German "Jagd"
+- **vol** ('world') - from English “world”
+- **pük** ('speech', 'language') - from English “speak”
+- **nam** ('name') - from German “Name”
+- **jeval** ('horse') - from French “cheval”
+- **blod** ('brother') - from English “brother”
+- **sol** ('sun') - from Latin “sol”
+- **yag** ('hunt') - from German “Jagd”
 
 ### Word Formation
 
@@ -413,7 +413,7 @@ Volapük, like any language, has its share of idiomatic expressions:
 
 ### Aspect
 
-While Volapük doesn't have a complex aspect system like some natural languages, it does have ways to express aspectual distinctions:
+While Volapük doesn’t have a complex aspect system like some natural languages, it does have ways to express aspectual distinctions:
 
 1. Habitual aspect: Use the adverb **often**
    **Ob often tidob Volapüki.** - 'I (habitually) teach Volapük.'
@@ -540,12 +540,12 @@ A: **Bi no eplöpob pöti obik.**
 B: **O! No golomös lü bed! Zesüdos dunön bosi jönik adelo.**
 
 Translation:
-A: "Good day! How are you?"
-B: "Good day! I'm fine. And you?"
-A: "I'm not happy and a little tired."
-B: "Why are you not happy?"
-A: "Because I didn't pass my exam."
-B: "Oh! Don't go to bed! It's necessary to do something nice today."
+A: “Good day! How are you?”
+B: “Good day! I'm fine. And you?”
+A: “I'm not happy and a little tired.”
+B: “Why are you not happy?”
+A: “Because I didn't pass my exam.”
+B: “Oh! Don’t go to bed! It's necessary to do something nice today.”
 
 ## Lexical Fields
 
@@ -605,9 +605,9 @@ Although Volapük has been largely superseded by Esperanto as the most widely-us
 
 1. It paved the way for later constructed languages, demonstrating both the potential and pitfalls of such projects.
 
-2. Some Volapük words have entered other languages, such as "Volapuk" itself, which is used in some languages to mean "gibberish" or "nonsense language".
+2. Some Volapük words have entered other languages, such as “Volapuk” itself, which is used in some languages to mean “gibberish” or “nonsense language”.
 
-3. The concept of a "volapuk" as a universal language has inspired numerous literary and artistic works.
+3. The concept of a “volapuk” as a universal language has inspired numerous literary and artistic works.
 
 4. Volapük clubs and societies still exist in some parts of the world, maintaining interest in the language.
 
@@ -648,9 +648,9 @@ Volapük has a robust system for building complex words through compounding and 
 
 While not as extensive as some natural languages, Volapük has a body of literature, including original works and translations:
 
-1. "Menad bal, pük bal" (One humanity, one language) - the Volapük anthem
+1. “Menad bal, pük bal” (One humanity, one language) - the Volapük anthem
 2. Translations of religious texts, including parts of the Bible
-3. Poetry collections, such as "Volapükageds" by Johann Schmidt
+3. Poetry collections, such as “Volapükageds” by Johann Schmidt
 4. Short stories and novellas written by enthusiasts
 
 Example of a Volapük poem (with translation):
@@ -680,11 +680,11 @@ Despite its decline, Volapük has found new life in the digital age:
 
 1. Agglutinative verb conjugation: Volapük verbs can become quite long due to the agglutination of various markers:
    **äpölöfomoy** = **ä-** (past) + **pö-** (passive) + **löf** (love) + **-om** (3rd person singular masculine) + **-oy** (indefinite)
-   Meaning: "He was loved (by someone unspecified)"
+   Meaning: “He was loved (by someone unspecified)”
 
 2. Extensive use of affixes: Volapük makes heavy use of prefixes and suffixes to modify meaning:
    **neletöfik** = **ne-** (not) + **let** (late) + **-öf** (tendency) + **-ik** (adjective)
-   Meaning: "having a tendency to not be late"
+   Meaning: “having a tendency to not be late”
 
 3. Case system applied to adjectives: Unlike many languages where adjectives remain uninflected, Volapük adjectives can take case endings when used predicatively:
    **Dom binon gletik.** (The house is big.)
@@ -703,7 +703,7 @@ Despite its decline, Volapük has found new life in the digital age:
 
 2. Complex verb system: The multitude of tenses, moods, and voices can be overwhelming for beginners.
 
-3. Umlauted vowels: The frequent use of ä, ö, and ü can be challenging for speakers of languages that don't use these sounds.
+3. Umlauted vowels: The frequent use of ä, ö, and ü can be challenging for speakers of languages that don’t use these sounds.
 
 4. Limited resources: Compared to more popular languages, learning materials for Volapük are scarce.
 
@@ -717,9 +717,9 @@ Even constructed languages can have jokes! Here's a Volapük pun:
 **Bi ols laboms vokis sümik!**
 
 Translation:
-"Why are a duck and Volapük similar?"
-"Because they both have similar voices!"
+“Why are a duck and Volapük similar?”
+“Because they both have similar voices!”
 
-(The pun works because **vok** means both "voice" and "vowel" in Volapük, and the language is known for its frequent use of umlauted vowels, which might sound like duck quacks to some.)
+(The pun works because **vok** means both “voice” and “vowel” in Volapük, and the language is known for its frequent use of umlauted vowels, which might sound like duck quacks to some.)
 
 This overview covers various aspects of Volapük, from its basic grammar and vocabulary to more advanced topics and cultural aspects. It provides a comprehensive look at this historically significant constructed language.

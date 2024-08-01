@@ -249,7 +249,7 @@ Example:
 ### Negation
 
 Negation is formed by placing **не** before the verb:
-- **Я не говорю по-русиньскы.** ('I don't speak Rusyn.')
+- **Я не говорю по-русиньскы.** ('I don’t speak Rusyn.')
 
 Double negation is common and required in Rusyn:
 - **Ніхто нич не видів.** ('Nobody saw anything.')
@@ -290,7 +290,7 @@ Accusative case:
 
 Genitive case:
 - Possession: **книжка брата** ('brother's book')
-- Negation: **Я не мам часу.** ('I don't have time.')
+- Negation: **Я не мам часу.** ('I don’t have time.')
 - After certain prepositions: **до міста** ('to the city')
 
 Dative case:

@@ -385,15 +385,15 @@ Turkic languages have borrowed extensively from various sources:
 Turkic languages form new words through various processes:
 
 1. Compounding:
-   Turkish: **buzdolabı** (refrigerator, lit. "ice cupboard")
-   Kazakh: **қолжазба** [qolʒɑzbɑ] (manuscript, lit. "hand-writing")
+   Turkish: **buzdolabı** (refrigerator, lit. “ice cupboard”)
+   Kazakh: **қолжазба** [qolʒɑzbɑ] (manuscript, lit. “hand-writing”)
 
 2. Derivation:
    Turkish: **göz** (eye) → **gözlük** (glasses)
    Kazakh: **көз** [kœz] (eye) → **көзілдірік** [kœzɪldɪrɪk] (glasses)
 
 3. Calques (loan translations):
-   Turkish: **gökyüzü** (sky, lit. "sky-face", calque from Persian)
+   Turkish: **gökyüzü** (sky, lit. “sky-face”, calque from Persian)
 
 ## Dialects and Varieties
 
@@ -525,15 +525,15 @@ Turkish example:
 Kazakh example:
 - **Бұл кітап, мен оны кеше оқыдым.** [bʊl kɪtɑp, men onɯ keʃe oqɯdɯm] (This book, I read it yesterday.)
 
-### Lack of "Have"
+### Lack of “Have”
 
-Turkic languages typically don't have a verb equivalent to "have". Instead, they use existential sentences with the possessed item as the subject and the possessor in the genitive case.
+Turkic languages typically don’t have a verb equivalent to “have”. Instead, they use existential sentences with the possessed item as the subject and the possessor in the genitive case.
 
 Turkish example:
-- **Benim bir kitabım var.** (I have a book, lit. "My one book exists.")
+- **Benim bir kitabım var.** (I have a book, lit. “My one book exists.”)
 
 Kazakh example:
-- **Менің бір кітабым бар.** [menɪŋ bɪr kɪtɑbɯm bɑr] (I have a book, lit. "My one book exists.")
+- **Менің бір кітабым бар.** [menɪŋ bɪr kɪtɑbɯm bɑr] (I have a book, lit. “My one book exists.”)
 
 ### Evidentiality
 
@@ -561,7 +561,7 @@ Turkic languages make extensive use of converbs, non-finite verb forms that expr
 
 Turkish example:
 - **Koşarak geldi.** (He came running.)
-  The suffix -arak forms a converb meaning "by doing X".
+  The suffix -arak forms a converb meaning “by doing X”.
 
 Kazakh example:
 - **Жүгіріп келді.** [ʒʏgɪrɪp keldɪ] (He came running.)

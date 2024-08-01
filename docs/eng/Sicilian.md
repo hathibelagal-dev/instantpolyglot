@@ -16,7 +16,7 @@ Sicilian has a simple five-vowel system:
 | o | [ɔ] | **oru** [ˈɔru] (gold) |
 | u | [u] | **lupu** [ˈlupu] (wolf) |
 
-Unlike Standard Italian, Sicilian does not distinguish between open and closed "e" and "o" sounds.
+Unlike Standard Italian, Sicilian does not distinguish between open and closed “e” and “o” sounds.
 
 ### Consonants
 
@@ -57,14 +57,14 @@ Additionally, Sicilian has several consonant clusters and digraphs:
 1. Raddoppiamento (Consonant doubling): Initial consonants are often doubled in pronunciation, especially after vowels:
    **a casa** [a kˈkasa] (at home)
 
-2. Vowel breaking: Latin "e" and "o" often become diphthongs in Sicilian:
-   Latin "petra" > Sicilian **petra** [ˈpjɛtra] (stone)
+2. Vowel breaking: Latin “e” and “o” often become diphthongs in Sicilian:
+   Latin “petra” > Sicilian **petra** [ˈpjɛtra] (stone)
 
 3. Metathesis: Some consonant clusters undergo metathesis:
-   Latin "capra" > Sicilian **crapa** [ˈkrapa] (goat)
+   Latin “capra” > Sicilian **crapa** [ˈkrapa] (goat)
 
-4. Betacism: Latin "v" often becomes "b" in Sicilian:
-   Latin "vita" > Sicilian **vita** [ˈbita] (life)
+4. Betacism: Latin “v” often becomes “b” in Sicilian:
+   Latin “vita” > Sicilian **vita** [ˈbita] (life)
 
 ## Morphology
 
@@ -254,7 +254,7 @@ However, the word order can be more flexible due to the case system:
 
 Negation is typically formed by placing **nun** before the verb:
 
-**Iu nun mangiu a pasta** (I don't eat pasta)
+**Iu nun mangiu a pasta** (I don’t eat pasta)
 
 ### Questions
 
@@ -314,24 +314,24 @@ Sicilian vocabulary has been influenced by various languages due to its historic
    **terra** (earth, land)
 
 2. Greek: Due to ancient Greek colonies in Sicily
-   **cirasa** (cherry) from Greek "kerasos"
-   **trùppia** (herd) from Greek "tropē"
+   **cirasa** (cherry) from Greek “kerasos”
+   **trùppia** (herd) from Greek “tropē”
 
 3. Arabic: From the period of Arab rule in Sicily
-   **taliari** (to look) from Arabic "tala'a"
-   **zimmili** (basket) from Arabic "zanbil"
+   **taliari** (to look) from Arabic “tala'a”
+   **zimmili** (basket) from Arabic “zanbil”
 
 4. Norman French: From the Norman conquest of Sicily
-   **accattari** (to buy) from Old French "achater"
-   **addumari** (to light) from Old French "alumer"
+   **accattari** (to buy) from Old French “achater”
+   **addumari** (to light) from Old French “alumer”
 
 5. Spanish: From the period of Spanish rule
-   **abbintari** (to rest) from Spanish "aventar"
-   **custureri** (tailor) from Spanish "costurero"
+   **abbintari** (to rest) from Spanish “aventar”
+   **custureri** (tailor) from Spanish “costurero”
 
 6. Catalan: From the period of Aragonese rule
-   **anciova** (anchovy) from Catalan "anxova"
-   **addunàrisi** (to realize) from Catalan "adonar-se"
+   **anciova** (anchovy) from Catalan “anxova”
+   **addunàrisi** (to realize) from Catalan “adonar-se”
 
 Some distinctive Sicilian words:
 
@@ -346,42 +346,42 @@ Some distinctive Sicilian words:
 Sicilian has several dialects, with variations in pronunciation, vocabulary, and grammar:
 
 1. Western Sicilian (Palermitano): Spoken in Palermo and western Sicily
-   Feature: Tendency to pronounce "tr" as "chr"
+   Feature: Tendency to pronounce “tr” as “chr”
    Example: **tri** (three) pronounced as [kɾi]
 
 2. Central Sicilian (Centrale): Spoken in central Sicily
-   Feature: Preservation of Latin "fl-" cluster
+   Feature: Preservation of Latin “fl-” cluster
    Example: **ciumi** (river) vs. Western **sciumi**
 
 3. Eastern Sicilian (Catanese-Siracusano): Spoken in Catania, Syracuse, and eastern Sicily
-   Feature: Tendency to pronounce "dd" as a retroflex "ḍḍ"
+   Feature: Tendency to pronounce “dd” as a retroflex “ḍḍ”
    Example: **beddu** pronounced as [bɛɖːu]
 
 4. Southeastern Sicilian (Ragusano): Spoken in Ragusa and southeastern Sicily
    Feature: Preservation of some archaic forms
-   Example: **esti** for "is" instead of standard Sicilian **è**
+   Example: **esti** for “is” instead of standard Sicilian **è**
 
 5. Ennese: Spoken in the province of Enna
    Feature: Influence from Gallo-Italic dialects
-   Example: Use of "u" instead of "lu" for the definite article
+   Example: Use of “u” instead of “lu” for the definite article
 
 6. Messinese: Spoken in Messina and northeastern Sicily
    Feature: Stronger influence from Calabrian dialects
-   Example: Use of "iju" for "I" instead of standard Sicilian "iu"
+   Example: Use of “iju” for “I” instead of standard Sicilian “iu”
 
 ## Orthography
 
 Sicilian does not have a standardized orthography, but there are some common conventions:
 
-1. Use of "dd" for the retroflex sound: **beddu** (beautiful)
+1. Use of “dd” for the retroflex sound: **beddu** (beautiful)
 
-2. Use of "ch" for the [k] sound before "i" and "e": **chi** (what), **chiddu** (that)
+2. Use of “ch” for the [k] sound before “i” and “e”: **chi** (what), **chiddu** (that)
 
-3. Use of "gh" for the [g] sound before "i" and "e": **ghiacciu** (ice)
+3. Use of “gh” for the [g] sound before “i” and “e”: **ghiacciu** (ice)
 
-4. Use of "j" for the [j] sound: **juntu** (together), **jùdici** (judge)
+4. Use of “j” for the [j] sound: **juntu** (together), **jùdici** (judge)
 
-5. Use of "sc" for the [ʃ] sound: **sceccu** (donkey), **pisci** (fish)
+5. Use of “sc” for the [ʃ] sound: **sceccu** (donkey), **pisci** (fish)
 
 6. Use of apostrophes to indicate elision: **d'amuri** (of love), **l'acqua** (the water)
 
@@ -464,8 +464,8 @@ Sicilian verbs have some unique features:
 1. The infinitive often ends in -ri instead of -re:
    **parrari** (to speak), **vidiri** (to see)
 
-2. The present perfect is formed with **aviri** (to have) for all verbs, unlike Italian which uses both "avere" and "essere":
-   **Aiu jutu** (I have gone) - compare to Italian "Sono andato"
+2. The present perfect is formed with **aviri** (to have) for all verbs, unlike Italian which uses both “avere” and “essere”:
+   **Aiu jutu** (I have gone) - compare to Italian “Sono andato”
 
 3. The remote past (passato remoto) is commonly used in spoken Sicilian, unlike in many Italian dialects:
    **Parrai** (I spoke), **Vitti** (I saw)
@@ -509,11 +509,11 @@ Examples:
 
 Sicilian has many colorful idiomatic expressions:
 
-**Aviri u cori 'nta zuccaru** (lit. "to have one's heart in sugar") - to be extremely happy
-**Fari vèntu** (lit. "to make wind") - to steal
-**Essiri tuttu pani e cipudda** (lit. "to be all bread and onion") - to be very simple or naive
-**Aviri u vermu solitariu** (lit. "to have a solitary worm") - to be always hungry
-**Fari u purpu** (lit. "to act like an octopus") - to be overly clingy or possessive
+**Aviri u cori 'nta zuccaru** (lit. “to have one's heart in sugar”) - to be extremely happy
+**Fari vèntu** (lit. “to make wind”) - to steal
+**Essiri tuttu pani e cipudda** (lit. “to be all bread and onion”) - to be very simple or naive
+**Aviri u vermu solitariu** (lit. “to have a solitary worm”) - to be always hungry
+**Fari u purpu** (lit. “to act like an octopus”) - to be overly clingy or possessive
 
 ## Numbers
 
@@ -595,10 +595,10 @@ While Sicilian generally follows SVO order, it allows for considerable flexibili
    **A pasta, a mangiai** (The pasta, I ate it)
 
 2. Clitic doubling:
-   **Ci dissi a iddu** (I told him) - literally "To-him I-told to him"
+   **Ci dissi a iddu** (I told him) - literally “To-him I-told to him”
 
 3. Null subject language:
-   **Parru sicilianu** (I speak Sicilian) - the pronoun "I" is omitted
+   **Parru sicilianu** (I speak Sicilian) - the pronoun “I” is omitted
 
 4. Emphatic pronouns:
    **Iu stissu u vitti** (I myself saw it)

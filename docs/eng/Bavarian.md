@@ -192,11 +192,11 @@ Questions are formed similarly to Standard German:
 
 Negation in Bavarian is typically expressed with **ned** (nicht, 'not'):
 
-Example: **I mog des ned** (I don't like that)
+Example: **I mog des ned** (I don’t like that)
 
 Double negation is more common in Bavarian than in Standard German:
 
-Example: **I hob koa Geid ned** (I don't have any money)
+Example: **I hob koa Geid ned** (I don’t have any money)
 
 ### Particles and interjections
 
@@ -252,16 +252,16 @@ Bavarian vocabulary differs significantly from Standard German, with many unique
 Bavarian has borrowed words from various languages due to historical and cultural influences:
 
 1. Italian:
-   - **Zini**: cinema (from Italian "cinema")
-   - **Maròni**: chestnuts (from Italian "marroni")
+   - **Zini**: cinema (from Italian “cinema”)
+   - **Maròni**: chestnuts (from Italian “marroni”)
 
 2. French:
-   - **Trottoir**: sidewalk (from French "trottoir")
-   - **Portmonee**: wallet (from French "porte-monnaie")
+   - **Trottoir**: sidewalk (from French “trottoir”)
+   - **Portmonee**: wallet (from French “porte-monnaie”)
 
 3. Czech:
-   - **Powidl**: plum jam (from Czech "povidla")
-   - **Kren**: horseradish (from Czech "křen")
+   - **Powidl**: plum jam (from Czech “povidla”)
+   - **Kren**: horseradish (from Czech “křen”)
 
 ## Dialects and regional variations
 
@@ -314,7 +314,7 @@ Colloquial Bavarian differs from more formal or written forms in several ways:
 
 5. Slang and idiomatic expressions:
    - **des is a Schmarrn**: That's nonsense
-   - **I mog nimma**: I can't take it anymore
+   - **I mog nimma**: I can’t take it anymore
 
 6. Intensifiers:
    - **sau-**: **sauguat** (very good)
@@ -361,7 +361,7 @@ That the night is so dark.
 
 The moon looks very friendly
 Down on the world, oh my!
-And time doesn't pass
+And time doesn’t pass
 So quickly after all.)
 
 This example showcases several features of written Bavarian.
@@ -447,7 +447,7 @@ Bavarian modal verbs and their conjugations:
 | woin | want | **i wui** | **du wuist** | **er wui** | **mia woin** | **es woits** | **sie woin** |
 | soin | should | **i soi** | **du soist** | **er soi** | **mia soin** | **es soits** | **sie soin** |
 
-Example: **I ko des ned macha** (I can't do that)
+Example: **I ko des ned macha** (I can’t do that)
 
 ## Idiomatic Expressions
 
@@ -455,9 +455,9 @@ Bavarian is rich in idiomatic expressions that often differ from Standard German
 
 1. **Es zwickt mi** - I have a sharp pain (Literally: It pinches me)
 2. **Hoid dei Babbn** - Be quiet (Literally: Hold your mouth)
-3. **Geh weida** - Come on / You can't be serious (Literally: Go further)
+3. **Geh weida** - Come on / You can’t be serious (Literally: Go further)
 4. **Du gehst ma am Zwirn** - You're getting on my nerves (Literally: You're going on my thread)
-5. **Des is ma wurscht** - I don't care (Literally: That's sausage to me)
+5. **Des is ma wurscht** - I don’t care (Literally: That's sausage to me)
 6. **I bin hi und weg** - I'm extremely impressed (Literally: I'm there and away)
 7. **Da legst di nieda** - That's incredible (Literally: You lay yourself down there)
 8. **Des haut mi um** - That knocks me over (meaning: That's amazing)
@@ -534,7 +534,7 @@ While Bavarian generally follows German sentence structure, there are some notab
 2. Double negation:
    Unlike Standard German, Bavarian often uses double negation for emphasis.
    
-   **I hob koa Goid ned** (I don't have any money)
+   **I hob koa Goid ned** (I don’t have any money)
 
 3. Topicalization:
    Bavarian frequently uses topicalization for emphasis, placing the most important information at the beginning of the sentence.

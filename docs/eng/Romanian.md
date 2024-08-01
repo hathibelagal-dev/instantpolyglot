@@ -116,7 +116,7 @@ Cases are mainly marked by articles and prepositions:
 
 ### Articles
 
-Romanian has both definite and indefinite articles, as well as a unique feature called the "genitival article."
+Romanian has both definite and indefinite articles, as well as a unique feature called the “genitival article.”
 
 #### Definite Articles
 
@@ -278,7 +278,7 @@ Example: **aș cânta** (I would sing)
 Formed from the present tense:
 
 - Affirmative 2nd person singular: **cântă!** (sing!)
-- Negative 2nd person singular: **nu cânta!** (don't sing!)
+- Negative 2nd person singular: **nu cânta!** (don’t sing!)
 - 2nd person plural: **cântați!** (sing! - plural)
 
 #### Gerund
@@ -341,7 +341,7 @@ Romanian allows for topicalization, where elements can be moved to the beginning
 Romanian is a null-subject language, meaning that pronouns can be omitted when they are understood from context:
 
 **Merg la școală.** (I am going to school.)
-Here, the pronoun "I" (**eu**) is omitted.
+Here, the pronoun “I” (**eu**) is omitted.
 
 ## Lexicon
 
@@ -350,18 +350,18 @@ Romanian vocabulary is primarily of Latin origin, but it has been influenced by 
 ### Latin Inheritance
 
 About 75-85% of Romanian words are of Latin origin. Examples:
-- **apă** (water) from Latin "aqua"
-- **pâine** (bread) from Latin "panis"
-- **frate** (brother) from Latin "frater"
+- **apă** (water) from Latin “aqua”
+- **pâine** (bread) from Latin “panis”
+- **frate** (brother) from Latin “frater”
 
 ### Slavic Influence
 
 About 10-15% of Romanian words have Slavic origins. Examples:
-- **iubi** (to love) from Old Slavic "ljubiti"
-- **prieten** (friend) from Old Slavic "prijatel"
-- **boală** (disease) from Old Slavic "bolĭ"
-- **a citi** (to read) from Old Slavic "čĭtati"
-- **nevastă** (wife) from Old Slavic "nevěsta"
+- **iubi** (to love) from Old Slavic “ljubiti”
+- **prieten** (friend) from Old Slavic “prijatel”
+- **boală** (disease) from Old Slavic “bolĭ”
+- **a citi** (to read) from Old Slavic “čĭtati”
+- **nevastă** (wife) from Old Slavic “nevěsta”
 
 ### Other Influences
 
@@ -403,8 +403,8 @@ Romanian uses various methods for word formation:
    - **-esc** (adjectival): **copil** (child) → **copilăresc** (childish)
 
 3. Compounding:
-   - **floarea-soarelui** (sunflower, literally "flower of the sun")
-   - **botgros** (bullfinch, literally "thick beak")
+   - **floarea-soarelui** (sunflower, literally “flower of the sun”)
+   - **botgros** (bullfinch, literally “thick beak”)
 
 ## Idiomatic Expressions
 
@@ -426,14 +426,14 @@ Colloquial Romanian differs from standard Romanian in several ways:
 
 1. Contractions:
    - **nu-i** instead of **nu este** (is not)
-   - **n-am** instead of **nu am** (I don't have)
+   - **n-am** instead of **nu am** (I don’t have)
 
 2. Shortened forms:
    - **mi-e** instead of **îmi este** (it is to me)
    - **te-ai** instead of **tu te-ai** (you have)
 
 3. Informal pronouns:
-   - **mata** (informal "you", between **tu** and **dumneavoastră**)
+   - **mata** (informal “you”, between **tu** and **dumneavoastră**)
 
 4. Slang terms:
    - **mișto** (cool, awesome)
@@ -471,7 +471,7 @@ Within Daco-Romanian, there are several subdialects:
 
 4. Banat: Spoken in southwestern Romania
    - Characteristic: Influence from Serbian
-   Example: Use of **nă** instead of **ne** for "us"
+   Example: Use of **nă** instead of **ne** for “us”
 
 5. Oltenian: Spoken in southwestern Romania
    - Characteristic: Archaisms and specific vocabulary
@@ -544,7 +544,7 @@ The 1993 spelling reform changed these rules to reflect etymology more closely.
 3. Balkan sprachbund features:
    - Postposed definite article
    - Merger of genitive and dative cases
-   - Formation of future tense with "to want"
+   - Formation of future tense with “to want”
    - Lack of infinitive in many constructions, replaced by subjunctive
 
 4. Retention of case system: Unlike most other Romance languages, Romanian retained a case system.
@@ -560,7 +560,7 @@ The 1993 spelling reform changed these rules to reflect etymology more closely.
 
 8. T-V distinction: Like many European languages, Romanian distinguishes between familiar (tu) and polite (dumneavoastră) forms of address.
 
-9. Animate/inanimate distinction: This affects the use of the accusative case marker "pe" with direct objects.
+9. Animate/inanimate distinction: This affects the use of the accusative case marker “pe” with direct objects.
    Example: **Văd cartea** (I see the book) but **Îl văd pe Ion** (I see Ion)
 
 10. Rich system of verbal aspects and moods: Romanian has preserved or developed a complex system of verbal aspects and moods, including the presumptive mood.

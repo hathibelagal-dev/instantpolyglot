@@ -30,8 +30,8 @@ Most consonants are pronounced similarly to English, with some notable exception
 
 | Letter | Sound |
 |--------|-------|
-**þ** | [θ] (like 'th' in "think")
-**ð** | [ð] (like 'th' in "this")
+**þ** | [θ] (like 'th' in “think”)
+**ð** | [ð] (like 'th' in “this”)
 **hv** | [kv] or [xv]
 **ll** | [tl]
 **rl** | [rtl]
@@ -88,7 +88,7 @@ Note the internal vowel change in the plural forms of **land**.
 
 ### Definite Article
 
-Icelandic doesn't have a separate definite article like "the" in English. Instead, it uses a suffix attached to the noun. This suffix also declines for case, number, and gender:
+Icelandic doesn’t have a separate definite article like “the” in English. Instead, it uses a suffix attached to the noun. This suffix also declines for case, number, and gender:
 
 | Case | Singular | Plural |
 |------|----------|--------|
@@ -329,8 +329,8 @@ In subordinate clauses, the word order often changes, with the verb coming at th
 
 Icelandic often uses impersonal constructions, particularly with weather or feelings:
 
-**Það rignir.** (It's raining.) - Literally: "It rains."
-**Mig langar í kaffi.** (I want coffee.) - Literally: "Me longs for coffee."
+**Það rignir.** (It's raining.) - Literally: “It rains.”
+**Mig langar í kaffi.** (I want coffee.) - Literally: “Me longs for coffee.”
 
 ## Case Usage
 
@@ -438,11 +438,11 @@ While Icelandic does have some loanwords, especially for international concepts,
 
 Icelandic has many colorful idioms and expressions:
 
-- **Þetta reddast** - "It will all work out okay" (literally: "It will sort itself out")
-- **Að kasta mæðinni** - "To catch one's breath" (literally: "To throw away the exhaustion")
-- **Að standa á gati** - "To be surprised" (literally: "To stand on a hole")
-- **Að vera með annan fótinn í gröfinni** - "To be close to death" (literally: "To have one foot in the grave")
-- **Að taka því með stóískri ró** - "To take it calmly" (literally: "To take it with stoic calm")
+- **Þetta reddast** - “It will all work out okay” (literally: “It will sort itself out”)
+- **Að kasta mæðinni** - “To catch one's breath” (literally: “To throw away the exhaustion”)
+- **Að standa á gati** - “To be surprised” (literally: “To stand on a hole”)
+- **Að vera með annan fótinn í gröfinni** - “To be close to death” (literally: “To have one foot in the grave”)
+- **Að taka því með stóískri ró** - “To take it calmly” (literally: “To take it with stoic calm”)
 
 ## Phonological Processes
 

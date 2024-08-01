@@ -92,7 +92,7 @@ In South Sami, stress typically falls on the first syllable of a word. For examp
 
 However, in compound words, there may be secondary stress on the first syllable of the second element:
 
-- **juhteme**/**gåetie** [ˈjuhtemeˌgɔetie] (mobile home, lit. "moving house")
+- **juhteme**/**gåetie** [ˈjuhtemeˌgɔetie] (mobile home, lit. “moving house”)
 
 ## Morphology
 
@@ -231,9 +231,9 @@ South Sami has several moods:
 
 Negation in South Sami is expressed using a negative verb that carries the person and number inflections, while the main verb appears in a special connegative form:
 
-- **Im vaedtseh** (I don't walk)
-- **Ih vaedtseh** (You don't walk)
-- **Ij vaedtseh** (He/she doesn't walk)
+- **Im vaedtseh** (I don’t walk)
+- **Ih vaedtseh** (You don’t walk)
+- **Ij vaedtseh** (He/she doesn’t walk)
 
 #### Verb Types
 
@@ -278,7 +278,7 @@ Questions in South Sami can be formed in several ways:
 As mentioned in the verb section, negation in South Sami uses a negative verb:
 
 **Im manne daajrah.**
-(I don't know.)
+(I don’t know.)
 
 Here, **im** is the negative verb in first person singular, and **daajrah** is the main verb in connegative form.
 
@@ -395,19 +395,19 @@ South Sami has a complex system of kinship terms:
 
 Like all languages, South Sami has borrowed words from other languages, particularly from Scandinavian languages and more recently from English:
 
-- **skovle** (school, from Swedish "skola")
+- **skovle** (school, from Swedish “skola”)
 - **busse** (bus)
 - **telefovne** (telephone)
-- **vïnhtsove** (window, from Old Norse "vindauga")
+- **vïnhtsove** (window, from Old Norse “vindauga”)
 - **kaaffe** (coffee)
 
 ### Neologisms
 
 To adapt to modern life, South Sami has created new words:
 
-- **gelliegïele** (multilingual, literally "many-language")
-- **gïehtjelimmie** (computer, literally "question-answerer")
-- **guvvieprïevie** (email, literally "picture-letter")
+- **gelliegïele** (multilingual, literally “many-language”)
+- **gïehtjelimmie** (computer, literally “question-answerer”)
+- **guvvieprïevie** (email, literally “picture-letter”)
 
 ## Dialects and Variation
 
@@ -485,7 +485,7 @@ As an endangered language, South Sami faces several challenges:
 
 1. Small speaker population: With only a few hundred active speakers, it's challenging to maintain language vitality.
 
-2. Lack of everyday use: Many South Sami speakers don't use the language daily, which can lead to language attrition.
+2. Lack of everyday use: Many South Sami speakers don’t use the language daily, which can lead to language attrition.
 
 3. Limited educational resources: While there are efforts to teach South Sami in schools, resources are often limited.
 

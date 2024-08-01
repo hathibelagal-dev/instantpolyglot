@@ -111,8 +111,8 @@ Tibetan has five basic vowel phonemes:
 
 Classical Tibetan was not tonal, but many modern dialects have developed tonal systems. For example, Lhasa Tibetan has developed a high-low tone distinction:
 
-- High tone: ཁ **kha** [kʰá] "mouth"
-- Low tone: ག **ga** [kà] "ginger"
+- High tone: ཁ **kha** [kʰá] “mouth”
+- Low tone: ག **ga** [kà] “ginger”
 
 ## Grammar
 
@@ -136,9 +136,9 @@ Example:
 **བུ་མོས་དེབ་བཀླགས།**
 **bu mos deb bklags**
 [pù mø̀ː tep klaʔ]
-"The girl read a book."
+“The girl read a book.”
 
-Here, བུ་མོ **bu mo** "girl" takes the ergative marker ས་ **-s** to indicate it's the subject of a transitive verb.
+Here, བུ་མོ **bu mo** “girl” takes the ergative marker ས་ **-s** to indicate it's the subject of a transitive verb.
 
 ### Verbs
 
@@ -153,7 +153,7 @@ Many Tibetan verbs have different stems for different tenses/aspects:
 - Future stem
 - Imperative stem
 
-For example, the verb "to do":
+For example, the verb “to do”:
 
 - Present: བྱེད་ **byed**
 - Past: བྱས་ **byas**
@@ -173,7 +173,7 @@ Example:
 **ང་སློབ་གྲྭ་ལ་འགྲོ་གི་ཡོད།**
 **nga slob grwa la 'gro gi yod**
 [ŋa loptʂa la ɖogi jø̀ː]
-"I am going to school."
+“I am going to school.”
 
 Here, གི་ཡོད་ **gi yod** is an auxiliary construction indicating present continuous tense.
 
@@ -190,12 +190,12 @@ Example:
 **ཁོང་ན་གི་འདུག**
 **khong na gi 'dug**
 [kʰõː nagi duʔ]
-"He is sick." (I can see it)
+“He is sick.” (I can see it)
 
 **ཁོང་ན་གི་སོང།**
 **khong na gi song**
 [kʰõː nagi sõː]
-"He was sick." (I found out indirectly)
+“He was sick.” (I found out indirectly)
 
 ### Adjectives
 
@@ -204,14 +204,14 @@ Tibetan adjectives typically follow the nouns they modify:
 **དེབ་སྔོན་པོ་**
 **deb sngon po**
 [tep ŋø̃ːpo]
-"blue book"
+“blue book”
 
 Adjectives can also function as stative verbs:
 
 **ང་དགའ་པོ་ཡོད།**
 **nga dga' po yod**
 [ŋa gapo jø̀ː]
-"I am happy."
+“I am happy.”
 
 ### Numerals
 
@@ -252,7 +252,7 @@ The basic word order in Tibetan is Subject-Object-Verb (SOV):
 **ང་དེབ་ཀློག་གི་ཡོད།**
 **nga deb klog gi yod**
 [ŋa tep lokgi jø̀ː]
-"I am reading a book."
+“I am reading a book.”
 
 However, the word order can be somewhat flexible due to the case system.
 
@@ -264,23 +264,23 @@ Tibetan vocabulary reflects the cultural and geographical context of the Tibetan
 
 Tibetan has borrowed words from various languages:
 
-- Sanskrit (mainly religious terms): སངས་རྒྱས་ **sangs rgyas** "Buddha"
-- Chinese: ཇ་ **ja** "tea"
-- English (modern terms): ཀམ་པུ་ཊར་ **kam pu tar** "computer"
+- Sanskrit (mainly religious terms): སངས་རྒྱས་ **sangs rgyas** “Buddha”
+- Chinese: ཇ་ **ja** “tea”
+- English (modern terms): ཀམ་པུ་ཊར་ **kam pu tar** “computer”
 
 ### Word Formation
 
 Tibetan often forms new words through compounding:
 
-- དཔེ་མཛོད་ **dpe mdzod** "library" (literally "book store")
-- མེ་འཁོར་ **me 'khor** "train" (literally "fire wheel")
+- དཔེ་མཛོད་ **dpe mdzod** “library” (literally “book store”)
+- མེ་འཁོར་ **me 'khor** “train” (literally “fire wheel”)
 
 ### Common Phrases
 
-- བཀྲ་ཤིས་བདེ་ལེགས། **bkra shis bde legs** [ʈaʃi teleʔ] - "Hello" (formal)
-- ག་ལེར་ཕེབས། **ga ler phebs** [kaleː pʰep] - "Goodbye" (formal)
-- ཐུགས་རྗེ་ཆེ། **thugs rje che** [tʰukdʒe tɕʰe] - "Thank you" (formal)
-- དགོངས་དག **dgongs dag** [koŋtaʔ] - "Sorry" (formal)
+- བཀྲ་ཤིས་བདེ་ལེགས། **bkra shis bde legs** [ʈaʃi teleʔ] - “Hello” (formal)
+- ག་ལེར་ཕེབས། **ga ler phebs** [kaleː pʰep] - “Goodbye” (formal)
+- ཐུགས་རྗེ་ཆེ། **thugs rje che** [tʰukdʒe tɕʰe] - “Thank you” (formal)
+- དགོངས་དག **dgongs dag** [koŋtaʔ] - “Sorry” (formal)
 
 ## Dialects
 
@@ -296,7 +296,7 @@ These dialects can differ significantly in pronunciation, vocabulary, and even s
 
 Example of dialectal differences:
 
-"I don't understand"
+“I don’t understand”
 
 - Lhasa: **ང་གོ་གི་མི་འདུག།** **nga go gi mi 'dug** [ŋa koki mintuʔ]
 - Amdo: **ངས་ཧ་གོ་གི་མེད།** **ngas ha go gi med** [ŋe hako kimeː]
@@ -307,22 +307,22 @@ Tibetan has an extensive system of honorific and humilific language, used to sho
 
 | Plain | Honorific | Meaning |
 |-------|-----------|---------|
-| མིག་ **mig** | སྤྱན་ **spyan** | "eye" |
-| ཁ་ **kha** | ཞལ་ **zhal** | "mouth" |
-| འགྲོ་ **'gro** | ཕེབས་ **phebs** | "to go" |
-| ཟ་ **za** | མཆོད་ **mchod** | "to eat" |
+| མིག་ **mig** | སྤྱན་ **spyan** | “eye” |
+| ཁ་ **kha** | ཞལ་ **zhal** | “mouth” |
+| འགྲོ་ **'gro** | ཕེབས་ **phebs** | “to go” |
+| ཟ་ **za** | མཆོད་ **mchod** | “to eat” |
 
 Example:
 
 Plain: **ཁྱེད་རང་ག་པར་འགྲོ་གི་ཡིན།**
 **khyed rang ga par 'gro gi yin**
 [cʰeraŋ kapar ɖogi jin]
-"Where are you going?"
+“Where are you going?”
 
 Honorific: **ཁྱེད་རང་ག་པར་ཕེབས་ཀྱི་ཡིན།**
 **khyed rang ga par phebs kyi yin**
 [cʰeraŋ kapar pʰepki jin]
-"Where are you going?" (respectful)
+“Where are you going?” (respectful)
 
 ## Colloquial Tibetan
 
@@ -331,26 +331,26 @@ Colloquial Tibetan, especially as spoken in Lhasa and central Tibet, differs in 
 ### Phonological Changes
 
 1. Final consonants: Many final consonants in written Tibetan are dropped or modified in speech:
-   - གས་ **-gs** → [ʔ]: ཐུགས་རྗེ་ཆེ་ **thugs rje che** [tʰuʔdʒe tɕʰe] "thank you"
-   - ད་ **-d** → [ː] (vowel lengthening): བོད་ **bod** [pøː] "Tibet"
+   - གས་ **-gs** → [ʔ]: ཐུགས་རྗེ་ཆེ་ **thugs rje che** [tʰuʔdʒe tɕʰe] “thank you”
+   - ད་ **-d** → [ː] (vowel lengthening): བོད་ **bod** [pøː] “Tibet”
 
 2. Consonant clusters: Many initial clusters are simplified:
-   - བསྒྲུབས་ **bsgrubs** → [ɖup] "accomplished"
+   - བསྒྲུབས་ **bsgrubs** → [ɖup] “accomplished”
 
 3. Vowel changes: Some vowels change in pronunciation:
-   - ཨོ་ **o** often becomes [ø]: བོད་ **bod** [pøː] "Tibet"
+   - ཨོ་ **o** often becomes [ø]: བོད་ **bod** [pøː] “Tibet”
 
 ### Grammatical Differences
 
 1. Genitive particle omission: In speech, the genitive particle is often omitted:
    - Written: ངའི་ཁྱི་ **nga'i khyi** 
-   - Spoken: ང་ཁྱི་ **nga khyi** [ŋa cʰi] "my dog"
+   - Spoken: ང་ཁྱི་ **nga khyi** [ŋa cʰi] “my dog”
 
 2. Contraction of auxiliary verbs:
    - ཡོད་རེད་ **yod red** → ཡོད་ **yod** [jøː] (existential verb)
 
 3. Use of འདི་ **'di** as a definite article:
-   - མི་འདི་ **mi 'di** [mi di] "the person"
+   - མི་འདི་ **mi 'di** [mi di] “the person”
 
 ### Colloquial Vocabulary
 
@@ -358,17 +358,17 @@ Many words used in everyday speech differ from their literary counterparts:
 
 | Colloquial | Literary | Meaning |
 |------------|----------|---------|
-| ཨ་ནི་ **a ni** | དེ་ནས་ **de nas** | "then, and then" |
-| འདི་འདྲས་ **'di 'dras** | འདི་ལྟར་ **'di ltar** | "like this" |
-| ག་རེ་ **ga re** | ཅི་ **ci** | "what" |
-| ག་དུས་ **ga dus** | ནམ་ **nam** | "when" |
+| ཨ་ནི་ **a ni** | དེ་ནས་ **de nas** | “then, and then” |
+| འདི་འདྲས་ **'di 'dras** | འདི་ལྟར་ **'di ltar** | “like this” |
+| ག་རེ་ **ga re** | ཅི་ **ci** | “what” |
+| ག་དུས་ **ga dus** | ནམ་ **nam** | “when” |
 
 Example of colloquial speech:
 
 **ཁྱེད་རང་ག་རེ་གནང་གི་ཡོད།**
 **khyed rang ga re gnang gi yod**
 [cʰeraŋ kare naŋgi jøː]
-"What are you doing?" (polite)
+“What are you doing?” (polite)
 
 ## Sentence Structure
 
@@ -379,7 +379,7 @@ Tibetan sentences typically follow an SOV (Subject-Object-Verb) structure, but t
 **ང་ཚོ་ལྷ་སར་འགྲོ་གི་ཡིན།**
 **nga tsho lha sar 'gro gi yin**
 [ŋatsʰo lʰasa ɖogi jin]
-"We are going to Lhasa."
+“We are going to Lhasa.”
 
 ### Questions
 
@@ -388,14 +388,14 @@ Tibetan sentences typically follow an SOV (Subject-Object-Verb) structure, but t
 **ཁྱེད་རང་བོད་པ་ཡིན་པས།**
 **khyed rang bod pa yin pas**
 [cʰeraŋ pøːpa jimpe]
-"Are you Tibetan?"
+“Are you Tibetan?”
 
-2. Wh-questions: Use question words like ག་རེ་ **ga re** "what", སུ་ **su** "who", ག་པར་ **ga par** "where":
+2. Wh-questions: Use question words like ག་རེ་ **ga re** “what”, སུ་ **su** “who”, ག་པར་ **ga par** “where”:
 
 **ཁྱེད་རང་ག་པར་སྡོད་ཀྱི་ཡོད།**
 **khyed rang ga par sdod kyi yod**
 [cʰeraŋ kapar døːgi jøː]
-"Where do you live?"
+“Where do you live?”
 
 ### Negation
 
@@ -404,25 +404,25 @@ Negation is typically formed by adding མ་ **ma** (past) or མི་ **mi** 
 **ང་དེ་རིང་ལས་ཀ་མི་བྱེད།**
 **nga de ring las ka mi byed**
 [ŋa teriŋ leka miɕeː]
-"I'm not working today."
+“I'm not working today.”
 
 ### Compound Sentences
 
 Tibetan uses various connectives to join clauses:
 
-1. དང་ **dang** "and":
+1. དང་ **dang** “and”:
 
 **ང་དེབ་ཀློག་གི་ཡོད། དང་ངའི་གྲོགས་པོ་གློག་བརྙན་ལྟ་གི་འདུག**
 **nga deb klog gi yod dang nga'i grogs po glog brnyan lta gi 'dug**
 [ŋa tep kokgi jøː taŋ ŋeː ɖokpo lokɲɛn tagi duʔ]
-"I am reading a book, and my friend is watching a movie."
+“I am reading a book, and my friend is watching a movie.”
 
-2. ཡིན་ན་ཡང་ **yin na yang** "but, however":
+2. ཡིན་ན་ཡང་ **yin na yang** “but, however”:
 
 **ང་འགྲོ་འདོད་ཡོད། ཡིན་ན་ཡང་དུས་ཚོད་མི་འདུག**
 **nga 'gro 'dod yod yin na yang dus tshod mi 'dug**
 [ŋa ɖo døː jøː jinnajãː tỹːtsʰøː mintuʔ]
-"I want to go, but I don't have time."
+“I want to go, but I don’t have time.”
 
 ## Idiomatic Expressions
 
@@ -431,26 +431,26 @@ Tibetan has many idiomatic expressions, often reflecting Buddhist philosophy or 
 1. **སེམས་པ་བཟང་པོ་**
    **sems pa bzang po**
    [sempa saŋpo]
-   Literally: "good mind"
-   Meaning: "kind-hearted"
+   Literally: “good mind”
+   Meaning: “kind-hearted”
 
 2. **མགོ་ཆེན་པོ་**
    **mgo chen po**
    [go tɕʰempo]
-   Literally: "big head"
-   Meaning: "arrogant"
+   Literally: “big head”
+   Meaning: “arrogant”
 
 3. **ལག་པ་ཡང་པོ་**
    **lag pa yang po**
    [lakpa jaŋpo]
-   Literally: "light hand"
-   Meaning: "generous"
+   Literally: “light hand”
+   Meaning: “generous”
 
 4. **རླུང་རྒྱག་**
    **rlung rgyag**
    [luŋ ɟaʔ]
-   Literally: "wind strike"
-   Meaning: "to get angry"
+   Literally: “wind strike”
+   Meaning: “to get angry”
 
 ## Numbers and Counting
 
@@ -458,7 +458,7 @@ Tibetan has a complex system for numbers and counting:
 
 ### Ordinary Numbers
 
-11-19 are formed by adding བཅུ་ **bcu** "ten" to the digit:
+11-19 are formed by adding བཅུ་ **bcu** “ten” to the digit:
 
 - 11: བཅུ་གཅིག་ **bcu gcig** [tɕu tɕiʔ]
 - 15: བཅོ་ལྔ་ **bco lnga** [tɕo ŋa]
@@ -480,8 +480,8 @@ Tibetan has its own numeral system, used mainly in religious texts:
 
 Tibetan uses measure words or counters with nouns:
 
-- གྲངས་ **grangs** for countable objects: དེབ་གྲངས་གསུམ་ **deb grangs gsum** "three books"
-- ཐེངས་ **thengs** for occurrences: ཐེངས་གཉིས་ **thengs gnyis** "twice"
+- གྲངས་ **grangs** for countable objects: དེབ་གྲངས་གསུམ་ **deb grangs gsum** “three books”
+- ཐེངས་ **thengs** for occurrences: ཐེངས་གཉིས་ **thengs gnyis** “twice”
 
 ## Levels of Language
 
@@ -493,7 +493,7 @@ Tibetan has several levels of language formality:
 
 Example:
 
-"to eat"
+“to eat”
 
 - Colloquial: ཟ་ **za** [sa]
 - Polite: བཞེས་ **bzhes** [ʃeː]
@@ -507,8 +507,8 @@ Tibetan Sign Language (བོད་བརྡ་ **bod brda**) is used by the dea
 
 Tibetan script has several writing styles:
 
-1. དབུ་ཅན་ **dbu can**: "headed" script, used for printing
-2. དབུ་མེད་ **dbu med**: "headless" script, used for handwriting
+1. དབུ་ཅན་ **dbu can**: “headed” script, used for printing
+2. དབུ་མེད་ **dbu med**: “headless” script, used for handwriting
 3. འབྲུ་ཚ་ **'bru tsha**: an ornate style used for titles and headings
 
 Example of དབུ་ཅན་ (dbu can):

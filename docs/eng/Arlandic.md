@@ -341,10 +341,10 @@ Questions are formed in two ways:
 ### Negation
 
 Negation is formed by using the particle **në** before the verb:
-**Ek në kāram.** (I don't speak.)
+**Ek në kāram.** (I don’t speak.)
 
 Double negation is allowed and intensifies the negation:
-**Ek në kāram nēkët.** (I don't speak nothing. / I don't speak anything at all.)
+**Ek në kāram nēkët.** (I don’t speak nothing. / I don’t speak anything at all.)
 
 ### Definiteness and articles
 
@@ -372,7 +372,7 @@ Coordination is achieved using conjunctions:
 
 **ëd** (and): **Ek kāram ëd tū auskulas.** (I speak and you listen.)
 **av** (or): **Tū kāras av ek kāram.** (You speak or I speak.)
-**mën** (but): **Ek kāram, mën tū në auskulas.** (I speak, but you don't listen.)
+**mën** (but): **Ek kāram, mën tū në auskulas.** (I speak, but you don’t listen.)
 
 Subordinate clauses are introduced by subordinating conjunctions:
 
@@ -463,11 +463,11 @@ Arlandic vocabulary shows its Indo-European roots, with some unique developments
    **aud** (to hear), **ëd** (to eat), **bëv** (to drink), **dorm** (to sleep)
 
 6. Unique Arlandic words:
-   **dolum** (sky, possibly from proto-Arlandic *dol-um "upper-space")
+   **dolum** (sky, possibly from proto-Arlandic *dol-um “upper-space”)
    **pëtika** (animal, etymology unclear)
    **xëlim** (to think, possibly onomatopoeic from the sound of contemplation)
-   **kvëlum** (happiness, from proto-Arlandic *kwe-lum "light-heart")
-   **zdrōm** (journey, adventure, possibly from proto-Arlandic *zd-rom "way-roam")
+   **kvëlum** (happiness, from proto-Arlandic *kwe-lum “light-heart”)
+   **zdrōm** (journey, adventure, possibly from proto-Arlandic *zd-rom “way-roam”)
 
 7. Abstract concepts:
    **vërtas** (truth), **amōr** (love), **tëmp** (time), **spās** (space),
@@ -475,27 +475,27 @@ Arlandic vocabulary shows its Indo-European roots, with some unique developments
 
 Arlandic has also developed some unique compound words:
 
-**kāreþōr** (storyteller, from **kāreþ** "to speak" + **-ōr** agentive suffix)
-**ignvënt** (volcano, literally "fire-wind")
-**akvatëra** (island, literally "water-earth")
-**solkëvar** (phoenix, literally "sun-bird")
-**kordfrīg** (fear, literally "heart-cold")
+**kāreþōr** (storyteller, from **kāreþ** “to speak” + **-ōr** agentive suffix)
+**ignvënt** (volcano, literally “fire-wind”)
+**akvatëra** (island, literally “water-earth”)
+**solkëvar** (phoenix, literally “sun-bird”)
+**kordfrīg** (fear, literally “heart-cold”)
 
 ### Word formation
 
 Arlandic employs various methods of word formation:
 
 1. Compounding:
-   **tërāmōtor** (earthquake, from **tërā** "earth" + **mōtor** "mover")
-   **okëlvëdōr** (witness, from **okël** "eye" + **vëdōr** "seer")
+   **tërāmōtor** (earthquake, from **tërā** “earth” + **mōtor** “mover”)
+   **okëlvëdōr** (witness, from **okël** “eye” + **vëdōr** “seer”)
 
 2. Prefixation:
-   **ën-** (in-): **ënkāreþ** (to discuss, from **kāreþ** "to speak")
-   **ëks-** (out-): **ëksvadeþ** (to exit, from **vadeþ** "to go")
+   **ën-** (in-): **ënkāreþ** (to discuss, from **kāreþ** “to speak”)
+   **ëks-** (out-): **ëksvadeþ** (to exit, from **vadeþ** “to go”)
 
 3. Suffixation:
-   **-tas** (abstract noun): **bontas** (goodness, from **bon** "good")
-   **-ik** (related to): **tëraik** (terrestrial, from **tërā** "earth")
+   **-tas** (abstract noun): **bontas** (goodness, from **bon** “good”)
+   **-ik** (related to): **tëraik** (terrestrial, from **tërā** “earth”)
 
 4. Conversion:
    **vërp** (green) → **vërpëþ** (to become green)

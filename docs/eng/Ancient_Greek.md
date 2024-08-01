@@ -58,9 +58,9 @@ Ancient Greek had a pitch accent system, which was later replaced by a stress ac
 3. Circumflex (῀): Rising-falling pitch
 
 Examples:
-- **ἄνθρωπος** (ánthrōpos, "human")
-- **θεὸς εἶπεν** (theòs eîpen, "god said")
-- **δῶρον** (dôron, "gift")
+- **ἄνθρωπος** (ánthrōpos, “human”)
+- **θεὸς εἶπεν** (theòs eîpen, “god said”)
+- **δῶρον** (dôron, “gift”)
 
 ## Morphology
 
@@ -80,7 +80,7 @@ There were three main declension patterns:
 2. Second declension (ο-stems, mostly masculine and neuter)
 3. Third declension (consonant stems, mixed genders)
 
-Example: First declension, feminine noun **γλῶττα** (glôtta, "tongue, language")
+Example: First declension, feminine noun **γλῶττα** (glôtta, “tongue, language”)
 
 | Case | Singular | Plural |
 |------|----------|--------|
@@ -94,7 +94,7 @@ Example: First declension, feminine noun **γλῶττα** (glôtta, "tongue, la
 
 Adjectives agreed with nouns in gender, number, and case. Most adjectives followed the first and second declension patterns.
 
-Example: **ἀγαθός** (agathós, "good")
+Example: **ἀγαθός** (agathós, “good”)
 
 | Case | Masculine | Feminine | Neuter |
 |------|-----------|----------|--------|
@@ -109,9 +109,9 @@ Comparative and superlative forms were often formed with suffixes:
 - Superlative: -τατος, -τατη, -τατον
 
 Example:
-- **σοφός** (sophós, "wise")
-- **σοφώτερος** (sophṓteros, "wiser")
-- **σοφώτατος** (sophṓtatos, "wisest")
+- **σοφός** (sophós, “wise”)
+- **σοφώτερος** (sophṓteros, “wiser”)
+- **σοφώτατος** (sophṓtatos, “wisest”)
 
 ### Pronouns
 
@@ -126,11 +126,11 @@ Personal pronouns:
 | 3rd Sg. N. | **αὐτό** | **αὐτοῦ** | **αὐτῷ** | **αὐτό** |
 
 Demonstrative pronouns:
-- **οὗτος, αὕτη, τοῦτο** (hoûtos, haútē, toûto): "this"
-- **ἐκεῖνος, ἐκείνη, ἐκεῖνο** (ekeînos, ekeínē, ekeîno): "that"
+- **οὗτος, αὕτη, τοῦτο** (hoûtos, haútē, toûto): “this”
+- **ἐκεῖνος, ἐκείνη, ἐκεῖνο** (ekeînos, ekeínē, ekeîno): “that”
 
 Relative pronoun:
-- **ὅς, ἥ, ὅ** (hós, hḗ, hó): "who, which, that"
+- **ὅς, ἥ, ὅ** (hós, hḗ, hó): “who, which, that”
 
 ### Verbs
 
@@ -153,7 +153,7 @@ Most verbs had six principal parts, from which all forms could be derived:
 5. Perfect middle/passive indicative (1st singular)
 6. Aorist passive indicative (1st singular)
 
-Example: **λύω** (lúō, "I loose")
+Example: **λύω** (lúō, “I loose”)
 1. **λύω** (lúō)
 2. **λύσω** (lúsō)
 3. **ἔλυσα** (élusa)
@@ -217,7 +217,7 @@ Ancient Greek had a relatively flexible word order due to its case system, but t
 
 Example:
 **ὁ ἄνθρωπος τὸν κύνα ὁρᾷ** (ho ánthrōpos tòn kúna horâi)
-"The man sees the dog"
+“The man sees the dog”
 
 ### Cases
 
@@ -225,23 +225,23 @@ The case system was crucial for indicating grammatical relationships:
 
 1. Nominative: Subject of the sentence
    **ὁ ἀνήρ ἐστι σοφός** (ho anḗr esti sophós)
-   "The man is wise"
+   “The man is wise”
 
 2. Genitive: Possession, source, partition
    **ἡ τοῦ ἀνδρὸς οἰκία** (hē toû andròs oikía)
-   "The man's house"
+   “The man's house”
 
 3. Dative: Indirect object, instrument, location
    **δίδωμι τῷ ἀνδρὶ τὸ βιβλίον** (dídōmi tôi andrì tò biblíon)
-   "I give the book to the man"
+   “I give the book to the man”
 
 4. Accusative: Direct object, extent of motion
    **ὁρῶ τὸν ἄνδρα** (horô tòn ándra)
-   "I see the man"
+   “I see the man”
 
 5. Vocative: Direct address
    **ὦ ἄνερ** (ô áner)
-   "O man!"
+   “O man!”
 
 ### Agreement
 
@@ -249,22 +249,22 @@ Adjectives, articles, and participles agreed with their nouns in gender, number,
 
 **ὁ ἀγαθὸς ἀνὴρ τοὺς σοφοὺς λόγους λέγει**
 (ho agathòs anḕr toùs sophoùs lógous légei)
-"The good man speaks wise words"
+“The good man speaks wise words”
 
 ### Particles
 
 Ancient Greek made extensive use of particles to convey nuance, emphasis, and logical relationships. Some common particles include:
 
-- **μέν ... δέ**: "on the one hand ... on the other hand"
-- **γάρ**: "for, because"
-- **οὖν**: "therefore, then"
-- **δή**: "indeed, certainly"
+- **μέν ... δέ**: “on the one hand ... on the other hand”
+- **γάρ**: “for, because”
+- **οὖν**: “therefore, then”
+- **δή**: “indeed, certainly”
 - **ἄν**: used with various moods to express potentiality or unreality
 
 Example:
 **ὁ μὲν πατὴρ σοφός ἐστιν, ὁ δὲ υἱὸς οὔ**
 (ho mèn patḕr sophós estin, ho dè huiòs oú)
-"The father is wise, but the son is not"
+“The father is wise, but the son is not”
 
 ### Subordinate Clauses
 
@@ -273,27 +273,27 @@ Ancient Greek had various types of subordinate clauses, including:
 1. Relative clauses:
    **ὁ ἀνήρ, ὃν εἶδον, σοφός ἐστιν**
    (ho anḗr, hòn eîdon, sophós estin)
-   "The man whom I saw is wise"
+   “The man whom I saw is wise”
 
 2. Purpose clauses:
    **ἦλθον ἵνα αὐτὸν ἴδω**
    (êlthon hína autòn ídō)
-   "I came in order to see him"
+   “I came in order to see him”
 
 3. Result clauses:
    **οὕτως σοφός ἐστιν ὥστε πάντες αὐτὸν θαυμάζουσιν**
    (hoútōs sophós estin hṓste pántes autòn thaumázousin)
-   "He is so wise that everyone admires him"
+   “He is so wise that everyone admires him”
 
 4. Temporal clauses:
    **ὅτε ἦλθεν, ἐχάρην**
    (hóte êlthen, ekhárēn)
-   "When he came, I rejoiced"
+   “When he came, I rejoiced”
 
 5. Conditional clauses:
    **εἰ τοῦτο λέγεις, ἀληθῆ λέγεις**
    (ei toûto légeis, alēthê légeis)
-   "If you say this, you speak the truth"
+   “If you say this, you speak the truth”
 
 ### Infinitives
 
@@ -302,17 +302,17 @@ Infinitives in Ancient Greek could be used as verbal nouns and in various constr
 1. As subject or object:
    **τὸ μανθάνειν ἡδύ ἐστιν**
    (tò manthánein hēdú estin)
-   "Learning is pleasant"
+   “Learning is pleasant”
 
 2. In indirect discourse:
    **ἔφη τὸν ἄνδρα ἐλθεῖν**
    (éphē tòn ándra eltheîn)
-   "He said that the man came"
+   “He said that the man came”
 
 3. To express purpose:
    **ἦλθε μανθάνειν**
    (êlthe manthánein)
-   "He came to learn"
+   “He came to learn”
 
 ### Participles
 
@@ -321,73 +321,73 @@ Participles were extensively used in Ancient Greek for various functions:
 1. Attributive:
    **ὁ γράφων ἀνήρ**
    (ho gráphōn anḗr)
-   "The writing man"
+   “The writing man”
 
 2. Circumstantial (expressing time, manner, cause, etc.):
    **γράφων ἔμαθεν**
    (gráphōn émathen)
-   "While writing, he learned"
+   “While writing, he learned”
 
 3. Supplementary (with certain verbs):
    **παύομαι γράφων**
    (paúomai gráphōn)
-   "I stop writing"
+   “I stop writing”
 
 4. Genitive absolute (independent participial phrase):
    **τοῦ ἀνδρὸς ἐλθόντος, ἀπήλθομεν**
    (toû andròs elthóntos, apḗlthomen)
-   "When the man came, we left"
+   “When the man came, we left”
 
 ## Aspect and Tense
 
 The Greek verb system was based on both tense (time of action) and aspect (type of action):
 
 1. Present: Ongoing or repeated action
-   **γράφω** (gráphō) - "I write, I am writing"
+   **γράφω** (gráphō) - “I write, I am writing”
 
 2. Imperfect: Past ongoing or repeated action
-   **ἔγραφον** (égraphon) - "I was writing"
+   **ἔγραφον** (égraphon) - “I was writing”
 
 3. Future: Future action
-   **γράψω** (grápsō) - "I will write"
+   **γράψω** (grápsō) - “I will write”
 
 4. Aorist: Simple occurrence of action, often in the past
-   **ἔγραψα** (égrapsa) - "I wrote"
+   **ἔγραψα** (égrapsa) - “I wrote”
 
 5. Perfect: Completed action with present relevance
-   **γέγραφα** (gégrapha) - "I have written"
+   **γέγραφα** (gégrapha) - “I have written”
 
 6. Pluperfect: Action completed before a point in the past
-   **ἐγεγράφη** (egegráphē) - "I had written"
+   **ἐγεγράφη** (egegráphē) - “I had written”
 
 ## Mood
 
 Ancient Greek had four moods:
 
 1. Indicative: Statements of fact
-   **γράφω** (gráphō) - "I write"
+   **γράφω** (gráphō) - “I write”
 
 2. Subjunctive: Possibility, purpose
-   **ἵνα γράφω** (hína gráphō) - "so that I may write"
+   **ἵνα γράφω** (hína gráphō) - “so that I may write”
 
 3. Optative: Wish, potential
-   **γράφοιμι** (gráphoimi) - "I might write"
+   **γράφοιμι** (gráphoimi) - “I might write”
 
 4. Imperative: Commands
-   **γράφε** (gráphe) - "Write!"
+   **γράφε** (gráphe) - “Write!”
 
 ## Voice
 
 There were three voices in Ancient Greek:
 
 1. Active: Subject performs the action
-   **λύω** (lúō) - "I loose"
+   **λύω** (lúō) - “I loose”
 
 2. Middle: Subject acts on or for itself
-   **λύομαι** (lúomai) - "I loose for myself"
+   **λύομαι** (lúomai) - “I loose for myself”
 
 3. Passive: Subject receives the action
-   **λύομαι** (lúomai) - "I am loosed"
+   **λύομαι** (lúomai) - “I am loosed”
 
 Note that the middle and passive forms are often identical in the present and imperfect tenses.
 
@@ -399,7 +399,7 @@ An independent participial phrase in the genitive case:
 
 **τοῦ ἡλίου ἀνατέλλοντος, οἱ ὄρνιθες ᾄδουσιν**
 (toû hēlíou anatéllontos, hoi órnithes áidousin)
-"As the sun rises, the birds sing"
+“As the sun rises, the birds sing”
 
 ### Accusative and Infinitive
 
@@ -407,7 +407,7 @@ Used for indirect discourse:
 
 **νομίζω τὸν ἄνδρα σοφὸν εἶναι**
 (nomízō tòn ándra sophòn eînai)
-"I think that the man is wise"
+“I think that the man is wise”
 
 ### Conditional Sentences
 
@@ -416,37 +416,37 @@ Four main types:
 1. Simple present or past condition:
    **εἰ τοῦτο λέγεις, ἁμαρτάνεις**
    (ei toûto légeis, hamartáneis)
-   "If you say this, you err"
+   “If you say this, you err”
 
 2. Future more vivid:
    **ἐὰν τοῦτο λέγῃς, ἁμαρτήσῃ**
    (eàn toûto légēis, hamartḗsēi)
-   "If you say this, you will err"
+   “If you say this, you will err”
 
 3. Present contrary-to-fact:
    **εἰ τοῦτο ἔλεγες, ἡμάρτανες ἄν**
    (ei toûto éleges, hēmártanes án)
-   "If you were saying this, you would be erring"
+   “If you were saying this, you would be erring”
 
 4. Past contrary-to-fact:
    **εἰ τοῦτο ἔλεξας, ἥμαρτες ἄν**
    (ei toûto élexas, hḗmartes án)
-   "If you had said this, you would have erred"
+   “If you had said this, you would have erred”
 
 ## Vocabulary
 
 Ancient Greek vocabulary has had a significant influence on modern languages, especially in scientific, technical, and academic terminology. Some examples:
 
-1. **φιλοσοφία** (philosophía) - "love of wisdom" → philosophy
-2. **δημοκρατία** (dēmokratía) - "rule of the people" → democracy
-3. **βιολογία** (biología) - "study of life" → biology
-4. **ψυχολογία** (psūkhología) - "study of the soul" → psychology
-5. **θεολογία** (theología) - "study of god(s)" → theology
+1. **φιλοσοφία** (philosophía) - “love of wisdom” → philosophy
+2. **δημοκρατία** (dēmokratía) - “rule of the people” → democracy
+3. **βιολογία** (biología) - “study of life” → biology
+4. **ψυχολογία** (psūkhología) - “study of the soul” → psychology
+5. **θεολογία** (theología) - “study of god(s)” → theology
 
 Many Greek roots are used to form compound words:
 
-- **μικρός** (mikrós) - "small" + **σκοπέω** (skopéō) - "I look at" → microscope
-- **τῆλε** (têle) - "far" + **φωνή** (phōnḗ) - "sound, voice" → telephone
+- **μικρός** (mikrós) - “small” + **σκοπέω** (skopéō) - “I look at” → microscope
+- **τῆλε** (têle) - “far” + **φωνή** (phōnḗ) - “sound, voice” → telephone
 
 ## Dialects and Historical Development
 
@@ -454,7 +454,7 @@ Many Greek roots are used to form compound words:
 
 The earliest attested form of Greek, written in Linear B syllabic script (c. 1400-1200 BCE). Example:
 
-**ko-no-so** = Κνωσός (Knōsós) - "Knossos"
+**ko-no-so** = Κνωσός (Knōsós) - “Knossos”
 
 ### Homeric Greek
 
@@ -462,7 +462,7 @@ The literary dialect of the Homeric epics (Iliad and Odyssey), a mixture of diff
 
 **μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος**
 (mênin áeide theà Pēlēïádeō Akhilêos)
-"Sing, goddess, the wrath of Achilles, son of Peleus"
+“Sing, goddess, the wrath of Achilles, son of Peleus”
 
 ### Classical Attic
 
@@ -470,7 +470,7 @@ The prestige dialect of Athens in the 5th-4th centuries BCE, used by many famous
 
 **γνῶθι σεαυτόν**
 (gnôthi seautón)
-"Know thyself"
+“Know thyself”
 
 ### Koine Greek
 
@@ -478,7 +478,7 @@ The common dialect that became widespread after Alexander the Great's conquests 
 
 **Ἐν ἀρχῇ ἦν ὁ λόγος**
 (En arkhêi ên ho lógos)
-"In the beginning was the Word"
+“In the beginning was the Word”
 
 ## Literary Devices
 
@@ -487,22 +487,22 @@ Ancient Greek literature employed various literary devices:
 1. Chiasmus: ABBA structure
    **χρυσὸν σπείρας, χρυσὸν θέριζε**
    (khrusòn speíras, khrusòn thérize)
-   "Having sown gold, reap gold"
+   “Having sown gold, reap gold”
 
 2. Hendiadys: Expressing a single idea with two nouns
    **βίᾳ καὶ κελεύσμασιν**
    (bíāi kaì keleúsmasin)
-   "With forceful commands" (lit. "with force and commands")
+   “With forceful commands” (lit. “with force and commands”)
 
 3. Tmesis: Separation of parts of a compound word
    **κατὰ πίονα μηρί᾽ ἔκηα**
    (katà píona mērí' ékēa)
-   "I burned fat thighs" (for κατέκηα πίονα μηρία)
+   “I burned fat thighs” (for κατέκηα πίονα μηρία)
 
 4. Litotes: Understatement by negating the opposite
    **οὐκ ἀγνοῶ**
    (ouk agnoô)
-   "I am not unaware" (meaning "I know very well")
+   “I am not unaware” (meaning “I know very well”)
 
 ## Pronunciation Changes
 
@@ -515,7 +515,7 @@ Ancient Greek pronunciation changed over time. Some key changes:
 
 3. Consonant shifts:
    - β (beta): [b] → [v]
-   - δ (delta): [d] → [ð] (like "th" in "this")
+   - δ (delta): [d] → [ð] (like “th” in “this”)
    - γ (gamma): [g] → [ɣ] or [j]
 
 These changes led to the pronunciation of Modern Greek.
@@ -525,20 +525,20 @@ These changes led to the pronunciation of Modern Greek.
 Ancient Greek has had a profound influence on many languages, particularly in their scientific and technical vocabularies. Some examples:
 
 1. English: 
-   - "democracy" (δημοκρατία)
-   - "philosophy" (φιλοσοφία)
-   - "telephone" (τῆλε + φωνή)
+   - “democracy” (δημοκρατία)
+   - “philosophy” (φιλοσοφία)
+   - “telephone” (τῆλε + φωνή)
 
 2. Latin:
-   - "gymnasium" (γυμνάσιον)
-   - "historia" (ἱστορία)
+   - “gymnasium” (γυμνάσιον)
+   - “historia” (ἱστορία)
 
 3. Russian:
-   - "философия" (философия from φιλοσοφία)
-   - "демократия" (демократия from δημοκρατία)
+   - “философия” (философия from φιλοσοφία)
+   - “демократия” (демократия from δημοκρατία)
 
 4. Arabic:
-   - "falsafa" (فلسفة from φιλοσοφία)
-   - "qanun" (قانون from κανών)
+   - “falsafa” (فلسفة from φιλοσοφία)
+   - “qanun” (قانون from κανών)
 
 This influence extends to the modern descendants of these languages and many others worldwide.

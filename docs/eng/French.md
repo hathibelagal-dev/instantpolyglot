@@ -97,7 +97,7 @@ Most nouns form their plural by adding -s, which is silent in speech but affects
 
 Exceptions include:
 
-- Nouns ending in -s, -x, or -z don't change: **le prix** → **les prix** (the price(s))
+- Nouns ending in -s, -x, or -z don’t change: **le prix** → **les prix** (the price(s))
 - Nouns ending in -au, -eau, -eu take -x: **le bateau** → **les bateaux** (the boat(s))
 - Some nouns ending in -al change to -aux: **le cheval** → **les chevaux** (the horse(s))
 
@@ -319,10 +319,10 @@ French generally follows a Subject-Verb-Object (SVO) word order:
 ### Negation
 
 Negation is formed with **ne ... pas** around the conjugated verb:
-- **Je ne parle pas français.** (I don't speak French.)
+- **Je ne parle pas français.** (I don’t speak French.)
 
-In informal spoken French, the "ne" is often omitted:
-- **Je parle pas français.** (I don't speak French.)
+In informal spoken French, the “ne” is often omitted:
+- **Je parle pas français.** (I don’t speak French.)
 
 Other negative expressions:
 - **ne ... jamais** (never)
@@ -345,7 +345,7 @@ Examples:
 ### Reported Speech
 
 When reporting speech, tenses often shift:
-- Direct: **Il a dit : "Je suis fatigué."** (He said, "I am tired.")
+- Direct: **Il a dit : “Je suis fatigué.”** (He said, “I am tired.”)
 - Indirect: **Il a dit qu'il était fatigué.** (He said that he was tired.)
 
 ### Conditional Sentences
@@ -385,9 +385,9 @@ French vocabulary has been influenced by various languages throughout its histor
 
 Some words look similar to English but have different meanings:
 
-- **actuel** means "current," not "actual"
-- **éventuellement** means "possibly," not "eventually"
-- **grave** means "serious," not "grave" (as in tomb)
+- **actuel** means “current,” not “actual”
+- **éventuellement** means “possibly,” not “eventually”
+- **grave** means “serious,” not “grave” (as in tomb)
 
 ### Idioms
 
@@ -401,11 +401,11 @@ French has many colorful idioms:
 
 Spoken French often differs from its written form:
 
-1. Omission of "ne" in negation:
-   - Standard: **Je ne sais pas.** (I don't know.)
+1. Omission of “ne” in negation:
+   - Standard: **Je ne sais pas.** (I don’t know.)
    - Colloquial: **Je sais pas.**
 
-2. Use of "on" instead of "nous":
+2. Use of “on” instead of “nous”:
    - Standard: **Nous allons au cinéma.** (We're going to the cinema.)
    - Colloquial: **On va au ciné.**
 
@@ -424,7 +424,7 @@ Spoken French often differs from its written form:
      - **Y fait chaud.** instead of **Il fait chaud.** (It's hot.)
 
 6. Dropping of certain sounds:
-   - "il y a" often pronounced as "ya":
+   - “il y a” often pronounced as “ya”:
      - **Y'a du monde.** instead of **Il y a du monde.** (There are a lot of people.)
 
 7. Use of filler words:
@@ -472,8 +472,8 @@ Obligatory liaisons:
 - Pronoun + Verb: **nous avons** [nu.za.vɔ̃]
 
 Forbidden liaisons:
-- After "et" (and): **et un** [e.œ̃]
-- Before "h aspiré": **les héros** [le.e.ʁo]
+- After “et” (and): **et un** [e.œ̃]
+- Before “h aspiré”: **les héros** [le.e.ʁo]
 
 ### Enchaînement
 
@@ -514,7 +514,7 @@ French punctuation has some unique features:
 
 - Spaces before certain punctuation marks: 
   **Où allez-vous ? Nous allons à Paris !**
-- Quotation marks: « guillemets » instead of "quotes"
+- Quotation marks: « guillemets » instead of “quotes”
 - Accent marks: é (acute), è (grave), ê (circumflex), ë (diaeresis)
 - Cedilla: ç
 - Ligatures: œ, æ
@@ -565,6 +565,6 @@ French has a rich tradition of proverbs:
 
 - **Petit à petit, l'oiseau fait son nid.** (Little by little, the bird builds its nest.)
 - **Il n'y a pas de fumée sans feu.** (There's no smoke without fire.)
-- **L'habit ne fait pas le moine.** (The habit doesn't make the monk - Don't judge a book by its cover.)
+- **L'habit ne fait pas le moine.** (The habit doesn’t make the monk - Don’t judge a book by its cover.)
 
 This overview covers many aspects of the French language, from its basic grammar and pronunciation to more advanced topics like literary devices and regional variations. It provides a comprehensive look at French for both beginners and more advanced learners, focusing on both the formal written language and colloquial spoken French.

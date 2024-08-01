@@ -291,9 +291,9 @@ Finnish has an impersonal passive:
 
 Negation is formed with a separate negative verb **ei**:
 
-**en puhu** ('I don't speak')
-**et puhu** ('You don't speak')
-**ei puhu** ('He/She doesn't speak')
+**en puhu** ('I don’t speak')
+**et puhu** ('You don’t speak')
+**ei puhu** ('He/She doesn’t speak')
 
 #### Infinitives
 
@@ -351,7 +351,7 @@ Wh-questions use interrogative words:
 
 Negation uses the negative verb **ei**:
 
-**En puhu suomea.** ('I don't speak Finnish.')
+**En puhu suomea.** ('I don’t speak Finnish.')
 **Emme mene kotiin.** ('We're not going home.')
 
 ### Possession
@@ -537,7 +537,7 @@ Each type has its own conjugation patterns.
 
 Used for:
 1. Partial objects: **Juon maitoa.** ('I'm drinking milk.')
-2. Negative sentences: **En näe taloa.** ('I don't see a house.')
+2. Negative sentences: **En näe taloa.** ('I don’t see a house.')
 3. Numbers: **kolme taloa** ('three houses')
 4. Certain verbs: **Rakastan sinua.** ('I love you.')
 
@@ -590,7 +590,7 @@ Finnish has a specific structure for existential sentences:
 
 ## Aspect
 
-Finnish doesn't have grammatical aspect, but uses other means to express aspectual differences:
+Finnish doesn’t have grammatical aspect, but uses other means to express aspectual differences:
 
 1. Object case:
    **Luin kirjaa.** ('I was reading a book.' - Partitive, imperfective)
@@ -627,7 +627,7 @@ Finnish expresses modality through various means:
 
 Example:
 **Mies, joka seisoo ovella, on veljeni.** ('The man who is standing at the door is my brother.')
-**Se, mikä ei tapa, vahvistaa.** ('That which doesn't kill, strengthens.')
+**Se, mikä ei tapa, vahvistaa.** ('That which doesn’t kill, strengthens.')
 
 ### Reflexive pronouns
 

@@ -205,7 +205,7 @@ The basic word order in Romani is typically Subject-Verb-Object (SVO), but it ca
 Negation is typically formed with **na** or **či** before the verb:
 
 - **Na džav.** (I'm not going.)
-- **Či džanel.** (He/she doesn't know.)
+- **Či džanel.** (He/she doesn’t know.)
 
 ### Questions
 
@@ -314,9 +314,9 @@ Days of the week:
 - **savato** (Saturday)
 
 Months often use adaptations of local language names, but some dialects have traditional names:
-- **nevo berš** (January, lit. "new year")
-- **terno čhon** (February, lit. "young month")
-- **baro čhon** (March, lit. "big month")
+- **nevo berš** (January, lit. “new year”)
+- **terno čhon** (February, lit. “young month”)
+- **baro čhon** (March, lit. “big month”)
 
 ## Dialectal Variation
 
@@ -339,12 +339,12 @@ Romani dialects are numerous and diverse, often classified into Vlax, Balkan, Ce
 
 Dialectal differences can be observed in vocabulary, phonology, and grammar. For example:
 
-- The word for "house":
+- The word for “house”:
   Vlax: **kher**
   Sinti: **kher**
   Finnish Kalo: **kheer**
 
-- The 1st person singular present of "to be":
+- The 1st person singular present of “to be”:
   Vlax: **sem**
   Sinti: **hom**
   Finnish Kalo: **som**
@@ -464,7 +464,7 @@ Example: **Šun, čačes si importanto.** (Listen, it's really important.)
 
 Romani has many idiomatic expressions, often reflecting cultural values and experiences. Some examples:
 
-- **Te xal tut e baxt.** (May luck eat you - a blessing, meaning "may you have good luck")
+- **Te xal tut e baxt.** (May luck eat you - a blessing, meaning “may you have good luck”)
 - **Lačho drom!** (Good road - used as a farewell, wishing a good journey)
 - **Nais tuke devlesa!** (Thank you with God - a way of expressing deep gratitude)
 
@@ -480,10 +480,10 @@ Like many languages, Romani has taboo words and euphemisms, particularly relatin
 Due to the diaspora nature of Romani communities, the language shows significant influence from contact languages:
 
 1. Lexical borrowing: Many words are borrowed from local languages
-   Example: **fenstra** (window, from Romanian "fereastră")
+   Example: **fenstra** (window, from Romanian “fereastră”)
 
 2. Calques: Some expressions are direct translations from other languages
-   Example: **del avri** (to give out, meaning "to publish" - calque from German "ausgeben")
+   Example: **del avri** (to give out, meaning “to publish” - calque from German “ausgeben”)
 
 3. Phonological influence: Some dialects have adopted phonemes from contact languages
    Example: The sound [ʒ] in some dialects, borrowed from Slavic languages
@@ -516,7 +516,7 @@ Example of a basic phrase used in education:
 Despite challenges, Romani is increasingly used in modern contexts:
 
 1. Literature: There's a growing body of Romani literature
-   Example: "O kham perel" (The Sun Sets) by Mateo Maximoff
+   Example: “O kham perel” (The Sun Sets) by Mateo Maximoff
 
 2. Music: Many Romani musicians incorporate Romani lyrics
    Example lyric: **Me sem rom, tu san rom** (I am Roma, you are Roma)

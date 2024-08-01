@@ -10,11 +10,11 @@ Interlingua uses the Latin alphabet and has a largely phonemic orthography. Its 
 
 | Letter | Sound | IPA |
 |--------|-------|-----|
-| a | as in "father" | [a] |
-| e | as in "bet" | [e] |
-| i | as in "machine" | [i] |
-| o | as in "more" | [o] |
-| u | as in "rule" | [u] |
+| a | as in “father” | [a] |
+| e | as in “bet” | [e] |
+| i | as in “machine” | [i] |
+| o | as in “more” | [o] |
+| u | as in “rule” | [u] |
 
 ### Consonants
 
@@ -22,15 +22,15 @@ Most consonants are pronounced as in English, with some exceptions:
 
 | Letter | Sound | IPA |
 |--------|-------|-----|
-| c | before e, i: as in "circle" | [s] |
-| c | elsewhere: as in "cat" | [k] |
-| g | before e, i: as in "gentle" | [dʒ] |
-| g | elsewhere: as in "go" | [ɡ] |
-| j | as in "yes" | [j] |
-| qu | as in "queen" | [kw] |
+| c | before e, i: as in “circle” | [s] |
+| c | elsewhere: as in “cat” | [k] |
+| g | before e, i: as in “gentle” | [dʒ] |
+| g | elsewhere: as in “go” | [ɡ] |
+| j | as in “yes” | [j] |
+| qu | as in “queen” | [kw] |
 | r | trilled or rolled | [r] |
-| s | as in "sun" | [s] |
-| x | as in "box" | [ks] |
+| s | as in “sun” | [s] |
+| x | as in “box” | [ks] |
 
 ### Stress
 
@@ -262,7 +262,7 @@ Wh-questions use interrogative words at the beginning of the sentence:
 
 Negation is formed by placing **non** before the verb:
 
-**Io non parla chinese.** (I don't speak Chinese.)
+**Io non parla chinese.** (I don’t speak Chinese.)
 
 ### Compound Tenses
 
@@ -323,9 +323,9 @@ Suffixes:
 - **Mi nomine es...** (My name is...)
 - **Ubi es le...?** (Where is the...?)
 - **Quanto costa isto?** (How much does this cost?)
-- **Io non comprende** (I don't understand)
+- **Io non comprende** (I don’t understand)
 - **Parla vos anglese?** (Do you speak English?)
-- **Io non parla multo ben interlingua** (I don't speak Interlingua very well)
+- **Io non parla multo ben interlingua** (I don’t speak Interlingua very well)
 
 ### Sample Text
 
@@ -339,11 +339,11 @@ Here's a sample text in Interlingua to illustrate its structure and vocabulary:
 
 **Un characteristica importante de interlingua es su naturalitate. In contrasto con altere linguas planificate como esperanto, interlingua non ha parolas o structuras artificial. Isto significa que un lector qui cognosce un o plus linguas romanic o anglese pote sovente comprender textos in interlingua sin haber studiate le lingua.**
 
-**Hodie, interlingua es usate per un parve communitate international, principalmente pro communicationes scientific e cultural. Illo ha demonstrato su utilitate como un "ponte linguistic" inter personas de diverse origines linguistic, specialmente in Europa e Americas.**
+**Hodie, interlingua es usate per un parve communitate international, principalmente pro communicationes scientific e cultural. Illo ha demonstrato su utilitate como un “ponte linguistic” inter personas de diverse origines linguistic, specialmente in Europa e Americas.**
 
 Translation:
 
-"The origins of Interlingua
+“The origins of Interlingua
 
 Interlingua is an international auxiliary language created in the 1950s by a team of linguists under the direction of Alexander Gode. The objective was to develop a language that would be easily understandable for people who speak Romance languages or English without prior study.
 
@@ -351,4 +351,4 @@ The vocabulary of Interlingua is based on words common to the major Western lang
 
 An important characteristic of Interlingua is its naturalness. In contrast with other planned languages like Esperanto, Interlingua has no artificial words or structures. This means that a reader who knows one or more Romance languages or English can often understand texts in Interlingua without having studied the language.
 
-Today, Interlingua is used by a small international community, mainly for scientific and cultural communications. It has demonstrated its usefulness as a "linguistic bridge" between people of diverse linguistic origins, especially in Europe and the Americas."
+Today, Interlingua is used by a small international community, mainly for scientific and cultural communications. It has demonstrated its usefulness as a ”linguistic bridge“ between people of diverse linguistic origins, especially in Europe and the Americas.”

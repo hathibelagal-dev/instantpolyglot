@@ -16,38 +16,38 @@ The optional Cyrillic alphabet:
 
 | Letter | IPA | Description |
 |--------|-----|-------------|
-| A a | [a] | Like 'a' in "father" |
-| E e | [ɛ] | Like 'e' in "bed" |
-| I i | [i] | Like 'ee' in "see" |
-| O o | [ɔ] | Like 'o' in "more" |
-| U u | [u] | Like 'oo' in "moon" |
-| Y y | [ɨ] | Like 'i' in "bit", but more back |
-| Ě ě | [jɛ] | Like 'ye' in "yet" |
+| A a | [a] | Like 'a' in “father” |
+| E e | [ɛ] | Like 'e' in “bed” |
+| I i | [i] | Like 'ee' in “see” |
+| O o | [ɔ] | Like 'o' in “more” |
+| U u | [u] | Like 'oo' in “moon” |
+| Y y | [ɨ] | Like 'i' in “bit”, but more back |
+| Ě ě | [jɛ] | Like 'ye' in “yet” |
 
 ### Consonants
 
 | Letter | IPA | Description |
 |--------|-----|-------------|
-| B b | [b] | Like 'b' in "bed" |
-| C c | [ts] | Like 'ts' in "cats" |
-| Č č | [tʃ] | Like 'ch' in "church" |
-| D d | [d] | Like 'd' in "dog" |
-| F f | [f] | Like 'f' in "fish" |
-| G g | [ɡ] | Like 'g' in "go" |
-| H h | [x] | Like 'ch' in Scottish "loch" |
-| J j | [j] | Like 'y' in "yes" |
-| K k | [k] | Like 'k' in "kite" |
-| L l | [l] | Like 'l' in "light" |
-| M m | [m] | Like 'm' in "mouse" |
-| N n | [n] | Like 'n' in "no" |
-| P p | [p] | Like 'p' in "pen" |
+| B b | [b] | Like 'b' in “bed” |
+| C c | [ts] | Like 'ts' in “cats” |
+| Č č | [tʃ] | Like 'ch' in “church” |
+| D d | [d] | Like 'd' in “dog” |
+| F f | [f] | Like 'f' in “fish” |
+| G g | [ɡ] | Like 'g' in “go” |
+| H h | [x] | Like 'ch' in Scottish “loch” |
+| J j | [j] | Like 'y' in “yes” |
+| K k | [k] | Like 'k' in “kite” |
+| L l | [l] | Like 'l' in “light” |
+| M m | [m] | Like 'm' in “mouse” |
+| N n | [n] | Like 'n' in “no” |
+| P p | [p] | Like 'p' in “pen” |
 | R r | [r] | Rolled 'r' |
-| S s | [s] | Like 's' in "sun" |
-| Š š | [ʃ] | Like 'sh' in "ship" |
-| T t | [t] | Like 't' in "top" |
-| V v | [v] | Like 'v' in "vest" |
-| Z z | [z] | Like 'z' in "zoo" |
-| Ž ž | [ʒ] | Like 's' in "measure" |
+| S s | [s] | Like 's' in “sun” |
+| Š š | [ʃ] | Like 'sh' in “ship” |
+| T t | [t] | Like 't' in “top” |
+| V v | [v] | Like 'v' in “vest” |
+| Z z | [z] | Like 'z' in “zoo” |
+| Ž ž | [ʒ] | Like 's' in “measure” |
 
 ### Stress
 
@@ -499,7 +499,7 @@ While SVO is the basic word order, Interslavic allows for variations for emphasi
 
 Indirect speech in Interslavic uses the conjunction **že**:
 
-Direct: **On skazal: "Idu domoj."** (He said, "I'm going home.")
+Direct: **On skazal: “Idu domoj.”** (He said, “I'm going home.”)
 Indirect: **On skazal, že ide domoj.** (He said that he was going home.)
 
 ### Passive Voice

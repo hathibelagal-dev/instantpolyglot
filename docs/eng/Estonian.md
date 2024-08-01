@@ -355,7 +355,7 @@ Estonian is primarily an SVO (Subject-Verb-Object) language, but word order can 
 
 Negation in Estonian is formed using the negative word **ei** before the verb. The verb then appears in a special form (usually similar to the stem):
 
-- **Ma ei räägi eesti keelt.** (I don't speak Estonian.)
+- **Ma ei räägi eesti keelt.** (I don’t speak Estonian.)
 - **Ta ei tulnud täna.** (He/She didn't come today.)
 
 In the past tense, the negative form uses the auxiliary **ei** with the past participle:
@@ -392,19 +392,19 @@ Relative clauses are formed using relative pronouns **kes** (who) for people and
 Estonian vocabulary has been influenced by various languages throughout its history. Some common sources of loanwords include:
 
 1. German: due to historical dominance of Baltic Germans
-   Example: **kartul** (potato) from German "Kartoffel"
+   Example: **kartul** (potato) from German “Kartoffel”
 
 2. Russian: due to Soviet occupation and proximity
-   Example: **puskar** (moonshine) from Russian "пушка" (pushka)
+   Example: **puskar** (moonshine) from Russian “пушка” (pushka)
 
 3. Finnish: due to linguistic proximity
-   Example: **pere** (family) cognate with Finnish "perhe"
+   Example: **pere** (family) cognate with Finnish “perhe”
 
 4. English: especially in modern technology and pop culture
    Example: **arvuti** (computer)
 
 5. Swedish: due to historical rule
-   Example: **reede** (Friday) from Swedish "fredag"
+   Example: **reede** (Friday) from Swedish “fredag”
 
 Many Finno-Ugric roots are shared across Estonian and other Uralic languages, which can be helpful for learners familiar with Finnish or Hungarian.
 
@@ -436,7 +436,7 @@ Colloquial Estonian differs from the standard written language in several ways:
 
 4. Contracted forms: Some common phrases are contracted in speech:
    - **ei ole** -> **pole** (is not)
-   - **ära tee** -> **ärka** (don't do)
+   - **ära tee** -> **ärka** (don’t do)
 
 ### Vocabulary
 
@@ -494,8 +494,8 @@ The letters C, Q, W, X and Y are used only in foreign words and names.
 Estonian has many idiomatic expressions that might be challenging for learners:
 
 1. **Käsi peseb kätt** (Hand washes hand) - You scratch my back, I'll scratch yours
-2. **Ega hunt hunti ei murra** (A wolf doesn't bite another wolf) - Honor among thieves
-3. **Kingitud hobuse suhu ei vaadata** (Don't look in the mouth of a gifted horse) - Don't look a gift horse in the mouth
+2. **Ega hunt hunti ei murra** (A wolf doesn’t bite another wolf) - Honor among thieves
+3. **Kingitud hobuse suhu ei vaadata** (Don’t look in the mouth of a gifted horse) - Don’t look a gift horse in the mouth
 4. **Igaüks on oma õnne sepp** (Everyone is the blacksmith of their own happiness) - You make your own luck
 5. **Kus suitsu, seal tuld** (Where there's smoke, there's fire) - No smoke without fire
 

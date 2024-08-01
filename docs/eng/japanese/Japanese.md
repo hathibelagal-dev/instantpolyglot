@@ -59,10 +59,10 @@ Note: Long vowels are indicated by a macron in romaji (ā, ī, ū, ē, ō) and a
 
 Japanese consonants are generally similar to English, with a few exceptions:
 
-- **ら行** (ra-gyō): The Japanese "r" sound is a flapped [ɾ], similar to the "tt" in American English "butter"
+- **ら行** (ra-gyō): The Japanese “r” sound is a flapped [ɾ], similar to the “tt” in American English “butter”
   Example: **りんご** (ringo) [ɾiŋgo] - apple
 
-- **は行** (ha-gyō): The "h" becomes [ɸ] before "u"
+- **は行** (ha-gyō): The “h” becomes [ɸ] before “u”
   Example: **ふたつ** (futatsu) [ɸɯꜜtatsɯ] - two
 
 - Geminate consonants (doubled consonants) are held for a beat
@@ -87,8 +87,8 @@ Japanese is an agglutinative language, meaning that grammatical elements are add
 Japanese nouns do not have grammatical gender or number. Plurality can be indicated by context, counters, or suffixes like たち (-tachi) for people.
 
 Example:
-- **猫** (neko) can mean "cat" or "cats"
-- **猫たち** (neko-tachi) specifically means "cats" (plural)
+- **猫** (neko) can mean “cat” or “cats”
+- **猫たち** (neko-tachi) specifically means “cats” (plural)
 
 Nouns can be formed by compounding:
 - **手** (te) - hand
@@ -110,7 +110,7 @@ Example:
 **私は日本語で手紙を書きます。**
 (Watashi wa nihongo de tegami o kakimasu.)
 [wataꜜshi wa nihongo de tegami o kakimasɯ]
-"I write letters in Japanese."
+“I write letters in Japanese.”
 
 ### Pronouns
 
@@ -248,7 +248,7 @@ Example:
 **私は昨日図書館で本を読みました。**
 (Watashi wa kinō toshokan de hon o yomimashita.)
 [wataꜜshi wa kinoː toshokan de hoꜜn o jomimashita]
-"I read a book at the library yesterday."
+“I read a book at the library yesterday.”
 
 In this sentence:
 - 私は (watashi wa) - I (topic)
@@ -265,19 +265,19 @@ Example:
 **象は鼻が長い。**
 (Zō wa hana ga naga'i.)
 [zoː wa hana ga nagaꜜi]
-"As for elephants, (their) noses are long."
+“As for elephants, (their) noses are long.”
 
-Here, "elephants" is the topic of the sentence, while "noses" is the grammatical subject.
+Here, “elephants” is the topic of the sentence, while “noses” is the grammatical subject.
 
 ### Relative Clauses
 
-Japanese doesn't use relative pronouns. Instead, the modifying clause comes before the noun it describes.
+Japanese doesn’t use relative pronouns. Instead, the modifying clause comes before the noun it describes.
 
 Example:
 **私が読んだ本**
 (Watashi ga yonda hon)
 [wataꜜshi ga jonda hon]
-"The book that I read"
+“The book that I read”
 
 ### Question Formation
 
@@ -287,7 +287,7 @@ Example:
 **日本語を話しますか。**
 (Nihongo o hanashimasu ka.)
 [nihongo o hanashimasɯ ka]
-"Do you speak Japanese?"
+“Do you speak Japanese?”
 
 Question words:
 - **何** (nani) - what
@@ -301,7 +301,7 @@ Example:
 **何を食べましたか。**
 (Nani o tabemashita ka.)
 [naꜜni o tabemashita ka]
-"What did you eat?"
+“What did you eat?”
 
 ### Negation
 
@@ -315,7 +315,7 @@ Example:
 **日本語を話します。** → **日本語を話しません。**
 (Nihongo o hanashimasu.) → (Nihongo o hanashimasen.)
 [nihongo o hanashimasɯ] → [nihongo o hanashimaseꜜn]
-"I speak Japanese." → "I don't speak Japanese."
+“I speak Japanese.” → “I don’t speak Japanese.”
 
 For い-adjectives:
 Replace い with くない
@@ -324,7 +324,7 @@ Example:
 **高い** → **高くない**
 (Taka'i) → (Takaku na'i)
 [takaꜜi] → [takakɯ naꜜi]
-"expensive" → "not expensive"
+“expensive” → “not expensive”
 
 For な-adjectives:
 Add じゃない (ja nai) after the stem
@@ -333,7 +333,7 @@ Example:
 **きれい** → **きれいじゃない**
 (Kirei) → (Kirei ja na'i)
 [kiɾeꜜi] → [kiɾeꜜi ʑa naꜜi]
-"beautiful" → "not beautiful"
+“beautiful” → “not beautiful”
 
 ## Honorifics and Politeness
 
@@ -349,12 +349,12 @@ Used to show respect to the person being talked about. It often involves special
 
 Example:
 **食べる** (taberu) → **召し上がる** (meshiagaru)
-"to eat" → "to eat" (respectful)
+“to eat” → “to eat” (respectful)
 
 **先生はもう到着されました。**
 (Sensei wa mō tōchaku saremashita.)
 [seꜜnsei wa moː toːʨakɯ saɾemashita]
-"The teacher has already arrived." (respectful)
+“The teacher has already arrived.” (respectful)
 
 ### Humble Language (謙譲語, kenjōgo)
 
@@ -362,12 +362,12 @@ Used to lower oneself when talking about one's actions to someone of higher stat
 
 Example:
 **行く** (iku) → **伺う** (ukagau)
-"to go" → "to go" (humble)
+“to go” → “to go” (humble)
 
 **明日お客様のところへ伺います。**
 (Ashita okyaku-sama no tokoro e ukagaimasu.)
 [ashita okʲakɯsama no tokoro e ɯkagaimasɯ]
-"I will go to the customer's place tomorrow." (humble)
+“I will go to the customer's place tomorrow.” (humble)
 
 ### Polite Language (丁寧語, teineigo)
 
@@ -377,24 +377,24 @@ Example:
 **これは本です。**
 (Kore wa hon desu.)
 [koɾe wa hon desɯ]
-"This is a book." (polite)
+“This is a book.” (polite)
 
 vs.
 
 **これは本だ。**
 (Kore wa hon da.)
 [koɾe wa hon da]
-"This is a book." (plain)
+“This is a book.” (plain)
 
 ### Honorific Prefixes
 
 The prefixes お (o-) and ご (go-) are often added to nouns to show politeness or respect.
 
 - お (o-) is generally used with native Japanese words
-  Example: **名前** (namae) → **お名前** (o-namae) "name"
+  Example: **名前** (namae) → **お名前** (o-namae) “name”
 
 - ご (go-) is generally used with Sino-Japanese words
-  Example: **家族** (kazoku) → **ご家族** (go-kazoku) "family"
+  Example: **家族** (kazoku) → **ご家族** (go-kazoku) “family”
 
 ## Sentence-final Particles
 
@@ -404,25 +404,25 @@ Japanese uses various sentence-final particles to express the speaker's attitude
   **いい天気ですね。**
   (Ii tenki desu ne.)
   [iː teŋki desɯ ne]
-  "It's nice weather, isn't it?"
+  “It's nice weather, isn’t it?”
 
 - よ (yo) - emphasizing information
   **明日は雨が降るよ。**
   (Ashita wa ame ga furu yo.)
   [ashita wa ame ga ɸɯɾɯ jo]
-  "It's going to rain tomorrow, you know."
+  “It's going to rain tomorrow, you know.”
 
 - か (ka) - question marker
   **日本語を勉強していますか。**
   (Nihongo o benkyō shite imasu ka.)
   [nihongo o beŋkʲoː shite imasɯ ka]
-  "Are you studying Japanese?"
+  “Are you studying Japanese?”
 
 - な (na) - mild emphasis (casual)
   **美味しいな。**
   (Oishii na.)
   [oishiː na]
-  "This is delicious."
+  “This is delicious.”
 
 ## Counters
 
@@ -432,25 +432,25 @@ Japanese uses a complex system of counters when counting objects. Different coun
   **りんごを三つ買いました。**
   (Ringo o mittsu kaimashita.)
   [ɾiŋgo o mittsɯ kaimashita]
-  "I bought three apples."
+  “I bought three apples.”
 
 - 人 (-nin) - for counting people
   **友達が五人来ました。**
   (Tomodachi ga go-nin kimashita.)
   [tomodaʨi ga goɲiŋ kimashita]
-  "Five friends came."
+  “Five friends came.”
 
 - 本 (-hon) - for long, cylindrical objects
   **ペンを二本ください。**
   (Pen o ni-hon kudasai.)
   [pen o ɲihon kɯdasai]
-  "Please give me two pens."
+  “Please give me two pens.”
 
 - 枚 (-mai) - for flat objects
   **切手を十枚買いました。**
   (Kitte o jū-mai kaimashita.)
   [kitte o ʑɯːmai kaimashita]
-  "I bought ten stamps."
+  “I bought ten stamps.”
 
 ## Onomatopoeia and Mimetic Words
 
@@ -467,7 +467,7 @@ These words are often used in everyday conversation and writing to add expressiv
 **雨がザーザー降っています。**
 (Ame ga zā-zā futte imasu.)
 [ame ga zaːzaː ɸɯtte imasɯ]
-"It's raining heavily." (literally: "Rain is falling zā-zā")
+“It's raining heavily.” (literally: “Rain is falling zā-zā”)
 
 ## Loanwords
 
@@ -490,31 +490,31 @@ Japanese has several common sentence patterns that learners often encounter:
    **ドアを開けてください。**
    (Doa o akete kudasai.)
    [doa o akete kɯdasai]
-   "Please open the door."
+   “Please open the door.”
 
 2. ～たいです (-tai desu) - Want to ~
    **日本に行きたいです。**
    (Nihon ni ikitai desu.)
    [ɲihon ni ikitai desɯ]
-   "I want to go to Japan."
+   “I want to go to Japan.”
 
 3. ～なければなりません (-nakereba narimasen) - Must ~
    **宿題をしなければなりません。**
    (Shukudai o shinakereba narimasen.)
    [ʃɯkɯdai o ʃinakeɾeba naɾimaseꜜn]
-   "I must do my homework."
+   “I must do my homework.”
 
 4. ～てもいいです (-te mo ii desu) - It's okay to ~
    **ここで写真を撮ってもいいですか。**
    (Koko de shashin o totte mo ii desu ka.)
    [koko de ʃaʃin o totte mo iː desɯ ka]
-   "Is it okay to take pictures here?"
+   “Is it okay to take pictures here?”
 
 5. ～そうです (-sō desu) - Looks like ~ / Seems ~
    **雨が降りそうです。**
    (Ame ga furi-sō desu.)
    [ame ga ɸɯɾisoː desɯ]
-   "It looks like it's going to rain."
+   “It looks like it's going to rain.”
 
 ## Conjunctions and Connecting Phrases
 
@@ -524,56 +524,56 @@ Japanese uses various conjunctions and connecting phrases to link sentences and 
    **私は朝ご飯を食べました。そして、学校に行きました。**
    (Watashi wa asa-gohan o tabemashita. Soshite, gakkō ni ikimashita.)
    [wataꜜʃi wa asagohan o tabemashita soʃite gakkoː ni ikimashita]
-   "I ate breakfast. And then, I went to school."
+   “I ate breakfast. And then, I went to school.”
 
 2. しかし (shikashi) - but, however
    **日本語を勉強したいです。しかし、時間がありません。**
    (Nihongo o benkyō shitai desu. Shikashi, jikan ga arimasen.)
    [ɲihongo o beŋkʲoː ʃitai desɯ ʃikaʃi ʑikan ga aɾimaseꜜn]
-   "I want to study Japanese. However, I don't have time."
+   “I want to study Japanese. However, I don’t have time.”
 
 3. それから (sorekara) - after that, and then
    **映画を見ました。それから、友達と話しました。**
    (Eiga o mimashita. Sorekara, tomodachi to hanashimashita.)
    [eiga o mimashita soɾekaɾa tomodaʨi to hanaʃimashita]
-   "I watched a movie. After that, I talked with my friends."
+   “I watched a movie. After that, I talked with my friends.”
 
 4. だから (dakara) - so, therefore
    **雨が降っています。だから、傘を持って行きます。**
    (Ame ga futte imasu. Dakara, kasa o motte ikimasu.)
    [ame ga ɸɯtte imasɯ dakaɾa kasa o motte ikimasɯ]
-   "It's raining. So, I'll take an umbrella."
+   “It's raining. So, I'll take an umbrella.”
 
 5. ～ても (-temo) - even if
    **雨が降っても、出かけます。**
    (Ame ga futte mo, dekakemasu.)
    [ame ga ɸɯttemo dekakemasɯ]
-   "Even if it rains, I'll go out."
+   “Even if it rains, I'll go out.”
 
 ## Sentence-ending Styles
 
 Japanese has different sentence-ending styles that reflect the level of formality and the gender of the speaker:
 
 1. Polite style (です/ます desu/masu)
-   Used in formal situations or with people you don't know well.
+   Used in formal situations or with people you don’t know well.
    **私は学生です。**
    (Watashi wa gakusei desu.)
    [wataꜜʃi wa gakɯsei desɯ]
-   "I am a student."
+   “I am a student.”
 
 2. Plain style (だ da)
    Used in casual situations or in writing.
    **私は学生だ。**
    (Watashi wa gakusei da.)
    [wataꜜʃi wa gakɯsei da]
-   "I am a student."
+   “I am a student.”
 
 3. Feminine speech
    Some sentence-ending particles are associated with feminine speech:
-   **そうね。** (Sō ne.) - "That's right."
-   **行くわ。** (Iku wa.) - "I'm going."
+   **そうね。** (Sō ne.) - “That's right.”
+   **行くわ。** (Iku wa.) - “I'm going.”
 
 4. Masculine speech
    Some sentence-ending particles are associated with masculine speech:
-   **そうだな。** (Sō da na.) - "That's right."
-   **行くぜ。** (Iku ze.) - "I'm going."
+   **そうだな。** (Sō da na.) - “That's right.”
+   **行くぜ。** (Iku ze.) - “I'm going.”

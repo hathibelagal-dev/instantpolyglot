@@ -20,7 +20,7 @@ Hausa has a rich consonant inventory, including implosives and ejectives. Here's
 
 Some notable features of Hausa consonants:
 
-1. Implosives (**ɓ** and **ɗ**): These are produced with a downward movement of the glottis, creating a "popping" sound. 
+1. Implosives (**ɓ** and **ɗ**): These are produced with a downward movement of the glottis, creating a “popping” sound. 
    Example: **ɓera** (mouse), **ɗan adam** (human being)
 
 2. Ejectives (**tʼ** and **kʼ**): These are produced with a simultaneous closure of the glottis, creating a sharp, explosive sound.
@@ -235,7 +235,7 @@ Hausa verbs are marked for tense, aspect, and mood through a combination of pref
 
 #### Verb grades
 
-Hausa verbs are classified into seven "grades" based on their morphological and syntactic behavior. Each grade has its own pattern of forming different tenses and aspects.
+Hausa verbs are classified into seven “grades” based on their morphological and syntactic behavior. Each grade has its own pattern of forming different tenses and aspects.
 
 1. Grade 1: Basic transitive verbs
    Example: **kama** (to catch)
@@ -462,18 +462,18 @@ The interrogative word typically comes at the beginning of the question, but the
 
 Negation in Hausa is typically expressed using the particle **ba** before and after the clause:
 
-**Ba na son shāyi ba.** (I don't like tea.)
-**Ba za su zo ba.** (They won't come.)
+**Ba na son shāyi ba.** (I don’t like tea.)
+**Ba za su zo ba.** (They won’t come.)
 
 In some tenses, only the final **ba** is used:
 
 **Bai zo ba.** (He didn't come.)
-**Ban san shi ba.** (I don't know him.)
+**Ban san shi ba.** (I don’t know him.)
 
 In imperative sentences, **kada** is used for negation:
 
-**Kada ka tafi.** (Don't go.)
-**Kada ku yi haka.** (Don't do that.)
+**Kada ka tafi.** (Don’t go.)
+**Kada ku yi haka.** (Don’t do that.)
 
 ### Focus and Topicalization
 
@@ -506,7 +506,7 @@ Examples:
 **Na je kasuwa da na sayi kayan abinci.** (I went to the market and bought groceries.)
 **Zan tafi ko zan zauna a gida.** (I will go or I will stay at home.)
 **Ina son shan ruwa amma babu ruwa a nan.** (I want to drink water but there's no water here.)
-**Ba shi da kuɗi, saboda haka bai sayi mota ba.** (He doesn't have money, therefore he didn't buy a car.)
+**Ba shi da kuɗi, saboda haka bai sayi mota ba.** (He doesn’t have money, therefore he didn't buy a car.)
 
 ### Complex Sentences
 
@@ -522,7 +522,7 @@ Subordinate clauses in Hausa are often introduced by conjunctions such as:
 Examples:
 **Na san cewa za ka zo.** (I know that you will come.)
 **Idan ka zo, za mu tafi tare.** (If you come, we will go together.)
-**Ba za mu fara ba sai idan kowa ya iso.** (We won't start until everyone has arrived.)
+**Ba za mu fara ba sai idan kowa ya iso.** (We won’t start until everyone has arrived.)
 **Sa'ad da na iso gida, sai na gan shi.** (When I arrived home, I saw him.)
 
 Relative clauses are formed using the relative pronoun **da**:
@@ -534,45 +534,45 @@ Relative clauses are formed using the relative pronoun **da**:
 
 Hausa has many idiomatic expressions that add color to the language:
 
-**Hannu da shuni** (literally: "hand and indigo") - To be deeply involved in something
-**Ka daga hannu** (literally: "You raised your hand") - You've given up
-**Bakin kōgi** (literally: "mouth of the river") - Beginning of something
-**Ƙarshen maganā** (literally: "end of the talk") - Final decision
-**Kasa kai kasa ƙafa** (literally: "lower head lower leg") - To be humble
-**Sha ruwan dare** (literally: "drink night water") - To suffer
-**Ɗan wata** (literally: "son of the moon") - A big shot, an important person
-**Ci gaba** (literally: "eat front") - To progress, to advance
-**Sha wahala** (literally: "drink difficulty") - To suffer
-**Bai wa jaki takarda ba** (literally: "give a donkey a paper") - To do something useless
+**Hannu da shuni** (literally: “hand and indigo”) - To be deeply involved in something
+**Ka daga hannu** (literally: “You raised your hand”) - You've given up
+**Bakin kōgi** (literally: “mouth of the river”) - Beginning of something
+**Ƙarshen maganā** (literally: “end of the talk”) - Final decision
+**Kasa kai kasa ƙafa** (literally: “lower head lower leg”) - To be humble
+**Sha ruwan dare** (literally: “drink night water”) - To suffer
+**Ɗan wata** (literally: “son of the moon”) - A big shot, an important person
+**Ci gaba** (literally: “eat front”) - To progress, to advance
+**Sha wahala** (literally: “drink difficulty”) - To suffer
+**Bai wa jaki takarda ba** (literally: “give a donkey a paper”) - To do something useless
 
 ## Dialectal Variations
 
 While Standard Hausa is based on the Kano dialect, there are several other dialects with notable differences:
 
 1. Sokoto dialect: 
-   - Uses **shi** instead of **ya** for "he" in some constructions
-   - Example: **Shi zo** (Sokoto) vs. **Ya zo** (Standard) - "He came"
-   - Some vocabulary differences: **gafara** (Sokoto) vs. **gafarta** (Standard) - "to forgive"
+   - Uses **shi** instead of **ya** for “he” in some constructions
+   - Example: **Shi zo** (Sokoto) vs. **Ya zo** (Standard) - “He came”
+   - Some vocabulary differences: **gafara** (Sokoto) vs. **gafarta** (Standard) - “to forgive”
 
 2. Zaria dialect:
    - Often drops final vowels
-   - Example: **littaf** (Zaria) vs. **littafi** (Standard) - "book"
-   - Some unique pronunciations: **tsatsa** (Zaria) vs. **tsaurara** (Standard) - "to tighten"
+   - Example: **littaf** (Zaria) vs. **littafi** (Standard) - “book”
+   - Some unique pronunciations: **tsatsa** (Zaria) vs. **tsaurara** (Standard) - “to tighten”
 
 3. Bauchi dialect:
    - Has some unique vocabulary items
-   - Example: **guzuma** (Bauchi) vs. **gada** (Standard) - "groundnut"
-   - Different pronunciations: **burtu** (Bauchi) vs. **budu** (Standard) - "blanket"
+   - Example: **guzuma** (Bauchi) vs. **gada** (Standard) - “groundnut”
+   - Different pronunciations: **burtu** (Bauchi) vs. **budu** (Standard) - “blanket”
 
 4. Katsina dialect:
    - Some vocabulary differences
-   - Example: **ci** (Katsina) vs. **sha** (Standard) - "to drink"
+   - Example: **ci** (Katsina) vs. **sha** (Standard) - “to drink”
    - Phonological differences: tendency to pronounce **ƙ** as **k**
 
 5. Daura dialect:
    - Known for its archaic features
    - Retains some sounds lost in other dialects
-   - Example: **nufin** (Daura) vs. **nufin** (Standard) - "intention" (pronounced differently)
+   - Example: **nufin** (Daura) vs. **nufin** (Standard) - “intention” (pronounced differently)
 
 Despite these differences, most Hausa speakers can understand each other across dialects.
 

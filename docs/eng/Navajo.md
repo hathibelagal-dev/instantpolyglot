@@ -201,13 +201,13 @@ The basic word order in Navajo is Subject-Object-Verb (SOV):
 
 **Ashkii atʼééd yiyiiłtsą́**
 Boy girl he-saw-her
-"The boy saw the girl"
+“The boy saw the girl”
 
 However, due to the complex verbal system, the subject and object are often incorporated into the verb, allowing for more flexible word order:
 
 **Yiyiiłtsą́ ashkii atʼééd**
 He-saw-her boy girl
-"The boy saw the girl"
+“The boy saw the girl”
 
 ### Relative clauses
 
@@ -215,11 +215,11 @@ Relative clauses in Navajo are typically formed using the relativizer **-ígíí
 
 **Ashkii atʼééd yiyiiłtsą́nígíí naalnish**
 Boy girl he-saw-her-REL he-works
-"The boy who saw the girl is working"
+“The boy who saw the girl is working”
 
 **Atʼééd ashkii yiyiiłtsą́nígíí naaghá**
 Girl boy she-saw-him-REL she-walks
-"The girl who saw the boy is walking"
+“The girl who saw the boy is walking”
 
 ### Negation
 
@@ -227,11 +227,11 @@ Negation is typically expressed using the particle **doo** before the verb and *
 
 **Doo naashá da**
 NEG I-walk NEG
-"I am not walking"
+“I am not walking”
 
 **Doo chidí biiʼ nahalin da**
 NEG car in it-appears NEG
-"It doesn't seem to be in the car"
+“It doesn’t seem to be in the car”
 
 ### Questions
 
@@ -239,11 +239,11 @@ Yes/no questions are often formed by adding the particle **lá** or **sh** at th
 
 **Naná lá?**
 You-walk Q
-"Are you walking?"
+“Are you walking?”
 
 **Dibé nílį́į́ sh?**
 Sheep they-are Q
-"Are they sheep?"
+“Are they sheep?”
 
 Wh-questions use specific question words:
 
@@ -257,11 +257,11 @@ Wh-questions use specific question words:
 Examples:
 **Háadi naná?**
 Where you-walk
-"Where are you walking?"
+“Where are you walking?”
 
 **Haʼátʼíí biniinaa nihaa niya?**
 What because-of to-us you-came
-"Why did you come to us?"
+“Why did you come to us?”
 
 ### Topic and focus
 
@@ -269,13 +269,13 @@ Navajo uses the particle **éí** to mark topics:
 
 **Díí ashkii éí Kinłání góneʼ naagháá**
 This boy TOP Flagstaff in he-walks
-"As for this boy, he walks in Flagstaff"
+“As for this boy, he walks in Flagstaff”
 
 Focus can be expressed through word order, with the focused element typically appearing at the beginning of the sentence:
 
 **Tó éí yidlą́**
 Water FOC he-drinks
-"It's water that he drinks"
+“It's water that he drinks”
 
 ### Subordination
 
@@ -283,11 +283,11 @@ Subordinate clauses in Navajo are often formed using nominalization:
 
 **Atʼééd nahałtin biniinaa naashnish**
 Girl she-teaches because-of I-work
-"I work because the girl teaches"
+“I work because the girl teaches”
 
 **Ashkii chidí yiyiiłtsą́ągo naalnish**
 Boy car he-saw-it-when he-works
-"The boy works when he sees the car"
+“The boy works when he sees the car”
 
 ## Lexicon
 
@@ -310,7 +310,7 @@ Numbers above 10 are formed by combination:
 20: **naadiin** (2 x 10)
 21: **naadiin dóó tʼááłáʼí** (20 and 1)
 100: **neeznádiin** (10 x 10)
-1000: **tʼááłáʼí mííl** (1 thousand, borrowed from Spanish "mil")
+1000: **tʼááłáʼí mííl** (1 thousand, borrowed from Spanish “mil”)
 
 ### Color terms
 
@@ -322,10 +322,10 @@ Navajo has four basic color terms:
 - **łitso** (yellow)
 
 Other colors are often described by comparison:
-- **yágo** (sky blue, literally "like the sky")
-- **chʼil łitso** (green, literally "yellow plant")
-- **diłhił** (dark blue/purple, literally "bruise-colored")
-- **łibáhí** (gray, literally "like ashes")
+- **yágo** (sky blue, literally “like the sky”)
+- **chʼil łitso** (green, literally “yellow plant”)
+- **diłhił** (dark blue/purple, literally “bruise-colored”)
+- **łibáhí** (gray, literally “like ashes”)
 
 ### Kinship terms
 
@@ -349,13 +349,13 @@ Navajo kinship terms are complex and distinguish between maternal and paternal r
 
 Navajo has borrowed words from various languages, particularly Spanish and English:
 
-- **béeso** (money, from Spanish "peso")
-- **chidí** (car, from English "Chevy")
-- **góół** (ball, from Spanish "gol")
-- **máází** (cat, from English "pussy")
-- **géeso** (cheese, from Spanish "queso")
-- **mandagíiya** (butter, from Spanish "mantequilla")
-- **bilagáana** (white person, from Spanish "Americano")
+- **béeso** (money, from Spanish “peso”)
+- **chidí** (car, from English “Chevy”)
+- **góół** (ball, from Spanish “gol”)
+- **máází** (cat, from English “pussy”)
+- **géeso** (cheese, from Spanish “queso”)
+- **mandagíiya** (butter, from Spanish “mantequilla”)
+- **bilagáana** (white person, from Spanish “Americano”)
 
 ### Semantic domains
 
@@ -377,7 +377,7 @@ Navajo has borrowed words from various languages, particularly Spanish and Engli
    - **tłʼízí** (goat)
    - **shash** (bear)
    - **dlǫ́ʼii** (prairie dog)
-   - **tsin nátłʼizh** (hummingbird, literally "whirling wood")
+   - **tsin nátłʼizh** (hummingbird, literally “whirling wood”)
 
 3. Plant terms:
    - **chʼil** (plant)
@@ -489,7 +489,7 @@ While Navajo is relatively uniform across its speaking area, there are some regi
    Example: **yiyiiłtsą́** (he/she saw it)
 
 4. Northern Navajo: May have some unique vocabulary items.
-   Example: **azídítsoh** instead of **bisóodi** for "pig"
+   Example: **azídítsoh** instead of **bisóodi** for “pig”
 
 Some phonological differences include:
 - Variation in the pronunciation of **y**: some speakers pronounce it as [j], others as [ʒ]
@@ -501,29 +501,29 @@ Many Navajo speakers are bilingual in English, and code-switching between Navajo
 
 **Shimá store góneʼ shopping áyiilaa**
 My-mother store in shopping she-did
-"My mother went shopping in the store"
+“My mother went shopping in the store”
 
 **Shí éí computer class bichʼį́ʼ deeshááł**
 I TOP computer class towards I-will-go
-"I'm going to computer class"
+“I'm going to computer class”
 
 Code-switching can occur at various levels:
 1. Word level: **Hooghan biyi' TV silá** (There's a TV inside the hogan)
-2. Phrase level: **Baa ntséskees "What should I do?"** (I'm thinking about "What should I do?")
+2. Phrase level: **Baa ntséskees “What should I do?”** (I'm thinking about “What should I do?”)
 3. Clause level: **Ashkii school góneʼ óołtaʼ but tʼáá hooghandi naná** (The boy studies at school but he walks at home)
 
 ## Honorifics and politeness
 
-Navajo doesn't have a complex system of honorifics, but respect is often shown through:
+Navajo doesn’t have a complex system of honorifics, but respect is often shown through:
 
 1. Use of kinship terms even for non-relatives
    Example: **Shicheii** (my maternal grandfather) used to address an elderly man
 
 2. Indirect speech
-   Example: Instead of directly saying "You're wrong," one might say:
+   Example: Instead of directly saying “You're wrong,” one might say:
    **Tʼáá ánółtso baa nitsíkees lágo**
    All about-it you-think maybe
-   "Perhaps you should think about it more"
+   “Perhaps you should think about it more”
 
 3. Avoidance of certain taboo words or topics
    Example: Using **Máʼii** (coyote) instead of directly mentioning dangerous animals
@@ -556,11 +556,11 @@ Meaning: I am happy, I am content
 
 **Shiyázhí łichíí'go nahałtin**
 My-child red-ly he/she-teaches
-Meaning: My child is very intelligent (literally "teaches redly")
+Meaning: My child is very intelligent (literally “teaches redly”)
 
 **Doo ííshją́ą́ da**
 Not I-age not
-Meaning: I'm young at heart (literally "I don't age")
+Meaning: I'm young at heart (literally “I don’t age”)
 
 **Tʼáá hwó ájítʼé**
 Just self it-is-so
@@ -573,21 +573,21 @@ Navajo shows interesting cases of grammaticalization:
 1. The verb stem **-nii** (to say) has grammaticalized into an evidential marker indicating hearsay:
    **Diné yee hadoodzih nisin nii**
    People with-it they-will-speak I-think it-is-said
-   "They say people will speak with it (the language)"
+   “They say people will speak with it (the language)”
 
-2. The postposition **bił** (with) has grammaticalized into a conjunction meaning "and":
+2. The postposition **bił** (with) has grammaticalized into a conjunction meaning “and”:
    **Ashkii bił at'ééd**
    Boy and girl
 
 3. The verb **ntséskees** (to think) is often used as a discourse marker:
    **Ntséskees, háadi deeshtááł?**
    I-think where I-will-go
-   "I wonder, where should I go?"
+   “I wonder, where should I go?”
 
 4. The particle **lá** has grammaticalized from a question particle to a mirative marker indicating surprise:
    **Chidí náánaʼ lá!**
    Car it-crawls MIR
-   "The car is moving!" (expressing surprise)
+   “The car is moving!” (expressing surprise)
 
 ## Discourse markers
 
@@ -596,31 +596,31 @@ Navajo uses various particles and words as discourse markers:
 - **háálá** (because, for)
    **Doo deeyá da, háálá shidziil da**
    Not I-went not because I-am-strong not
-   "I didn't go because I'm not strong"
+   “I didn't go because I'm not strong”
 
 - **éí** (topic marker)
    **Díí éí shimá bitsį́į́' át'é**
    This TOP my-mother her-meat it-is
-   "This is my mother's meat"
+   “This is my mother's meat”
 
 - **lá** (mirative, indicating surprise)
    **Chʼil náána' lá!**
    Plant it-grows MIR
-   "The plant is growing!" (expressing surprise)
+   “The plant is growing!” (expressing surprise)
 
 - **sha'shin** (probably, perhaps)
    **Naaltsoos ałtso ádaalyaa sha'shin**
    Papers all they-were-made probably
-   "The papers were probably all made"
+   “The papers were probably all made”
 
 - **ndi** (but, however)
    **Naałnish ndi doo bił yáʼátʼééh da**
    He-works but not with-him it-is-good not
-   "He works, but he's not happy with it"
+   “He works, but he's not happy with it”
 
 - **áádóó** (and then, after that)
    **Chʼíyáán áshłaa áádóó séí**
    Food I-made and-then I-ate
-   "I made food and then I ate"
+   “I made food and then I ate”
 
 These discourse markers help to structure conversation, indicate the speaker's attitude, and connect ideas in Navajo discourse.

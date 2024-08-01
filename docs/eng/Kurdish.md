@@ -282,7 +282,7 @@ Example (Kurmanji):
 
 #### Person and Number Agreement
 
-Verbs agree with their subjects in person and number. Here's an example conjugation of the verb "to go" in the present tense:
+Verbs agree with their subjects in person and number. Here's an example conjugation of the verb “to go” in the present tense:
 
 Kurmanji:
 
@@ -333,11 +333,11 @@ Kurdish has a rich system of tenses and aspects. Here are some examples:
 Verbs are negated by adding the prefix **na-** or **ne-** to the verb stem:
 
 Kurmanji:
-- **Ez dixwînim.** (I read.) → **Ez naxwînim.** (I don't read.)
+- **Ez dixwînim.** (I read.) → **Ez naxwînim.** (I don’t read.)
 - **Min xwend.** (I read.) → **Min nexwend.** (I didn't read.)
 
 Sorani:
-- **Min dexwênim.** (I read.) → **Min naxwênim.** (I don't read.)
+- **Min dexwênim.** (I read.) → **Min naxwênim.** (I don’t read.)
 - **Min xwênd.** (I read.) → **Min nexwênd.** (I didn't read.)
 
 #### Subjunctive Mood
@@ -513,15 +513,15 @@ Kurmanji:
 1. **Çavê min li riya te ye.** (My eye is on your road.) 
    Meaning: I'm waiting for you / I miss you.
 
-2. **Serê xwe nexe belayê.** (Don't put your head in trouble.) 
-   Meaning: Don't get yourself into trouble.
+2. **Serê xwe nexe belayê.** (Don’t put your head in trouble.) 
+   Meaning: Don’t get yourself into trouble.
 
 Sorani:
 1. **Çawim le rêgete.** (My eye is on your road.) 
    Meaning: I'm waiting for you / I miss you.
 
-2. **Serî xot mexere belaye.** (Don't put your head in trouble.) 
-   Meaning: Don't get yourself into trouble.
+2. **Serî xot mexere belaye.** (Don’t put your head in trouble.) 
+   Meaning: Don’t get yourself into trouble.
 
 ## Dialectal Variations
 
@@ -532,13 +532,13 @@ While we've focused on Kurmanji and Sorani, it's worth noting some key differenc
      Southern Kurdish: **war** vs. Kurmanji/Sorani: **var** (side, direction)
 
 2. Lexical differences:
-   - "to come" in different dialects:
+   - “to come” in different dialects:
      Kurmanji: **hatin**
      Sorani: **hatin**
      Southern Kurdish: **amayen**
 
 3. Grammatical differences:
-   - Kurmanji has a case system (direct/oblique), while Sorani doesn't
+   - Kurmanji has a case system (direct/oblique), while Sorani doesn’t
    - Sorani uses enclitic pronouns for possession, while Kurmanji uses separate possessive adjectives
 
 ## Colloquial vs. Formal Language
@@ -546,7 +546,7 @@ While we've focused on Kurmanji and Sorani, it's worth noting some key differenc
 Like many languages, Kurdish has differences between its colloquial and formal registers:
 
 1. Pronunciation:
-   In colloquial Kurmanji, final "-in" is often reduced to "-î":
+   In colloquial Kurmanji, final “-in” is often reduced to “-î”:
    Formal: **ez dizanim** (I know)
    Colloquial: **ez dizanî**
 
@@ -554,7 +554,7 @@ Like many languages, Kurdish has differences between its colloquial and formal r
    Formal language tends to use more loanwords from Persian or Arabic, while colloquial speech may prefer native Kurdish words or Turkish loanwords.
 
 3. Grammar:
-   Colloquial speech may simplify some grammatical constructions. For example, in Sorani, the present perfect tense marker "-ûe" is often omitted in casual speech:
+   Colloquial speech may simplify some grammatical constructions. For example, in Sorani, the present perfect tense marker “-ûe” is often omitted in casual speech:
    Formal: **min xwardûe** (I have eaten)
    Colloquial: **min xwardû**
 
@@ -568,7 +568,7 @@ Due to the multilingual nature of Kurdish-speaking regions, code-switching (alte
 
 Example (Kurmanji-Turkish code-switching):
 **Ez çûm marketê û min biraz meyve kirî.** (I went to the market and bought some fruit.)
-Here, "market" and "biraz" (some) are Turkish words used in a Kurdish sentence.
+Here, “market” and “biraz” (some) are Turkish words used in a Kurdish sentence.
 
 ## Conclusion
 

@@ -21,7 +21,7 @@ Peripheral members or languages showing some Balkan features include:
 4. Megleno-Romanian (Indo-European, Romance)
 5. Judezmo (Ladino) (Indo-European, Romance)
 
-It's important to note that not all features are present in all languages, and the degree of "Balkanization" varies among these languages. Some languages, like Bulgarian and Macedonian, exhibit a high degree of Balkan features, while others, like Serbo-Croatian, show fewer Balkan characteristics.
+It's important to note that not all features are present in all languages, and the degree of “Balkanization” varies among these languages. Some languages, like Bulgarian and Macedonian, exhibit a high degree of Balkan features, while others, like Serbo-Croatian, show fewer Balkan characteristics.
 
 ## Shared Features
 
@@ -72,7 +72,7 @@ Greek, which is part of the Sprachbund, retains its preposed definite article:
 
 ### 2. Future Tense Formation
 
-Many Balkan languages form the future tense using a construction that historically derives from a verb meaning "to want" or "to will", which has grammaticalized into an invariable particle.
+Many Balkan languages form the future tense using a construction that historically derives from a verb meaning “to want” or “to will”, which has grammaticalized into an invariable particle.
 
 Albanian:
 - **do të shkoj** (I will go)
@@ -111,30 +111,30 @@ It's worth noting that in some of these languages, like Bulgarian and Macedonian
 Another striking feature is the replacement of the infinitive with subjunctive constructions. This is particularly evident in Bulgarian, Macedonian, Greek, and to a lesser extent in Albanian and Romanian.
 
 Bulgarian:
-- Instead of an infinitive "to read", Bulgarian uses:
+- Instead of an infinitive “to read”, Bulgarian uses:
   **да чета** (da cheta, that I read)
-- "I want to sleep" is expressed as:
+- “I want to sleep” is expressed as:
   **Искам да спя** (Iskam da spya, I want that I sleep)
 
 Macedonian:
-- "I want to write" is expressed as:
+- “I want to write” is expressed as:
   **Сакам да пишувам** (Sakam da pišuvam, I want that I write)
 
 Greek:
-- Instead of an infinitive "to write", Greek uses:
+- Instead of an infinitive “to write”, Greek uses:
   **να γράφω** (na grafo, that I write)
-- "I want to eat" is expressed as:
+- “I want to eat” is expressed as:
   **Θέλω να φάω** (Thelo na fao, I want that I eat)
 
 Albanian:
-- **të shkruaj** (to write, lit. "that I write")
-- "I want to drink" is expressed as:
+- **të shkruaj** (to write, lit. “that I write”)
+- “I want to drink” is expressed as:
   **Dua të pi** (I want that I drink)
 
 Romanian retains the infinitive but also uses subjunctive constructions:
 - Infinitive: **a scrie** (to write)
 - Subjunctive: **să scriu** (that I write)
-- "I want to sing" can be expressed both ways:
+- “I want to sing” can be expressed both ways:
   **Vreau a cânta** or **Vreau să cânt** (I want to sing / I want that I sing)
 
 This feature is particularly interesting because it represents a significant departure from the typical Indo-European pattern of using infinitives in such constructions.
@@ -148,7 +148,7 @@ Bulgarian:
 - **На него му казах.** (Na nego mu kazah, To him, I told him.)
 
 Macedonian:
-- **Јас го видов човекот.** (Jas go vidov čovekot, I saw the man, lit. "I him saw the man.")
+- **Јас го видов човекот.** (Jas go vidov čovekot, I saw the man, lit. “I him saw the man.”)
 - **Нему му реков.** (Nemu mu rekov, To him, I told him.)
 
 Greek:
@@ -217,7 +217,7 @@ This simplification of case systems is often attributed to the intense language 
 
 ### 7. Mid-Central Vowel
 
-Many Balkan languages have developed a mid-central vowel, often represented as "ă" or "ə".
+Many Balkan languages have developed a mid-central vowel, often represented as “ă” or “ə”.
 
 Bulgarian: **ъ** as in **сън** (săn, dream)
 - **път** (păt, road)
@@ -231,11 +231,11 @@ Albanian: **ë** as in **ëndërr** (dream)
 - **bëj** (to do)
 - **shqiptër** (Albanian)
 
-While not universal across all Balkan languages (Greek, for instance, doesn't have this vowel), its presence in several languages of different branches is noteworthy.
+While not universal across all Balkan languages (Greek, for instance, doesn’t have this vowel), its presence in several languages of different branches is noteworthy.
 
 ### 8. Comparatives
 
-Balkan languages often form comparatives analytically, using a particle meaning "more" rather than synthetic forms.
+Balkan languages often form comparatives analytically, using a particle meaning “more” rather than synthetic forms.
 
 Bulgarian:
 - **по-голям** (po-golyam, bigger)
@@ -257,11 +257,11 @@ Macedonian:
 - **по голем** (po golem, bigger)
 - **по брз** (po brz, faster)
 
-This analytical construction contrasts with the synthetic comparatives found in many other Indo-European languages (e.g., English "bigger", Latin "maior").
+This analytical construction contrasts with the synthetic comparatives found in many other Indo-European languages (e.g., English “bigger”, Latin “maior”).
 
 ### 9. Numerals
 
-Many Balkan languages have a vigesimal counting system for the numbers 11-19, literally meaning "one over ten", "two over ten", etc.
+Many Balkan languages have a vigesimal counting system for the numbers 11-19, literally meaning “one over ten”, “two over ten”, etc.
 
 Albanian:
 - 11: **njëmbëdhjetë** (one over ten)
@@ -278,7 +278,7 @@ Greek:
 - 12: **δώδεκα** (dodeka, two and ten)
 - 13: **δεκατρία** (dekatria, ten-three)
 
-Bulgarian and Macedonian don't follow this pattern:
+Bulgarian and Macedonian don’t follow this pattern:
 - Bulgarian 11: **единадесет** (edinadeset)
 - Macedonian 11: **единаесет** (edinaeset)
 
@@ -290,34 +290,34 @@ Beyond grammatical features, the Balkan Sprachbund is characterized by shared vo
 
 Some examples of shared words:
 
-1. "Sheep cheese"
+1. “Sheep cheese”
    - Bulgarian: **сирене** (sirene)
    - Romanian: **brânză**
    - Albanian: **djathë**
    - Greek: **τυρί** (tyri)
 
-2. "Donkey"
+2. “Donkey”
    - Bulgarian: **магаре** (magare)
    - Romanian: **măgar**
    - Albanian: **gomar**
 
-3. "Spoon"
+3. “Spoon”
    - Bulgarian: **лъжица** (lazhitsa)
    - Romanian: **lingură**
    - Albanian: **lugë**
 
-4. "Thousand"
+4. “Thousand”
    - Bulgarian: **хиляда** (hilyada)
    - Romanian: **mie**
    - Albanian: **mijë**
    - Greek: **χίλια** (chilia)
 
-5. "Village"
+5. “Village”
    - Bulgarian: **село** (selo)
    - Romanian: **sat**
    - Albanian: **fshat**
 
-6. "Week"
+6. “Week”
    - Bulgarian: **седмица** (sedmitsa)
    - Romanian: **săptămână**
    - Albanian: **javë**
@@ -325,30 +325,30 @@ Some examples of shared words:
 
 Shared expressions (calques):
 
-1. "To take someone's mind" (to deceive)
+1. “To take someone's mind” (to deceive)
    - Bulgarian: **взимам акъла** (vzimam akăla)
    - Romanian: **a lua mintea**
    - Albanian: **marr mendjen**
    - Greek: **παίρνω το μυαλό** (pairno to myalo)
 
-2. "To fall in love" (literally "to eat yourself")
+2. “To fall in love” (literally “to eat yourself”)
    - Bulgarian: **изяждам се** (izyazhdam se)
    - Romanian: **a se mânca**
    - Albanian: **hahem**
 
-3. "To not hear well" (to be hard of hearing)
+3. “To not hear well” (to be hard of hearing)
    - Bulgarian: **недочувам** (nedochuvam)
    - Romanian: **a nu auzi bine**
    - Albanian: **nuk dëgjoj mirë**
    - Greek: **δεν ακούω καλά** (den akouo kala)
 
-4. "To give word" (to promise)
+4. “To give word” (to promise)
    - Bulgarian: **давам дума** (davam duma)
    - Romanian: **a da cuvântul**
    - Albanian: **jap fjalën**
    - Greek: **δίνω το λόγο μου** (dino to logo mou)
 
-5. "Good day" (as a greeting)
+5. “Good day” (as a greeting)
    - Bulgarian: **добър ден** (dobăr den)
    - Romanian: **bună ziua**
    - Albanian: **mirëdita**
@@ -391,7 +391,7 @@ While phonology is less affected by the Sprachbund than morphology and syntax, t
    - Greek: **τζάκι** (tzaki, fireplace)
 
 8. Simplification of consonant clusters in some languages:
-   - Romanian: **opt** (eight) from Latin "octo"
+   - Romanian: **opt** (eight) from Latin “octo”
    - Albanian: **natë** (night) from Proto-Albanian *nakta
 
 ## Morphological Features
@@ -482,7 +482,7 @@ Greek distinguishes aspect in all tenses:
 - Imperfective past: **έγραφα** (egrafa, I was writing)
 - Perfective past: **έγραψα** (egrapsa, I wrote)
 
-Romanian doesn't have a systematic aspectual distinction, but uses different tenses to convey similar meanings:
+Romanian doesn’t have a systematic aspectual distinction, but uses different tenses to convey similar meanings:
 - Imperfective-like: **scriam** (I was writing)
 - Perfective-like: **am scris** (I wrote/have written)
 
@@ -534,7 +534,7 @@ Macedonian:
 
 ### 2. Balkan Conditional
 
-Some Balkan languages have developed a conditional mood using the particle "will" + imperfect:
+Some Balkan languages have developed a conditional mood using the particle “will” + imperfect:
 
 Bulgarian:
 - **щях да чета** (shtyah da cheta, I would read)
@@ -574,7 +574,7 @@ Macedonian:
 
 ### 4. Analytic Dative Construction
 
-Many Balkan languages use a preposition meaning "to" with the accusative case to form the dative, instead of or alongside a synthetic dative case:
+Many Balkan languages use a preposition meaning “to” with the accusative case to form the dative, instead of or alongside a synthetic dative case:
 
 Bulgarian:
 - **Давам книга на Иван.** (Davam kniga na Ivan, I give a book to Ivan.)

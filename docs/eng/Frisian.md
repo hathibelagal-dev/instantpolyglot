@@ -1,6 +1,6 @@
 # Frisian
 
-Frisian is a West Germanic language closely related to English and Dutch. It is spoken by approximately 500,000 people, primarily in the Dutch province of Friesland (Fryslân) and in small parts of Germany. The term "Frisian" actually refers to three distinct but related languages: West Frisian (spoken in the Netherlands), North Frisian (spoken in Germany), and East Frisian (nearly extinct, formerly spoken in Germany). This overview will focus primarily on West Frisian, as it is the most widely spoken variety.
+Frisian is a West Germanic language closely related to English and Dutch. It is spoken by approximately 500,000 people, primarily in the Dutch province of Friesland (Fryslân) and in small parts of Germany. The term “Frisian” actually refers to three distinct but related languages: West Frisian (spoken in the Netherlands), North Frisian (spoken in Germany), and East Frisian (nearly extinct, formerly spoken in Germany). This overview will focus primarily on West Frisian, as it is the most widely spoken variety.
 
 ## Phonology
 
@@ -12,30 +12,30 @@ Monophthongs:
 
 | IPA | Frisian Example | English Approximation |
 |-----|-----------------|------------------------|
-| /i/ | **wie** (who) | "ee" in "see" |
-| /ɪ/ | **ik** (I) | "i" in "bit" |
-| /y/ | **hûn** (dog) | No English equivalent (rounded "ee") |
-| /ʏ/ | **put** (well) | No English equivalent (rounded "i") |
-| /e/ | **bêd** (bed) | "ay" in "say" |
-| /ɛ/ | **fet** (fat) | "e" in "bet" |
-| /ø/ | **sûnder** (without) | No English equivalent (rounded "e") |
-| /œ/ | **sûch** (sigh) | No English equivalent (rounded "u" in "butter") |
-| /a/ | **kat** (cat) | "a" in "father" |
-| /ɔ/ | **hok** (cage) | "o" in "lot" |
-| /o/ | **foar** (for) | "o" in "go" |
-| /u/ | **hoek** (corner) | "oo" in "boot" |
-| /ə/ | **de** (the) | "a" in "about" |
+| /i/ | **wie** (who) | “ee” in “see” |
+| /ɪ/ | **ik** (I) | “i” in “bit” |
+| /y/ | **hûn** (dog) | No English equivalent (rounded “ee”) |
+| /ʏ/ | **put** (well) | No English equivalent (rounded “i”) |
+| /e/ | **bêd** (bed) | “ay” in “say” |
+| /ɛ/ | **fet** (fat) | “e” in “bet” |
+| /ø/ | **sûnder** (without) | No English equivalent (rounded “e”) |
+| /œ/ | **sûch** (sigh) | No English equivalent (rounded “u” in “butter”) |
+| /a/ | **kat** (cat) | “a” in “father” |
+| /ɔ/ | **hok** (cage) | “o” in “lot” |
+| /o/ | **foar** (for) | “o” in “go” |
+| /u/ | **hoek** (corner) | “oo” in “boot” |
+| /ə/ | **de** (the) | “a” in “about” |
 
 Diphthongs:
 
 | IPA | Frisian Example | English Approximation |
 |-----|-----------------|------------------------|
-| /ɛi/ | **geit** (goat) | "ay" in "say" |
-| /ɔi/ | **moai** (beautiful) | "oy" in "boy" |
-| /ai/ | **hait** (father) | "i" in "ride" |
-| /aːu/ | **blau** (blue) | "ow" in "now" |
-| /oːu/ | **kou** (cow) | Similar to "ow" in "low" |
-| /iə/ | **bier** (beer) | Similar to "ear" in "hear" |
+| /ɛi/ | **geit** (goat) | “ay” in “say” |
+| /ɔi/ | **moai** (beautiful) | “oy” in “boy” |
+| /ai/ | **hait** (father) | “i” in “ride” |
+| /aːu/ | **blau** (blue) | “ow” in “now” |
+| /oːu/ | **kou** (cow) | Similar to “ow” in “low” |
+| /iə/ | **bier** (beer) | Similar to “ear” in “hear” |
 | /uə/ | **buorren** (village) | No close English equivalent |
 
 ### Consonants
@@ -44,28 +44,28 @@ Frisian consonants are generally similar to those in English and Dutch, with a f
 
 | IPA | Frisian Example | English Approximation |
 |-----|-----------------|------------------------|
-| /p/ | **pake** (grandfather) | "p" in "spin" |
-| /b/ | **beam** (tree) | "b" in "bin" |
-| /t/ | **twa** (two) | "t" in "stop" |
-| /d/ | **do** (you) | "d" in "dog" |
-| /k/ | **kat** (cat) | "k" in "skip" |
-| /ɡ/ | **goal** (goal) | "g" in "go" |
-| /f/ | **fyts** (bicycle) | "f" in "fit" |
-| /v/ | **fervje** (paint) | "v" in "van" |
-| /s/ | **sân** (sand) | "s" in "sun" |
-| /z/ | **lizze** (lie) | "z" in "zoo" |
-| /ʃ/ | **sjen** (see) | "sh" in "ship" |
-| /ʒ/ | **garaazje** (garage) | "s" in "measure" |
-| /x/ | **acht** (eight) | Scottish "ch" in "loch" |
+| /p/ | **pake** (grandfather) | “p” in “spin” |
+| /b/ | **beam** (tree) | “b” in “bin” |
+| /t/ | **twa** (two) | “t” in “stop” |
+| /d/ | **do** (you) | “d” in “dog” |
+| /k/ | **kat** (cat) | “k” in “skip” |
+| /ɡ/ | **goal** (goal) | “g” in “go” |
+| /f/ | **fyts** (bicycle) | “f” in “fit” |
+| /v/ | **fervje** (paint) | “v” in “van” |
+| /s/ | **sân** (sand) | “s” in “sun” |
+| /z/ | **lizze** (lie) | “z” in “zoo” |
+| /ʃ/ | **sjen** (see) | “sh” in “ship” |
+| /ʒ/ | **garaazje** (garage) | “s” in “measure” |
+| /x/ | **acht** (eight) | Scottish “ch” in “loch” |
 | /ɣ/ | **goed** (good) | No English equivalent (voiced version of /x/) |
-| /h/ | **hûs** (house) | "h" in "house" |
-| /m/ | **mem** (mother) | "m" in "mom" |
-| /n/ | **noas** (nose) | "n" in "nose" |
-| /ŋ/ | **ring** (ring) | "ng" in "ring" |
-| /l/ | **lân** (land) | "l" in "land" |
-| /r/ | **read** (red) | Trilled "r" |
-| /j/ | **jo** (you, formal) | "y" in "yes" |
-| /w/ | **wa** (who) | "w" in "water" |
+| /h/ | **hûs** (house) | “h” in “house” |
+| /m/ | **mem** (mother) | “m” in “mom” |
+| /n/ | **noas** (nose) | “n” in “nose” |
+| /ŋ/ | **ring** (ring) | “ng” in “ring” |
+| /l/ | **lân** (land) | “l” in “land” |
+| /r/ | **read** (red) | Trilled “r” |
+| /j/ | **jo** (you, formal) | “y” in “yes” |
+| /w/ | **wa** (who) | “w” in “water” |
 
 ### Phonological Processes
 
@@ -75,7 +75,7 @@ Frisian consonants are generally similar to those in English and Dutch, with a f
 2. Assimilation: Consonants often assimilate in voicing to adjacent consonants.
    Example: **hotbal** (meatball) is often pronounced more like [ˈhɔdbal]
 
-3. Vowel breaking: Some vowels "break" into diphthongs in certain environments.
+3. Vowel breaking: Some vowels “break” into diphthongs in certain environments.
    Example: **beam** (tree) [bɪəm] vs. **beammen** (trees) [bjɛmən]
 
 4. R-coloring: The presence of /r/ can affect the quality of preceding vowels.
@@ -264,7 +264,7 @@ Common conjunctions include:
 - **dat** (that)
 - **as** (if, when)
 
-Example: **Ik wol komme, mar ik kin net** (I want to come, but I can't)
+Example: **Ik wol komme, mar ik kin net** (I want to come, but I can’t)
 
 ## Vocabulary
 
@@ -322,28 +322,28 @@ Telling time:
 
 Frisian has many idiomatic expressions, some of which are similar to Dutch or English, while others are unique to the language. Here are some examples:
 
-1. **Oan 'e kant** (Literally: "On the side")
+1. **Oan 'e kant** (Literally: “On the side”)
    Meaning: Out of the way
    Example: **Gean oan 'e kant, ik moat dertroch** (Get out of the way, I need to get through)
 
-2. **De bear is los** (Literally: "The bear is loose")
+2. **De bear is los** (Literally: “The bear is loose”)
    Meaning: There's trouble or excitement
-   Similar to the English "The cat is out of the bag"
+   Similar to the English “The cat is out of the bag”
 
-3. **Mei de noas yn 'e bûter falle** (Literally: "To fall with one's nose in the butter")
+3. **Mei de noas yn 'e bûter falle** (Literally: “To fall with one's nose in the butter”)
    Meaning: To be very lucky
-   Similar to the English "To fall on one's feet"
+   Similar to the English “To fall on one's feet”
 
-4. **It kin net skele of it waait** (Literally: "It doesn't matter if it blows")
-   Meaning: It doesn't matter at all
+4. **It kin net skele of it waait** (Literally: “It doesn’t matter if it blows”)
+   Meaning: It doesn’t matter at all
 
-5. **Saead as in kroade** (Literally: "As serious as a wheelbarrow")
+5. **Saead as in kroade** (Literally: “As serious as a wheelbarrow”)
    Meaning: Very serious
 
-6. **It giet om 'e bôle** (Literally: "It's about the bread")
+6. **It giet om 'e bôle** (Literally: “It's about the bread”)
    Meaning: It's about making a living
 
-7. **De sinne skient net foar neat** (Literally: "The sun doesn't shine for nothing")
+7. **De sinne skient net foar neat** (Literally: “The sun doesn’t shine for nothing”)
    Meaning: Everything happens for a reason
 
 ## Dialectal Variation
@@ -441,10 +441,10 @@ Superlatives use the definite article:
 
 Negation in Frisian is typically expressed using **net** (not):
 - **Ik kom net** (I'm not coming)
-- **Hy hat it net dien** (He hasn't done it)
+- **Hy hat it net dien** (He hasn’t done it)
 
 Double negatives are not used in standard Frisian:
-- **Ik ha nimmen sjoen** (I saw nobody) - literally: "I have nobody seen"
+- **Ik ha nimmen sjoen** (I saw nobody) - literally: “I have nobody seen”
 
 ## Question Formation
 

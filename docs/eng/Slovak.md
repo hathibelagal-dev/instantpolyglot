@@ -19,7 +19,7 @@ Slovak has 14 vowel phonemes:
 | u [u] | ú [uː] | |
 | y [i] | ý [iː] | |
 
-Note that "y" and "ý" represent the same sounds as "i" and "í" respectively, but are used in different contexts due to historical reasons.
+Note that “y” and “ý” represent the same sounds as “i” and “í” respectively, but are used in different contexts due to historical reasons.
 
 Examples:
 - **mat'** [mac] (mother)
@@ -67,10 +67,10 @@ Slovak has the following consonant phonemes:
 1. Voice assimilation: Voiced consonants become voiceless before voiceless consonants and at the end of words.
    Example: **z kramov** [s kramɔf] (from shops)
 
-2. The letter "v" is pronounced [u̯] at the end of syllables:
+2. The letter “v” is pronounced [u̯] at the end of syllables:
    **pravda** [prau̯da] (truth)
 
-3. Syllabic consonants: "r" and "l" can form syllable nuclei:
+3. Syllabic consonants: “r” and “l” can form syllable nuclei:
    **vlk** [vlk] (wolf), **krk** [krk] (neck)
 
 4. Stress is always on the first syllable of a word:
@@ -234,7 +234,7 @@ Slovak vocabulary is primarily Slavic in origin, with loanwords from various lan
    **život** (life)
 
 2. German: Historical influence
-   **farba** (color, from German "Farbe")
+   **farba** (color, from German “Farbe”)
 
 3. Hungarian: Historical coexistence
    **guláš** (goulash)
@@ -256,7 +256,7 @@ Some common Slovak words and phrases:
 - **dovidenia** - goodbye
 - **ako sa máš?** - how are you?
 - **rozumiem** - I understand
-- **nerozumiem** - I don't understand
+- **nerozumiem** - I don’t understand
 
 ## Idioms and Expressions
 
@@ -306,14 +306,14 @@ Colloquial Slovak, especially as spoken in Bratislava and other urban areas, can
 
 2. Borrowed words, especially from English:
    **Idem na drink s kamošmi** (I'm going for a drink with friends)
-   Here, "drink" is used instead of the Slovak "nápoj"
+   Here, “drink” is used instead of the Slovak “nápoj”
 
 3. Particle usage:
    **No čo, ako bolo?** (Well, how was it?)
-   The particle "no" is very common in spoken Slovak
+   The particle “no” is very common in spoken Slovak
 
 4. Softer pronunciation:
-   The sound "l" before "e" and "i" is often pronounced softer, almost like "ľ"
+   The sound “l” before “e” and “i” is often pronounced softer, almost like “ľ”
 
 5. Contraction of auxiliary verbs:
    Standard: **Čo si robil?** (What were you doing?)
@@ -439,7 +439,7 @@ Slovak has six cases, each with specific uses:
    - After certain prepositions
    **do mesta** (to the city)
    - Negation
-   **Nemám času.** (I don't have time.)
+   **Nemám času.** (I don’t have time.)
 
 4. Dative (Datív):
    - Indirect object
@@ -490,8 +490,8 @@ The formal form is also used for plural, regardless of the level of formality.
 Many Slovak verbs are reflexive, using the reflexive pronouns **sa** or **si**:
 
 - **umývať sa** (to wash oneself)
-- **učiť sa** (to learn, lit. "to teach oneself")
-- **myslieť si** (to think, lit. "to think to oneself")
+- **učiť sa** (to learn, lit. “to teach oneself”)
+- **myslieť si** (to think, lit. “to think to oneself”)
 
 Sometimes the reflexive pronoun changes the meaning of the verb:
 - **hrať** (to play) vs. **hrať sa** (to play around)

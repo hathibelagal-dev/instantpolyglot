@@ -235,7 +235,7 @@ In subordinate clauses, the verb typically moves to the end:
 
 Negation is typically formed using **ניט** (nit, not) after the verb:
 
-**איך פֿאַרשטיי ניט** (ikh farshtey nit, I don't understand)
+**איך פֿאַרשטיי ניט** (ikh farshtey nit, I don’t understand)
 
 Double negatives are common and intensify the negation:
 
@@ -339,7 +339,7 @@ Yiddish has several major dialect groups, often classified geographically:
 Key differences between dialects include:
 
 - Pronunciation of vowels: e.g., Central Yiddish **גוט** [gut] vs. Northeastern **גוט** [gʊt] (good)
-- Use of different words: e.g., Central **מיידל** (meydl) vs. Northeastern **ייִנגל** (yingl) for "girl"
+- Use of different words: e.g., Central **מיידל** (meydl) vs. Northeastern **ייִנגל** (yingl) for “girl”
 - Differences in grammar: e.g., use of the present tense to express future actions in some dialects
 
 ## Phonological Processes
@@ -460,7 +460,7 @@ While SVO is the basic word order, Yiddish allows for considerable flexibility f
 
 Yiddish has a system of honorifics and formal speech:
 
-- **איר** (ir) is used as a formal "you" (similar to German "Sie")
+- **איר** (ir) is used as a formal “you” (similar to German “Sie”)
 - **רבי** (rebe) for a rabbi or spiritual leader
 - **רעבעצין** (rebetsin) for a rabbi's wife
 - **מוירער** (moyrer) for a male teacher
@@ -484,7 +484,7 @@ Given the multilingual nature of many Yiddish-speaking communities, code-switchi
 
 Yiddish has many euphemisms, often related to superstitions or avoiding direct mention of negative concepts:
 
-- **דער אַנדערער אָרט** (der anderer ort, the other place) for "cemetery"
-- **לאַנגע יאָרן** (lange yorn, long years) for "long life"
+- **דער אַנדערער אָרט** (der anderer ort, the other place) for “cemetery”
+- **לאַנגע יאָרן** (lange yorn, long years) for “long life”
 
 This overview covers many aspects of the Yiddish language, from its phonology and grammar to its vocabulary and usage. It provides a comprehensive look at the language's structure and unique features, suitable for laymen and learners alike.

@@ -174,7 +174,7 @@ A typical Tamil sentence structure:
 Example:
 **நான் புத்தகத்தை படித்தேன்** (nān puttakattai paṭittēn)
 I book-ACC read-PAST-1SG
-"I read the book"
+“I read the book”
 
 ### Question Formation
 
@@ -192,7 +192,7 @@ Tamil uses participial relative clauses that precede the noun they modify:
 
 **வந்த மனிதன்** (vanta manitan)
 come-PAST-PART man
-"The man who came"
+“The man who came”
 
 ### Compound Sentences
 
@@ -200,7 +200,7 @@ Compound sentences in Tamil are often formed using conjunctions or by joining cl
 
 **நான் வந்தேன், ஆனால் அவன் போனான்** (nān vantēn, ānāl avan pōnān)
 I come-PAST-1SG but he go-PAST-3SG.M
-"I came, but he left"
+“I came, but he left”
 
 ## Vocabulary
 
@@ -262,11 +262,11 @@ Tamil has an elaborate system of honorifics and polite speech:
 Tamil has many idiomatic expressions:
 
 - **கண்ணில் முள்ளாக இருக்கிறது** (kaṇṇil muḷḷāka irukkiṟatu)
-  Literally: "It's like a thorn in the eye"
+  Literally: “It's like a thorn in the eye”
   Meaning: It's very irritating
 
 - **வாயில் வெள்ளரிக்காய்** (vāyil veḷḷarikkāy)
-  Literally: "Cucumber in the mouth"
+  Literally: “Cucumber in the mouth”
   Meaning: Unable to speak (due to shock or surprise)
 
 ## Dialects
@@ -295,7 +295,7 @@ Colloquial: **வருஷம்** (varuṣam)
 
 ### Grammatical Features
 
-- Use of particles like ஆங்கு (āṅku) for "there"
+- Use of particles like ஆங்கு (āṅku) for “there”
 - Preservation of final consonants in pronunciation
 
 ### Poetic Devices
@@ -308,7 +308,7 @@ Tamil poetry employs various devices:
 Example:
 **மலர்மிசை ஏகினான் மாணடி சேர்ந்தார்**
 (malarmicai ēkiṉāṉ māṇaṭi cērntār)
-"He who walked on flowers, they who reached his noble feet"
+“He who walked on flowers, they who reached his noble feet”
 
 This line showcases both mōnai (repetition of 'm') and etukai (repetition of 'ar' sound).
 
@@ -352,7 +352,7 @@ Example: செய் (cey) - to do
 
 ### Weak Verbs
 
-Weak verbs end in vowels and generally don't undergo internal changes.
+Weak verbs end in vowels and generally don’t undergo internal changes.
 
 Example: படி (paṭi) - to read
 
@@ -384,7 +384,7 @@ Formed by adding -உ (-u) to the verb stem:
 
 **சென்று பார்** (ceṉṟu pār)
 go-ADV.PART see-IMP
-"Go and see"
+“Go and see”
 
 ### Conditional Participle
 
@@ -392,7 +392,7 @@ Formed by adding -ஆல் (-āl) to the verb stem:
 
 **மழை பெய்தால் வரமாட்டேன்** (maḻai peytāl varamāṭṭēṉ)
 rain fall-COND.PART come-NEG-FUT-1SG
-"If it rains, I won't come"
+“If it rains, I won’t come”
 
 ### Relative Participle
 
@@ -400,11 +400,11 @@ Formed by adding -உம் (-um) to the present stem or -அ (-a) to the past s
 
 **வரும் நேரம்** (varum nēram)
 come-REL.PART time
-"The time that (will) come"
+“The time that (will) come”
 
 **வந்த மனிதன்** (vanta maṉitaṉ)
 come-PAST-REL.PART man
-"The man who came"
+“The man who came”
 
 ## Postpositions
 
@@ -418,7 +418,7 @@ Tamil uses postpositions instead of prepositions. These follow the noun they mod
 Example:
 **மேசைக்கு மேல்** (mēcaikku mēl)
 table-DAT on
-"On the table"
+“On the table”
 
 ## Noun Classification
 
@@ -431,11 +431,11 @@ This classification affects agreement in verbs and pronouns:
 
 **அவன் வந்தான்** (avaṉ vantāṉ)
 he come-PAST-3SG.M
-"He came"
+“He came”
 
 **அது வந்தது** (atu vantatu)
 it come-PAST-3SG.N
-"It came"
+“It came”
 
 ## Reduplication
 
@@ -469,7 +469,7 @@ Tamil dialects show variations in vocabulary, pronunciation, and grammar:
 
 1. Madurai Tamil:
    - Use of **ங்க** (ṅga) as a politeness marker
-   - Example: **வாங்க** (vāṅga) instead of **வாருங்கள்** (vāruṅgaḷ) - "Please come"
+   - Example: **வாங்க** (vāṅga) instead of **வாருங்கள்** (vāruṅgaḷ) - “Please come”
 
 2. Nellai Tamil:
    - Tendency to pronounce initial உ (u) as ஊ (ū)
@@ -477,7 +477,7 @@ Tamil dialects show variations in vocabulary, pronunciation, and grammar:
 
 3. Sri Lankan Tamil:
    - Retention of some archaic features
-   - Example: Use of **யான்** (yāṉ) for "I" instead of **நான்** (nāṉ)
+   - Example: Use of **யான்** (yāṉ) for “I” instead of **நான்** (nāṉ)
 
 ## Code-Switching and Mixing
 
@@ -485,7 +485,7 @@ In urban areas and among bilingual speakers, code-switching between Tamil and En
 
 **நான் office-க்கு போறேன்** (nāṉ office-kku pōṟēṉ)
 I office-DAT go-PRES-1SG
-"I'm going to the office"
+“I'm going to the office”
 
 ## Kinship Terms
 
@@ -513,9 +513,9 @@ Tamil uses honorific prefixes to show respect:
 
 Tamil has a vigesimal (base-20) number system, which is reflected in the way numbers are expressed:
 
-- 30 is expressed as **முப்பது** (muppatu), literally "three tens"
-- 50 is **ஐம்பது** (aimpatu), literally "five tens"
-- But 40 is **நாற்பது** (nāṟpatu), derived from நாল் வீஸ் (nāl vīs), "two twenties"
+- 30 is expressed as **முப்பது** (muppatu), literally “three tens”
+- 50 is **ஐம்பது** (aimpatu), literally “five tens”
+- But 40 is **நாற்பது** (nāṟpatu), derived from நாল் வீஸ் (nāl vīs), “two twenties”
 
 Large numbers have specific names:
 - 100,000 - **இலட்சம்** (ilaṭcam)
@@ -526,10 +526,10 @@ Large numbers have specific names:
 Tamil has a rich tradition of proverbs and idioms:
 
 - **அவனவன் வாழ்க்கை அவனவன் கையில்** (avaṉavaṉ vāḻkkai avaṉavaṉ kaiyil)
-  "Each one's life is in their own hands"
+  “Each one's life is in their own hands”
 
 - **காற்றுள்ள போதே தூற்றிக்கொள்** (kāṟṟuḷḷa pōtē tūṟṟikkoḷ)
-  "Winnow while the wind blows" (Make hay while the sun shines)
+  “Winnow while the wind blows” (Make hay while the sun shines)
 
 ## Literary Devices
 
@@ -537,11 +537,11 @@ Tamil literature employs various literary devices:
 
 1. உவமை (uvamai) - Simile:
    **முகம் நிலா போல** (mukam nilā pōla)
-   "Face like the moon"
+   “Face like the moon”
 
 2. உருவகம் (uruvakam) - Metaphor:
    **அறிவு ஒளி** (aṟivu oḷi)
-   "Knowledge is light"
+   “Knowledge is light”
 
 3. தொடை (toṭai) - Rhyme schemes in poetry
 

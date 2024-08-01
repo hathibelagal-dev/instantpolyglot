@@ -190,9 +190,9 @@ Malay forms compound words by combining two or more root words:
 
 Types of compounds:
 
-1. Noun + Noun: **rumah sakit** (hospital, lit. "house sick")
-2. Verb + Noun: **tikam lidah** (betray, lit. "stab tongue")
-3. Adjective + Noun: **seniman** (artist, from **seni** "art" + **man** "person")
+1. Noun + Noun: **rumah sakit** (hospital, lit. “house sick”)
+2. Verb + Noun: **tikam lidah** (betray, lit. “stab tongue”)
+3. Adjective + Noun: **seniman** (artist, from **seni** “art” + **man** “person”)
 
 ## Pronouns
 
@@ -210,7 +210,7 @@ Usage notes:
 - **awak** is common in colloquial speech
 
 Examples:
-- **Saya tidak faham.** (I don't understand.)
+- **Saya tidak faham.** (I don’t understand.)
 - **Aku suka makanan ini.** (I like this food.)
 - **Kami akan pergi besok.** (We [exclusive] will go tomorrow.)
 - **Kita harus bekerjasama.** (We [inclusive] must work together.)
@@ -506,7 +506,7 @@ Examples:
 
 Negation is formed using **tidak** for verbs and adjectives, and **bukan** for nouns:
 
-- **Saya tidak suka kopi.** (I don't like coffee.)
+- **Saya tidak suka kopi.** (I don’t like coffee.)
 - **Dia bukan guru.** (He is not a teacher.)
 
 Double negatives are possible and intensify the negation:
@@ -539,7 +539,7 @@ Relative clauses are introduced by **yang**:
 
 Conditional sentences often use **jika** (if) or **kalau** (if, more colloquial):
 
-- **Jika hujan, saya tidak akan pergi.** (If it rains, I won't go.)
+- **Jika hujan, saya tidak akan pergi.** (If it rains, I won’t go.)
 - **Kalau saya kaya, saya akan membeli rumah besar.** (If I were rich, I would buy a big house.)
 
 ## Particles and discourse markers
@@ -550,13 +550,13 @@ Malay uses various particles and discourse markers to convey nuance, emphasis, o
   **Pergilah sekarang.** (Do go now.)
 
 - **pun**: also, even
-  **Saya pun tidak tahu.** (I also don't know.)
+  **Saya pun tidak tahu.** (I also don’t know.)
 
 - **kah**: forms questions
   **Diakah yang menang?** (Is it him who won?)
 
 - **kan**: tag question, seeking confirmation
-  **Anda suka kopi, kan?** (You like coffee, don't you?)
+  **Anda suka kopi, kan?** (You like coffee, don’t you?)
 
 - **kok**: expresses surprise or contradiction
   **Kok dia tidak datang?** (How come he didn't come?)
@@ -580,14 +580,14 @@ Colloquial Malay, especially in Malaysia and Singapore, often differs from stand
 
 3. Particles:
    - **lah** (emphasis): **Cepatlah!** (Hurry up!)
-   - **lor** (assertion): **Saya tak tahu lor.** (I really don't know.)
+   - **lor** (assertion): **Saya tak tahu lor.** (I really don’t know.)
    - **meh** (invitation): **Jom makan meh.** (Let's go eat.)
 
 4. Code-mixing with English:
    - **Hari ini aku busy lah.** (I'm busy today.)
 
 5. Borrowed words from Chinese dialects:
-   - **cincai** (casual, careless): **Jangan buat cincai saja.** (Don't do it carelessly.)
+   - **cincai** (casual, careless): **Jangan buat cincai saja.** (Don’t do it carelessly.)
 
 6. Omission of pronouns:
    - Standard: **Saya hendak pergi ke pasar.** (I want to go to the market.)

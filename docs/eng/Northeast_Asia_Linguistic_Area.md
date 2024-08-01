@@ -62,16 +62,16 @@ One of the most prominent features of the Northeast Asian Linguistic Area is vow
 Examples:
 
 1. Mongolian (Khalkha):
-   - Front harmony: **үсэг** [usəg] "letter"
-   - Back harmony: **уншах** [unʃəx] "to read"
+   - Front harmony: **үсэг** [usəg] “letter”
+   - Back harmony: **уншах** [unʃəx] “to read”
 
 2. Yakut (Sakha):
-   - Front harmony: **күн** [kyn] "day"
-   - Back harmony: **оҕо** [oɣo] "child"
+   - Front harmony: **күн** [kyn] “day”
+   - Back harmony: **оҕо** [oɣo] “child”
 
 3. Evenki:
-   - Front harmony: **эмэ-** [eme-] "to come"
-   - Back harmony: **ама-** [ama-] "to sleep"
+   - Front harmony: **эмэ-** [eme-] “to come”
+   - Back harmony: **ама-** [ama-] “to sleep”
 
 ### Lack of Phonemic Voicing Contrast
 
@@ -80,12 +80,12 @@ Many languages in the area lack a phonemic voicing contrast for stops and fricat
 Examples:
 
 1. Korean:
-   - Aspirated: **편** [pʰjən] "side"
-   - Unaspirated: **벽** [pjək̚] "wall"
+   - Aspirated: **편** [pʰjən] “side”
+   - Unaspirated: **벽** [pjək̚] “wall”
 
 2. Mongolian:
-   - Aspirated: **хаалга** [xaːɮəɢ] "door"
-   - Unaspirated: **гар** [ɢar] "hand"
+   - Aspirated: **хаалга** [xaːɮəɢ] “door”
+   - Unaspirated: **гар** [ɢar] “hand”
 
 ### Limited Consonant Clusters
 
@@ -94,13 +94,13 @@ Languages in this area often have restrictions on consonant clusters, particular
 Examples:
 
 1. Japanese: 
-   - **くつ** [kut͡su] "shoe" (no initial clusters)
+   - **くつ** [kut͡su] “shoe” (no initial clusters)
 
 2. Korean:
-   - **학교** [hak̚k͈jo] "school" (clusters only across syllable boundaries)
+   - **학교** [hak̚k͈jo] “school” (clusters only across syllable boundaries)
 
 3. Mongolian:
-   - **хөгжим** [xөɡd͡ʒim] "music" (limited medial clusters)
+   - **хөгжим** [xөɡd͡ʒim] “music” (limited medial clusters)
 
 ## Morphological Features
 
@@ -113,17 +113,17 @@ Examples:
 1. Turkish (for comparison):
    - **ev-ler-im-de-ki-ler** 
      house-PL-1SG.POSS-LOC-REL-PL
-     "those (things) in my houses"
+     “those (things) in my houses”
 
 2. Mongolian:
    - **үзэ-гд-үүл-э-х**
      see-PASS-CAUS-CONN-INF
-     "to be made visible"
+     “to be made visible”
 
 3. Korean:
    - **가-시-었-겠-습니다**
      go-HON-PST-PROB-POL.DECL
-     "(Someone honorific) probably went"
+     “(Someone honorific) probably went”
 
 ### Case Systems
 
@@ -132,23 +132,23 @@ Extensive case systems are common, often including locative cases that express f
 Examples:
 
 1. Finnish (for comparison, 15 cases):
-   - Nominative: **talo** "house"
-   - Genitive: **talon** "of the house"
-   - Partitive: **taloa** "some of the house"
-   - Inessive: **talossa** "in the house"
-   - Elative: **talosta** "from inside the house"
-   - Illative: **taloon** "into the house"
-   - Adessive: **talolla** "at/on the house"
-   - Ablative: **talolta** "from the house"
-   - Allative: **talolle** "to the house"
-   - Essive: **talona** "as a house"
-   - Translative: **taloksi** "into (becoming) a house"
-   - Instructive: **taloin** "by means of houses"
-   - Abessive: **talotta** "without a house"
-   - Comitative: **taloine(en)** "with a house"
+   - Nominative: **talo** “house”
+   - Genitive: **talon** “of the house”
+   - Partitive: **taloa** “some of the house”
+   - Inessive: **talossa** “in the house”
+   - Elative: **talosta** “from inside the house”
+   - Illative: **taloon** “into the house”
+   - Adessive: **talolla** “at/on the house”
+   - Ablative: **talolta** “from the house”
+   - Allative: **talolle** “to the house”
+   - Essive: **talona** “as a house”
+   - Translative: **taloksi** “into (becoming) a house”
+   - Instructive: **taloin** “by means of houses”
+   - Abessive: **talotta** “without a house”
+   - Comitative: **taloine(en)** “with a house”
 
 2. Evenki (13 cases):
-   - Nominative: **дю** [dju] "house"
+   - Nominative: **дю** [dju] “house”
    - Accusative: **дю-вэ** [dju-we]
    - Dative: **дю-ду** [dju-du]
    - Allative: **дю-тки** [dju-tki]
@@ -159,13 +159,13 @@ Examples:
    - Instrumental: **дю-т** [dju-t]
 
 3. Korean (7 cases, some with multiple forms):
-   - Nominative: **집이** [t͡ɕip.i] "house (subject)"
-   - Accusative: **집을** [t͡ɕi.bɯl] "house (object)"
-   - Genitive: **집의** [t͡ɕi.bɯi] "of the house"
-   - Dative: **집에게** [t͡ɕi.be.ɡe] "to the house"
-   - Locative: **집에** [t͡ɕi.be] "in/at the house"
-   - Instrumental: **집으로** [t͡ɕi.bɯ.ɾo] "with/by the house"
-   - Comitative: **집과** [t͡ɕip.k͈wa] "with the house"
+   - Nominative: **집이** [t͡ɕip.i] “house (subject)”
+   - Accusative: **집을** [t͡ɕi.bɯl] “house (object)”
+   - Genitive: **집의** [t͡ɕi.bɯi] “of the house”
+   - Dative: **집에게** [t͡ɕi.be.ɡe] “to the house”
+   - Locative: **집에** [t͡ɕi.be] “in/at the house”
+   - Instrumental: **집으로** [t͡ɕi.bɯ.ɾo] “with/by the house”
+   - Comitative: **집과** [t͡ɕip.k͈wa] “with the house”
 
 ### Extensive Use of Converbs
 
@@ -174,19 +174,19 @@ Converbs, non-finite verb forms used for subordination, are widely used in the l
 Examples:
 
 1. Mongolian:
-   - **яв-ж** [jaw-d͡ʒ] "going" (simultaneous converb)
-   - **яв-аад** [ja.waːd] "having gone" (perfective converb)
-   - **яв-тал** [jaw.taɮ] "while going" (terminative converb)
+   - **яв-ж** [jaw-d͡ʒ] “going” (simultaneous converb)
+   - **яв-аад** [ja.waːd] “having gone” (perfective converb)
+   - **яв-тал** [jaw.taɮ] “while going” (terminative converb)
 
 2. Buryat:
-   - **яба-жа** [jaba-ʒa] "going" (imperfective converb)
-   - **яба-ад** [jaba-aːd] "having gone" (perfective converb)
-   - **яба-тар** [jaba-tar] "until going" (terminative converb)
+   - **яба-жа** [jaba-ʒa] “going” (imperfective converb)
+   - **яба-ад** [jaba-aːd] “having gone” (perfective converb)
+   - **яба-тар** [jaba-tar] “until going” (terminative converb)
 
 3. Korean:
-   - **가-고** [ka-ɡo] "going and..." (coordinative converb)
-   - **가-면서** [ka-mjənsə] "while going" (simultaneous converb)
-   - **가-다가** [ka-daɡa] "in the process of going" (interruption converb)
+   - **가-고** [ka-ɡo] “going and...” (coordinative converb)
+   - **가-면서** [ka-mjənsə] “while going” (simultaneous converb)
+   - **가-다가** [ka-daɡa] “in the process of going” (interruption converb)
 
 ## Syntactic Features
 
@@ -200,19 +200,19 @@ Examples:
    **私が本を読む。**
    [watashi ga hon o yomu]
    I-NOM book-ACC read
-   "I read a book."
+   “I read a book.”
 
 2. Korean:
    **내가 책을 읽는다.**
    [nɛɡa t͡ɕʰɛɡɯl ilk̚nɯnda]
    I-NOM book-ACC read-DECL
-   "I read a book."
+   “I read a book.”
 
 3. Mongolian:
    **Би ном уншдаг.**
    [bi nom unʃdəɡ]
    I book read-HAB
-   "I read books."
+   “I read books.”
 
 ### Postpositions
 
@@ -224,19 +224,19 @@ Examples:
    **テーブルの上に**
    [teːburu no ue ni]
    table GEN top LOC
-   "on top of the table"
+   “on top of the table”
 
 2. Korean:
    **책상 위에**
    [t͡ɕʰɛk̚saŋ wie]
    desk top-LOC
-   "on the desk"
+   “on the desk”
 
 3. Mongolian:
    **ширээний дээр**
    [ʃireːniː deːr]
    table-GEN top-LOC
-   "on the table"
+   “on the table”
 
 ### Relative Clauses
 
@@ -248,19 +248,19 @@ Examples:
    **私が読んだ本**
    [watashi ga yonda hon]
    I-NOM read-PST book
-   "the book that I read"
+   “the book that I read”
 
 2. Korean:
    **내가 읽은 책**
    [nɛɡa ilk̚ɯn t͡ɕʰɛk̚]
    I-NOM read-PST.PTCP book
-   "the book that I read"
+   “the book that I read”
 
 3. Mongolian:
    **миний уншсан ном**
    [miniː unʃsən nom]
    I.GEN read-PST.PTCP book
-   "the book that I read"
+   “the book that I read”
 
 ### Topic-Comment Structure
 
@@ -272,19 +272,19 @@ Examples:
    **象は鼻が長い。**
    [zō wa hana ga nagai]
    elephant-TOP nose-NOM long-NPST
-   "As for elephants, (their) noses are long."
+   “As for elephants, (their) noses are long.”
 
 2. Korean:
    **코끼리는 코가 길다.**
    [k͈ok͈iɾinɯn k͈oɡa kilda]
    elephant-TOP nose-NOM long-DECL
-   "As for elephants, (their) noses are long."
+   “As for elephants, (their) noses are long.”
 
 3. Mongolian:
    **Заан бол хамар нь урт.**
    [zaːn bɔɮ xamar nʲ urt]
    elephant TOP nose 3.POSS long
-   "As for elephants, (their) noses are long."
+   “As for elephants, (their) noses are long.”
 
 ## Lexical Features
 
@@ -295,19 +295,19 @@ Many languages in the area have a rich system of onomatopoeia and mimetic words 
 Examples:
 
 1. Japanese:
-   - **きらきら** [kirakira] "glittering"
-   - **どきどき** [dokidoki] "heart pounding"
-   - **ふわふわ** [fuwafuwa] "fluffy"
+   - **きらきら** [kirakira] “glittering”
+   - **どきどき** [dokidoki] “heart pounding”
+   - **ふわふわ** [fuwafuwa] “fluffy”
 
 2. Korean:
-   - **반짝반짝** [pant͡ɕ͈ak̚pant͡ɕ͈ak̚] "glittering"
-   - **두근두근** [tuɡɯntuɡɯn] "heart pounding"
-   - **보들보들** [podɯlbodɯl] "soft, fluffy"
+   - **반짝반짝** [pant͡ɕ͈ak̚pant͡ɕ͈ak̚] “glittering”
+   - **두근두근** [tuɡɯntuɡɯn] “heart pounding”
+   - **보들보들** [podɯlbodɯl] “soft, fluffy”
 
 3. Mongolian:
-   - **гялтганах** [ɡjaɮtɢənəx] "to glitter"
-   - **түг түг** [tyɡ tyɡ] "thump thump (heartbeat)"
-   - **зөөлөн** [zøːɮөn] "soft" (not strictly mimetic, but used similarly)
+   - **гялтганах** [ɡjaɮtɢənəx] “to glitter”
+   - **түг түг** [tyɡ tyɡ] “thump thump (heartbeat)”
+   - **зөөлөн** [zøːɮөn] “soft” (not strictly mimetic, but used similarly)
 
 ### Honorifics and Politeness Levels
 
@@ -316,20 +316,20 @@ Many languages in the area have elaborate systems of honorifics and politeness l
 Examples:
 
 1. Japanese:
-   - Plain: **食べる** [taberu] "to eat"
-   - Polite: **食べます** [tabemasu] "to eat"
-   - Humble: **いただく** [itadaku] "to eat" (when referring to oneself)
-   - Honorific: **召し上がる** [meshiagaru] "to eat" (when referring to someone of higher status)
+   - Plain: **食べる** [taberu] “to eat”
+   - Polite: **食べます** [tabemasu] “to eat”
+   - Humble: **いただく** [itadaku] “to eat” (when referring to oneself)
+   - Honorific: **召し上がる** [meshiagaru] “to eat” (when referring to someone of higher status)
 
 2. Korean:
-   - Plain: **먹다** [məkta] "to eat"
-   - Polite: **먹습니다** [mək̚sɯmnida] "to eat"
-   - Humble: **먹겠습니다** [mək̚k͈es̚sɯmnida] "I will eat" (when referring to oneself)
-   - Honorific: **드시다** [tɯsʰida] "to eat" (when referring to someone of higher status)
+   - Plain: **먹다** [məkta] “to eat”
+   - Polite: **먹습니다** [mək̚sɯmnida] “to eat”
+   - Humble: **먹겠습니다** [mək̚k͈es̚sɯmnida] “I will eat” (when referring to oneself)
+   - Honorific: **드시다** [tɯsʰida] “to eat” (when referring to someone of higher status)
 
 3. Mongolian (less elaborate system):
-   - Neutral: **идэх** [idex] "to eat"
-   - Polite: **зооглох** [zoːɢɮox] "to eat" (more formal)
+   - Neutral: **идэх** [idex] “to eat”
+   - Polite: **зооглох** [zoːɢɮox] “to eat” (more formal)
 
 ### Compound Verbs
 
@@ -338,19 +338,19 @@ Many languages in the area make extensive use of compound verbs, often combining
 Examples:
 
 1. Japanese:
-   - **食べ始める** [tabehadʒimeru] "to start eating" (eat + begin)
-   - **走り出す** [haʃiridasu] "to start running" (run + set out)
-   - **読み終わる** [yomiowaru] "to finish reading" (read + end)
+   - **食べ始める** [tabehadʒimeru] “to start eating” (eat + begin)
+   - **走り出す** [haʃiridasu] “to start running” (run + set out)
+   - **読み終わる** [yomiowaru] “to finish reading” (read + end)
 
 2. Korean:
-   - **먹기 시작하다** [məkk͈i ɕid͡ʒak̚hada] "to start eating" (eat + begin)
-   - **달리기 시작하다** [talligi ɕid͡ʒak̚hada] "to start running" (run + begin)
-   - **읽기 끝내다** [ilk̚k͈i k͈ɯtʰɛda] "to finish reading" (read + end)
+   - **먹기 시작하다** [məkk͈i ɕid͡ʒak̚hada] “to start eating” (eat + begin)
+   - **달리기 시작하다** [talligi ɕid͡ʒak̚hada] “to start running” (run + begin)
+   - **읽기 끝내다** [ilk̚k͈i k͈ɯtʰɛda] “to finish reading” (read + end)
 
 3. Mongolian:
-   - **идэж эхлэх** [idəd͡ʒ exɮəx] "to start eating" (eat + begin)
-   - **гүйж эхлэх** [ɡuid͡ʒ exɮəx] "to start running" (run + begin)
-   - **уншиж дуусах** [unʃid͡ʒ duːsəx] "to finish reading" (read + finish)
+   - **идэж эхлэх** [idəd͡ʒ exɮəx] “to start eating” (eat + begin)
+   - **гүйж эхлэх** [ɡuid͡ʒ exɮəx] “to start running” (run + begin)
+   - **уншиж дуусах** [unʃid͡ʒ duːsəx] “to finish reading” (read + finish)
 
 ## Influence of Chinese
 
@@ -363,16 +363,16 @@ Many languages in the area have a significant stratum of vocabulary borrowed fro
 Examples:
 
 1. Japanese:
-   - Native: **水** [mizu] "water"
-   - Sino-Japanese: **水分** [suibun] "moisture" (水 "water" + 分 "part")
+   - Native: **水** [mizu] “water”
+   - Sino-Japanese: **水分** [suibun] “moisture” (水 “water” + 分 “part”)
 
 2. Korean:
-   - Native: **물** [mul] "water"
-   - Sino-Korean: **수분** [subun] "moisture" (水 "water" + 分 "part")
+   - Native: **물** [mul] “water”
+   - Sino-Korean: **수분** [subun] “moisture” (水 “water” + 分 “part”)
 
 3. Vietnamese (for comparison, though not strictly part of the Northeast Asian Linguistic Area):
-   - Native: **nước** "water"
-   - Sino-Vietnamese: **thủy** "water" (as in compounds)
+   - Native: **nước** “water”
+   - Sino-Vietnamese: **thủy** “water” (as in compounds)
 
 ### Numeral Systems
 
@@ -381,16 +381,16 @@ Many languages in the area have adopted or been influenced by the Chinese numera
 Examples:
 
 1. Japanese:
-   - Native: **ひとつ、ふたつ、みっつ** [hitotsu, futatsu, mittsu] "one, two, three"
-   - Sino-Japanese: **一、二、三** [ichi, ni, san] "one, two, three"
+   - Native: **ひとつ、ふたつ、みっつ** [hitotsu, futatsu, mittsu] “one, two, three”
+   - Sino-Japanese: **一、二、三** [ichi, ni, san] “one, two, three”
 
 2. Korean:
-   - Native: **하나、둘、셋** [hana, dul, set̚] "one, two, three"
-   - Sino-Korean: **일、이、삼** [il, i, sam] "one, two, three"
+   - Native: **하나、둘、셋** [hana, dul, set̚] “one, two, three”
+   - Sino-Korean: **일、이、삼** [il, i, sam] “one, two, three”
 
 3. Vietnamese (for comparison):
-   - Native: **một, hai, ba** "one, two, three"
-   - Sino-Vietnamese: **nhất, nhị, tam** "one, two, three" (in certain contexts)
+   - Native: **một, hai, ba** “one, two, three”
+   - Sino-Vietnamese: **nhất, nhị, tam** “one, two, three” (in certain contexts)
 
 ### Four-Character Idioms
 
@@ -399,16 +399,16 @@ Many languages in the area have adopted the Chinese tradition of four-character 
 Examples:
 
 1. Japanese:
-   **一石二鳥** [isseki nichō] "killing two birds with one stone"
-   (lit. "one stone, two birds")
+   **一石二鳥** [isseki nichō] “killing two birds with one stone”
+   (lit. “one stone, two birds”)
 
 2. Korean:
-   **일석이조** [ilsʰək̚it͡ɕo] "killing two birds with one stone"
-   (lit. "one stone, two birds")
+   **일석이조** [ilsʰək̚it͡ɕo] “killing two birds with one stone”
+   (lit. “one stone, two birds”)
 
 3. Vietnamese (for comparison):
-   **nhất cử lưỡng tiện** "killing two birds with one stone"
-   (lit. "one action, two conveniences")
+   **nhất cử lưỡng tiện** “killing two birds with one stone”
+   (lit. “one action, two conveniences”)
 
 ### Structural Borrowing
 
@@ -417,12 +417,12 @@ In some cases, Chinese has influenced the structure of languages in the area, pa
 Examples:
 
 1. Japanese compound formation:
-   **図書館** [toshokan] "library"
-   (図 "diagram" + 書 "book" + 館 "building")
+   **図書館** [toshokan] “library”
+   (図 “diagram” + 書 “book” + 館 “building”)
 
 2. Korean compound formation:
-   **도서관** [tosʰəɡwan] "library"
-   (圖 "diagram" + 書 "book" + 館 "building")
+   **도서관** [tosʰəɡwan] “library”
+   (圖 “diagram” + 書 “book” + 館 “building”)
 
 3. Manchu (historically):
    The syntax of Written Manchu was heavily influenced by Classical Chinese, leading to structures that were not typical of spoken Manchu or other Tungusic languages.
@@ -436,14 +436,14 @@ Several languages in the area have developed pitch accent systems, which are dis
 Examples:
 
 1. Japanese:
-   **箸** [haʃi˥] "chopsticks" vs. **橋** [haʃi˥˩] "bridge"
+   **箸** [haʃi˥] “chopsticks” vs. **橋** [haʃi˥˩] “bridge”
 
 2. Korean (Seoul dialect):
    While standard Korean is often described as having lost its historical pitch accent, some dialects, like Gyeongsang, retain a pitch accent system:
-   **말** [mal˥] "horse" vs. **말** [mal˩] "speech"
+   **말** [mal˥] “horse” vs. **말** [mal˩] “speech”
 
 3. Ainu:
-   **cise** [t͡ɕise˥] "house" vs. **sine** [sine˩] "one"
+   **cise** [t͡ɕise˥] “house” vs. **sine** [sine˩] “one”
 
 ### Vowel Length Distinction
 
@@ -452,13 +452,13 @@ Many languages in the area distinguish between short and long vowels.
 Examples:
 
 1. Japanese:
-   **おばさん** [obasan] "aunt" vs. **おばあさん** [obaːsan] "grandmother"
+   **おばさん** [obasan] “aunt” vs. **おばあさん** [obaːsan] “grandmother”
 
 2. Korean:
-   **눈** [nun] "eye" vs. **눈** [nuːn] "snow"
+   **눈** [nun] “eye” vs. **눈** [nuːn] “snow”
 
 3. Mongolian:
-   **ор** [or] "enter" vs. **оор** [oːr] "different"
+   **ор** [or] “enter” vs. **оор** [oːr] “different”
 
 ### Lack of Consonant Clusters
 
@@ -467,13 +467,13 @@ As mentioned earlier, many languages in the area have restrictions on consonant 
 Examples:
 
 1. Japanese:
-   Loanwords with initial clusters are adapted: "cream" → **クリーム** [kuriːmu]
+   Loanwords with initial clusters are adapted: “cream” → **クリーム** [kuriːmu]
 
 2. Korean:
-   Loanwords with initial clusters are adapted: "spring" → **스프링** [sɯpʰɯɾiŋ]
+   Loanwords with initial clusters are adapted: “spring” → **스프링** [sɯpʰɯɾiŋ]
 
 3. Mongolian:
-   Native words rarely have initial clusters: **хэл** [xeɮ] "language"
+   Native words rarely have initial clusters: **хэл** [xeɮ] “language”
 
 ## Areal Features in Morphosyntax
 
@@ -486,17 +486,17 @@ Examples:
 1. Japanese:
    **雨が降るよ。** [ame ɡa furu jo]
    rain-NOM fall-NPST SFP
-   "It's going to rain." (informing)
+   “It's going to rain.” (informing)
 
 2. Korean:
    **비가 올 거야.** [piɡa ol kəja]
    rain-NOM come-FUT SFP
-   "It's going to rain." (casual assertion)
+   “It's going to rain.” (casual assertion)
 
 3. Mongolian:
    **Бороо орох байх даа.** [borɔː orox baix daː]
    rain fall-INF be-INF SFP
-   "It's probably going to rain." (speaker's assumption)
+   “It's probably going to rain.” (speaker's assumption)
 
 ### Extensive Use of Aspect
 
@@ -505,19 +505,19 @@ Many languages in the area have developed complex aspectual systems, often gramm
 Examples:
 
 1. Japanese:
-   - Resultative: **食べてある** [tabete aru] "have eaten" (resulting state)
-   - Progressive: **食べている** [tabete iru] "is eating"
-   - Perfective: **食べてしまう** [tabete ʃimau] "eat up completely"
+   - Resultative: **食べてある** [tabete aru] “have eaten” (resulting state)
+   - Progressive: **食べている** [tabete iru] “is eating”
+   - Perfective: **食べてしまう** [tabete ʃimau] “eat up completely”
 
 2. Korean:
-   - Resultative: **먹어 있다** [məɡə itta] "have eaten" (resulting state)
-   - Progressive: **먹고 있다** [məkko itta] "is eating"
-   - Perfective: **먹어 버리다** [məɡə bərida] "eat up completely"
+   - Resultative: **먹어 있다** [məɡə itta] “have eaten” (resulting state)
+   - Progressive: **먹고 있다** [məkko itta] “is eating”
+   - Perfective: **먹어 버리다** [məɡə bərida] “eat up completely”
 
 3. Mongolian:
-   - Resultative: **идчихсэн байна** [idtʃixsen baina] "have eaten" (resulting state)
-   - Progressive: **идэж байна** [idəd͡ʒ baina] "is eating"
-   - Perfective: **идчихэх** [idtʃixex] "eat up completely"
+   - Resultative: **идчихсэн байна** [idtʃixsen baina] “have eaten” (resulting state)
+   - Progressive: **идэж байна** [idəd͡ʒ baina] “is eating”
+   - Perfective: **идчихэх** [idtʃixex] “eat up completely”
 
 ### Evidentiality
 
@@ -527,21 +527,21 @@ Examples:
 
 1. Mongolian:
    - Direct evidence: **Бороо орж байна.** [borɔː ord͡ʒ baina]
-     "It's raining." (speaker sees it)
+     “It's raining.” (speaker sees it)
    - Indirect evidence: **Бороо орж байна гэнэ.** [borɔː ord͡ʒ baina ɡene]
-     "It's raining, they say." (speaker heard from someone else)
+     “It's raining, they say.” (speaker heard from someone else)
 
 2. Korean (to some extent):
    - Direct evidence: **비가 오네요.** [piɡa onejo]
-     "It's raining." (speaker notices it)
+     “It's raining.” (speaker notices it)
    - Reportative: **비가 온대요.** [piɡa ondɛjo]
-     "They say it's raining." (speaker heard from someone else)
+     “They say it's raining.” (speaker heard from someone else)
 
 3. Japanese (not a full evidential system, but has some evidential-like expressions):
    - **雨が降っているようだ。** [ame ɡa futte iru joːda]
-     "It seems to be raining." (based on indirect evidence)
+     “It seems to be raining.” (based on indirect evidence)
    - **雨が降っているらしい。** [ame ɡa futte iru raʃiː]
-     "I hear it's raining." (based on hearsay)
+     “I hear it's raining.” (based on hearsay)
 
 ## Conclusion
 

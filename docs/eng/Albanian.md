@@ -245,7 +245,7 @@ Questions can be formed by changing the intonation of a statement or by using in
 
 Negation is formed by placing **nuk** (or **s'** in colloquial speech) before the verb:
 
-**Nuk punoj sot.** ('I don't work today.')
+**Nuk punoj sot.** ('I don’t work today.')
 
 ### Compound sentences
 
@@ -299,19 +299,19 @@ Albanian uses both definite and indefinite articles, but unlike many European la
 Albanian vocabulary is primarily of native Indo-European stock, but it has also borrowed from other languages throughout its history. Some common sources of loanwords include:
 
 1. Latin: Often in administrative, religious, or scientific terms
-   Example: **shkollë** ('school') from Latin "schola"
+   Example: **shkollë** ('school') from Latin “schola”
 
 2. Greek: Especially in religious and philosophical terms
-   Example: **kishë** ('church') from Greek "ekklesia"
+   Example: **kishë** ('church') from Greek “ekklesia”
 
 3. Turkish: Due to centuries of Ottoman rule
-   Example: **çaj** ('tea') from Turkish "çay"
+   Example: **çaj** ('tea') from Turkish “çay”
 
 4. Italian: Particularly in areas of culture and modern life
-   Example: **apartament** ('apartment') from Italian "appartamento"
+   Example: **apartament** ('apartment') from Italian “appartamento”
 
 5. Slavic languages: Due to geographic proximity
-   Example: **porosit** ('to order') from Slavic "poračati"
+   Example: **porosit** ('to order') from Slavic “poračati”
 
 6. English: Especially in technology and contemporary culture
    Example: **kompjuter** ('computer')
@@ -364,7 +364,7 @@ Spoken in southern Albania and the basis for standard Albanian. Some features of
 Colloquial Albanian, especially in urban areas, can differ significantly from the standard language. Some features of colloquial speech include:
 
 1. Contraction of common phrases:
-   **s'kam** instead of **nuk kam** ('I don't have')
+   **s'kam** instead of **nuk kam** ('I don’t have')
 
 2. Use of loanwords, especially from English in youth speech:
    **OK** instead of **mirë** ('okay')

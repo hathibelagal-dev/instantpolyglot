@@ -160,7 +160,7 @@ Adjectives in Hindi often agree with the noun they modify in gender and number.
 - Feminine singular: **अच्छी लड़की** (good girl)
 - Feminine plural: **अच्छी लड़कियाँ** (good girls)
 
-Some adjectives are invariable: **लाल** (red) doesn't change form.
+Some adjectives are invariable: **लाल** (red) doesn’t change form.
 
 ### Verbs
 
@@ -305,7 +305,7 @@ Hindi vocabulary has been influenced by various languages throughout its history
    Example: **कंप्यूटर** /kəmpjuːʈər/ (computer)
 
 5. Portuguese: Some words entered Hindi during the Portuguese colonial period.
-   Example: **अलमारी** /əlmaːriː/ (cupboard, from Portuguese "armário")
+   Example: **अलमारी** /əlmaːriː/ (cupboard, from Portuguese “armário”)
 
 ### Common Phrases
 

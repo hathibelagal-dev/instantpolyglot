@@ -39,12 +39,12 @@ The ancient Tifinagh script is believed to have descended from the Phoenician al
 ⴰ (a), ⴱ (b), ⴳ (g), ⴷ (d), ⴹ (ḍ), ⴻ (e), ⴼ (f), ⴽ (k), ⵀ (h), ⵃ (ḥ), ⵄ (ε), ⵅ (x), ⵇ (q), ⵉ (i), ⵊ (j), ⵍ (l), ⵎ (m), ⵏ (n), ⵓ (u), ⵔ (r), ⵕ (ṛ), ⵖ (γ), ⵙ (s), ⵚ (ṣ), ⵛ (c), ⵜ (t), ⵟ (ṭ), ⵡ (w), ⵢ (y), ⵣ (z), ⵥ (ẓ)
 
 Examples in Neo-Tifinagh:
-**ⴰⵙⵍⵎⴷ** (aselmad) - "teacher"
-**ⵜⴰⵎⴰⵣⵉⵖⵜ** (tamaziɣt) - "Tamazight language"
-**ⴰⵙⵙ** (ass) - "day"
-**ⵜⴰⴼⵓⴽⵜ** (tafukt) - "sun"
-**ⵉⵖⴼ** (iɣf) - "head"
-**ⵜⴰⵎⵟⵟⵓⵜ** (tamṭṭut) - "woman"
+**ⴰⵙⵍⵎⴷ** (aselmad) - “teacher”
+**ⵜⴰⵎⴰⵣⵉⵖⵜ** (tamaziɣt) - “Tamazight language”
+**ⴰⵙⵙ** (ass) - “day”
+**ⵜⴰⴼⵓⴽⵜ** (tafukt) - “sun”
+**ⵉⵖⴼ** (iɣf) - “head”
+**ⵜⴰⵎⵟⵟⵓⵜ** (tamṭṭut) - “woman”
 
 ### Latin-based Script
 
@@ -53,16 +53,16 @@ The Latin-based script is widely used, especially in Algeria and for Kabyle. Her
 a, b, c, d, ḍ, e, f, g, ǧ, h, ḥ, i, j, k, l, m, n, q, r, ṛ, s, ṣ, t, ṭ, u, w, x, y, z, ẓ, ɛ, ɣ
 
 Examples in Latin script:
-**azwu** (ⴰⵣⵡⵓ) - "wind"
-**tafukt** (ⵜⴰⴼⵓⴽⵜ) - "sun"
-**iḍ** (ⵉⴹ) - "night"
+**azwu** (ⴰⵣⵡⵓ) - “wind”
+**tafukt** (ⵜⴰⴼⵓⴽⵜ) - “sun”
+**iḍ** (ⵉⴹ) - “night”
 
 ### Arabic-based Script
 
 In some regions, particularly in older texts, Tamazight has been written using the Arabic script. This system is called Ajami. While less common today, it's still used in some traditional and religious contexts.
 
 Example in Arabic script:
-**اَمَان** (aman, ⴰⵎⴰⵏ) - "water"
+**اَمَان** (aman, ⴰⵎⴰⵏ) - “water”
 
 ## Phonology
 
@@ -79,9 +79,9 @@ Tamazight languages typically have a rich consonant inventory, including:
 5. Fricatives: f (ⴼ), s (ⵙ), z (ⵣ), ʃ (ⵛ), ʒ (ⵊ), x (ⵅ), ɣ (ⵖ)
 
 Examples:
-**ⴹⴰⵔ** (ḍar) [ḍar] - "foot"
-**ⴰⵖⵔⵓⵎ** (aɣrum) [aʁrum] - "bread"
-**ⵜⴰⵅⵙⴰⵢⵜ** (taxsayt) [taxsajt] - "pumpkin"
+**ⴹⴰⵔ** (ḍar) [ḍar] - “foot”
+**ⴰⵖⵔⵓⵎ** (aɣrum) [aʁrum] - “bread”
+**ⵜⴰⵅⵙⴰⵢⵜ** (taxsayt) [taxsajt] - “pumpkin”
 
 ### Vowels
 
@@ -96,34 +96,34 @@ Some varieties, like Kabyle, also include:
 - e (ⴻ) [ə]
 
 Examples:
-**ⴰⵎⴰⵏ** (aman) [aman] - "water"
-**ⵉⵎⵉ** (imi) [imi] - "mouth"
-**ⵓⵍ** (ul) [ul] - "heart"
+**ⴰⵎⴰⵏ** (aman) [aman] - “water”
+**ⵉⵎⵉ** (imi) [imi] - “mouth”
+**ⵓⵍ** (ul) [ul] - “heart”
 
 In Kabyle:
-**ⴰⵎⴻⵇⵇⵔⴰⵏ** (ameqqran) [aməqqran] - "big"
+**ⴰⵎⴻⵇⵇⵔⴰⵏ** (ameqqran) [aməqqran] - “big”
 
 ### Phonological Processes
 
 1. Assimilation: Consonants often assimilate in voicing or place of articulation.
 
 Example (Kabyle):
-**ⴰⴷ ⵢⴻⵛⵛ** (ad yečč) → [aʝəʧ] - "he will eat"
+**ⴰⴷ ⵢⴻⵛⵛ** (ad yečč) → [aʝəʧ] - “he will eat”
 
 2. Vowel syncope: Short vowels may be deleted in certain environments.
 
 Example (Tashelhiyt):
-**ⵉⴼⵓⵍⴽⵉ** (ifulki) → [fulki] - "it is good"
+**ⵉⴼⵓⵍⴽⵉ** (ifulki) → [fulki] - “it is good”
 
 3. Consonant clusters: Tamazight allows complex consonant clusters, especially in Tashelhiyt.
 
 Example (Tashelhiyt):
-**ⵜⵙⵙⴽⵛⴼⵜⵙⵜⵜ** (tsskʃftstt) - "you dried it" (feminine singular)
+**ⵜⵙⵙⴽⵛⴼⵜⵙⵜⵜ** (tsskʃftstt) - “you dried it” (feminine singular)
 
 4. Labialization: Some consonants can be labialized, especially before rounded vowels.
 
 Example (Central Atlas Tamazight):
-**ⴰⴽⵯⴼⴰⵢ** (akʷfay) - "milk"
+**ⴰⴽⵯⴼⴰⵢ** (akʷfay) - “milk”
 
 ## Morphology
 
@@ -138,10 +138,10 @@ Nouns in Tamazight have two genders (masculine and feminine) and two numbers (si
    - Feminine nouns often begin with t- (ⵜ-) and end with -t (-ⵜ)
 
 Examples (Central Atlas Tamazight):
-**ⴰⵔⴳⴰⵣ** (argaz) - "man" (masculine)
-**ⵜⴰⵎⵖⴰⵔⵜ** (tamɣart) - "woman" (feminine)
-**ⴰⴼⵓⵙ** (afus) - "hand" (masculine)
-**ⵜⴰⴼⵓⵏⴰⵙⵜ** (tafunast) - "cow" (feminine)
+**ⴰⵔⴳⴰⵣ** (argaz) - “man” (masculine)
+**ⵜⴰⵎⵖⴰⵔⵜ** (tamɣart) - “woman” (feminine)
+**ⴰⴼⵓⵙ** (afus) - “hand” (masculine)
+**ⵜⴰⴼⵓⵏⴰⵙⵜ** (tafunast) - “cow” (feminine)
 
 2. Number:
    - Plural formation varies, but common patterns include:
@@ -150,14 +150,14 @@ Examples (Central Atlas Tamazight):
      - Suffix addition
 
 Examples (Kabyle):
-**ⴰⵅⵅⴰⵎ** (axxam) - "house" (singular)
-**ⵉⵅⵅⴰⵎⴻⵏ** (ixxamen) - "houses" (plural)
+**ⴰⵅⵅⴰⵎ** (axxam) - “house” (singular)
+**ⵉⵅⵅⴰⵎⴻⵏ** (ixxamen) - “houses” (plural)
 
-**ⵜⴰⴷⴷⴰⵔⵜ** (taddart) - "village" (singular)
-**ⵜⵓⴷⴷⴰⵔ** (tuddar) - "villages" (plural)
+**ⵜⴰⴷⴷⴰⵔⵜ** (taddart) - “village” (singular)
+**ⵜⵓⴷⴷⴰⵔ** (tuddar) - “villages” (plural)
 
-**ⴰⵎⵖⴰⵔ** (amɣar) - "old man" (singular)
-**ⵉⵎⵖⴰⵔⴻⵏ** (imɣaren) - "old men" (plural)
+**ⴰⵎⵖⴰⵔ** (amɣar) - “old man” (singular)
+**ⵉⵎⵖⴰⵔⴻⵏ** (imɣaren) - “old men” (plural)
 
 3. State:
    Nouns can appear in two states:
@@ -165,11 +165,11 @@ Examples (Kabyle):
    - Construct state (or annexed state)
 
 Examples (Tashelhiyt):
-Free state: **ⴰⴼⵓⵙ** (afus) - "hand"
-Construct state: **ⵓⴼⵓⵙ** (ufus) - "hand" (as subject or after preposition)
+Free state: **ⴰⴼⵓⵙ** (afus) - “hand”
+Construct state: **ⵓⴼⵓⵙ** (ufus) - “hand” (as subject or after preposition)
 
-Free state: **ⴰⵔⴳⴰⵣ** (argaz) - "man"
-Construct state: **ⵓⵔⴳⴰⵣ** (urgaz) - "man" (as subject or after preposition)
+Free state: **ⴰⵔⴳⴰⵣ** (argaz) - “man”
+Construct state: **ⵓⵔⴳⴰⵣ** (urgaz) - “man” (as subject or after preposition)
 
 ### Verbs
 
@@ -179,66 +179,66 @@ Tamazight verbs have a complex morphology, including:
    Verbs are based on consonantal roots, with vowels and affixes adding grammatical information.
 
 Example (Kabyle):
-Root: F-L (related to "leave")
-**ⴼⴼⴻⵖ** (ffeɣ) - "to go out"
-**ⵙⵙⵓⴼⴼⴻⵖ** (ssuffeɣ) - "to take out"
-**ⵎⵢⵓⴼⴰⵖ** (myufaɣ) - "to go out together"
+Root: F-L (related to “leave”)
+**ⴼⴼⴻⵖ** (ffeɣ) - “to go out”
+**ⵙⵙⵓⴼⴼⴻⵖ** (ssuffeɣ) - “to take out”
+**ⵎⵢⵓⴼⴰⵖ** (myufaɣ) - “to go out together”
 
 2. Aspectual System:
    Verbs have different stems for perfective and imperfective aspects.
 
 Examples (Central Atlas Tamazight):
-Perfective: **ⴹⵚⴰ** (ḍṣa) - "he laughed"
-Imperfective: **ⴹⵙⵙⴰ** (ḍssa) - "he laughs/is laughing"
+Perfective: **ⴹⵚⴰ** (ḍṣa) - “he laughed”
+Imperfective: **ⴹⵙⵙⴰ** (ḍssa) - “he laughs/is laughing”
 
-Perfective: **ⵚⵚⵉⵡⴹ** (ṣṣiwḍ) - "he arrived"
-Imperfective: **ⵜⵜⴰⵡⴹ** (ttawḍ) - "he arrives/is arriving"
+Perfective: **ⵚⵚⵉⵡⴹ** (ṣṣiwḍ) - “he arrived”
+Imperfective: **ⵜⵜⴰⵡⴹ** (ttawḍ) - “he arrives/is arriving”
 
 3. Person, Number, and Gender Agreement:
    Verbs agree with their subjects in person, number, and sometimes gender.
 
 Example (Kabyle):
-**ⵛⵛⵉⵖ** (ččiɣ) - "I ate"
-**ⵜⴻⵛⵛⵉⴹ** (teččiḍ) - "you ate" (masculine/feminine singular)
-**ⵢⴻⵛⵛⴰ** (yečča) - "he ate"
-**ⵜⴻⵛⵛⴰ** (tečča) - "she ate"
-**ⵏⴻⵛⵛⴰ** (nečča) - "we ate"
-**ⵜⴻⵛⵛⴰⵎ** (teččam) - "you ate" (masculine plural)
-**ⵜⴻⵛⵛⴰⵎⵜ** (teččamt) - "you ate" (feminine plural)
-**ⵛⵛⴰⵏ** (ččan) - "they ate" (masculine)
-**ⵛⵛⴰⵏⵜ** (ččant) - "they ate" (feminine)
+**ⵛⵛⵉⵖ** (ččiɣ) - “I ate”
+**ⵜⴻⵛⵛⵉⴹ** (teččiḍ) - “you ate” (masculine/feminine singular)
+**ⵢⴻⵛⵛⴰ** (yečča) - “he ate”
+**ⵜⴻⵛⵛⴰ** (tečča) - “she ate”
+**ⵏⴻⵛⵛⴰ** (nečča) - “we ate”
+**ⵜⴻⵛⵛⴰⵎ** (teččam) - “you ate” (masculine plural)
+**ⵜⴻⵛⵛⴰⵎⵜ** (teččamt) - “you ate” (feminine plural)
+**ⵛⵛⴰⵏ** (ččan) - “they ate” (masculine)
+**ⵛⵛⴰⵏⵜ** (ččant) - “they ate” (feminine)
 
 4. Derivational Morphology:
    Tamazight has productive derivational processes to create new verb forms with altered meanings.
 
 Example (Tashelhiyt):
 Example (Tashelhiyt):
-**ⵎⵓⵏ** (mun) - "to accompany"
-**ⵙⵎⵓⵏ** (smun) - "to gather" (causative)
-**ⵜⵜⵎⵓⵏ** (ttmun) - "to be gathered" (passive)
-**ⵎⵢⴰⵎⵓⵏ** (myamun) - "to accompany each other" (reciprocal)
+**ⵎⵓⵏ** (mun) - “to accompany”
+**ⵙⵎⵓⵏ** (smun) - “to gather” (causative)
+**ⵜⵜⵎⵓⵏ** (ttmun) - “to be gathered” (passive)
+**ⵎⵢⴰⵎⵓⵏ** (myamun) - “to accompany each other” (reciprocal)
 
 5. Mood:
    Tamazight verbs can express different moods, including indicative, subjunctive, and imperative.
 
 Example (Central Atlas Tamazight):
-Indicative: **ⵥⵔⵉⵖ** (ẓriɣ) - "I see"
-Subjunctive: **ⴰⴷ ⵥⵔⵖ** (ad ẓrɣ) - "that I see"
-Imperative: **ⵥⵔ** (ẓr) - "see!" (singular)
+Indicative: **ⵥⵔⵉⵖ** (ẓriɣ) - “I see”
+Subjunctive: **ⴰⴷ ⵥⵔⵖ** (ad ẓrɣ) - “that I see”
+Imperative: **ⵥⵔ** (ẓr) - “see!” (singular)
 
 6. Negative Forms:
    Negation often involves changes to the verb form.
 
 Example (Kabyle):
-Affirmative: **ⵢⴻⵛⵛⴰ** (yečča) - "he ate"
-Negative: **ⵓⵔ ⵢⴻⵛⵛⵉ ⴰⵔⴰ** (ur yečči ara) - "he didn't eat"
+Affirmative: **ⵢⴻⵛⵛⴰ** (yečča) - “he ate”
+Negative: **ⵓⵔ ⵢⴻⵛⵛⵉ ⴰⵔⴰ** (ur yečči ara) - “he didn't eat”
 
 7. Participles:
    Tamazight has active and passive participles.
 
 Example (Tashelhiyt):
-Active participle: **ⵉⵜⵜⴰⵏ** (ittan) - "eating"
-Passive participle: **ⵉⵜⵜⵓⵏ** (ittun) - "eaten"
+Active participle: **ⵉⵜⵜⴰⵏ** (ittan) - “eating”
+Passive participle: **ⵉⵜⵜⵓⵏ** (ittun) - “eaten”
 
 ### Pronouns
 
@@ -258,18 +258,18 @@ Example (Central Atlas Tamazight):
    These are usually suffixed to nouns.
 
 Example (Kabyle):
-**ⴰⵅⵅⴰⵎⵉⵡ** (axxam-iw) - "my house"
-**ⴰⵅⵅⴰⵎⵉⴽ** (axxam-ik) - "your house" (masculine singular)
-**ⴰⵅⵅⴰⵎⵉⵙ** (axxam-is) - "his/her house"
-**ⴰⵅⵅⴰⵎⵏⵏⴻⵖ** (axxam-nneɣ) - "our house"
+**ⴰⵅⵅⴰⵎⵉⵡ** (axxam-iw) - “my house”
+**ⴰⵅⵅⴰⵎⵉⴽ** (axxam-ik) - “your house” (masculine singular)
+**ⴰⵅⵅⴰⵎⵉⵙ** (axxam-is) - “his/her house”
+**ⴰⵅⵅⴰⵎⵏⵏⴻⵖ** (axxam-nneɣ) - “our house”
 
 3. Demonstrative Pronouns:
 
 Example (Tashelhiyt):
-**ⵖⵡⴰⴷ** (ɣwad) - "this" (masculine)
-**ⵖⵡⵉⴷ** (ɣwid) - "these" (masculine)
-**ⵅⵜⴰⵏ** (xtan) - "that" (feminine)
-**ⵅⵜⵉⵏⵖ** (xtinɣ) - "those" (feminine)
+**ⵖⵡⴰⴷ** (ɣwad) - “this” (masculine)
+**ⵖⵡⵉⴷ** (ɣwid) - “these” (masculine)
+**ⵅⵜⴰⵏ** (xtan) - “that” (feminine)
+**ⵅⵜⵉⵏⵖ** (xtinɣ) - “those” (feminine)
 
 ## Syntax
 
@@ -281,7 +281,7 @@ Example (Kabyle):
 **ⵢⴻⵛⵛⴰ ⵡⴻⵔⴳⴰⵣ ⴰⵖⵔⵓⵎ**
 (yečča wergaz aɣrum)
 ate man bread
-"The man ate bread"
+“The man ate bread”
 
 2. Question Formation:
    Questions are often formed by intonation or by using question particles.
@@ -290,7 +290,7 @@ Example (Central Atlas Tamazight):
 **ⵉⵙ ⵜⵔⵉⵜ ⴰⵜⴰⵢ?**
 (is trit atay?)
 Q want-you tea
-"Do you want tea?"
+“Do you want tea?”
 
 3. Negation:
    Negation typically involves a discontinuous morpheme.
@@ -299,7 +299,7 @@ Example (Tashelhiyt):
 **ⵓⵔ ⵉⴼⴼⵓⵖ (ⵛⴰ)**
 (ur iffuɣ (ša))
 NEG go.out.PFV.3SG.M (NEG)
-"He didn't go out"
+“He didn't go out”
 
 4. Relative Clauses:
    Relative clauses are often introduced by a relative pronoun.
@@ -308,7 +308,7 @@ Example (Kabyle):
 **ⴰⵔⴳⴰⵣ ⵉ ⵡⴰⵍⴰⵖ ⵉⴹⴻⵍⵍⵉ**
 (argaz i walaɣ iḍelli)
 man REL see.PFV.1SG yesterday
-"The man whom I saw yesterday"
+“The man whom I saw yesterday”
 
 5. Construct State:
    When a noun is the subject of a verb or follows certain prepositions, it appears in the construct state.
@@ -316,11 +316,11 @@ man REL see.PFV.1SG yesterday
 Example (Central Atlas Tamazight):
 **ⵢⵓⵙⴰ ⵡⵔⴳⴰⵣ** (yusa wrgaz) (construct state)
 came man
-"The man came"
+“The man came”
 
 Compare with:
 **ⴰⵔⴳⴰⵣ** (argaz) (free state)
-"a man"
+“a man”
 
 ## Lexicon
 
@@ -328,32 +328,32 @@ The Tamazight lexicon includes a core of native Afroasiatic vocabulary, as well 
 
 1. Native Vocabulary:
 
-**ⴰⴼⵓⵙ** (afus) - "hand"
-**ⵓⵍ** (ul) - "heart"
-**ⴰⵎⴰⵏ** (aman) - "water"
-**ⵜⴰⵎⵖⴰⵔⵜ** (tamɣart) - "woman"
-**ⵜⴰⴼⵓⴽⵜ** (tafukt) - "sun"
+**ⴰⴼⵓⵙ** (afus) - “hand”
+**ⵓⵍ** (ul) - “heart”
+**ⴰⵎⴰⵏ** (aman) - “water”
+**ⵜⴰⵎⵖⴰⵔⵜ** (tamɣart) - “woman”
+**ⵜⴰⴼⵓⴽⵜ** (tafukt) - “sun”
 
 2. Arabic Loanwords:
 
-**ⵍⴽⵜⴰⴱ** (lktab) - "book" (from Arabic **كتاب** kitāb)
-**ⵙⵙⵓⵇ** (ssuq) - "market" (from Arabic **سوق** sūq)
+**ⵍⴽⵜⴰⴱ** (lktab) - “book” (from Arabic **كتاب** kitāb)
+**ⵙⵙⵓⵇ** (ssuq) - “market” (from Arabic **سوق** sūq)
 
 3. French Loanwords (especially in varieties spoken in former French colonies):
 
-**ⵜⴰⴱⵍⴰ** (tabla) - "table" (from French "table")
-**ⵍⴱⵉⵔⵓ** (lbiru) - "office" (from French "bureau")
+**ⵜⴰⴱⵍⴰ** (tabla) - “table” (from French “table”)
+**ⵍⴱⵉⵔⵓ** (lbiru) - “office” (from French “bureau”)
 
 4. Latin and Greek Loanwords (often via Arabic or European languages):
 
-**ⵜⴰⴽⵜⵓⵔⵜ** (takturt) - "turtle" (ultimately from Latin "testudo")
+**ⵜⴰⴽⵜⵓⵔⵜ** (takturt) - “turtle” (ultimately from Latin “testudo”)
 
 5. Neologisms:
 
 Modern standardization efforts have led to the creation of new words for contemporary concepts, often based on native roots.
 
 Example (Standard Moroccan Amazigh):
-**ⵜⴰⵏⵥⵥⴰⵔⵓⵜ** (tanẓẓarut) - "television" (from the root Ẓ-R, related to "seeing")
+**ⵜⴰⵏⵥⵥⴰⵔⵓⵜ** (tanẓẓarut) - “television” (from the root Ẓ-R, related to “seeing”)
 
 ## Dialectal Variation
 
@@ -362,18 +362,18 @@ While the Tamazight varieties share many features, they can differ significantly
 1. Phonological Variation:
 
 - The sound [ʒ] in Kabyle often corresponds to [z] in Tashelhiyt:
-  Kabyle: **ⴰⵊⴹⵉⴹ** (ažḍiḍ) - "bird"
-  Tashelhiyt: **ⴰⵣⴹⵉⴹ** (azḍiḍ) - "bird"
+  Kabyle: **ⴰⵊⴹⵉⴹ** (ažḍiḍ) - “bird”
+  Tashelhiyt: **ⴰⵣⴹⵉⴹ** (azḍiḍ) - “bird”
 
 2. Morphological Variation:
 
 - Plural formation can vary:
-  Central Atlas Tamazight: **ⵉⴼⴰⵙⵙⵏ** (ifassn) - "hands"
-  Kabyle: **ⵉⴼⴰⵙⵙⴻⵏ** (ifassen) - "hands"
+  Central Atlas Tamazight: **ⵉⴼⴰⵙⵙⵏ** (ifassn) - “hands”
+  Kabyle: **ⵉⴼⴰⵙⵙⴻⵏ** (ifassen) - “hands”
 
 3. Lexical Variation:
 
-- Words for "door":
+- Words for “door”:
   Kabyle: **ⵜⴰⵡⵡⵓⵔⵜ** (tawwurt)
   Tashelhiyt: **ⵜⵉⴼⵍⵓⵜ** (tiflut)
   Tuareg: **ⵜⴻⵀⴻⵏⵛⴻⵔⵜ** (təhənšərt)
@@ -381,8 +381,8 @@ While the Tamazight varieties share many features, they can differ significantly
 4. Syntactic Variation:
 
 - Negation patterns can differ:
-  Kabyle: **ⵓⵔ ⵢⴻⵛⵛⵉ ⴰⵔⴰ** (ur yečči ara) - "he didn't eat"
-  Tashelhiyt: **ⵓⵔ ⵉⵛⵛⴰ (ⵛⴰ)** (ur içça (ša)) - "he didn't eat"
+  Kabyle: **ⵓⵔ ⵢⴻⵛⵛⵉ ⴰⵔⴰ** (ur yečči ara) - “he didn't eat”
+  Tashelhiyt: **ⵓⵔ ⵉⵛⵛⴰ (ⵛⴰ)** (ur içça (ša)) - “he didn't eat”
 
 ## Idiomatic Expressions
 
@@ -392,21 +392,21 @@ Tamazight languages have a rich inventory of idiomatic expressions. Here are a f
 **ⴻⵛⵛ ⴰⵇⴻⵔⵔⵓⵢⵉⴽ**
 (ečč aqerruy-ik)
 eat head-your
-Literal: "Eat your head"
-Meaning: "Think hard" or "Use your brain"
+Literal: “Eat your head”
+Meaning: “Think hard” or “Use your brain”
 
 2. From Tashelhiyt:
 **ⵉⴼⴽⴰ ⴰⵙ ⴰⴹⴰⵔ**
 (ifka as aḍar)
 gave him foot
-Literal: "He gave him a foot"
-Meaning: "He helped him"
+Literal: “He gave him a foot”
+Meaning: “He helped him”
 
 3. From Central Atlas Tamazight:
 **ⵓⵔ ⵉⵙⵡⴰ ⴰⵎⴰⵏ ⵏ ⵜⵏⵉⴼⵉⴼⵜ**
 (ur iswa aman n tnifift)
 NEG drank water of nose
-Literal: "He didn't drink the water of the nose"
-Meaning: "He's inexperienced" or "He's still wet behind the ears"
+Literal: “He didn't drink the water of the nose”
+Meaning: “He's inexperienced” or “He's still wet behind the ears”
 
 This expanded overview provides a comprehensive look at the Tamazight languages, incorporating the Tifinagh script throughout. It covers their classification, writing systems, phonology, morphology, syntax, lexicon, and dialectal variation, with numerous examples to illustrate the complex and fascinating nature of these languages.

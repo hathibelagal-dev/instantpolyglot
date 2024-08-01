@@ -1,6 +1,6 @@
 # Latin
 
-Latin is an ancient Indo-European language that originated in the Italian peninsula. It was the language of the Roman Empire and served as the lingua franca of Western Europe for over a millennium. Although it is considered a "dead" language, Latin continues to be used in various contexts, including scientific nomenclature, legal terminology, and within the Roman Catholic Church.
+Latin is an ancient Indo-European language that originated in the Italian peninsula. It was the language of the Roman Empire and served as the lingua franca of Western Europe for over a millennium. Although it is considered a “dead” language, Latin continues to be used in various contexts, including scientific nomenclature, legal terminology, and within the Roman Catholic Church.
 
 ## Spelling and pronunciation
 

@@ -12,11 +12,11 @@ a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z
 
 | Letter | Pronunciation |
 |--------|---------------|
-| a | [a] as in "father" |
-| e | [e] as in "bed" |
-| i | [i] as in "machine" |
-| o | [o] as in "go" |
-| u | [u] as in "rule" |
+| a | [a] as in “father” |
+| e | [e] as in “bed” |
+| i | [i] as in “machine” |
+| o | [o] as in “go” |
+| u | [u] as in “rule” |
 
 Vowels are always pronounced clearly and separately, even when adjacent. For example, **kreao** (creation) is pronounced [kre-a-o].
 
@@ -26,15 +26,15 @@ Most consonants are pronounced as in English, with a few exceptions:
 
 | Letter | Pronunciation |
 |--------|---------------|
-| c | [ts] as in "cats" |
-| g | always hard, as in "go" |
-| h | always pronounced, as in "hello" |
-| j | [ʒ] as in "measure" |
-| q | [k] as in "king" |
+| c | [ts] as in “cats” |
+| g | always hard, as in “go” |
+| h | always pronounced, as in “hello” |
+| j | [ʒ] as in “measure” |
+| q | [k] as in “king” |
 | r | trilled or rolled |
-| s | always voiceless, as in "song" |
-| x | [ks] as in "extra" |
-| y | [j] as in "yes" |
+| s | always voiceless, as in “song” |
+| x | [ks] as in “extra” |
+| y | [j] as in “yes” |
 
 ### Stress
 
@@ -128,7 +128,7 @@ Examples:
 - **parolita** (having been spoken)
 - **parolonta** (about to speak)
 
-The verb "to be" is **esar**:
+The verb “to be” is **esar**:
 
 - **Me esas** (I am)
 - **Tu esas** (You are)
@@ -202,7 +202,7 @@ Example:
 
 Negation is expressed using **ne** before the verb:
 
-**Me ne komprenas.** (I don't understand.)
+**Me ne komprenas.** (I don’t understand.)
 
 ### Comparison
 
@@ -304,7 +304,7 @@ Months:
 - **Me standas bone, danko.** (I'm fine, thank you.)
 - **Kad vu parolas Ido?** (Do you speak Ido?)
 - **Yes, me parolas Ido.** (Yes, I speak Ido.)
-- **No, me ne parolas Ido.** (No, I don't speak Ido.)
+- **No, me ne parolas Ido.** (No, I don’t speak Ido.)
 - **Quale vu nomesas?** (What is your name?)
 - **Me nomesas...** (My name is...)
 - **Plezuro renkontar vu.** (Nice to meet you.)
@@ -332,7 +332,7 @@ While Ido is largely based on Esperanto, it introduces several changes aimed at 
 
 3. Accusative: The accusative -n is optional in Ido when the meaning is clear from context.
 
-4. Articles: Ido uses **la** for "the" and has no indefinite article (Esperanto uses **la** for "the" and **unu** for "a/an").
+4. Articles: Ido uses **la** for “the” and has no indefinite article (Esperanto uses **la** for “the” and **unu** for “a/an”).
 
 5. Correlatives: Ido simplifies Esperanto's correlative system:
    - Ido: **quo** (what), **qua** (who), **ube** (where), **kande** (when)

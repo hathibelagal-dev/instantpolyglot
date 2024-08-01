@@ -25,11 +25,11 @@ Old Norse had 9 vowel qualities, each of which could be short or long:
 | ǫ     | ǫ́    | /ɔ/, /ɔː/        |
 
 Examples:
-- **dagr** [daɣr] "day"
-- **sól** [soːl] "sun"
-- **skip** [skip] "ship"
-- **fœra** [føːra] "to bring"
-- **hǫnd** [hɔnd] "hand"
+- **dagr** [daɣr] “day”
+- **sól** [soːl] “sun”
+- **skip** [skip] “ship”
+- **fœra** [føːra] “to bring”
+- **hǫnd** [hɔnd] “hand”
 
 ### Consonants
 
@@ -608,7 +608,7 @@ Old Norse vocabulary was primarily Germanic in origin, with some loanwords from 
 3. Compound words:
    Noun + noun: **skip** (ship) + **maðr** (man) → **skipmaðr** (sailor)
    Adjective + noun: **langr** (long) + **hús** (house) → **langhús** (longhouse)
-   Verb + noun: **brenna** (to burn) + **steinn** (stone) → **brennisteinn** (sulfur, lit. "burning stone")
+   Verb + noun: **brenna** (to burn) + **steinn** (stone) → **brennisteinn** (sulfur, lit. “burning stone”)
 
 4. Compound verbs:
    **upp** (up) + **ganga** (to go) → **uppganga** (to go up, ascend)
@@ -623,10 +623,10 @@ Some Old Norse words have undergone interesting semantic shifts in modern Nordic
 
 ### Idioms and phrases
 
-1. **bera af** (to excel): literally "to bear off"
-2. **ganga af trúnni** (to abandon one's faith): literally "to walk off the faith"
-3. **leggja á flótta** (to flee): literally "to lay on flight"
-4. **falla í ómegð** (to faint): literally "to fall into helplessness"
+1. **bera af** (to excel): literally “to bear off”
+2. **ganga af trúnni** (to abandon one's faith): literally “to walk off the faith”
+3. **leggja á flótta** (to flee): literally “to lay on flight”
+4. **falla í ómegð** (to faint): literally “to fall into helplessness”
 
 ## Literary devices
 

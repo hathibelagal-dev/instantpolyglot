@@ -251,8 +251,8 @@ Wh-questions use interrogative words at the beginning of the sentence:
 ### Negation
 
 Negation is formed by placing **no** before the verb:
-- **No parlo anglès** (I don't speak English)
-- **No ho sé** (I don't know)
+- **No parlo anglès** (I don’t speak English)
+- **No ho sé** (I don’t know)
 
 Double negatives are common and grammatically correct in Catalan:
 - **No he vist ningú** (I haven't seen anyone)
@@ -340,8 +340,8 @@ Main differences between dialects include:
      Valencian: **-e** (parle)
 
 4. Vocabulary variations:
-   - "Boy": **noi** (Eastern), **xic** (Western)
-   - "Girl": **noia** (Eastern), **xica** (Western)
+   - “Boy”: **noi** (Eastern), **xic** (Western)
+   - “Girl”: **noia** (Eastern), **xica** (Western)
 
 ## Colloquial Catalan
 
@@ -359,8 +359,8 @@ Colloquial Catalan differs from the standard language in several ways:
 3. Colloquial expressions:
    - **Què fort!** (How intense!/Wow!)
    - **Flipar** (to be amazed/shocked)
-   - **Fer el préssec** (to mess up, literally "to do the peach")
-   - **Estar de mala llet** (to be in a bad mood, literally "to be of bad milk")
+   - **Fer el préssec** (to mess up, literally “to do the peach”)
+   - **Estar de mala llet** (to be in a bad mood, literally “to be of bad milk”)
 
 4. Informal pronouns:
    - Use of **tu** instead of the formal **vostè**
@@ -374,11 +374,11 @@ Colloquial Catalan differs from the standard language in several ways:
 
 Catalan has many colorful idiomatic expressions:
 
-- **Ser un cap de trons** (to be a hothead, literally "to be a head of thunder")
-- **Estar fet pols** (to be exhausted, literally "to be made dust")
-- **Fer-se el soc** (to play dumb, literally "to make oneself the log")
-- **Tocar el dos** (to leave quickly, literally "to touch the two")
-- **Ser un set-ciències** (to be a know-it-all, literally "to be a seven-sciences")
+- **Ser un cap de trons** (to be a hothead, literally “to be a head of thunder”)
+- **Estar fet pols** (to be exhausted, literally “to be made dust”)
+- **Fer-se el soc** (to play dumb, literally “to make oneself the log”)
+- **Tocar el dos** (to leave quickly, literally “to touch the two”)
+- **Ser un set-ciències** (to be a know-it-all, literally “to be a seven-sciences”)
 
 ## Numbers
 
@@ -452,9 +452,9 @@ Months:
 Telling time:
 - **Quina hora és?** (What time is it?)
 - **Són les tres.** (It's three o'clock.)
-- **És un quart de quatre.** (It's quarter past three, literally "It's a quarter of four")
-- **Són dos quarts de quatre.** (It's half past three, literally "It's two quarters of four")
-- **Són tres quarts de quatre.** (It's quarter to four, literally "It's three quarters of four")
+- **És un quart de quatre.** (It's quarter past three, literally “It's a quarter of four”)
+- **Són dos quarts de quatre.** (It's half past three, literally “It's two quarters of four”)
+- **Són tres quarts de quatre.** (It's quarter to four, literally “It's three quarters of four”)
 
 ## Verb Aspects and Tenses
 
@@ -508,11 +508,11 @@ Catalan has a rich system of verb tenses and aspects:
 
 4. Possessive adjectives:
    Catalan often uses the definite article instead of possessive adjectives with body parts and personal items:
-   - **Em fa mal el cap** (My head hurts, literally "The head hurts me")
-   - **M'he deixat el mòbil a casa** (I left my phone at home, literally "I left myself the mobile at home")
+   - **Em fa mal el cap** (My head hurts, literally “The head hurts me”)
+   - **M'he deixat el mòbil a casa** (I left my phone at home, literally “I left myself the mobile at home”)
 
 5. Use of **hom**:
-   This pronoun is used for impersonal constructions, similar to "one" in English:
+   This pronoun is used for impersonal constructions, similar to “one” in English:
    - **Hom diu que plourà** (One says it will rain / It is said that it will rain)
 
 ## Word Formation
@@ -557,17 +557,17 @@ Some English words are also used, especially in informal contexts:
 
 Some examples of regional variations in vocabulary:
 
-1. "Potato":
+1. “Potato”:
    - Standard: **patata**
    - Balearic: **moneiato**
    - Valencian: **creïlla**
 
-2. "Boy":
+2. “Boy”:
    - Standard: **noi**
    - Valencian: **xiquet**
 
-3. "To speak":
+3. “To speak”:
    - Standard: **parlar**
    - Some Western dialects: **xarrar**
 
-These variations, while noticeable, generally don't impede mutual understanding between speakers of different dialects.
+These variations, while noticeable, generally don’t impede mutual understanding between speakers of different dialects.

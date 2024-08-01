@@ -30,7 +30,7 @@ The sound systems of English varieties show significant variation, particularly 
    - Standard British and American: **put** [pʊt], **strut** [strʌt], **butter** [ˈbʌtər]
    - Northern English: **put** [pʊt], **strut** [strʊt], **butter** [ˈbʊtə]
 
-   The lack of this split in Northern English is sometimes called the "foot-strut merger."
+   The lack of this split in Northern English is sometimes called the “foot-strut merger.”
 
 4. The NURSE Merger:
    Most modern varieties of English have merged the vowels that were historically distinct in words like **fir**, **fur**, and **fern**. However, some Scottish and Irish varieties maintain a distinction:
@@ -134,111 +134,111 @@ While the core grammar of English is largely consistent across varieties, there 
    - Present Perfect vs. Simple Past:
      British English often uses the Present Perfect for recent actions, while American English tends to use the Simple Past more frequently.
 
-     BrE: **"I've just eaten."**
-     AmE: **"I just ate."**
+     BrE: **“I've just eaten.”**
+     AmE: **“I just ate.”**
 
    - Use of progressive forms:
      Indian English and some other varieties use the progressive aspect with stative verbs more readily than other varieties.
 
-     Standard: **"I know him."**
-     Indian English: **"I am knowing him."**
+     Standard: **“I know him.”**
+     Indian English: **“I am knowing him.”**
 
 2. Verbal Paradigms:
    - Irregular Verbs:
      Some verbs have different past tense or past participle forms in different varieties.
 
-     BrE: **"I've learnt a lot."** / **"The program was broadcast yesterday."**
-     AmE: **"I've learned a lot."** / **"The program was broadcasted yesterday."**
+     BrE: **“I've learnt a lot.”** / **“The program was broadcast yesterday.”**
+     AmE: **“I've learned a lot.”** / **“The program was broadcasted yesterday.”**
 
    - Transitivity:
      Some verbs are transitive in some varieties but intransitive in others.
 
-     BrE: **"The team are training hard."**
-     AmE: **"The coach is training the team hard."**
+     BrE: **“The team are training hard.”**
+     AmE: **“The coach is training the team hard.”**
 
 3. Agreement:
    - Collective Nouns:
      British English often treats collective nouns as plural, while American English typically treats them as singular.
 
-     BrE: **"The team are playing well."**
-     AmE: **"The team is playing well."**
+     BrE: **“The team are playing well.”**
+     AmE: **“The team is playing well.”**
 
    - Notional Agreement:
      In some cases, notional (semantic) agreement overrides grammatical agreement in British English more readily than in American English.
 
-     BrE: **"The government have decided."** (treating 'government' as a group of people)
-     AmE: **"The government has decided."** (treating 'government' as a single entity)
+     BrE: **“The government have decided.”** (treating 'government' as a group of people)
+     AmE: **“The government has decided.”** (treating 'government' as a single entity)
 
 4. Syntax:
    - Tag Questions:
-     More common in British English than in American English. Indian English often uses a single invariant tag "isn't it?"
+     More common in British English than in American English. Indian English often uses a single invariant tag “isn’t it?”
 
-     BrE: **"It's cold, isn't it?"**
-     AmE might prefer: **"It's cold, right?"**
-     Indian English: **"You're going home, isn't it?"**
+     BrE: **“It's cold, isn’t it?”**
+     AmE might prefer: **“It's cold, right?”**
+     Indian English: **“You're going home, isn’t it?”**
 
    - Preposition Stranding:
      While accepted in most varieties, it's more stigmatized in some.
 
-     Informal: **"Who did you go with?"**
-     Formal: **"With whom did you go?"**
+     Informal: **“Who did you go with?”**
+     Formal: **“With whom did you go?”**
 
 5. Modality:
    - Subjunctive Mood:
      More commonly used in American English.
 
-     AmE: **"I suggest that he go home."**
-     BrE might prefer: **"I suggest that he goes home."**
+     AmE: **“I suggest that he go home.”**
+     BrE might prefer: **“I suggest that he goes home.”**
 
    - Modal Verbs:
      Some varieties use modal combinations not found in standard varieties.
 
-     Scottish English: **"I might could do that."** (meaning "I might be able to do that")
+     Scottish English: **“I might could do that.”** (meaning “I might be able to do that”)
 
 6. Negation:
    - Multiple Negation:
      Standard varieties typically avoid multiple negation, but it's common in many non-standard dialects.
 
-     Standard: **"I don't have any."**
-     AAVE: **"I don't have none."**
+     Standard: **“I don’t have any.”**
+     AAVE: **“I don’t have none.”**
 
    - Negative Concord:
      In some varieties, negative concord (the use of multiple negative markers to express a single negation) is standard.
 
-     Standard: **"I didn't see anybody."**
-     Non-standard: **"I didn't see nobody."**
+     Standard: **“I didn't see anybody.”**
+     Non-standard: **“I didn't see nobody.”**
 
 7. Pronouns:
    - Second Person Plural:
      Many varieties have developed distinct second person plural pronouns.
 
-     Standard: **"you"** (singular and plural)
-     Southern US: **"y'all"**
-     Scots/Northern English: **"youse"**
-     African American Vernacular English: **"y'all"** or **"you all"**
+     Standard: **“you”** (singular and plural)
+     Southern US: **“y'all”**
+     Scots/Northern English: **“youse”**
+     African American Vernacular English: **“y'all”** or **“you all”**
 
    - Gender-Neutral Pronouns:
-     Some varieties, particularly in certain social contexts, use "they" as a singular gender-neutral pronoun more readily.
+     Some varieties, particularly in certain social contexts, use “they” as a singular gender-neutral pronoun more readily.
 
-     **"Each student should bring their own lunch."**
+     **“Each student should bring their own lunch.”**
 
 8. Auxiliaries:
    - Do-support:
      In some Scottish and Irish varieties, do-support is used in affirmative statements for emphasis.
 
-     **"I do be working every day."** (meaning "I work every day habitually")
+     **“I do be working every day.”** (meaning “I work every day habitually”)
 
    - Aspect:
      Some varieties have developed additional aspectual distinctions.
 
-     Irish English: **"I'm after eating."** (meaning "I have just eaten")
+     Irish English: **“I'm after eating.”** (meaning “I have just eaten”)
 
 9. Word Order:
    - Indirect Questions:
      In some varieties, the word order of indirect questions mirrors that of direct questions.
 
-     Standard: **"I wonder what time it is."**
-     Non-standard: **"I wonder what time is it."**
+     Standard: **“I wonder what time it is.”**
+     Non-standard: **“I wonder what time is it.”**
 
 These grammatical features contribute significantly to the distinctiveness of various English dialects and can sometimes lead to misunderstandings between speakers of different varieties. Understanding these differences is crucial for effective communication in a global context where English serves as a lingua franca.
 
@@ -325,15 +325,15 @@ The vocabulary of English shows considerable variation across different varietie
 
 4. Differences in idiomatic expressions:
 
-   AmE: **"It's raining cats and dogs."**
-   BrE: **"It's bucketing down."**
-   AuE: **"It's pissing down."**
+   AmE: **“It's raining cats and dogs.”**
+   BrE: **“It's bucketing down.”**
+   AuE: **“It's pissing down.”**
 
-   AmE: **"Knock on wood."**
-   BrE: **"Touch wood."**
+   AmE: **“Knock on wood.”**
+   BrE: **“Touch wood.”**
 
-   AmE: **"Sweep under the rug."**
-   BrE: **"Sweep under the carpet."**
+   AmE: **“Sweep under the rug.”**
+   BrE: **“Sweep under the carpet.”**
 
 5. Differences in spelling:
 
@@ -349,7 +349,7 @@ The vocabulary of English shows considerable variation across different varietie
    | **aluminum** | **aluminium** |
    | **gray** | **grey** |
    | **check** | **cheque** (for the banking term) |
-   | **jail** | **gaol** (though "jail" is now common in BrE too) |
+   | **jail** | **gaol** (though “jail” is now common in BrE too) |
    | **plow** | **plough** |
 
 6. Differences in abbreviations and acronyms:
@@ -395,7 +395,7 @@ The vocabulary of English shows considerable variation across different varietie
 
 10. Differences in formality and taboo:
 
-    Some words considered taboo or offensive in one variety may be mild or inoffensive in another. For example, "bloody" is a mild intensifier in Australian English but can be considered offensive in American English.
+    Some words considered taboo or offensive in one variety may be mild or inoffensive in another. For example, “bloody” is a mild intensifier in Australian English but can be considered offensive in American English.
 
 ## Additional Linguistic Features
 
@@ -403,37 +403,37 @@ The vocabulary of English shows considerable variation across different varietie
 
 Different varieties of English use different discourse markers and interjections:
 
-1. British English: **"Innit?"** (isn't it?), **"Cheers"** (thank you/goodbye)
-2. American English: **"Like"**, **"You know"**, **"Uh-huh"** (yes)
-3. Canadian English: **"Eh?"** (tag question/interjection)
-4. Australian English: **"Yeah, nah"** (no), **"Nah, yeah"** (yes)
+1. British English: **“Innit?”** (isn’t it?), **“Cheers”** (thank you/goodbye)
+2. American English: **“Like”**, **“You know”**, **“Uh-huh”** (yes)
+3. Canadian English: **“Eh?”** (tag question/interjection)
+4. Australian English: **“Yeah, nah”** (no), **“Nah, yeah”** (yes)
 
 ### Code-switching and Mixing
 
 In multilingual societies, speakers often switch between English and other languages:
 
 1. Singlish (Singapore):
-   - **"Can or not?"** (Is it possible?)
-   - **"Gostan"** (go astern/reverse, from nautical English)
+   - **“Can or not?”** (Is it possible?)
+   - **“Gostan”** (go astern/reverse, from nautical English)
 
 2. Spanglish (Spanish-English):
-   - **"Voy a park-ear el carro"** (I'm going to park the car)
+   - **“Voy a park-ear el carro”** (I'm going to park the car)
 
 3. Hinglish (Hindi-English):
-   - **"Main busy hoon"** (I am busy)
+   - **“Main busy hoon”** (I am busy)
 
 ### Euphemisms and Politeness Strategies
 
 Different cultures have different norms for politeness, reflected in their variety of English:
 
 1. British English tends to use more indirect language:
-   - **"I was wondering if you might be able to..."** instead of "Can you..."
+   - **“I was wondering if you might be able to...”** instead of “Can you...”
 
 2. American English often values directness:
-   - **"Could you please..."** is often sufficient for polite requests
+   - **“Could you please...”** is often sufficient for polite requests
 
 3. Indian English may use more honorifics:
-   - **"Respected Sir/Madam"** in formal letters
+   - **“Respected Sir/Madam”** in formal letters
 
 ### Orthographic Conventions
 
@@ -444,11 +444,11 @@ Beyond spelling differences, there are other orthographic variations:
    - BrE: Day/Month/Year (04/07/2023)
 
 2. Quotation marks:
-   - AmE typically uses double quotes: **"like this"**
+   - AmE typically uses double quotes: **“like this”**
    - BrE often prefers single quotes: **'like this'**
 
 3. Punctuation with quotation marks:
-   - AmE typically places commas and periods inside quotation marks: **"like this,"**
+   - AmE typically places commas and periods inside quotation marks: **“like this,”**
    - BrE typically places them outside: **'like this'**.
 
 ### Numbering Conventions
@@ -484,13 +484,13 @@ English varieties also show significant internal variation based on social facto
 English has been influenced by and has influenced many other languages:
 
 1. Calques (loan translations):
-   - "It goes without saying" (from French "Ça va sans dire")
+   - “It goes without saying” (from French “Ça va sans dire”)
 
 2. Semantic loans:
-   - "Mouse" meaning a computer input device (from many languages)
+   - “Mouse” meaning a computer input device (from many languages)
 
 3. Phonological influence:
-   - The pronunciation of "garage" in BrE shows French influence
+   - The pronunciation of “garage” in BrE shows French influence
 
 ### Pragmatics
 
@@ -501,8 +501,8 @@ Pragmatic norms can differ significantly between varieties:
    - American English often values more direct communication
 
 2. Compliment responses:
-   - Americans often accept compliments: "Thank you!"
-   - British speakers may be more likely to deflect: "Oh, this old thing?"
+   - Americans often accept compliments: “Thank you!”
+   - British speakers may be more likely to deflect: “Oh, this old thing?”
 
 3. Apologies:
    - British speakers tend to apologize more frequently, even for minor impositions

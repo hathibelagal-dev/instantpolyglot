@@ -50,13 +50,13 @@ Sanskrit has a rich consonant inventory, organized systematically:
 Sanskrit has complex rules of sandhi (sound changes at word boundaries). For example:
 
 1. Vowel sandhi:
-   **अत्र अस्ति** (atra asti) → **अत्रास्ति** (atrāsti) "here is"
+   **अत्र अस्ति** (atra asti) → **अत्रास्ति** (atrāsti) “here is”
 
 2. Consonant sandhi:
-   **तत् च** (tat ca) → **तच्च** (tacca) "and that"
+   **तत् च** (tat ca) → **तच्च** (tacca) “and that”
 
 3. Visarga sandhi:
-   **रामः गच्छति** (rāmaḥ gacchati) → **रामो गच्छति** (rāmo gacchati) "Rama goes"
+   **रामः गच्छति** (rāmaḥ gacchati) → **रामो गच्छति** (rāmo gacchati) “Rama goes”
 
 ## Morphology
 
@@ -70,7 +70,7 @@ Nouns in Sanskrit are declined for:
 - 3 numbers: singular, dual, plural
 - 8 cases: nominative, accusative, instrumental, dative, ablative, genitive, locative, vocative
 
-Example declension of **देव** (deva, "god", masculine):
+Example declension of **देव** (deva, “god”, masculine):
 
 | Case | Singular | Dual | Plural |
 |------|----------|------|--------|
@@ -101,7 +101,7 @@ Pronouns in Sanskrit are also declined for gender, number, and case. Here's the 
 
 Adjectives generally agree with the nouns they modify in gender, number, and case. They follow similar declension patterns to nouns. For example:
 
-**महत्** (mahat, "great"):
+**महत्** (mahat, “great”):
 
 | Gender | Nominative Singular | Nominative Plural |
 |--------|---------------------|-------------------|
@@ -120,7 +120,7 @@ Sanskrit verbs are highly complex, with conjugations for:
 
 Verbs are organized into ten classes based on their stem formation.
 
-Example conjugation of **भू** (bhū, "to be") in the present tense, active voice:
+Example conjugation of **भू** (bhū, “to be”) in the present tense, active voice:
 
 | Person | Singular | Dual | Plural |
 |--------|----------|------|--------|
@@ -133,31 +133,31 @@ Example conjugation of **भू** (bhū, "to be") in the present tense, active v
 Sanskrit has a rich system of participles:
 
 1. Present participle:
-   - Active: **भवत्** (bhavat) "being"
-   - Middle: **भवमान** (bhavamāna) "being"
+   - Active: **भवत्** (bhavat) “being”
+   - Middle: **भवमान** (bhavamāna) “being”
 
 2. Past participle:
-   - **भूत** (bhūta) "been"
+   - **भूत** (bhūta) “been”
 
 3. Future participle:
-   - **भविष्यत्** (bhaviṣyat) "about to be"
+   - **भविष्यत्** (bhaviṣyat) “about to be”
 
 4. Perfect participle:
-   - **बभूव** (babhūva) "having been"
+   - **बभूव** (babhūva) “having been”
 
 #### Gerunds
 
 The gerund (indeclinable participle) is formed by adding **-त्वा** (-tvā) to the verbal root:
-**कृत्वा** (kṛtvā) "having done"
+**कृत्वा** (kṛtvā) “having done”
 
 ### Compounds
 
 Sanskrit is known for its extensive use of compound words. Some common types include:
 
-1. Dvandva (copulative): **रामलक्ष्मणौ** (rāmalakṣmaṇau) "Rama and Lakshmana"
-2. Tatpurusha (determinative): **राजपुत्रः** (rājaputraḥ) "king's son"
-3. Karmadhāraya (descriptive): **नीलोत्पलम्** (nīlotpalam) "blue lotus"
-4. Bahuvrīhi (possessive): **चक्रपाणिः** (cakrapāṇiḥ) "whose hand holds a discus" (epithet of Vishnu)
+1. Dvandva (copulative): **रामलक्ष्मणौ** (rāmalakṣmaṇau) “Rama and Lakshmana”
+2. Tatpurusha (determinative): **राजपुत्रः** (rājaputraḥ) “king's son”
+3. Karmadhāraya (descriptive): **नीलोत्पलम्** (nīlotpalam) “blue lotus”
+4. Bahuvrīhi (possessive): **चक्रपाणिः** (cakrapāṇiḥ) “whose hand holds a discus” (epithet of Vishnu)
 
 ## Syntax
 
@@ -168,40 +168,40 @@ Sanskrit has a relatively free word order, with SOV (Subject-Object-Verb) being 
 A basic Sanskrit sentence might look like this:
 
 **रामः वनं गच्छति।** (rāmaḥ vanaṃ gacchati.)
-"Rama goes to the forest."
+“Rama goes to the forest.”
 
-Here, "Rama" (रामः) is in the nominative case, "forest" (वनम्) is in the accusative case, and "goes" (गच्छति) is the verb.
+Here, “Rama” (रामः) is in the nominative case, “forest” (वनम्) is in the accusative case, and “goes” (गच्छति) is the verb.
 
 ### Agreement
 
 Verbs agree with their subjects in person and number:
 
-**अहं पठामि।** (ahaṃ paṭhāmi.) "I read."
-**त्वं पठसि।** (tvaṃ paṭhasi.) "You read."
-**सः पठति।** (saḥ paṭhati.) "He reads."
+**अहं पठामि।** (ahaṃ paṭhāmi.) “I read.”
+**त्वं पठसि।** (tvaṃ paṭhasi.) “You read.”
+**सः पठति।** (saḥ paṭhati.) “He reads.”
 
 Adjectives agree with the nouns they modify in gender, number, and case:
 
-**सुन्दरः बालकः** (sundaraḥ bālakaḥ) "beautiful boy" (masculine)
-**सुन्दरी बालिका** (sundarī bālikā) "beautiful girl" (feminine)
-**सुन्दरं पुस्तकम्** (sundaraṃ pustakam) "beautiful book" (neuter)
+**सुन्दरः बालकः** (sundaraḥ bālakaḥ) “beautiful boy” (masculine)
+**सुन्दरी बालिका** (sundarī bālikā) “beautiful girl” (feminine)
+**सुन्दरं पुस्तकम्** (sundaraṃ pustakam) “beautiful book” (neuter)
 
 ### Passive Voice
 
 The passive voice is formed by using the middle voice endings with a special stem:
 
 Active: **रामः पुस्तकं पठति।** (rāmaḥ pustakaṃ paṭhati.)
-"Rama reads the book."
+“Rama reads the book.”
 
 Passive: **रामेण पुस्तकं पठ्यते।** (rāmeṇa pustakaṃ paṭhyate.)
-"The book is read by Rama."
+“The book is read by Rama.”
 
 ### Relative Clauses
 
 Relative clauses in Sanskrit use the relative pronoun **यद्** (yad):
 
 **यः पुरुषः तत्र तिष्ठति, सः मम मित्रम् अस्ति।** (yaḥ puruṣaḥ tatra tiṣṭhati, saḥ mama mitram asti.)
-"The man who stands there is my friend."
+“The man who stands there is my friend.”
 
 ## Vocabulary
 
@@ -209,7 +209,7 @@ Sanskrit vocabulary has had a profound influence on many Indian languages, as we
 
 ### Common Words and Phrases
 
-- **नमस्ते** (namaste) - Hello/Goodbye (literally "I bow to you")
+- **नमस्ते** (namaste) - Hello/Goodbye (literally “I bow to you”)
 - **धन्यवादः** (dhanyavādaḥ) - Thank you
 - **कृपया** (kṛpayā) - Please
 - **आम्** (ām) - Yes
@@ -257,7 +257,7 @@ The oldest form of Sanskrit, used in the Vedas, the ancient religious texts of H
 (agnimīḷe purohitaṃ yajñasya devamṛtvijam |
 hotāraṃ ratnadhātamam ||)
 
-"I praise Agni, the foremost, god-priest of the sacrifice, the divine, minister, invoker, most lavish of wealth."
+“I praise Agni, the foremost, god-priest of the sacrifice, the divine, minister, invoker, most lavish of wealth.”
 (Rigveda 1.1.1)
 
 ### Classical Sanskrit
@@ -269,7 +269,7 @@ Used in later literature, including epics, poetry, and philosophical texts:
 (karmaṇyevādhikāraste mā phaleṣu kadācana |
 mā karmaphalaheturbhūrmā te saṅgo'stvakarmaṇi ||)
 
-"You have the right to work only, but never to its fruits. Let not the fruits of action be your motive, nor let your attachment be to inaction."
+“You have the right to work only, but never to its fruits. Let not the fruits of action be your motive, nor let your attachment be to inaction.”
 (Bhagavad Gita 2.47)
 
 ### Kāvya
@@ -285,10 +285,10 @@ alakāpurīṃ prati priyatamālayam |
 vīkṣya virahiṇīṃ tadā mama viyoginīṃ
 brūhi sakhe samāgamasukhaṃ mayi tvarate ||)
 
-"O cloud, if you are going in this direction,
+“O cloud, if you are going in this direction,
 Towards Alaka, the abode of my beloved,
 Then, seeing my lonely, separated love,
-Tell her, friend, that I long for the joy of our reunion."
+Tell her, friend, that I long for the joy of our reunion.”
 (Meghadūta by Kālidāsa)
 
 ## Grammatical Features
@@ -310,28 +310,28 @@ Example:
 
 Sanskrit uses different pronouns and verb forms to show respect or formality:
 
-Informal: **त्वं गच्छसि** (tvaṃ gacchasi) - "You go"
-Formal: **भवान् गच्छति** (bhavān gacchati) - "You (respected one) go"
+Informal: **त्वं गच्छसि** (tvaṃ gacchasi) - “You go”
+Formal: **भवान् गच्छति** (bhavān gacchati) - “You (respected one) go”
 
 ### Absolutives
 
 Sanskrit has a special non-finite verb form called the absolutive, which expresses a completed action that precedes the main verb:
 
-**भुक्त्वा गच्छामि** (bhuktvā gacchāmi) - "Having eaten, I go"
+**भुक्त्वा गच्छामि** (bhuktvā gacchāmi) - “Having eaten, I go”
 
 ### Causatives
 
 Verbs can be modified to express causation:
 
-**पठति** (paṭhati) - "He reads"
-**पाठयति** (pāṭhayati) - "He causes to read" (i.e., "He teaches")
+**पठति** (paṭhati) - “He reads”
+**पाठयति** (pāṭhayati) - “He causes to read” (i.e., “He teaches”)
 
 ### Denominal Verbs
 
 Verbs can be derived from nouns:
 
-**पुत्र** (putra) - "son"
-**पुत्रीयति** (putrīyati) - "He treats like a son"
+**पुत्र** (putra) - “son”
+**पुत्रीयति** (putrīyati) - “He treats like a son”
 
 ## Phonological Rules
 
@@ -349,7 +349,7 @@ This is used in various grammatical processes, such as forming causatives or cer
 
 Similar to other Indo-European languages, Sanskrit exhibits ablaut, a system of vowel alternations in related words or different grammatical forms of the same word:
 
-**बुध्** (budh) - "to wake"
+**बुध्** (budh) - “to wake”
 Present tense: **बोधति** (bodhati)
 Perfect tense: **बुबोध** (bubodha)
 Past participle: **बुद्ध** (buddha)
@@ -360,8 +360,8 @@ Past participle: **बुद्ध** (buddha)
 
 Sanskrit literature is rich in figurative language, including various types of metaphors (रूपक, rūpaka) and similes (उपमा, upamā):
 
-**मुखं चन्द्र इव** (mukhaṃ candra iva) - "Face like the moon" (simile)
-**कर्णकमलम्** (karṇakamalam) - "Ear-lotus" (metaphor for ear)
+**मुखं चन्द्र इव** (mukhaṃ candra iva) - “Face like the moon” (simile)
+**कर्णकमलम्** (karṇakamalam) - “Ear-lotus” (metaphor for ear)
 
 ### Philosophical Terminology
 
@@ -377,7 +377,7 @@ Sanskrit has a rich vocabulary for philosophical and spiritual concepts:
 Sanskrit has been used to develop technical vocabularies in various fields:
 
 **अङ्क** (aṅka) - digit, mathematical term
-**बीज** (bīja) - seed, also used in algebra for "coefficient"
+**बीज** (bīja) - seed, also used in algebra for “coefficient”
 **धातु** (dhātu) - element, used in Ayurveda (traditional medicine)
 
 ## Dialectal Variations

@@ -1,6 +1,6 @@
 # Norwegian Nynorsk
 
-Nynorsk, meaning "New Norwegian," is one of the two official written standards of the Norwegian language, alongside Bokmål. It was developed in the mid-19th century by Ivar Aasen as a written standard based on rural Norwegian dialects, in contrast to the Danish-influenced Bokmål. Today, Nynorsk is used by about 10-15% of Norway's population as their primary written form.
+Nynorsk, meaning “New Norwegian,” is one of the two official written standards of the Norwegian language, alongside Bokmål. It was developed in the mid-19th century by Ivar Aasen as a written standard based on rural Norwegian dialects, in contrast to the Danish-influenced Bokmål. Today, Nynorsk is used by about 10-15% of Norway's population as their primary written form.
 
 ## Alphabet and Pronunciation
 
@@ -285,7 +285,7 @@ Nynorsk vocabulary often differs from Bokmål, favoring words of Norse origin ov
 - **Korleis har du det?** - How are you?
 - **Eg har det bra** - I'm fine
 - **Snakkar du engelsk?** - Do you speak English?
-- **Eg forstår ikkje** - I don't understand
+- **Eg forstår ikkje** - I don’t understand
 - **Ha det bra** - Goodbye (Have it good)
 
 ## Dialectal Variation
@@ -301,11 +301,11 @@ While Nynorsk is a standardized written form, it allows for more dialectal varia
    - **fortalde** vs. **fortalte** (told)
 
 3. Noun plurals:
-   - **-ar** vs. **-er** endings (e.g., **gutar** vs. **guter** for "boys")
+   - **-ar** vs. **-er** endings (e.g., **gutar** vs. **guter** for “boys”)
 
 4. Vocabulary differences:
-   - **då** vs. **når** for "when"
-   - **liten** vs. **liti** for "small" (feminine)
+   - **då** vs. **når** for “when”
+   - **liten** vs. **liti** for “small” (feminine)
 
 ## Stylistic Features
 
@@ -478,9 +478,9 @@ Many renowned Norwegian authors have written in Nynorsk, including:
 - Kjartan Fløgstad
 - Jon Fosse
 
-Example from Tarjei Vesaas's "Fuglane" (The Birds):
+Example from Tarjei Vesaas's “Fuglane” (The Birds):
 
-**"Det var ein gong ein mann som gjorde alt det andre ville han skulle gjere. Han åt når dei sa han skulle ete, og drakk når dei sa han skulle drikke."**
+**“Det var ein gong ein mann som gjorde alt det andre ville han skulle gjere. Han åt når dei sa han skulle ete, og drakk når dei sa han skulle drikke.”**
 
 (Once there was a man who did everything others wanted him to do. He ate when they said he should eat, and drank when they said he should drink.)
 
@@ -497,7 +497,7 @@ The Norwegian Broadcasting Corporation (NRK) is required to have at least 25% of
 
 The use of Nynorsk has been a subject of debate in Norway:
 
-1. Urban vs. Rural: Nynorsk is more commonly used in rural areas, leading to perceptions of it as a "countryside language."
+1. Urban vs. Rural: Nynorsk is more commonly used in rural areas, leading to perceptions of it as a “countryside language.”
 
 2. Learning Difficulties: Some students find it challenging to learn both Nynorsk and Bokmål.
 

@@ -269,7 +269,7 @@ The basic word order in Latvian is Subject-Verb-Object (SVO), but due to its cas
 
 Negation is formed by adding the prefix **ne-** to verbs and the word **ne** before other parts of speech:
 
-- **Es nelasu grāmatu.** (I don't read a book.)
+- **Es nelasu grāmatu.** (I don’t read a book.)
 - **Tā nav grāmata.** (That is not a book.)
 
 ### Questions
@@ -308,16 +308,16 @@ Example: **Es zinu, ka viņš runā latviski.** (I know that he speaks Latvian.)
 Latvian vocabulary has been influenced by various languages throughout its history:
 
 1. German: due to historical dominance
-   Example: **būvēt** (to build) from German "bauen"
+   Example: **būvēt** (to build) from German “bauen”
 
 2. Russian: due to Soviet occupation
-   Example: **čemodāns** (suitcase) from Russian "чемодан"
+   Example: **čemodāns** (suitcase) from Russian “чемодан”
 
 3. English: modern loanwords, especially in technology
    Example: **dators** (computer)
 
 4. Finnish: some loanwords due to geographical proximity
-   Example: **puisis** (boy) from Finnish "poika"
+   Example: **puisis** (boy) from Finnish “poika”
 
 Many words share roots with other Baltic and Slavic languages:
 
@@ -334,8 +334,8 @@ Latvian frequently uses prefixes and suffixes to form new words:
 
 Latvian has many idiomatic expressions:
 
-- **Likt aiz auss** (lit. "to put behind the ear") - to remember something important
-- **Ne auss, ne aste** (lit. "neither ear nor tail") - neither fish nor fowl
+- **Likt aiz auss** (lit. “to put behind the ear”) - to remember something important
+- **Ne auss, ne aste** (lit. “neither ear nor tail”) - neither fish nor fowl
 
 ## Dialects
 
@@ -351,9 +351,9 @@ The standard Latvian language is based primarily on the Middle dialect.
 
 Colloquial Latvian often differs from the standard written language:
 
-- Shortened forms: **nezinu** instead of **nezinu** (I don't know)
+- Shortened forms: **nezinu** instead of **nezinu** (I don’t know)
 - Slang: **foršs** (cool) instead of **labs** (good)
-- Russian loanwords: **čau** (bye) from Russian "чао"
+- Russian loanwords: **čau** (bye) from Russian “чао”
 
 ## Phonological Processes
 
@@ -389,7 +389,7 @@ While not as extensive as in some languages, Latvian exhibits a form of vowel ha
 Latvian uses impersonal constructions to express various states or actions without a specific subject:
 
 - **Līst.** (It's raining.)
-- **Man salst.** (I'm cold, literally "To me it's freezing.")
+- **Man salst.** (I'm cold, literally “To me it's freezing.”)
 
 ### Reflexive Verbs
 
@@ -480,7 +480,7 @@ Common interjections:
 
 ### Politeness
 
-Latvian uses the formal "you" (**jūs**) for addressing strangers, elders, or in formal situations. The informal "you" (**tu**) is used with friends, family, and children.
+Latvian uses the formal “you” (**jūs**) for addressing strangers, elders, or in formal situations. The informal “you” (**tu**) is used with friends, family, and children.
 
 - Formal: **Kā jums iet?** (How are you doing?)
 - Informal: **Kā tev iet?** (How are you doing?)
@@ -501,7 +501,7 @@ Latvian has many idiomatic phrases and proverbs:
 
 - **Kā suns ar kaķi** (Like cat and dog) - to not get along
 - **Dot zaļo gaismu** (To give the green light) - to approve
-- **Kas lēti nāk, tas dārgi maksā** (What comes cheap, costs dearly) - similar to "You get what you pay for"
+- **Kas lēti nāk, tas dārgi maksā** (What comes cheap, costs dearly) - similar to “You get what you pay for”
 
 ## Writing System
 

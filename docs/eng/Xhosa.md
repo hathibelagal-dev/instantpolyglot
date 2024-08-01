@@ -78,16 +78,16 @@ Xhosa is a tonal language with two basic tones: high and low. Tone plays a cruci
 
 Examples of tonal minimal pairs:
 
-- **úkútya** (high-high-low) means "to eat"
-- **ukutya** (low-low-low) means "food"
+- **úkútya** (high-high-low) means “to eat”
+- **ukutya** (low-low-low) means “food”
 
-- **íntaba** (high-low-low) means "mountain"
-- **intaba** (low-low-low) means "issue, matter"
+- **íntaba** (high-low-low) means “mountain”
+- **intaba** (low-low-low) means “issue, matter”
 
 Tone also plays a role in grammatical distinctions:
 
-- **ndibona** (low-low-low) "I see" (present tense)
-- **ndíbona** (high-low-low) "I saw" (recent past tense)
+- **ndibona** (low-low-low) “I see” (present tense)
+- **ndíbona** (high-low-low) “I saw” (recent past tense)
 
 ### Stress
 
@@ -116,7 +116,7 @@ Several phonological processes occur in Xhosa, including:
    - **in- + -ja** → **inja** (dog)
 
 4. Click insertion: In some dialects, clicks may be inserted into loanwords:
-   - **itapile** → **itapile** or **itaqile** (potato, from Afrikaans "aartappel")
+   - **itapile** → **itapile** or **itaqile** (potato, from Afrikaans “aartappel”)
 
 ## Orthography
 
@@ -308,8 +308,8 @@ Adjectives agree with the noun they modify using a concord prefix:
 
 Many descriptive concepts are expressed using relative constructions:
 
-- **amanzi ashushu** (hot water, literally "water that is hot")
-- **umfundi okrelekrele** (a clever student, literally "a student who is clever")
+- **amanzi ashushu** (hot water, literally “water that is hot”)
+- **umfundi okrelekrele** (a clever student, literally “a student who is clever”)
 
 ### Pronouns
 
@@ -567,10 +567,10 @@ Xhosa has many idiomatic expressions that reflect the culture and worldview of i
 
 3. **Akukho nkanga iphapha ngomsila wenye**
    Literal: No guinea fowl flies with the tail feathers of another
-   Meaning: You can't succeed by riding on the coattails of others
+   Meaning: You can’t succeed by riding on the coattails of others
 
 4. **Iqaqa aliziva kunuka**
-   Literal: The skunk doesn't smell its own stink
+   Literal: The skunk doesn’t smell its own stink
    Meaning: People are often unaware of their own faults
 
 5. **Ubucwebe baselwandle**
@@ -598,11 +598,11 @@ Colloquial Xhosa often differs from the standard written form. Some common featu
 2. Borrowing from other languages, especially English and Afrikaans:
    **ikhompyutha** (computer)
    **ibhola** (ball)
-   **imoto** (car, from Afrikaans "motor")
+   **imoto** (car, from Afrikaans “motor”)
 
 3. Use of slang terms:
-   **ukubhajwa** (to be busy, from English "by")
-   **ukujova** (to inject, but colloquially used to mean "to give")
+   **ukubhajwa** (to be busy, from English “by”)
+   **ukujova** (to inject, but colloquially used to mean “to give”)
 
 4. Omission of certain prefixes or simplification of grammatical structures in casual speech.
 
@@ -631,7 +631,7 @@ These dialects are generally mutually intelligible, with differences mainly in a
 Xhosa culture places great importance on respect, especially for elders. This is reflected in the language:
 
 1. Use of plural forms for individuals as a sign of respect:
-   **Tat'omkhulu baphilile?** (Is grandfather well? - literally "Are grandfather well?")
+   **Tat'omkhulu baphilile?** (Is grandfather well? - literally “Are grandfather well?”)
 
 2. Specific terms of address for respected individuals:
    **Tata** (father, also used for respected older men)
@@ -657,7 +657,7 @@ The concept of ubuntu (humanness or humanity towards others) is deeply ingrained
    **Molo, unjani?** (Hello, how are you?)
    **Ninjani nonke?** (How are you all?)
 
-2. Collective pronouns: The frequent use of "we" and "us" in Xhosa discourse emphasizes community over individuality:
+2. Collective pronouns: The frequent use of “we” and “us” in Xhosa discourse emphasizes community over individuality:
 
    **Masifunde sonke** (Let us learn together)
    **Siyaphila thina maXhosa** (We Xhosa people are well)
@@ -694,7 +694,7 @@ Xhosa has a rich literary tradition, both written and oral. Some key aspects inc
 
    **Umzingisi akanashwa** (The persevering person has no misfortune)
 
-4. Modern Literature: Xhosa has produced notable authors such as S.E.K. Mqhayi, known as "Imbongi yesizwe jikelele" (The poet of the whole nation).
+4. Modern Literature: Xhosa has produced notable authors such as S.E.K. Mqhayi, known as “Imbongi yesizwe jikelele” (The poet of the whole nation).
 
 ## Xhosa in Modern Contexts
 
@@ -766,7 +766,7 @@ Xhosa, like many Bantu languages, has a rich system of sound symbolism and phona
 Xhosa has been influenced by and has influenced other languages:
 
 1. Loanwords from English:
-   **ifestile** (window, from "fastener")
+   **ifestile** (window, from “fastener”)
    **isikolo** (school)
 
 2. Loanwords from Afrikaans:
@@ -774,8 +774,8 @@ Xhosa has been influenced by and has influenced other languages:
    **isonka** (bread)
 
 3. Influence on South African English:
-   "Yebo" (yes) - from Zulu, but also used by Xhosa speakers
-   "Ubuntu" - the philosophical concept adopted into English
+   “Yebo” (yes) - from Zulu, but also used by Xhosa speakers
+   “Ubuntu” - the philosophical concept adopted into English
 
 ## Challenges in Xhosa Language Preservation
 

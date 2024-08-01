@@ -224,7 +224,7 @@ The imperative is formed by using the verb stem for the singular and adding **-�
 The negative is formed by adding **-ma** or **-me** to the verb stem before other suffixes:
 
 - **gelmemek** (not to come)
-- **gelmeýärin** (I don't come)
+- **gelmeýärin** (I don’t come)
 - **gelmedi** (he/she didn't come)
 
 #### Passive
@@ -241,7 +241,7 @@ The passive voice is formed by adding **-yl** or **-il** to the verb stem:
 The basic word order in Turkmen is Subject-Object-Verb (SOV):
 
 **Men kitaby okadym.** (I book-ACC read-PAST-1SG)
-"I read the book."
+“I read the book.”
 
 However, word order can be flexible for emphasis or in poetry.
 
@@ -250,19 +250,19 @@ However, word order can be flexible for emphasis or in poetry.
 Yes/no questions are formed by adding the particle **mi** (or its variants **my**, **mu**, **mü** according to vowel harmony) to the end of a statement:
 
 **Sen kitap okaýarsyňmy?** (You book read-PRES-2SG-Q)
-"Do you read a book?"
+“Do you read a book?”
 
 Wh-questions are formed using question words such as **kim** (who), **näme** (what), **haçan** (when), **nire** (where), etc. These words typically appear immediately before the verb:
 
 **Sen haçan geldiň?** (You when come-PAST-2SG)
-"When did you come?"
+“When did you come?”
 
 ### Postpositions
 
 Turkmen uses postpositions rather than prepositions. These come after the noun they modify:
 
 **Kitap stoluň üstünde.** (Book table-GEN on-LOC)
-"The book is on the table."
+“The book is on the table.”
 
 Common postpositions include:
 - **bilen** (with)
@@ -281,7 +281,7 @@ Some common conjunctions in Turkmen:
 
 Example:
 **Men kitap we gazet okadym.** (I book and newspaper read-PAST-1SG)
-"I read a book and a newspaper."
+“I read a book and a newspaper.”
 
 ## Vocabulary
 
@@ -391,14 +391,14 @@ Colloquial Turkmen may differ from the standard literary language in several way
 
 Turkmen has many idiomatic expressions, often reflecting the culture and history of the Turkmen people:
 
-- **Gözüň aýdyň!** (Lit: "May your eyes be bright!") - Congratulations!
-- **It ýaly ýadamak** (Lit: "To be tired like a dog") - To be extremely tired
-- **Gulak asmak** (Lit: "To hang an ear") - To listen carefully
-- **Agzy açyk galmak** (Lit: "To remain with an open mouth") - To be astonished
-- **Dili uzyn** (Lit: "Long tongue") - Talkative, gossipy
-- **Göwni ýok** (Lit: "No heart") - Not in the mood
-- **Gulak gabartmak** (Lit: "To prick up one's ears") - To listen attentively
-- **Ýüzi gara** (Lit: "Black face") - Ashamed, disgraced
+- **Gözüň aýdyň!** (Lit: “May your eyes be bright!”) - Congratulations!
+- **It ýaly ýadamak** (Lit: “To be tired like a dog”) - To be extremely tired
+- **Gulak asmak** (Lit: “To hang an ear”) - To listen carefully
+- **Agzy açyk galmak** (Lit: “To remain with an open mouth”) - To be astonished
+- **Dili uzyn** (Lit: “Long tongue”) - Talkative, gossipy
+- **Göwni ýok** (Lit: “No heart”) - Not in the mood
+- **Gulak gabartmak** (Lit: “To prick up one's ears”) - To listen attentively
+- **Ýüzi gara** (Lit: “Black face”) - Ashamed, disgraced
 
 ## Phonological Processes
 
@@ -465,22 +465,22 @@ While the basic word order in Turkmen is SOV, there are variations for emphasis 
 ### Declarative Sentences
 
 **Men şu kitaby okadym.** (I this book-ACC read-PAST-1SG)
-"I read this book."
+“I read this book.”
 
 ### Interrogative Sentences
 
 **Sen haçan geldiň?** (You when come-PAST-2SG)
-"When did you come?"
+“When did you come?”
 
 ### Imperative Sentences
 
 **Kitaby maňa ber!** (Book-ACC me-DAT give-IMP)
-"Give me the book!"
+“Give me the book!”
 
 ### Conditional Sentences
 
 **Eger ýagyş ýagsa, men öýde galjakdyryn.** (If rain fall-COND-3SG, I home-LOC stay-FUT-1SG)
-"If it rains, I will stay at home."
+“If it rains, I will stay at home.”
 
 ## Verbal Nouns and Participles
 
@@ -512,21 +512,21 @@ Turkmen expresses modality through various suffixes and auxiliary verbs:
 The suffix **-yp/-ip** bilmek is used to express ability:
 
 **Men Türkmençe gürleşip bilýärin.** (I Turkmen speak-ABIL-PRES-1SG)
-"I can speak Turkmen."
+“I can speak Turkmen.”
 
 ### Necessity
 
 The word **gerek** (necessary) is used with the infinitive:
 
 **Maňa gitmek gerek.** (I-DAT go-INF necessary)
-"I need to go."
+“I need to go.”
 
 ### Possibility
 
 The suffix **-ar/-er** is used to express possibility:
 
 **Ol geler.** (He/she come-POSS-3SG)
-"He/she might come."
+“He/she might come.”
 
 ## Honorifics and Politeness
 
@@ -537,7 +537,7 @@ Turkmen has a system of honorifics and polite forms:
 The plural pronoun **siz** is used for formal or respectful address, even when speaking to one person:
 
 **Siz näme içjek?** (You-FORMAL what drink-FUT-2PL)
-"What would you like to drink?" (formal)
+“What would you like to drink?” (formal)
 
 ### Titles
 
@@ -550,7 +550,7 @@ Titles are often used with names or by themselves as a form of respect:
 
 Example:
 **Mugallym, men sorag sorap bilýärinmi?** (Teacher, I question ask-ABIL-PRES-1SG-Q)
-"Teacher, may I ask a question?"
+“Teacher, may I ask a question?”
 
 ## Proverbs and Sayings
 
@@ -562,11 +562,11 @@ Turkmen has a rich tradition of proverbs and sayings, often reflecting cultural 
 - **At aýagy ýolda gerek.** (A horse's foot is needed on the road.)
    Meaning: Be prepared for your journey.
 
-- **Döwlet guşy her kimin başyna gonmaz.** (The bird of fortune doesn't land on everyone's head.)
+- **Döwlet guşy her kimin başyna gonmaz.** (The bird of fortune doesn’t land on everyone's head.)
    Meaning: Not everyone is destined for good luck or wealth.
 
-- **Ýeke agaç tokaý bolmaz.** (A single tree doesn't make a forest.)
-   Meaning: Unity is strength; one person alone can't achieve much.
+- **Ýeke agaç tokaý bolmaz.** (A single tree doesn’t make a forest.)
+   Meaning: Unity is strength; one person alone can’t achieve much.
 
 ## Literary Turkmen
 

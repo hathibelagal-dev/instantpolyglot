@@ -103,7 +103,7 @@ Relative pronouns:
 
 ### Adjectives
 
-Adjectives in Scots generally don't inflect for gender or number. Comparative and superlative forms are similar to English:
+Adjectives in Scots generally don’t inflect for gender or number. Comparative and superlative forms are similar to English:
 
 - **braw** (fine) → **brawer** (finer) → **brawest** (finest)
 - **bonnie** (pretty) → **bonnier** (prettier) → **bonniest** (prettiest)
@@ -240,7 +240,7 @@ The passive voice is formed similarly to English:
 The imperative is formed by using the bare infinitive:
 
 - **Come here!**
-- **Dinnae fash yersel!** (Don't worry!)
+- **Dinnae fash yersel!** (Don’t worry!)
 
 ### Conditional
 
@@ -279,14 +279,14 @@ Negation is typically formed using **no** or **nae**:
 The negative particle **-nae** can also be attached to auxiliary and modal verbs:
 
 - **canna** (cannot)
-- **dinna** (don't)
-- **winna** (won't)
+- **dinna** (don’t)
+- **winna** (won’t)
 
 ### Double modal verbs
 
 Scots allows for the use of double modal verbs, which is not possible in Standard English:
 
-- **He'll no can come** (He won't be able to come)
+- **He'll no can come** (He won’t be able to come)
 - **A micht coud dae it** (I might be able to do it)
 
 ### Preposition stranding
@@ -306,8 +306,8 @@ Relative clauses in Scots are often introduced by **that** or zero relative pron
 
 Tag questions in Scots often use **eh** or **aye**:
 
-- **It's a braw day, eh?** (It's a fine day, isn't it?)
-- **Ye're comin, aye?** (You're coming, aren't you?)
+- **It's a braw day, eh?** (It's a fine day, isn’t it?)
+- **Ye're comin, aye?** (You're coming, aren’t you?)
 
 ## Vocabulary
 
@@ -385,19 +385,19 @@ Scots has several regional dialects, each with its own distinct features. Some m
 Scots has been influenced by various languages throughout its history:
 
 1. Old English: The primary basis for Scots.
-   Example: **bairn** (child) from Old English "bearn"
+   Example: **bairn** (child) from Old English “bearn”
 
 2. Old Norse: Due to Viking invasions and settlements.
-   Example: **kirk** (church) from Old Norse "kirkja"
+   Example: **kirk** (church) from Old Norse “kirkja”
 
 3. Norman French: Through the Auld Alliance between Scotland and France.
-   Example: **ashet** (large plate) from French "assiette"
+   Example: **ashet** (large plate) from French “assiette”
 
 4. Gaelic: Influence from the Highland and Island regions.
-   Example: **glen** (valley) from Gaelic "gleann"
+   Example: **glen** (valley) from Gaelic “gleann”
 
 5. Dutch: Through trade connections in the late medieval period.
-   Example: **cowp** (overturn) from Dutch "kopen"
+   Example: **cowp** (overturn) from Dutch “kopen”
 
 6. Modern English: Ongoing influence due to close contact.
    Example: **computer** (computer)
@@ -412,7 +412,7 @@ Scots phonology differs from Standard English in several ways:
 2. Preservation of the /x/ sound (velar fricative):
    Example: **loch** [lɔx] (lake)
 
-3. Distinctive /ʍ/ sound for "wh" words:
+3. Distinctive /ʍ/ sound for “wh” words:
    Example: **whit** [ʍɪt] (what)
 
 4. Rhoticity: /r/ is pronounced in all positions.
@@ -431,7 +431,7 @@ Scots phonology differs from Standard English in several ways:
 
 ### Definite article
 
-The definite article "the" in Scots has several forms depending on the following sound:
+The definite article “the” in Scots has several forms depending on the following sound:
 
 1. **the** [ðə] before consonants: **the hoose** (the house)
 2. **th'** [ð] before vowels: **th'aipple** (the apple)
@@ -453,7 +453,7 @@ Example: **This hoose, that hoose, and yon hoose ower there** (This house, that 
 
 ### Plural you
 
-Scots distinguishes between singular and plural "you":
+Scots distinguishes between singular and plural “you”:
 
 - Singular: **ye**, **you**
 - Plural: **yese**, **yiz**, **yous** (depending on dialect)
@@ -490,21 +490,21 @@ Example: **That's ma-ain hoose** (That's my own house)
 
 ### Verbal nouns
 
-Scots uses verbal nouns (gerunds) more extensively than Standard English, often with the preposition "o" (of):
+Scots uses verbal nouns (gerunds) more extensively than Standard English, often with the preposition “o” (of):
 
 - **the makkin o the cake** (the making of the cake)
 - **the singin o the sang** (the singing of the song)
 
-### Negation with "never"
+### Negation with “never”
 
-Scots often uses "never" for strong negation in the past tense, where Standard English would use "didn't":
+Scots often uses “never” for strong negation in the past tense, where Standard English would use “didn't”:
 
 - **A never saw him** (I didn't see him)
 - **She never telt me** (She didn't tell me)
 
-### Use of "intil" and "ontil"
+### Use of “intil” and “ontil”
 
-Scots uses "intil" and "ontil" where Standard English uses "into" and "onto":
+Scots uses “intil” and “ontil” where Standard English uses “into” and “onto”:
 
 - **He fell intil the loch** (He fell into the lake)
 - **She climbed ontil the roof** (She climbed onto the roof)
@@ -540,13 +540,13 @@ Scots can use the conditional perfect where Standard English would use a simple 
 
 ### Future progressive
 
-Scots often uses "gan" (going) to form the future progressive:
+Scots often uses “gan” (going) to form the future progressive:
 
 - **A'm gan tae be workin aw day** (I'm going to be working all day)
 
-### Habitual "be"
+### Habitual “be”
 
-In some Scots dialects, "be" can be used to express habitual action:
+In some Scots dialects, “be” can be used to express habitual action:
 
 - **He be gangin tae the pub ilka Friday** (He goes to the pub every Friday)
 
@@ -567,13 +567,13 @@ Scots makes extensive use of cleft sentences for emphasis:
 
 Scots uses various forms of tag questions:
 
-- **eh**: **It's a braw day, eh?** (It's a fine day, isn't it?)
-- **is it no**: **Ye're comin, is it no?** (You're coming, aren't you?)
+- **eh**: **It's a braw day, eh?** (It's a fine day, isn’t it?)
+- **is it no**: **Ye're comin, is it no?** (You're coming, aren’t you?)
 - **aye**: **Ye ken whit A mean, aye?** (You know what I mean, right?)
 
 ### Reciprocal pronouns
 
-Scots uses "ane anither" for "each other" or "one another":
+Scots uses “ane anither” for “each other” or “one another”:
 
 - **They aye help ane anither** (They always help each other)
 

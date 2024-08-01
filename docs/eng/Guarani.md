@@ -29,9 +29,9 @@ Nasal vowels:
 | /ũ/ | ũ |
 
 Examples:
-- **ava** [ava] "man"
-- **yvy** [ɨvɨ] "earth"
-- **kãguy** [kãɡuɨ] "forest"
+- **ava** [ava] “man”
+- **yvy** [ɨvɨ] “earth”
+- **kãguy** [kãɡuɨ] “forest”
 
 ### Consonants
 
@@ -61,21 +61,21 @@ Guarani has 19 consonant phonemes:
 | /ɰ/ | v |
 
 Examples:
-- **popo** [popo] "to jump"
-- **mba'e** [mbaʔe] "thing"
-- **ñandu** [ɲandu] "spider"
-- **jaguarete** [dʒaɡwaɾete] "jaguar"
+- **popo** [popo] “to jump”
+- **mba'e** [mbaʔe] “thing”
+- **ñandu** [ɲandu] “spider”
+- **jaguarete** [dʒaɡwaɾete] “jaguar”
 
 ### Phonological processes
 
 1. Nasalization: Vowels become nasalized when adjacent to nasal consonants or nasal vowels.
-   Example: **omano** [õmãnõ] "he/she died"
+   Example: **omano** [õmãnõ] “he/she died”
 
 2. Voicing assimilation: Voiceless consonants become voiced when following nasal vowels.
-   Example: **kã + puku** → **kãmbuku** [kãmbuku] "long bone"
+   Example: **kã + puku** → **kãmbuku** [kãmbuku] “long bone”
 
 3. Vowel harmony: In some dialects, there is a tendency for vowels within a word to share similar features.
-   Example: **ojeroky** [odʒeɾokɨ] → **ojoroko** [odʒoɾoko] "he/she dances"
+   Example: **ojeroky** [odʒeɾokɨ] → **ojoroko** [odʒoɾoko] “he/she dances”
 
 ## Orthography
 
@@ -87,8 +87,8 @@ Some notes on orthography:
 
 - The apostrophe (') represents the glottal stop /ʔ/.
 - The tilde (~) over vowels indicates nasalization.
-- The letter "y" represents the high central vowel /ɨ/.
-- "g̃" represents the velar nasal /ŋ̥/.
+- The letter “y” represents the high central vowel /ɨ/.
+- “g̃” represents the velar nasal /ŋ̥/.
 
 ## Morphology
 
@@ -100,7 +100,7 @@ Nouns in Guarani do not inflect for gender or case. However, they can take vario
 
 1. Plural marking:
    The suffix **-kuéra** is used to indicate plurality, but it's not obligatory when the plural meaning is clear from context.
-   Example: **ava** "man" → **avakuéra** "men"
+   Example: **ava** “man” → **avakuéra** “men”
 
 2. Possession:
    Possessive prefixes are added to nouns to indicate ownership.
@@ -116,17 +116,17 @@ Nouns in Guarani do not inflect for gender or case. However, they can take vario
    | 3pl    | i-/h-  |
 
    Example: 
-   - **che-róga** "my house"
-   - **nde-róga** "your house"
-   - **h-óga** "his/her house"
+   - **che-róga** “my house”
+   - **nde-róga** “your house”
+   - **h-óga** “his/her house”
 
 3. Relational prefixes:
    Some nouns use relational prefixes when possessed. The most common are **t-** (non-possessed), **r-** (possessed), and **h-** (3rd person possession).
    
    Example:
-   - **t-esa** "eye" (general)
-   - **che-r-esa** "my eye"
-   - **h-esa** "his/her eye"
+   - **t-esa** “eye” (general)
+   - **che-r-esa** “my eye”
+   - **h-esa** “his/her eye”
 
 ### Verbs
 
@@ -146,10 +146,10 @@ Guarani verbs are highly complex, with numerous affixes for person, tense, aspec
    | 2pl    | pe-    |
    | 3pl    | o-     |
 
-   Example with **-guata** "to walk":
-   - **a-guata** "I walk"
-   - **re-guata** "you walk"
-   - **o-guata** "he/she walks"
+   Example with **-guata** “to walk”:
+   - **a-guata** “I walk”
+   - **re-guata** “you walk”
+   - **o-guata** “he/she walks”
 
    Inactive verbs (stative):
    | Person | Prefix |
@@ -162,67 +162,67 @@ Guarani verbs are highly complex, with numerous affixes for person, tense, aspec
    | 2pl    | pende- |
    | 3pl    | i-/h-  |
 
-   Example with **-kane'õ** "to be tired":
-   - **che-kane'õ** "I am tired"
-   - **nde-kane'õ** "you are tired"
-   - **i-kane'õ** "he/she is tired"
+   Example with **-kane'õ** “to be tired”:
+   - **che-kane'õ** “I am tired”
+   - **nde-kane'õ** “you are tired”
+   - **i-kane'õ** “he/she is tired”
 
 2. Tense and aspect:
    Guarani uses various suffixes and particles to indicate tense and aspect.
 
    - Present: unmarked
-     Example: **a-guata** "I walk"
+     Example: **a-guata** “I walk”
 
    - Past: **-kuri** (recent past), **-va'ekue** (remote past)
-     Example: **a-guata-kuri** "I walked (recently)"
+     Example: **a-guata-kuri** “I walked (recently)”
 
    - Future: **-ta**
-     Example: **a-guata-ta** "I will walk"
+     Example: **a-guata-ta** “I will walk”
 
    - Progressive: **-ina**
-     Example: **a-guata-ina** "I am walking"
+     Example: **a-guata-ina** “I am walking”
 
    - Completive: **-pa**
-     Example: **a-guata-pa** "I finished walking"
+     Example: **a-guata-pa** “I finished walking”
 
 3. Mood:
    Various suffixes and particles express mood.
 
    - Imperative: **e-** (2sg), **pe-** (2pl)
-     Example: **e-guata** "walk!" (to one person)
+     Example: **e-guata** “walk!” (to one person)
 
    - Optative: **-se**
-     Example: **a-guata-se** "I want to walk"
+     Example: **a-guata-se** “I want to walk”
 
    - Conditional: **-ramo**
-     Example: **a-guata-ramo** "if I walk"
+     Example: **a-guata-ramo** “if I walk”
 
 4. Negation:
    Verbs are negated using the circumfix **nd(a)-...-i**.
-   Example: **nda-guata-i** "I don't walk"
+   Example: **nda-guata-i** “I don’t walk”
 
 ### Adjectives
 
 In Guarani, many concepts that are expressed as adjectives in other languages are expressed as stative verbs. However, there are also true adjectives that can modify nouns directly.
 
 Examples of stative verbs used as adjectives:
-- **i-porã** "it is beautiful"
-- **h-asy** "it is difficult"
+- **i-porã** “it is beautiful”
+- **h-asy** “it is difficult”
 
 Examples of true adjectives:
-- **tuicha** "big"
-- **michĩ** "small"
+- **tuicha** “big”
+- **michĩ** “small”
 
 Adjectives generally follow the noun they modify:
-- **óga tuicha** "big house"
+- **óga tuicha** “big house”
 
 ### Adverbs
 
 Adverbs in Guarani can be formed from adjectives or stative verbs by adding the suffix **-hápe**.
 
 Example:
-- **porã** "good" → **porãhápe** "well"
-- **i-pya'e** "it is fast" → **pya'ehápe** "quickly"
+- **porã** “good” → **porãhápe** “well”
+- **i-pya'e** “it is fast” → **pya'ehápe** “quickly”
 
 ## Syntax
 
@@ -231,7 +231,7 @@ Guarani has a relatively flexible word order, but the most common order is Subje
 1. Basic sentence structure:
    **Juan pelota o-mbo'i** 
    Juan ball 3sg-throw
-   "Juan throws the ball"
+   “Juan throws the ball”
 
 2. Questions:
    Questions are typically formed by adding the particle **-pa** at the end of the sentence or by using question words.
@@ -239,19 +239,19 @@ Guarani has a relatively flexible word order, but the most common order is Subje
    Yes/no question:
    **Re-guata-ta-pa**
    2sg-walk-FUT-Q
-   "Will you walk?"
+   “Will you walk?”
 
    Wh-question:
    **Mba'e re-japo**
    what 2sg-do
-   "What are you doing?"
+   “What are you doing?”
 
 3. Relative clauses:
    Relative clauses are formed using the particle **-va**.
 
    **Ava o-guata-va**
    man 3sg-walk-REL
-   "The man who walks"
+   “The man who walks”
 
 4. Subordinate clauses:
    Various particles and suffixes are used to form subordinate clauses.
@@ -259,39 +259,39 @@ Guarani has a relatively flexible word order, but the most common order is Subje
    - **-ramo** (conditional):
      **A-guata-ramo, che-kane'õ-ta**
      1sg-walk-COND 1sg-tired-FUT
-     "If I walk, I will be tired"
+     “If I walk, I will be tired”
 
    - **-gui** (causal):
      **Nda-guata-i-gui, nache-kane'õi**
      NEG-1sg-walk-NEG-CAUS NEG-1sg-tired-NEG
-     "Because I don't walk, I'm not tired"
+     “Because I don’t walk, I'm not tired”
 
 5. Serial verb constructions:
    Guarani allows multiple verbs to be strung together to express complex actions.
 
    **A-guata a-ju**
    1sg-walk 1sg-come
-   "I come walking"
+   “I come walking”
 
 ## Vocabulary
 
 Guarani vocabulary is primarily of Tupian origin, but it has also borrowed extensively from Spanish due to centuries of contact.
 
 1. Native Guarani words:
-   - **yvy** "earth"
-   - **y** "water"
-   - **ka'a** "yerba mate"
-   - **jaguarete** "jaguar"
+   - **yvy** “earth”
+   - **y** “water”
+   - **ka'a** “yerba mate”
+   - **jaguarete** “jaguar”
 
 2. Spanish loanwords:
-   - **vaka** from Spanish "vaca" (cow)
-   - **kamisa** from Spanish "camisa" (shirt)
-   - **kavaju** from Spanish "caballo" (horse)
+   - **vaka** from Spanish “vaca” (cow)
+   - **kamisa** from Spanish “camisa” (shirt)
+   - **kavaju** from Spanish “caballo” (horse)
 
 3. Neologisms:
    Guarani has created many new words to express modern concepts:
-   - **ñe'ẽryru** (literally "word container") "dictionary"
-   - **mba'e'oka** (literally "thing that makes sound") "telephone"
+   - **ñe'ẽryru** (literally “word container”) “dictionary”
+   - **mba'e'oka** (literally “thing that makes sound”) “telephone”
 
 ## Dialectal variation
 
@@ -309,49 +309,49 @@ While Paraguayan Guarani is the most widely spoken and standardized variety, the
 
 Guarani has many idiomatic expressions that reflect the culture and worldview of its speakers:
 
-1. **Ñande-reko** (literally "our way of being"): Refers to the Guarani way of life and culture.
+1. **Ñande-reko** (literally “our way of being”): Refers to the Guarani way of life and culture.
 
-2. **Che-py'a guasu** (literally "my big liver"): Means "I'm brave" or "I have courage".
+2. **Che-py'a guasu** (literally “my big liver”): Means “I'm brave” or “I have courage”.
 
-3. **A-ñe'ẽ-kuri che-jurúpe** (literally "I spoke into my mouth"): Means "I spoke to myself" or "I thought out loud".
+3. **A-ñe'ẽ-kuri che-jurúpe** (literally “I spoke into my mouth”): Means “I spoke to myself” or “I thought out loud”.
 
-4. **Nd-ai-kuaá-i mba'eve** (literally "I don't know anything"): A humble way of saying "I don't know" or expressing modesty.
+4. **Nd-ai-kuaá-i mba'eve** (literally “I don’t know anything”): A humble way of saying “I don’t know” or expressing modesty.
 
 ## Honorific language
 
-While Guarani doesn't have an elaborate honorific system like some East Asian languages, it does have some respectful forms of address:
+While Guarani doesn’t have an elaborate honorific system like some East Asian languages, it does have some respectful forms of address:
 
 1. **Karai** (sir) and **Kuña karai** (madam): Used as respectful forms of address.
 
 2. The prefix **mbo-** can be added to some verbs to create a more polite or formal version:
-   - **E-ke** "Sleep!" (familiar command)
-   - **E-mbo-ke** "Please sleep" (polite request)
+   - **E-ke** “Sleep!” (familiar command)
+   - **E-mbo-ke** “Please sleep” (polite request)
 
 ## Grammatical particles
 
 Guarani uses various particles to add nuance to sentences:
 
 1. **Ko**: Indicates proximity or emphasis.
-   **Ko-ápe** "right here"
+   **Ko-ápe** “right here”
 
 2. **Voi**: Expresses certainty or emphasis.
-   **A-ha-ta voi** "I will definitely go"
+   **A-ha-ta voi** “I will definitely go”
 
 3. **Katu**: Contrasts or emphasizes.
-   **E-ju katu** "Come on!" (with emphasis)
+   **E-ju katu** “Come on!” (with emphasis)
 
 4. **Niko/Niko'ĩ**: Expresses certainty or provides explanation.
-   **Ha'e niko i-porã** "He/she is indeed beautiful"
+   **Ha'e niko i-porã** “He/she is indeed beautiful”
 
 ## Metaphorical language
 
 Guarani is rich in metaphorical expressions, often drawing from nature:
 
-1. **Che-yvytu** (literally "my wind"): Means "my breath" or "my life".
+1. **Che-yvytu** (literally “my wind”): Means “my breath” or “my life”.
 
-2. **I-py'a-jera** (literally "his/her heart opens"): Means "he/she is happy" or "he/she is relieved".
+2. **I-py'a-jera** (literally “his/her heart opens”): Means “he/she is happy” or “he/she is relieved”.
 
-3. **A-ñemity** (literally "I plant myself"): Means "I settle down" or "I establish myself".
+3. **A-ñemity** (literally “I plant myself”): Means “I settle down” or “I establish myself”.
 
 ## Numbers and counting
 
@@ -362,7 +362,7 @@ Basic numbers:
 - **mokõi** - 2
 - **mbohapy** - 3
 - **irundy** - 4
-- **po** - 5 (also means "hand")
+- **po** - 5 (also means “hand”)
 - **poteĩ** - 6 (5+1)
 - **pokõi** - 7 (5+2)
 - **poapy** - 8 (5+3)
@@ -383,101 +383,101 @@ Guarani has several mechanisms to adjust verbal valency:
 
 1. Causative:
    The prefix **mbo-/mo-** is used to form causative verbs:
-   - **guata** "to walk" → **mbo-guata** "to make walk"
-   Example: **A-mbo-guata che-ra'y** "I make my son walk"
+   - **guata** “to walk” → **mbo-guata** “to make walk”
+   Example: **A-mbo-guata che-ra'y** “I make my son walk”
 
 2. Reflexive:
    The prefix **je-** is used to form reflexive verbs:
-   - **juka** "to kill" → **je-juka** "to kill oneself"
-   Example: **O-je-juka** "He/she killed himself/herself"
+   - **juka** “to kill” → **je-juka** “to kill oneself”
+   Example: **O-je-juka** “He/she killed himself/herself”
 
 3. Reciprocal:
    The prefix **jo-** is used to form reciprocal verbs:
-   - **hayhu** "to love" → **jo-hayhu** "to love each other"
-   Example: **Ore ro-jo-hayhu** "We love each other"
+   - **hayhu** “to love” → **jo-hayhu** “to love each other”
+   Example: **Ore ro-jo-hayhu** “We love each other”
 
 4. Antipassive:
    The prefix **poro-** is used to form antipassive verbs, reducing transitivity:
-   - **juka** "to kill" → **poro-juka** "to kill (in general)"
-   Example: **Ha'e o-poro-juka** "He/she kills (is a killer)"
+   - **juka** “to kill” → **poro-juka** “to kill (in general)”
+   Example: **Ha'e o-poro-juka** “He/she kills (is a killer)”
 
 ## Evidentiality
 
-While Guarani doesn't have a grammaticalized evidential system, it uses certain particles and suffixes to indicate the source or reliability of information:
+While Guarani doesn’t have a grammaticalized evidential system, it uses certain particles and suffixes to indicate the source or reliability of information:
 
 1. **Ndaje**: Indicates hearsay or reported information.
-   Example: **O-ky-ta ndaje** "It will rain, they say"
+   Example: **O-ky-ta ndaje** “It will rain, they say”
 
 2. **Ra'e**: Indicates surprise or newly acquired information.
-   Example: **Reikuaa ra'e** "Oh, you knew (I didn't realize)"
+   Example: **Reikuaa ra'e** “Oh, you knew (I didn't realize)”
 
 3. **Nipo**: Expresses inference or supposition.
-   Example: **O-ke nipo** "He/she must be sleeping (I infer)"
+   Example: **O-ke nipo** “He/she must be sleeping (I infer)”
 
 ## Incorporation
 
 Guarani allows for noun incorporation, where the object of a transitive verb is incorporated into the verb itself:
 
-- **A-y'u** "I drink water" (from **y** "water" + **'u** "to ingest")
-- **A-juru-hei** "I rinse my mouth" (from **juru** "mouth" + **hei** "to wash")
+- **A-y'u** “I drink water” (from **y** “water” + **'u** “to ingest”)
+- **A-juru-hei** “I rinse my mouth” (from **juru** “mouth” + **hei** “to wash”)
 
 ## Reduplication
 
 Reduplication is used in Guarani to express intensity, repetition, or distribution:
 
-- **puku** "long" → **pukupuku** "very long"
-- **jere** "to turn" → **jerejere** "to turn repeatedly"
-- **po** "hand" → **popo** "to jump" (distributive action of hands)
+- **puku** “long” → **pukupuku** “very long”
+- **jere** “to turn” → **jerejere** “to turn repeatedly”
+- **po** “hand” → **popo** “to jump” (distributive action of hands)
 
 ## Directionals
 
 Guarani uses various affixes to indicate direction or location:
 
 - **-vo**: movement away from the speaker
-  Example: **A-ha-vo** "I'm going away"
+  Example: **A-ha-vo** “I'm going away”
 
 - **-ju**: movement towards the speaker
-  Example: **E-ju** "Come here"
+  Example: **E-ju** “Come here”
 
 - **-kuaa**: through or across
-  Example: **A-hasa-kuaa** "I pass through"
+  Example: **A-hasa-kuaa** “I pass through”
 
 ## Temporal expressions
 
 Guarani has several ways to express time:
 
 1. Time of day:
-   - **Ko'ẽmba** "dawn"
-   - **Asaje** "noon"
-   - **Ka'aru** "afternoon"
-   - **Pyhare** "night"
+   - **Ko'ẽmba** “dawn”
+   - **Asaje** “noon”
+   - **Ka'aru** “afternoon”
+   - **Pyhare** “night”
 
 2. Days:
-   - **Ko'ẽrõ** "tomorrow"
-   - **Ku'e** "yesterday"
-   - **Ara** "day"
+   - **Ko'ẽrõ** “tomorrow”
+   - **Ku'e** “yesterday”
+   - **Ara** “day”
 
 3. Seasons:
-   - **Ara-yma** "winter" (cold season)
-   - **Ara-pytu** "spring" (warm season)
-   - **Ara-haku** "summer" (hot season)
-   - **Ára-ro'y** "autumn" (cool season)
+   - **Ara-yma** “winter” (cold season)
+   - **Ara-pytu** “spring” (warm season)
+   - **Ara-haku** “summer” (hot season)
+   - **Ára-ro'y** “autumn” (cool season)
 
 ## Discourse markers
 
 Guarani uses various particles and interjections to structure discourse:
 
-1. **Ágã**: "now, then" (used to introduce a new topic or idea)
-   Example: **Ágã ja-ha** "Now, let's go"
+1. **Ágã**: “now, then” (used to introduce a new topic or idea)
+   Example: **Ágã ja-ha** “Now, let's go”
 
-2. **Upéi**: "then, after that" (used to sequence events)
-   Example: **A-karu, upéi a-ke** "I ate, then I slept"
+2. **Upéi**: “then, after that” (used to sequence events)
+   Example: **A-karu, upéi a-ke** “I ate, then I slept”
 
-3. **Ha**: "and" (used to connect clauses or phrases)
-   Example: **Che ha nde** "You and I"
+3. **Ha**: “and” (used to connect clauses or phrases)
+   Example: **Che ha nde** “You and I”
 
 4. **Hína**: emphatic particle often used in progressive constructions
-   Example: **O-ñe'ẽ hína** "He/she is speaking (right now)"
+   Example: **O-ñe'ẽ hína** “He/she is speaking (right now)”
 
 ## Onomatopoeia
 
@@ -499,8 +499,8 @@ Basic color terms in Guarani:
 - **Sa'yju**: yellow
 
 More specific colors are often described using comparisons to natural objects:
-- **Hovy ka'a rami**: green like yerba mate (literally "blue like yerba")
-- **Pytã tuguy rami**: blood red (literally "red like blood")
+- **Hovy ka'a rami**: green like yerba mate (literally “blue like yerba”)
+- **Pytã tuguy rami**: blood red (literally “red like blood”)
 
 ## Kinship terms
 
@@ -517,8 +517,8 @@ Guarani has a complex system of kinship terms, some examples:
 
 Many Guarani personal names are compounds with meanings related to natural phenomena or desired qualities:
 
-- **Arapoty**: flower of the day (ara "day" + poty "flower")
-- **Jasy-pora**: beautiful moon (jasy "moon" + pora "beautiful")
+- **Arapoty**: flower of the day (ara “day” + poty “flower”)
+- **Jasy-pora**: beautiful moon (jasy “moon” + pora “beautiful”)
 - **Kuarahy**: sun
 - **Yvoty**: flower
 
@@ -526,9 +526,9 @@ Many Guarani personal names are compounds with meanings related to natural pheno
 
 When borrowing words from Spanish or other languages, Guarani often adapts them to fit its phonological system:
 
-- Spanish "plaza" → Guarani **pyrãsa** "town square"
-- Spanish "azúcar" → Guarani **asuka** "sugar"
-- Spanish "escuela" → Guarani **mbo'ehao** (calque: mbo'e "teach" + hao "place")
+- Spanish “plaza” → Guarani **pyrãsa** “town square”
+- Spanish “azúcar” → Guarani **asuka** “sugar”
+- Spanish “escuela” → Guarani **mbo'ehao** (calque: mbo'e “teach” + hao “place”)
 
 ## Ideophones
 
@@ -543,8 +543,8 @@ Guarani makes extensive use of ideophones, words that evoke sensory experiences:
 
 Many Guarani words have metaphorical extensions:
 
-- **Py'a**: literally "liver," but also used to mean "heart" in emotional contexts
-- **Akã**: literally "head," but also used to mean "intelligence" or "memory"
-- **Poty**: literally "flower," but also used to mean "best" or "prime"
+- **Py'a**: literally “liver,” but also used to mean “heart” in emotional contexts
+- **Akã**: literally “head,” but also used to mean “intelligence” or “memory”
+- **Poty**: literally “flower,” but also used to mean “best” or “prime”
 
 This extended overview covers various aspects of the Guarani language, from its complex verbal morphology to its rich system of ideophones and metaphorical expressions. The language's structure and vocabulary reflect the cultural worldview of its speakers, particularly in its connection to nature and the environment.

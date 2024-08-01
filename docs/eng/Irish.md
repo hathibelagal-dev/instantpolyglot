@@ -301,7 +301,7 @@ Yes/no questions are formed by using the interrogative particle **an** (eclipses
 
 Negative questions use **nach** or **nár** (past tense):
 
-- **Nach bhfuil tú go maith?** (Aren't you well?)
+- **Nach bhfuil tú go maith?** (Aren’t you well?)
 - **Nár ól tú caife?** (Didn't you drink coffee?)
 
 Wh-questions use interrogative pronouns:
@@ -315,12 +315,12 @@ Wh-questions use interrogative pronouns:
 
 Negation is formed using the particle **ní** (lenites) or **níor** (past tense):
 
-- **Ní thuigim.** (I don't understand.)
+- **Ní thuigim.** (I don’t understand.)
 - **Níor ól mé caife.** (I didn't drink coffee.)
 
 ### Copula
 
-Irish uses two verbs for "to be":
+Irish uses two verbs for “to be”:
 
 1. **Tá** (the substantive verb):
    Used for descriptions, states, and locations.
@@ -369,7 +369,7 @@ Irish has three main dialects: Munster (An Mhumhain), Connacht (Connachta), and 
    - Connacht and Ulster: stress generally on the first syllable
 
 2. Vocabulary:
-   - "How are you?":
+   - “How are you?”:
      Munster: **Conas atá tú?**
      Connacht: **Cén chaoi a bhfuil tú?**
      Ulster: **Cad é mar atá tú?**
@@ -388,24 +388,24 @@ Irish has three main dialects: Munster (An Mhumhain), Connacht (Connachta), and 
 
 Irish has many idiomatic expressions that reflect its unique cultural and linguistic heritage:
 
-1. **Go raibh maith agat** - Thank you (lit. "May you have good")
+1. **Go raibh maith agat** - Thank you (lit. “May you have good”)
 
-2. **Sláinte** - Cheers (lit. "Health")
+2. **Sláinte** - Cheers (lit. “Health”)
 
-3. **Is maith liom** - I like (lit. "Is good with me")
+3. **Is maith liom** - I like (lit. “Is good with me”)
    **Is maith liom caife.** (I like coffee.)
 
-4. **Tá brón orm** - I'm sorry (lit. "Sorrow is on me")
+4. **Tá brón orm** - I'm sorry (lit. “Sorrow is on me”)
 
-5. **Tá áthas orm** - I'm happy (lit. "Joy is on me")
+5. **Tá áthas orm** - I'm happy (lit. “Joy is on me”)
 
-6. **Tá cead agat** - You're welcome/You may (lit. "Permission is at you")
+6. **Tá cead agat** - You're welcome/You may (lit. “Permission is at you”)
 
-7. **Ní neart go cur le chéile** - There's strength in unity (lit. "No strength until putting together")
+7. **Ní neart go cur le chéile** - There's strength in unity (lit. “No strength until putting together”)
 
-8. **Aithníonn ciaróg ciaróg eile** - It takes one to know one (lit. "One beetle recognizes another")
+8. **Aithníonn ciaróg ciaróg eile** - It takes one to know one (lit. “One beetle recognizes another”)
 
-9. **Níl aon tinteán mar do thinteán féin** - There's no place like home (lit. "There's no fireplace like your own fireplace")
+9. **Níl aon tinteán mar do thinteán féin** - There's no place like home (lit. “There's no fireplace like your own fireplace”)
 
 10. **Ar scáth a chéile a mhaireann na daoine** - People live in each other's shelter
 
@@ -613,7 +613,7 @@ Irish verbs have two forms: dependent and independent. The independent form is u
 Examples with the verb **feic** (to see):
 
 Independent: **Feicim** (I see)
-Dependent: **Ní fheicim** (I don't see)
+Dependent: **Ní fheicim** (I don’t see)
 
 Independent: **Chonaic mé** (I saw)
 Dependent: **Ní fhaca mé** (I didn't see)
@@ -632,7 +632,7 @@ Irish uses various particles with verbs to indicate tense, mood, or to form ques
    **Dúirt sé go raibh sé tuirseach** (He said that he was tired)
 
 4. **ní**: negative particle
-   **Ní thuigim** (I don't understand)
+   **Ní thuigim** (I don’t understand)
 
 5. **an**: question particle
    **An dtuigeann tú?** (Do you understand?)

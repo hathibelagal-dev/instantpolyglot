@@ -250,7 +250,7 @@ Examples in sentences:
 3. **Angutuvoq 30-nik ukiulik.** ('He is a 30-year-old man.')
 4. **Ullumi nerinngillanga.** ('Today I'm not eating.')
 5. **Tikigaluarpoq kisianni uninngaannarpoq.** ('Although he arrived, he just stayed.')
-6. **Angukasik oqaaseqanngilaq.** ('The damn man doesn't say anything.')
+6. **Angukasik oqaaseqanngilaq.** ('The damn man doesn’t say anything.')
 7. **Qimmesuaq takuiuk?** ('Did you see the big dog?')
 8. **Nanoaraq alianaatsuuvoq.** ('The small polar bear is cute.')
 
@@ -356,7 +356,7 @@ Subordinate clauses in Greenlandic are often expressed through verbal moods rath
    **Siallerpat anissanngilanga.**
    sialler-pat ani-ssa-nngi-langa
    rain-COND.3SG go_out-FUT-NEG-IND.1SG
-   'If it rains, I won't go out.'
+   'If it rains, I won’t go out.'
 
 3. Causative Mood:
    Used for 'because' clauses:
@@ -391,11 +391,11 @@ Examples:
    sinip-nngit-langa
    sleep-NEG-IND.1SG
 
-2. **Puisinik takunngilanga.** ('I don't see any seals.')
+2. **Puisinik takunngilanga.** ('I don’t see any seals.')
    puisi-nik taku-nngit-langa
    seal-INS.PL see-NEG-IND.1SG
 
-3. **Oqalussinnaanngilaq.** ('He/she can't speak.')
+3. **Oqalussinnaanngilaq.** ('He/she can’t speak.')
    oqaluk-sinnaa-nngit-laq
    speak-can-NEG-IND.3SG
 
@@ -439,7 +439,7 @@ Here are some common Greenlandic words and phrases:
 
 1. Greetings and Basic Phrases:
    - **Aluu** / **Aluttuq**: Hello
-   - **Inuulluaqqusillunga**: Goodbye (literally: "I wish you good health")
+   - **Inuulluaqqusillunga**: Goodbye (literally: “I wish you good health”)
    - **Qujanaq**: Thank you
    - **Ajunngilaq**: You're welcome / It's okay
    - **Aap**: Yes
@@ -452,7 +452,7 @@ Here are some common Greenlandic words and phrases:
    - **sisamat**: four
    - **tallimat**: five
    - **arfinillit**: six
-   - **arfineq-marluk**: seven (literally: "on the other hand two")
+   - **arfineq-marluk**: seven (literally: “on the other hand two”)
    - **arfineq-pingasut**: eight
    - **qulingiluat**: nine
    - **qulit**: ten
@@ -594,6 +594,6 @@ Example text in Greenlandic:
 
 This is the first article of the Universal Declaration of Human Rights in Greenlandic. A rough translation:
 
-"All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+“All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.”
 
 This example showcases many features of Greenlandic, including its agglutinative nature, incorporation, and complex morphology.

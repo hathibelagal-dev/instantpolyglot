@@ -15,9 +15,9 @@ The Latin alphabet for Javanese uses 26 standard letters plus é, è, and ê. Di
 - ê [ə] - mid central vowel (schwa)
 
 Examples:
-- **séla** [sela] "rock"
-- **tèh** [tɛh] "tea"
-- **têmbang** [təmbaŋ] "song"
+- **séla** [sela] “rock”
+- **tèh** [tɛh] “tea”
+- **têmbang** [təmbaŋ] “song”
 
 ### Javanese script
 
@@ -74,23 +74,23 @@ Notes:
 2. Some dialects have additional sounds, such as [f] and [v] in loanwords.
 
 Examples:
-- **pari** [pari] "rice plant"
-- **bapak** [bapaʔ] "father"
-- **tuku** [tuku] "buy"
-- **dalan** [dalan] "road"
-- **cukit** [cukIt] "toothpick"
-- **jogja** [ɟɔɡɟa] "Jogja (short for Yogyakarta)"
-- **kaya** [kaja] "like, as"
-- **gajah** [ɡaɟah] "elephant"
-- **aman** [aman] "safe"
-- **nanas** [nanas] "pineapple"
-- **nyamuk** [ɲamuk] "mosquito"
-- **ngono** [ŋono] "like that"
-- **sapi** [sapi] "cow"
-- **hayu** [haju] "come on"
-- **waluh** [walUh] "pumpkin"
-- **rasa** [rasa] "feeling"
-- **yakin** [jakIn] "sure, certain"
+- **pari** [pari] “rice plant”
+- **bapak** [bapaʔ] “father”
+- **tuku** [tuku] “buy”
+- **dalan** [dalan] “road”
+- **cukit** [cukIt] “toothpick”
+- **jogja** [ɟɔɡɟa] “Jogja (short for Yogyakarta)”
+- **kaya** [kaja] “like, as”
+- **gajah** [ɡaɟah] “elephant”
+- **aman** [aman] “safe”
+- **nanas** [nanas] “pineapple”
+- **nyamuk** [ɲamuk] “mosquito”
+- **ngono** [ŋono] “like that”
+- **sapi** [sapi] “cow”
+- **hayu** [haju] “come on”
+- **waluh** [walUh] “pumpkin”
+- **rasa** [rasa] “feeling”
+- **yakin** [jakIn] “sure, certain”
 
 ### Vowels
 
@@ -107,39 +107,39 @@ Notes:
 2. Some dialects may have additional vowel sounds or diphthongs.
 
 Examples:
-- **iki** [iki] "this"
-- **ulu** [ulu] "head"
-- **enak** [enaʔ] "delicious"
-- **opo** [opo] "what"
-- **têmên** [təmən] "truly"
-- **èndi** [ɛndi] "where"
-- **oma** [ɔma] "house" (in some dialects)
-- **aku** [aku] "I"
+- **iki** [iki] “this”
+- **ulu** [ulu] “head”
+- **enak** [enaʔ] “delicious”
+- **opo** [opo] “what”
+- **têmên** [təmən] “truly”
+- **èndi** [ɛndi] “where”
+- **oma** [ɔma] “house” (in some dialects)
+- **aku** [aku] “I”
 
 ### Phonotactics
 
 Javanese syllable structure is generally (C)V(C), where C is a consonant and V is a vowel. Consonant clusters are rare in native words but can occur in loanwords.
 
 Examples:
-- **wong** [wɔŋ] "person"
-- **telu** [təlu] "three"
-- **mripat** [mripat] "eye"
-- **klapa** [klapa] "coconut"
-- **nduwur** [nduwur] "above"
+- **wong** [wɔŋ] “person”
+- **telu** [təlu] “three”
+- **mripat** [mripat] “eye”
+- **klapa** [klapa] “coconut”
+- **nduwur** [nduwur] “above”
 
 ### Stress
 
 Stress in Javanese is typically on the penultimate syllable, but can shift to the final syllable in certain contexts:
 
-- **gajah** [ˈɡaɟah] "elephant"
-- **kucing** [ˈkuciŋ] "cat"
-- **sekolah** [səˈkolah] "school"
-- **kahuripan** [kahuˈripan] "life"
-- **kadadeyan** [kadaˈdejan] "event, occurrence"
+- **gajah** [ˈɡaɟah] “elephant”
+- **kucing** [ˈkuciŋ] “cat”
+- **sekolah** [səˈkolah] “school”
+- **kahuripan** [kahuˈripan] “life”
+- **kadadeyan** [kadaˈdejan] “event, occurrence”
 
 In some cases, especially with the addition of suffixes, stress can move:
-- **omah** [ˈomah] "house"
-- **omahé** [omaˈhe] "his/her house"
+- **omah** [ˈomah] “house”
+- **omahé** [omaˈhe] “his/her house”
 
 ## Morphology
 
@@ -149,99 +149,99 @@ Javanese has a rich system of affixation, including prefixes, infixes, suffixes,
 
 1. Prefix N- (nasal assimilation):
    This prefix undergoes nasal assimilation depending on the initial consonant of the root word.
-   - **tulis** "write" → **nulis** "to write"
-   - **pangan** "food" → **mangan** "to eat"
-   - **gawe** "make" → **nggawe** "to make"
-   - **jupuk** "take" → **njupuk** "to take"
-   - **sapu** "broom" → **nyapu** "to sweep"
+   - **tulis** “write” → **nulis** “to write”
+   - **pangan** “food” → **mangan** “to eat”
+   - **gawe** “make” → **nggawe** “to make”
+   - **jupuk** “take” → **njupuk** “to take”
+   - **sapu** “broom” → **nyapu** “to sweep”
 
 2. Prefix di- (passive voice):
-   - **tuku** "buy" → **dituku** "to be bought"
-   - **gawa** "carry" → **digawa** "to be carried"
-   - **waca** "read" → **diwaca** "to be read"
-   - **tulis** "write" → **ditulis** "to be written"
+   - **tuku** “buy” → **dituku** “to be bought”
+   - **gawa** “carry” → **digawa** “to be carried”
+   - **waca** “read” → **diwaca** “to be read”
+   - **tulis** “write” → **ditulis** “to be written”
 
 3. Suffix -ake (causative):
-   - **lungguh** "sit" → **lungguhake** "to seat (someone)"
-   - **turu** "sleep" → **turukake** "to put (someone) to sleep"
-   - **mlebu** "enter" → **mlebokake** "to put (something) in"
-   - **metu** "exit" → **metokake** "to take (something) out"
+   - **lungguh** “sit” → **lungguhake** “to seat (someone)”
+   - **turu** “sleep” → **turukake** “to put (someone) to sleep”
+   - **mlebu** “enter” → **mlebokake** “to put (something) in”
+   - **metu** “exit” → **metokake** “to take (something) out”
 
 4. Infix -um- (intransitive/stative):
-   - **tiba** "fall" → **tumiba** "to fall (involuntarily)"
-   - **guyu** "laugh" → **gumuyu** "to be in a state of laughter"
-   - **tulung** "help" → **tumulung** "to come to help"
-   - **sebar** "spread" → **sumeBar** "to be spread out"
+   - **tiba** “fall” → **tumiba** “to fall (involuntarily)”
+   - **guyu** “laugh” → **gumuyu** “to be in a state of laughter”
+   - **tulung** “help” → **tumulung** “to come to help”
+   - **sebar** “spread” → **sumeBar** “to be spread out”
 
 5. Prefix ke- (accidental or involuntary action):
-   - **tiba** "fall" → **ketiba** "to fall accidentally"
-   - **tinggal** "leave" → **ketinggal** "to be left behind unintentionally"
-   - **temu** "meet" → **ketemu** "to meet (by chance)"
+   - **tiba** “fall” → **ketiba** “to fall accidentally”
+   - **tinggal** “leave” → **ketinggal** “to be left behind unintentionally”
+   - **temu** “meet” → **ketemu** “to meet (by chance)”
 
 6. Circumfix ke-an (state or condition):
-   - **adoh** "far" → **keadohan** "too far"
-   - **cilik** "small" → **keciliken** "too small"
-   - **gedhe** "big" → **kegedhen** "too big"
+   - **adoh** “far” → **keadohan** “too far”
+   - **cilik** “small” → **keciliken** “too small”
+   - **gedhe** “big” → **kegedhen** “too big”
 
 ### Nominal affixes
 
 1. Prefix pe- (agent/instrument):
-   - **gawe** "make" → **pegawe** "worker"
-   - **tuku** "buy" → **petuku** "buyer"
-   - **dol** "sell" → **pedol** "seller"
-   - **tembang** "sing" → **penembang** "singer"
+   - **gawe** “make” → **pegawe** “worker”
+   - **tuku** “buy” → **petuku** “buyer”
+   - **dol** “sell” → **pedol** “seller”
+   - **tembang** “sing” → **penembang** “singer”
 
 2. Suffix -an (result/place):
-   - **tulis** "write" → **tulisan** "writing"
-   - **simpen** "keep" → **simpenan** "savings"
-   - **adus** "bathe" → **adusan** "bathing place"
-   - **dolan** "play" → **dolanan** "toy, game"
+   - **tulis** “write” → **tulisan** “writing”
+   - **simpen** “keep” → **simpenan** “savings”
+   - **adus** “bathe” → **adusan** “bathing place”
+   - **dolan** “play” → **dolanan** “toy, game”
 
 3. Circumfix pa-an (place):
-   - **lungguh** "sit" → **palungguhan** "seat, sitting place"
-   - **adus** "bathe" → **padusan** "bathing place"
-   - **dol** "sell" → **padolan** "marketplace"
+   - **lungguh** “sit” → **palungguhan** “seat, sitting place”
+   - **adus** “bathe” → **padusan** “bathing place”
+   - **dol** “sell” → **padolan** “marketplace”
 
 4. Prefix ka- (abstract noun):
-   - **becik** "good" → **kabecikan** "goodness"
-   - **sugih** "rich" → **kasugihan** "wealth"
-   - **mulya** "noble" → **kamulyan** "nobility"
+   - **becik** “good” → **kabecikan** “goodness”
+   - **sugih** “rich” → **kasugihan** “wealth”
+   - **mulya** “noble” → **kamulyan** “nobility”
 
 ### Reduplication
 
 Reduplication is common in Javanese and can indicate plurality, intensity, or variety:
 
 1. Full reduplication:
-   - **bocah** "child" → **bocah-bocah** "children"
-   - **omah** "house" → **omah-omah** "houses"
+   - **bocah** “child” → **bocah-bocah** “children”
+   - **omah** “house” → **omah-omah** “houses”
 
 2. Partial reduplication:
-   - **mlaku** "walk" → **mlaku-mlaku** "to take a leisurely walk"
-   - **tuku** "buy" → **tetuku** "to go shopping"
+   - **mlaku** “walk” → **mlaku-mlaku** “to take a leisurely walk”
+   - **tuku** “buy” → **tetuku** “to go shopping”
 
 3. Reduplication with vowel change:
-   - **bali** "return" → **bola-bali** "to return repeatedly"
-   - **turu** "sleep" → **tura-turu** "to sleep on and off"
+   - **bali** “return” → **bola-bali** “to return repeatedly”
+   - **turu** “sleep” → **tura-turu** “to sleep on and off”
 
 4. Reduplication for intensity or variety:
-   - **abang** "red" → **abang-abang** "reddish"
-   - **gedhe** "big" → **gedhe-gedhe** "varying in bigness"
+   - **abang** “red” → **abang-abang** “reddish”
+   - **gedhe** “big” → **gedhe-gedhe** “varying in bigness”
 
 ### Compound words
 
 Javanese also forms compound words by combining two or more roots:
 
 1. Noun + Noun:
-   - **wong** "person" + **tuwa** "old" → **wong tuwa** "parent"
-   - **anak** "child" + **putu** "grandchild" → **anak putu** "descendants"
+   - **wong** “person” + **tuwa** “old” → **wong tuwa** “parent”
+   - **anak** “child” + **putu** “grandchild” → **anak putu** “descendants”
 
 2. Adjective + Noun:
-   - **cilik** "small" + **ati** "heart" → **cilik ati** "discouraged"
-   - **gedhe** "big" + **endhas** "head" → **gedhe endhas** "arrogant"
+   - **cilik** “small” + **ati** “heart” → **cilik ati** “discouraged”
+   - **gedhe** “big” + **endhas** “head” → **gedhe endhas** “arrogant”
 
 3. Verb + Noun:
-   - **mangan** "eat" + **ati** "liver" → **mangan ati** "jealous"
-   - **nggedhekake** "enlarge" + **kuping** "ear" → **nggedhekake kuping** "to eavesdrop"
+   - **mangan** “eat” + **ati** “liver” → **mangan ati** “jealous”
+   - **nggedhekake** “enlarge” + **kuping** “ear” → **nggedhekake kuping** “to eavesdrop”
 
 ## Syntax
 
@@ -251,21 +251,21 @@ The basic word order in Javanese is Subject-Verb-Object (SVO):
 
 **Aku mangan roti.**
 I eat bread
-"I eat bread."
+“I eat bread.”
 
 **Bapak tuku pit anyar.**
 Father buy bicycle new
-"Father buys a new bicycle."
+“Father buys a new bicycle.”
 
 However, word order can be flexible, especially in colloquial speech:
 
 **Roti tak pangan.**
 Bread I eat
-"I eat the bread." (with focus on "bread")
+“I eat the bread.” (with focus on “bread”)
 
 **Anyar pite Bapak.**
 New bicycle-the Father
-"Father's bicycle is new."
+“Father's bicycle is new.”
 
 ### Topic-comment structure
 
@@ -273,11 +273,11 @@ Javanese often uses a topic-comment structure, where the topic is introduced fir
 
 **Kucing kuwi, wulune ireng.**
 Cat that, fur-its black
-"That cat, its fur is black."
+“That cat, its fur is black.”
 
 **Omah sing gedhe kae, duweke sapa?**
 House REL big that, property-of who
-"That big house, whose property is it?"
+“That big house, whose property is it?”
 
 ### Particles
 
@@ -286,27 +286,27 @@ Javanese uses various particles to modify the meaning or tone of a sentence:
 1. **ta** (question particle):
    **Kowe wis mangan ta?**
    You already eat Q
-   "Have you eaten?"
+   “Have you eaten?”
 
 2. **kok** (surprise or emphasis):
    **Kok apik tenan!**
    PART good very
-   "Wow, it's very good!"
+   “Wow, it's very good!”
 
 3. **lho** (surprise or warning):
    **Ati-ati lho!**
    Careful PART
-   "Be careful!"
+   “Be careful!”
 
 4. **je** (emphasis):
    **Enak je masakan ibuku.**
    Delicious PART cooking mother-my
-   "My mother's cooking is really delicious."
+   “My mother's cooking is really delicious.”
 
 5. **to** (confirmation seeker):
    **Kowe arep mangkat to?**
    You will leave PART
-   "You're going to leave, right?"
+   “You're going to leave, right?”
 
 ### Negation
 
@@ -315,91 +315,91 @@ The main negation words in Javanese are:
 1. **ora** (general negation)
    **Aku ora mangan.**
    I NEG eat
-   "I don't eat."
+   “I don’t eat.”
 
 2. **dudu** (negation of nouns)
    **Kuwi dudu omahku.**
    That NEG house-my
-   "That's not my house."
+   “That's not my house.”
 
 3. **aja** (prohibitive)
    **Aja rame!**
    NEG noisy
-   "Don't be noisy!"
+   “Don’t be noisy!”
 
 4. **durung** (not yet)
    **Aku durung mangan.**
    I not.yet eat
-   "I haven't eaten yet."
+   “I haven't eaten yet.”
 
 5. **ora usah** (need not)
    **Kowe ora usah teka.**
    You NEG need come
-   "You need not come."
+   “You need not come.”
 
 ### Question formation
 
 Questions in Javanese can be formed in several ways:
 
 1. Using question words:
-   - **apa** "what"
-   - **sapa** "who"
-   - **ngendi** "where"
-   - **kapan** "when"
-   - **piye** "how"
-   - **pira** "how many/much"
+   - **apa** “what”
+   - **sapa** “who”
+   - **ngendi** “where”
+   - **kapan** “when”
+   - **piye** “how”
+   - **pira** “how many/much”
 
    Example:
    **Kowe arep neng ngendi?**
    You will to where
-   "Where are you going?"
+   “Where are you going?”
 
 2. Using intonation:
    **Kowe wis mangan?**
    You already eat
-   "Have you eaten?"
+   “Have you eaten?”
 
 3. Using the particle **apa**:
    **Apa kowe wis mangan?**
    Q you already eat
-   "Have you eaten?"
+   “Have you eaten?”
 
 4. Using **ta** at the end of the sentence:
    **Kowe wis mangan ta?**
    You already eat Q
-   "You've eaten, right?"
+   “You've eaten, right?”
 
 ### Relative clauses
 
-Relative clauses in Javanese are formed using the relative pronoun **sing** ("that/which/who"):
+Relative clauses in Javanese are formed using the relative pronoun **sing** (“that/which/who”):
 
 **Wong sing nganggo klambi abang kae adhiku.**
 Person REL wear shirt red that younger.sibling-my
-"The person who is wearing a red shirt is my younger sibling."
+“The person who is wearing a red shirt is my younger sibling.”
 
 **Buku sing taktuku wingi wis ilang.**
 Book REL I-buy yesterday already lost
-"The book that I bought yesterday is already lost."
+“The book that I bought yesterday is already lost.”
 
 ### Comparatives and superlatives
 
 1. Comparative:
-   Use **luwih ... tinimbang** ("more ... than"):
+   Use **luwih ... tinimbang** (“more ... than”):
    
    **Omahku luwih gedhe tinimbang omahe.**
    House-my more big than house-his
-   "My house is bigger than his house."
+   “My house is bigger than his house.”
 
 2. Superlative:
-   Use **paling** ("most") or **dhewe** ("most" when placed after the adjective):
+   Use **paling** (“most”) or **dhewe** (“most” when placed after the adjective):
 
    **Dheweke wong paling pinter neng kelase.**
    He/She person most smart in class-his/her
-   "He/She is the smartest person in his/her class."
+   “He/She is the smartest person in his/her class.”
 
    **Omahe gedhe dhewe neng kampung kene.**
    House-his/her big most in village here
-   "His/her house is the biggest in this village."
+   “His/her house is the biggest in this village.”
 
 ### Serial verb constructions
 
@@ -407,11 +407,11 @@ Javanese often uses serial verb constructions, where two or more verbs are used 
 
 **Aku mlaku mulih.**
 I walk go.home
-"I walk home."
+“I walk home.”
 
 **Ibu lungguh maca koran.**
 Mother sit read newspaper
-"Mother sits reading the newspaper."
+“Mother sits reading the newspaper.”
 
 ## Speech levels
 
@@ -419,15 +419,15 @@ One of the most distinctive features of Javanese is its system of speech levels,
 
 1. **Ngoko** (informal):
    Used among friends, family, or to subordinates.
-   Example: **Kowe arep neng endi?** "Where are you going?"
+   Example: **Kowe arep neng endi?** “Where are you going?”
 
 2. **Madya** (semi-formal):
    A middle level, less formal than Krama but more polite than Ngoko.
-   Example: **Sampeyan ajeng teng pundi?** "Where are you going?"
+   Example: **Sampeyan ajeng teng pundi?** “Where are you going?”
 
 3. **Krama** (formal):
    Used to show respect to elders, superiors, or strangers.
-   Example: **Panjenengan badhe tindak pundi?** "Where are you going?"
+   Example: **Panjenengan badhe tindak pundi?** “Where are you going?”
 
 Each level has its own vocabulary for many common words:
 
@@ -459,7 +459,7 @@ Example of the same sentence in different speech levels:
 Ngoko: **Kowe wis mangan?**
 Madya: **Sampeyan sampun nedha?**
 Krama: **Panjenengan sampun dhahar?**
-"Have you eaten?"
+“Have you eaten?”
 
 ## Vocabulary
 
@@ -467,92 +467,92 @@ Javanese vocabulary includes native Austronesian roots, Sanskrit loanwords (espe
 
 ### Native words
 
-- **omah** "house"
-- **banyu** "water"
-- **geni** "fire"
-- **watu** "stone"
-- **segara** "sea"
-- **gunung** "mountain"
-- **wit** "tree"
-- **kucing** "cat"
-- **pitik** "chicken"
-- **endhas** "head"
-- **irung** "nose"
-- **lambe** "lips"
-- **sikil** "foot"
-- **awan** "day"
-- **bengi** "night"
+- **omah** “house”
+- **banyu** “water”
+- **geni** “fire”
+- **watu** “stone”
+- **segara** “sea”
+- **gunung** “mountain”
+- **wit** “tree”
+- **kucing** “cat”
+- **pitik** “chicken”
+- **endhas** “head”
+- **irung** “nose”
+- **lambe** “lips”
+- **sikil** “foot”
+- **awan** “day”
+- **bengi** “night”
 
 ### Sanskrit loanwords
 
-- **guru** "teacher"
-- **swarga** "heaven"
-- **wahyu** "divine revelation"
-- **yuda** "war"
-- **jiwa** "soul"
-- **karya** "work"
-- **wicara** "speech"
-- **warna** "color"
-- **nirmala** "pure"
-- **satya** "loyal"
-- **tirta** "water" (formal)
-- **dahana** "fire" (formal)
-- **raja** "king"
-- **dewa** "god"
-- **surya** "sun"
+- **guru** “teacher”
+- **swarga** “heaven”
+- **wahyu** “divine revelation”
+- **yuda** “war”
+- **jiwa** “soul”
+- **karya** “work”
+- **wicara** “speech”
+- **warna** “color”
+- **nirmala** “pure”
+- **satya** “loyal”
+- **tirta** “water” (formal)
+- **dahana** “fire” (formal)
+- **raja** “king”
+- **dewa** “god”
+- **surya** “sun”
 
 ### Arabic loanwords
 
-- **sholat** "prayer"
-- **akhir** "end"
-- **pikir** "think"
-- **kitab** "book"
-- **akal** "mind, reason"
-- **kursi** "chair"
-- **masjid** "mosque"
-- **zakat** "alms"
-- **wektu** "time" (from Arabic "waktu")
-- **alam** "nature"
-- **ilmu** "knowledge"
-- **adat** "custom"
-- **musuh** "enemy"
-- **slamet** "safe" (from Arabic "salamat")
-- **kabar** "news"
+- **sholat** “prayer”
+- **akhir** “end”
+- **pikir** “think”
+- **kitab** “book”
+- **akal** “mind, reason”
+- **kursi** “chair”
+- **masjid** “mosque”
+- **zakat** “alms”
+- **wektu** “time” (from Arabic “waktu”)
+- **alam** “nature”
+- **ilmu** “knowledge”
+- **adat** “custom”
+- **musuh** “enemy”
+- **slamet** “safe” (from Arabic “salamat”)
+- **kabar** “news”
 
 ### Dutch loanwords
 
-- **sepur** "train" (from Dutch "spoor")
-- **pit** "bicycle" (from Dutch "fiets")
-- **kamar** "room" (from Dutch "kamer")
-- **setrika** "iron" (from Dutch "strijken")
-- **kantor** "office" (from Dutch "kantoor")
-- **kopi** "coffee" (from Dutch "koffie")
-- **skotel** "fork" (from Dutch "schotel")
-- **buku** "book" (from Dutch "boek")
-- **sepatu** "shoe" (from Dutch "schoen")
-- **kertu** "card" (from Dutch "kaart")
-- **sprei** "bedsheet" (from Dutch "sprei")
-- **tante** "aunt" (from Dutch "tante")
-- **om** "uncle" (from Dutch "oom")
-- **setelan** "suit" (from Dutch "stel")
-- **pabrik** "factory" (from Dutch "fabriek")
+- **sepur** “train” (from Dutch “spoor”)
+- **pit** “bicycle” (from Dutch “fiets”)
+- **kamar** “room” (from Dutch “kamer”)
+- **setrika** “iron” (from Dutch “strijken”)
+- **kantor** “office” (from Dutch “kantoor”)
+- **kopi** “coffee” (from Dutch “koffie”)
+- **skotel** “fork” (from Dutch “schotel”)
+- **buku** “book” (from Dutch “boek”)
+- **sepatu** “shoe” (from Dutch “schoen”)
+- **kertu** “card” (from Dutch “kaart”)
+- **sprei** “bedsheet” (from Dutch “sprei”)
+- **tante** “aunt” (from Dutch “tante”)
+- **om** “uncle” (from Dutch “oom”)
+- **setelan** “suit” (from Dutch “stel”)
+- **pabrik** “factory” (from Dutch “fabriek”)
 
 ### English loanwords
 
-- **komputer** "computer"
-- **hape** "mobile phone" (from "HP" - handphone)
-- **klub** "club"
-- **bis** "bus"
-- **tipi** "TV"
-- **film** "movie"
-- **internet** "internet"
-- **sofwer** "software"
-- **masuk angin** "catch a cold" (literal translation of English phrase)
-- **Es-Em-Es** "SMS" (text message)
-- **selfie** "selfie"
-- **onlén** "online"
-- **malem Minggu** "Saturday night" (date night, from English "malam" + "Minggu")
-- **wékén** "weekend"
+- **komputer** “computer”
+- **hape** “mobile phone” (from “HP” - handphone)
+- **klub** “club”
+- **bis** “bus”
+- **tipi** “TV”
+- **film** “movie”
+- **internet** “internet”
+- **sofwer** “software”
+- **masuk angin** “catch a cold” (literal translation of English phrase)
+- **Es-Em-Es** “SMS” (text message)
+- **selfie** “selfie”
+- **onlén** “online”
+- **malem Minggu** “Saturday night” (date night, from English “malam” + “Minggu”)
+- **wékén** “weekend”
 
 ## Idiomatic expressions
 
@@ -560,43 +560,43 @@ Javanese has many idiomatic expressions that reflect cultural values and wisdom:
 
 1. **Alon-alon waton kelakon**
    Slowly but surely
-   "Slow but steady wins the race"
+   “Slow but steady wins the race”
 
 2. **Becik ketitik ala ketara**
    Good will be seen, bad will be apparent
-   "Good and bad deeds will eventually be known"
+   “Good and bad deeds will eventually be known”
 
 3. **Jer basuki mawa beya**
    Success requires cost
-   "No pain, no gain"
+   “No pain, no gain”
 
 4. **Aja dumeh**
-   Don't be arrogant
-   "Don't be cocky or abuse your power"
+   Don’t be arrogant
+   “Don’t be cocky or abuse your power”
 
 5. **Nrimo ing pandum**
    Accept what is given
-   "Be content with your lot"
+   “Be content with your lot”
 
 6. **Urip iku urup**
    Life is a flame
-   "Life should be used to bring light to others"
+   “Life should be used to bring light to others”
 
 7. **Sapa nandur bakal ngunduh**
    Who plants will harvest
-   "You reap what you sow"
+   “You reap what you sow”
 
 8. **Aja nggugah macan turu**
-   Don't wake a sleeping tiger
-   "Don't provoke trouble unnecessarily"
+   Don’t wake a sleeping tiger
+   “Don’t provoke trouble unnecessarily”
 
 9. **Witing tresna jalaran saka kulina**
    The root of love comes from habit
-   "Love grows from familiarity"
+   “Love grows from familiarity”
 
 10. **Aja rumangsa bisa, nanging bisaa rumangsa**
-    Don't feel that you can, but be able to feel
-    "Don't be overconfident, but be empathetic"
+    Don’t feel that you can, but be able to feel
+    “Don’t be overconfident, but be empathetic”
 
 ## Numbers and counting
 
@@ -637,13 +637,13 @@ Formed by adding the prefix **ka-** to the cardinal number:
 
 Used for groups or sets, formed with the prefix **se-** and suffix **-an**:
 
-- **selosin** "a dozen"
-- **selusin** "a dozen" (alternative form)
-- **sekodi** "a score (20)"
-- **seket** "fifty"
-- **satak** "200"
-- **selawe** "twenty-five"
-- **sewidak** "sixty"
+- **selosin** “a dozen”
+- **selusin** “a dozen” (alternative form)
+- **sekodi** “a score (20)”
+- **seket** “fifty”
+- **satak** “200”
+- **selawe** “twenty-five”
+- **sewidak** “sixty”
 
 ### Fractions
 
@@ -676,32 +676,32 @@ Javanese also has special number sets used in specific contexts:
 Colloquial Javanese, especially as spoken in urban areas, can differ significantly from the standard or literary language:
 
 1. Shortened forms:
-   - **ora ono** → **ra ono** "there isn't"
-   - **durung** → **urung** "not yet"
-   - **uwis** → **wis** "already"
-   - **ora usah** → **rasah** "no need"
+   - **ora ono** → **ra ono** “there isn’t”
+   - **durung** → **urung** “not yet”
+   - **uwis** → **wis** “already”
+   - **ora usah** → **rasah** “no need”
 
 2. Slang terms:
-   - **bro** "brother" (from English)
-   - **rek** "friend" (East Javanese)
-   - **cuk** "dude" (vulgar)
-   - **boss** "friend" (addressing someone)
+   - **bro** “brother” (from English)
+   - **rek** “friend” (East Javanese)
+   - **cuk** “dude” (vulgar)
+   - **boss** “friend” (addressing someone)
    - **njay** (exclamation of surprise)
 
 3. Particle usage:
-   - **to** (confirmation seeker): **Kowe arep mangkat to?** "You're going, right?"
-   - **je** (emphasis): **Apik je!** "It's really good!"
-   - **lho** (surprise): **Lho, kok isih neng kene?** "Oh, you're still here?"
+   - **to** (confirmation seeker): **Kowe arep mangkat to?** “You're going, right?”
+   - **je** (emphasis): **Apik je!** “It's really good!”
+   - **lho** (surprise): **Lho, kok isih neng kene?** “Oh, you're still here?”
 
 4. Code-mixing with Indonesian or English:
-   - **Aku lagi busy iki.** "I'm busy right now."
-   - **Ngopi dulu ya.** "Let's have coffee first."
-   - **Wis di-cancel meetinge.** "The meeting has been cancelled."
+   - **Aku lagi busy iki.** “I'm busy right now.”
+   - **Ngopi dulu ya.** “Let's have coffee first.”
+   - **Wis di-cancel meetinge.** “The meeting has been cancelled.”
 
 5. Regional variations:
-   - East Javanese: **arek** instead of **bocah** for "child"
-   - Surabaya dialect: **melok** instead of **melu** for "join/follow"
-   - Tegal dialect: **enyong** instead of **aku** for "I"
+   - East Javanese: **arek** instead of **bocah** for “child”
+   - Surabaya dialect: **melok** instead of **melu** for “join/follow”
+   - Tegal dialect: **enyong** instead of **aku** for “I”
 
 ## Javanese literature
 

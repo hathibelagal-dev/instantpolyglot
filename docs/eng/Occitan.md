@@ -276,11 +276,11 @@ Or by using question words:
 
 Negation is formed by placing **non** before the verb:
 
-- **Non parli anglés.** (I don't speak English.)
+- **Non parli anglés.** (I don’t speak English.)
 
 In some dialects, a second negative particle **pas** is used after the verb:
 
-- **Non parli pas anglés.** (I don't speak English.)
+- **Non parli pas anglés.** (I don’t speak English.)
 
 ### Compound tenses
 
@@ -383,7 +383,7 @@ Occitan has several major dialects, each with its own distinctive features:
 
 ### Provençal
 
-Spoken in Provence, this dialect is known for its use of the article "lei" instead of "los/las":
+Spoken in Provence, this dialect is known for its use of the article “lei” instead of “los/las”:
 
 - Standard Occitan: **los libres** (the books)
 - Provençal: **lei libres**
@@ -398,11 +398,11 @@ Considered the most central dialect and often used as a standard form of Occitan
 
 Spoken in Gascony, including the Val d'Aran in Spain. It has some unique features:
 
-- Use of "eth" instead of "lo" for the masculine definite article:
+- Use of “eth” instead of “lo” for the masculine definite article:
   - Standard Occitan: **lo libre** (the book)
   - Gascon: **eth libre**
 
-- Prosthetic "a" before initial "r":
+- Prosthetic “a” before initial “r”:
   - Standard Occitan: **rei** (king)
   - Gascon: **arrei**
 
@@ -410,7 +410,7 @@ Spoken in Gascony, including the Val d'Aran in Spain. It has some unique feature
 
 Spoken in the Auvergne region, it has some distinctive phonological features:
 
-- Palatalization of "ca" to "cha":
+- Palatalization of “ca” to “cha”:
   - Standard Occitan: **cantar** (to sing)
   - Auvergnat: **chantar**
 
@@ -418,7 +418,7 @@ Spoken in the Auvergne region, it has some distinctive phonological features:
 
 Spoken in the Limousin region:
 
-- Use of "eu" instead of "el" for the third-person singular pronoun:
+- Use of “eu” instead of “el” for the third-person singular pronoun:
   - Standard Occitan: **el parla** (he speaks)
   - Limousin: **eu parla**
 
@@ -426,7 +426,7 @@ Spoken in the Limousin region:
 
 Spoken in the Alps region, it shares some features with Franco-Provençal:
 
-- Use of "lo" as a subject pronoun:
+- Use of “lo” as a subject pronoun:
   - Standard Occitan: **Plòu.** (It's raining.)
   - Vivaro-Alpine: **Lo plòu.**
 
@@ -456,7 +456,7 @@ Colloquial Occitan can differ significantly from the standard written form. Some
   - **Que** (used for emphasis): **Que plòu fòrt!** (It's raining hard!)
 
 - Informal negation:
-  - **Sabi pas.** (I don't know.) Instead of **Non sabi.**
+  - **Sabi pas.** (I don’t know.) Instead of **Non sabi.**
 
 ## Loanwords
 
@@ -466,24 +466,24 @@ Occitan has borrowed words from various languages throughout its history:
 
 Many Occitan words come directly from Latin, often with slight modifications:
 
-- **aiga** (water) from Latin "aqua"
-- **fuòc** (fire) from Latin "focus"
-- **terra** (earth) from Latin "terra"
+- **aiga** (water) from Latin “aqua”
+- **fuòc** (fire) from Latin “focus”
+- **terra** (earth) from Latin “terra”
 
 ### From French
 
 Due to the long-standing influence of French, many French loanwords have entered Occitan:
 
-- **bicicléta** (bicycle) from French "bicyclette"
-- **telefòne** (telephone) from French "téléphone"
-- **television** (television) from French "télévision"
+- **bicicléta** (bicycle) from French “bicyclette”
+- **telefòne** (telephone) from French “téléphone”
+- **television** (television) from French “télévision”
 
 ### From Catalan
 
 Given the close relationship between Occitan and Catalan, some words have been borrowed:
 
-- **abelha** (bee) similar to Catalan "abella"
-- **fenèstra** (window) similar to Catalan "finestra"
+- **abelha** (bee) similar to Catalan “abella”
+- **fenèstra** (window) similar to Catalan “finestra”
 
 ### From English
 
@@ -518,9 +518,9 @@ Some dialects also have:
 
 Occitan has several consonant sounds that are distinctive:
 
-- /ɲ/ represented by "nh" as in **vinha** (vineyard)
-- /ʎ/ represented by "lh" as in **filha** (daughter)
-- /ʃ/ represented by "ch" as in **chaval** (horse) in some dialects
+- /ɲ/ represented by “nh” as in **vinha** (vineyard)
+- /ʎ/ represented by “lh” as in **filha** (daughter)
+- /ʃ/ represented by “ch” as in **chaval** (horse) in some dialects
 
 ### Stress
 
@@ -547,16 +547,16 @@ Occitan uses a partitive article similar to French in some contexts:
 
 ### Continuous aspect
 
-Unlike French, Occitan has a continuous aspect formed with "èsser a" + infinitive:
+Unlike French, Occitan has a continuous aspect formed with “èsser a” + infinitive:
 
 - **Soi a manjar** (I am eating)
 - **Èra a dormir** (He/She was sleeping)
 
 ### Double negation
 
-In many Occitan dialects, negation is reinforced by using both "non" before the verb and "pas" after:
+In many Occitan dialects, negation is reinforced by using both “non” before the verb and “pas” after:
 
-- **Non vòli pas anar** (I don't want to go)
+- **Non vòli pas anar** (I don’t want to go)
 
 ### Use of subjunctive
 
@@ -590,9 +590,9 @@ Example of troubadour poetry (by Bernart de Ventadorn):
 
 Occitan literature experienced a revival in the 19th and 20th centuries:
 
-- Frédéric Mistral, who won the Nobel Prize in Literature in 1904, wrote in Provençal. His epic poem "Mirèio" is a masterpiece of Occitan literature.
+- Frédéric Mistral, who won the Nobel Prize in Literature in 1904, wrote in Provençal. His epic poem “Mirèio” is a masterpiece of Occitan literature.
 
-- Joan Bodon (Jean Boudou) wrote novels and poetry in Occitan in the 20th century, including "Lo libre dels Grands Jorns" (The Book of Great Days).
+- Joan Bodon (Jean Boudou) wrote novels and poetry in Occitan in the 20th century, including “Lo libre dels Grands Jorns” (The Book of Great Days).
 
 ## Sociolinguistic situation
 
@@ -614,7 +614,7 @@ Despite efforts to revitalize the language, the number of Occitan speakers has b
 
 Occitan has many proverbs and sayings that reflect its cultural wisdom:
 
-- **Tal pensa guidar l'ase, que l'ase lo guida** (One thinks to guide the donkey, but the donkey guides him) - Things don't always go as planned.
+- **Tal pensa guidar l'ase, que l'ase lo guida** (One thinks to guide the donkey, but the donkey guides him) - Things don’t always go as planned.
 
 - **L'aiga fa venir la pèira lisa** (Water makes the stone smooth) - Patience and persistence can overcome great obstacles.
 

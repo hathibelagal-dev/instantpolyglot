@@ -369,7 +369,7 @@ Lithuanian **sūnus** 'son' is almost identical to the reconstructed Proto-Indo-
 Colloquial Lithuanian differs from the standard language in several ways:
 
 1. Shortened forms:
-   Standard: **negaliu** → Colloquial: **negaliu** ('I can't')
+   Standard: **negaliu** → Colloquial: **negaliu** ('I can’t')
 
 2. Particle usage:
    **Gi** for emphasis: **Ateik gi čia** ('Come here, will you')
@@ -383,7 +383,7 @@ Colloquial Lithuanian differs from the standard language in several ways:
    **Fainas** ('nice', 'cool')
 
 5. Word order changes:
-   Standard: **Aš to nedarysiu** → Colloquial: **Nedarysiu aš to** ('I won't do that')
+   Standard: **Aš to nedarysiu** → Colloquial: **Nedarysiu aš to** ('I won’t do that')
 
 ## Writing system
 
@@ -412,7 +412,7 @@ The letters Q, W, and X are not part of the Lithuanian alphabet but may appear i
 Lithuanian punctuation is similar to other European languages, with some specific rules:
 
 1. Commas are used to separate clauses in compound and complex sentences
-2. Direct speech is marked with quotation marks: „Labas," – tarė jis. ("Hello," he said.)
+2. Direct speech is marked with quotation marks: „Labas,“ – tarė jis. (”Hello," he said.)
 3. Dashes are used for parenthetical expressions and to indicate dialogue
 
 ## Phonology
@@ -591,7 +591,7 @@ Lithuanian has borrowed words from various languages throughout its history:
    Complex sentence structures
 
 4. Colloquial:
-   Shortened forms: **nežinau** → **nežinau** 'I don't know'
+   Shortened forms: **nežinau** → **nežinau** 'I don’t know'
    Particles: **gi**, **juk**
 
 ### Figurative language

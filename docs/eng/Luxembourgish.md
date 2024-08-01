@@ -248,7 +248,7 @@ Luxembourgish has several modal verbs, including:
 - **wëllen** (want to)
 
 Example:
-**Ech kann net kommen.** (I can't come.)
+**Ech kann net kommen.** (I can’t come.)
 **Du muss elo goen.** (You must go now.)
 
 ## Syntax
@@ -412,7 +412,7 @@ While Luxembourgish is a relatively small language, it does have some regional v
 Some differences include:
 
 - Pronunciation of 'r': The northern dialect tends to use a rolled 'r' [r], while the south uses a more guttural 'r' [ʁ].
-- Vocabulary: Some words vary by region. For example, "potato" is **Gromper** in the south and **Äerdappel** in the north.
+- Vocabulary: Some words vary by region. For example, “potato” is **Gromper** in the south and **Äerdappel** in the north.
 
 ## Code-switching and multilingualism
 
@@ -421,7 +421,7 @@ Given Luxembourg's multilingual environment, code-switching is common in everyda
 **Ech gi muer an d'Ville faire du shopping.** 
 (I'm going to the city to do some shopping tomorrow.)
 
-Here, "Ville" (city) and "faire du shopping" (to go shopping) are French phrases inserted into a Luxembourgish sentence.
+Here, “Ville” (city) and “faire du shopping” (to go shopping) are French phrases inserted into a Luxembourgish sentence.
 
 ## Phonological processes
 
@@ -500,7 +500,7 @@ Some prefixes can be both separable and inseparable, changing the meaning:
 
 ## Aspect and Aktionsart
 
-While Luxembourgish doesn't have a fully developed aspect system like Slavic languages, it does use various means to express aspectual distinctions:
+While Luxembourgish doesn’t have a fully developed aspect system like Slavic languages, it does use various means to express aspectual distinctions:
 
 1. Periphrastic constructions:
    **Ech sinn am Liesen.** (I am reading.)
@@ -552,10 +552,10 @@ Social media terms:
 Luxembourgish has created some loan translations from other languages:
 
 From French:
-**Grousspapp** (grandfather) - from French "grand-père"
+**Grousspapp** (grandfather) - from French “grand-père”
 
 From German:
-**Wolleken** (clouds) - from German "Wolken"
+**Wolleken** (clouds) - from German “Wolken”
 
 ## Onomatopoeia
 
@@ -570,10 +570,10 @@ Luxembourgish has its own set of onomatopoeic words:
 Luxembourgish has a rich collection of proverbs and sayings:
 
 **Besser e Spatz an der Hand ewéi eng Daub um Daach.**
-(Better a sparrow in the hand than a pigeon on the roof - equivalent to "A bird in the hand is worth two in the bush")
+(Better a sparrow in the hand than a pigeon on the roof - equivalent to “A bird in the hand is worth two in the bush”)
 
 **Wéi een an de Bësch jäizt, esou jäizt et eraus.**
-(As one shouts into the forest, so it shouts back - equivalent to "As you sow, so shall you reap")
+(As one shouts into the forest, so it shouts back - equivalent to “As you sow, so shall you reap”)
 
 ## Politeness and formality
 

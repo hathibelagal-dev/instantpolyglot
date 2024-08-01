@@ -163,11 +163,11 @@ Subject + Verb + Object
 For example:
 - **ฉันกินข้าว** (chǎn kin khâao)
   I eat rice
-  "I eat rice."
+  “I eat rice.”
 
 - **เขาชอบหมา** (khǎo chɔ̂ɔp mǎa)
   He like dog
-  "He likes dogs."
+  “He likes dogs.”
 
 ### Topic-Comment Structure
 
@@ -175,7 +175,7 @@ Thai often uses a topic-comment structure, where the topic of the sentence is me
 
 - **หนังสือเล่มนี้ ฉันชอบมาก** (nǎng-sʉ̌ʉ lêm níi chǎn chɔ̂ɔp mâak)
   Book this I like very much
-  "This book, I like it very much."
+  “This book, I like it very much.”
 
 ### Adjectives and Adverbs
 
@@ -183,11 +183,11 @@ Adjectives and adverbs typically follow the words they modify:
 
 - **บ้านใหญ่** (bâan yài)
   House big
-  "Big house"
+  “Big house”
 
 - **วิ่งเร็ว** (wîng reo)
   Run fast
-  "Run fast"
+  “Run fast”
 
 ### Negation
 
@@ -195,7 +195,7 @@ Negation is typically expressed by placing **ไม่** (mâi) before the verb 
 
 - **ฉันไม่ชอบกาแฟ** (chǎn mâi chɔ̂ɔp kaa-fɛɛ)
   I not like coffee
-  "I don't like coffee."
+  “I don’t like coffee.”
 
 ### Questions
 
@@ -203,13 +203,13 @@ Yes/no questions are formed by adding the particle **ไหม** (mǎi) or **ห
 
 - **คุณชอบอาหารไทยไหม** (khun chɔ̂ɔp aa-hǎan thai mǎi)
   You like food Thai question
-  "Do you like Thai food?"
+  “Do you like Thai food?”
 
 Wh-questions use question words in the same position as the word they're replacing:
 
 - **คุณชื่ออะไร** (khun chʉ̂ʉ à-rai)
   You name what
-  "What is your name?"
+  “What is your name?”
 
 ### Classifiers
 
@@ -217,11 +217,11 @@ Thai uses classifiers extensively when counting or referring to specific items:
 
 - **แมวสองตัว** (mɛɛo sɔ̌ɔng tua)
   Cat two classifier
-  "Two cats"
+  “Two cats”
 
 - **รถสามคัน** (rót sǎam khan)
   Car three classifier
-  "Three cars"
+  “Three cars”
 
 ### Serial Verb Constructions
 
@@ -229,11 +229,11 @@ Thai often uses multiple verbs in sequence to express complex actions:
 
 - **ฉันไปกินข้าว** (chǎn pai kin khâao)
   I go eat rice
-  "I go to eat rice."
+  “I go to eat rice.”
 
 - **เขาวิ่งขึ้นเขา** (khǎo wîng khʉ̂n khǎo)
   He run ascend mountain
-  "He runs up the mountain."
+  “He runs up the mountain.”
 
 ## Vocabulary
 
@@ -277,7 +277,7 @@ Some common pronouns include:
    - **คุณ** (khun) - polite, gender-neutral
    - **เธอ** (thəə) - informal, intimate
    - **นาย** (naai) - masculine, informal
-   - **เรา** (rao) - informal, friendly (literally "we")
+   - **เรา** (rao) - informal, friendly (literally “we”)
 
 3. Third-person:
    - **เขา** (khǎo) - he/she/they
@@ -294,7 +294,7 @@ For example, a student might refer to themselves as **ผม** (phǒm) when spea
 
 **ผมขอถามอาจารย์หน่อยครับ** (phǒm khɔ̌ɔ thǎam aa-jaan nɔ̀i khráp)
 I ask teacher a bit polite particle
-"May I ask you a question, teacher?"
+“May I ask you a question, teacher?”
 
 ## Particles
 
@@ -322,15 +322,15 @@ Examples:
 
 - **คุณไปไหนมาครับ** (khun pai nǎi maa khráp)
   You go where come polite particle
-  "Where have you been?" (polite, asked by a man)
+  “Where have you been?” (polite, asked by a man)
 
 - **กินข้าวแล้วหรือยัง** (kin khâao lɛ́ɛo rʉ̌ʉ yang)
   Eat rice already or not yet
-  "Have you eaten yet?"
+  “Have you eaten yet?”
 
 - **ไปกันเถอะนะ** (pai kan thə̀ə ná)
   Go together particle particle
-  "Let's go together, shall we?"
+  “Let's go together, shall we?”
 
 ## Classifiers
 
@@ -348,25 +348,25 @@ Examples:
 
 - **หมาสองตัว** (mǎa sɔ̌ɔng tua)
   Dog two classifier
-  "Two dogs"
+  “Two dogs”
 
 - **รถสามคัน** (rót sǎam khan)
   Car three classifier
-  "Three cars"
+  “Three cars”
 
 - **กระดาษห้าใบ** (krà-dàat hâa bai)
   Paper five classifier
-  "Five sheets of paper"
+  “Five sheets of paper”
 
 Classifiers are used not only for counting but also when using demonstratives or making specific references:
 
 - **หนังสือเล่มนี้** (nǎng-sʉ̌ʉ lêm níi)
   Book classifier this
-  "This book"
+  “This book”
 
 - **คนที่สอง** (khon thîi sɔ̌ɔng)
   Person classifier second
-  "The second person"
+  “The second person”
 
 ## Verb Serialization
 
@@ -374,15 +374,15 @@ Thai frequently uses serial verb constructions, where multiple verbs are strung 
 
 - **เขาวิ่งไปซื้อขนม** (khǎo wîng pai sʉ́ʉ khà-nǒm)
   He run go buy snack
-  "He runs to buy a snack"
+  “He runs to buy a snack”
 
 - **ฉันนั่งอ่านหนังสือ** (chǎn nâng àan nǎng-sʉ̌ʉ)
   I sit read book
-  "I sit and read a book"
+  “I sit and read a book”
 
 - **เธอเดินเข้ามาในห้อง** (thəə dəən khâo maa nai hɔ̂ɔng)
   She walk enter come in room
-  "She walks into the room"
+  “She walks into the room”
 
 These constructions allow for nuanced expressions of motion, direction, and purpose that might require multiple clauses in other languages.
 
@@ -390,15 +390,15 @@ These constructions allow for nuanced expressions of motion, direction, and purp
 
 Thai has an elaborate system of honorific language, known as ราชาศัพท์ (raa-chaa-sàp), which is used when speaking about or to members of the royal family. This system includes special vocabulary for common words and actions when they relate to royalty. For example:
 
-- Regular word for "eat": **กิน** (kin)
-- Royal word for "eat": **เสวย** (sà-wǒei)
+- Regular word for “eat”: **กิน** (kin)
+- Royal word for “eat”: **เสวย** (sà-wǒei)
 
-- Regular word for "sleep": **นอน** (nɔɔn)
-- Royal word for "sleep": **บรรทม** (ban-thom)
+- Regular word for “sleep”: **นอน** (nɔɔn)
+- Royal word for “sleep”: **บรรทม** (ban-thom)
 
 While the full royal vocabulary is extensive and complex, some honorific terms have entered common usage as a way to show respect to elders or in formal situations:
 
-- **รับประทาน** (ráp-prà-thaan) - polite term for "eat"
-- **จำวัด** (jam-wát) - polite term for "sleep" (used for monks)
+- **รับประทาน** (ráp-prà-thaan) - polite term for “eat”
+- **จำวัด** (jam-wát) - polite term for “sleep” (used for monks)
 
 Understanding and correctly using these levels of language is an important aspect of Thai cultural competence.

@@ -25,7 +25,7 @@ Swedish has 9 vowel phonemes, each of which can be pronounced short or long. The
 Some additional notes on vowels:
 - The distinction between [ɛ] and [e] is neutralized before [r], both becoming [æ].
 - In some dialects, particularly in southern Sweden, the [ʉː] sound may be pronounced more like [ʏː].
-- The letter "o" can represent both [ɔ]/[oː] and [u]/[uː], depending on the word.
+- The letter “o” can represent both [ɔ]/[oː] and [u]/[uː], depending on the word.
 
 ### Consonants
 
@@ -176,7 +176,7 @@ Personal pronouns in Swedish:
 | 2pl | **ni** | **er** | **er/ert/era** |
 | 3pl | **de** | **dem** | **deras** |
 
-Note: The formal "you" (**ni**) is rarely used in modern Swedish. Instead, people typically use the informal **du** in most situations.
+Note: The formal “you” (**ni**) is rarely used in modern Swedish. Instead, people typically use the informal **du** in most situations.
 
 Reflexive pronouns:
 - **sig** (himself, herself, itself, themselves)
@@ -230,7 +230,7 @@ Comparative and superlative forms:
 Regular patterns:
 - Short adjectives: add -are for comparative, -ast for superlative
   **ung** (young) → **yngre** (younger) → **yngst** (youngest)
-- Longer adjectives: use "mer" for comparative, "mest" for superlative
+- Longer adjectives: use “mer” for comparative, “mest” for superlative
   **intressant** (interesting) → **mer intressant** (more interesting) → **mest intressant** (most interesting)
 
 Irregular forms exist, e.g.:
@@ -389,7 +389,7 @@ In questions, the verb comes before the subject:
 
 In subordinate clauses, the word order changes:
 
-**Jag vet att han inte läser boken.** (I know that he doesn't read the book.)
+**Jag vet att han inte läser boken.** (I know that he doesn’t read the book.)
 
 The typical subordinate clause structure is:
 
@@ -412,11 +412,11 @@ Wh-questions start with a question word, followed by the verb:
 ### Negation
 
 Negation is typically expressed using **inte** (not):
-- **Jag talar inte svenska.** (I don't speak Swedish.)
+- **Jag talar inte svenska.** (I don’t speak Swedish.)
 - **Hon kommer inte idag.** (She is not coming today.)
 
 In subordinate clauses, **inte** comes before the verb:
-- **Jag vet att han inte talar svenska.** (I know that he doesn't speak Swedish.)
+- **Jag vet att han inte talar svenska.** (I know that he doesn’t speak Swedish.)
 - **Om du inte kommer, ring mig.** (If you're not coming, call me.)
 
 ### Conjunctions
@@ -469,11 +469,11 @@ Swedish readily forms compound words, often creating long, descriptive terms:
 ### False Friends with English
 
 Some Swedish words look similar to English words but have different meanings:
-- **gift** means "married" or "poison" in Swedish (not "gift")
-- **bra** means "good" in Swedish (not "bra")
-- **rolig** means "fun" in Swedish (not "rolling")
-- **semester** means "vacation" in Swedish (not "semester")
-- **glass** means "ice cream" in Swedish (not "glass")
+- **gift** means “married” or “poison” in Swedish (not “gift”)
+- **bra** means “good” in Swedish (not “bra”)
+- **rolig** means “fun” in Swedish (not “rolling”)
+- **semester** means “vacation” in Swedish (not “semester”)
+- **glass** means “ice cream” in Swedish (not “glass”)
 
 ### Loanwords
 
@@ -527,7 +527,7 @@ Swedish has a wide variety of dialects, broadly categorized into six groups:
    Characteristics: Influenced by Finnish, different rhythm and intonation
 
 3. Svealand dialects: Spoken in central Sweden, including Stockholm
-   Characteristics: Often considered "standard Swedish"
+   Characteristics: Often considered “standard Swedish”
 
 4. Gotland dialects: Spoken on the island of Gotland
    Characteristics: Unique vocabulary, retained some Old Norse features
@@ -539,8 +539,8 @@ Swedish has a wide variety of dialects, broadly categorized into six groups:
    Characteristics: Strong Danish influence, different pronunciation of 'r'
 
 Notable differences can be found in pronunciation, vocabulary, and even grammar between these dialect groups. For example:
-- The word "I" (jag) can be pronounced as [jɑː] (Stockholm), [jɑːɡ] (formal), [jɔ] (Gothenburg), or [ja] (Skåne)
-- The phrase "Jag heter" (My name is) might be "Ja heter" in Svealand or "Jag heder" in parts of Norrland
+- The word “I” (jag) can be pronounced as [jɑː] (Stockholm), [jɑːɡ] (formal), [jɔ] (Gothenburg), or [ja] (Skåne)
+- The phrase “Jag heter” (My name is) might be “Ja heter” in Svealand or “Jag heder” in parts of Norrland
 
 ## Writing System
 
@@ -561,8 +561,8 @@ Capitalization rules:
 - Days of the week, months, and languages are not capitalized: **måndag** (Monday), **januari** (January), **svenska** (Swedish)
 
 Punctuation is similar to English, with some differences:
-- Quotation marks: "citattecken" or »citattecken«
+- Quotation marks: “citattecken” or »citattecken«
 - Question mark and exclamation mark are used as in English
-- Colon is used before direct speech: Han sa: "Hej!"
+- Colon is used before direct speech: Han sa: “Hej!”
 
 This comprehensive overview covers the main aspects of the Swedish language, providing a detailed introduction for laymen and learners. It focuses on technical details and includes numerous examples to illustrate key points in both written and spoken Swedish.

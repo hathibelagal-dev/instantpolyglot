@@ -284,7 +284,7 @@ Questions can be formed by intonation alone or by using interrogative words:
 
 Negation is formed by placing **nu** before the verb:
 
-- **Io nu ved omlu** (I don't see the man)
+- **Io nu ved omlu** (I don’t see the man)
 
 ### Subordinate clauses
 
@@ -339,10 +339,10 @@ Some notable dialectal differences:
 
 - Pronunciation of 'rr': Some dialects pronounce it as [r], others as [ʁ]
 - Treatment of unstressed vowels: Some dialects tend to drop them more readily
-- Lexical differences: e.g., "bãrbat" vs "gioni" for "man"
+- Lexical differences: e.g., “bãrbat” vs “gioni” for “man”
 
 Example of dialectal variation:
-- Standard: **Nu pot s-dormu** (I can't sleep)
+- Standard: **Nu pot s-dormu** (I can’t sleep)
 - Farsherot: **Nu pot si dormu**
 
 ## Orthography
@@ -375,14 +375,14 @@ Aromanian, like other Balkan languages, exhibits features of the Balkan sprachbu
 1. Postposed definite article:
    - **om** (man) → **omlu** (the man)
 
-2. Analytic future tense with "will":
+2. Analytic future tense with “will”:
    - **Va s-cãntu** (I will sing)
 
 3. Lack of infinitive, replaced by subjunctive constructions:
-   - **Voi s-cãntu** (I want to sing, lit. "I want that I sing")
+   - **Voi s-cãntu** (I want to sing, lit. “I want that I sing”)
 
 4. Clitic doubling:
-   - **Lu ved omlu** (I see the man, lit. "Him I-see the-man")
+   - **Lu ved omlu** (I see the man, lit. “Him I-see the-man”)
 
 5. Evidentiality distinctions:
    - **Cãntã** (He sings - witnessed)
@@ -511,8 +511,8 @@ Aromanian forms compound words, often combining verbs with nouns or adverbs:
 
 Aromanian has many idiomatic expressions:
 
-- **Lj-si dusi bana** (He died, lit. "His life went away")
-- **Ari minti multu suptãri** (He's very smart, lit. "He has a very thin mind")
+- **Lj-si dusi bana** (He died, lit. “His life went away”)
+- **Ari minti multu suptãri** (He's very smart, lit. “He has a very thin mind”)
 
 ## Phonological processes
 
@@ -539,8 +539,8 @@ Some words have undergone metathesis (swapping of sounds) compared to their Lati
 
 When borrowing words, Aromanian often adapts them to fit its phonological system:
 
-- Greek "τραπέζι" (table) → Aromanian **trapeză**
-- Turkish "çoban" (shepherd) → Aromanian **ciuban**
+- Greek “τραπέζι” (table) → Aromanian **trapeză**
+- Turkish “çoban” (shepherd) → Aromanian **ciuban**
 
 ## Register and style
 
@@ -555,7 +555,7 @@ Aromanian distinguishes between formal and informal address:
 
 Aromanian has a rich tradition of proverbs and sayings:
 
-- **Cãnili cari alatrã nu mãshicã** (The dog that barks doesn't bite)
+- **Cãnili cari alatrã nu mãshicã** (The dog that barks doesn’t bite)
 - **Omlu fãrã oaminj nu-i om** (A man without people is not a man)
 
 ### Poetic language

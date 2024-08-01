@@ -56,13 +56,13 @@ Ukrainian uses the Cyrillic alphabet, with 33 letters:
 | Я я | [ja] | **яблуко** [ˈjablukɔ] (apple) |
 | Ь ь | [ʲ] | **день** [dɛnʲ] (day) |
 
-The soft sign (Ь ь) doesn't represent a sound itself but indicates palatalization of the preceding consonant.
+The soft sign (Ь ь) doesn’t represent a sound itself but indicates palatalization of the preceding consonant.
 
 ### Pronunciation rules
 
 1. Vowel reduction: Unstressed **о** is often pronounced closer to [o] in colloquial speech, especially in words of foreign origin. For example, **молоко** (milk) is officially pronounced [mɔlɔˈkɔ] but often heard as [moloˈko].
 
-2. Consonant devoicing: Unlike Russian, Ukrainian doesn't have final devoicing. For example, **хліб** (bread) is [xlib], not [xlip].
+2. Consonant devoicing: Unlike Russian, Ukrainian doesn’t have final devoicing. For example, **хліб** (bread) is [xlib], not [xlip].
 
 3. Palatalization: Consonants are palatalized (softened) before **і**, **я**, **є**, **ю**, and the soft sign **ь**. For example, **ніс** (nose) is pronounced [nʲis].
 
@@ -350,7 +350,7 @@ Questions can be formed in several ways:
 
 Negation is formed by placing **не** before the verb or adjective:
 
-- **Я не говорю́ украї́нською** (I don't speak Ukrainian)
+- **Я не говорю́ украї́нською** (I don’t speak Ukrainian)
 - **Це не важли́во** (This is not important)
 
 Double negation is standard in Ukrainian:
@@ -365,12 +365,12 @@ Ukrainian uses impersonal constructions extensively:
 - With **-но**, **-то** endings:
   **Про це напи́сано в газе́ті** (This is written about in the newspaper)
 
-- With **треба** (need to), **мо́жна** (can, may), **не мо́жна** (can't, mustn't):
+- With **треба** (need to), **мо́жна** (can, may), **не мо́жна** (can’t, mustn't):
   **Тре́ба йти** (We/one needs to go)
   **Тут мо́жна кури́ти?** (Is smoking allowed here?)
 
 - With reflexive verbs:
-  **Мені́ не спи́ться** (I can't sleep, lit. "It doesn't sleep to me")
+  **Мені́ не спи́ться** (I can’t sleep, lit. “It doesn’t sleep to me”)
 
 ### Participles and Gerunds
 
@@ -438,8 +438,8 @@ Ukrainian uses various methods for word formation:
    **добрий** (good) → **доброта** (goodness)
 
 3. Compound words:
-   **землетрус** (earthquake, from **земля** "earth" + **трус** "shake")
-   **життєздатний** (viable, from **життя** "life" + **здатний** "capable")
+   **землетрус** (earthquake, from **земля** “earth” + **трус** “shake”)
+   **життєздатний** (viable, from **життя** “life” + **здатний** “capable”)
 
 4. Diminutives and augmentatives:
    **стіл** (table) → **столик** (small table)
@@ -450,9 +450,9 @@ Ukrainian uses various methods for word formation:
 
 Ukrainian has a rich tradition of idiomatic expressions and proverbs:
 
-- **Моя хата скраю** (lit. "My house is on the edge", meaning "It's not my problem")
-- **Як кіт наплакав** (lit. "As much as a cat cried", meaning "very little")
-- **Язик до Києва доведе** (lit. "The tongue will lead you to Kyiv", meaning "Asking will get you everywhere")
+- **Моя хата скраю** (lit. “My house is on the edge”, meaning “It's not my problem”)
+- **Як кіт наплакав** (lit. “As much as a cat cried”, meaning “very little”)
+- **Язик до Києва доведе** (lit. “The tongue will lead you to Kyiv”, meaning “Asking will get you everywhere”)
 - **Бути чи не бути** (To be or not to be - a calque from Shakespeare)
 
 ## Colloquial Ukrainian

@@ -213,7 +213,7 @@ Vulgar Latin verbal system underwent significant changes:
 
 4. Loss of perfect/aorist distinction:
    - **cantavi** (I sang / I have sung) used for both meanings
-   - Example: **feci** meaning both "I did" and "I have done"
+   - Example: **feci** meaning both “I did” and “I have done”
 
 5. Emergence of conditional mood:
    - **cantare habebam** (I had to sing) > I would sing
@@ -306,7 +306,7 @@ The synthetic comparative and superlative forms were largely replaced by analyti
 Double negation became common in Vulgar Latin:
 
 - Classical: **Neminem video** (I see no one)
-- Vulgar: **Non video nemo** (I don't see no one)
+- Vulgar: **Non video nemo** (I don’t see no one)
 
 ### Question Formation
 
@@ -333,16 +333,16 @@ Many common Classical Latin words were replaced in Vulgar Latin:
 
 | Classical Latin | Vulgar Latin | Meaning | Example |
 |-----------------|--------------|---------|---------|
-| equus | **caballu** | horse | Spanish "caballo", French "cheval" |
-| ignis | **focu** | fire | Italian "fuoco", Romanian "foc" |
-| edere | **manducare** | to eat | French "manger", Portuguese "comer" (from *comedere) |
-| loqui | **parabolare** | to speak | Spanish "hablar", French "parler" |
-| pulcher | **bellu** | beautiful | French "beau", Italian "bello" |
-| magnus | **grande** | big | Spanish "grande", Italian "grande" |
-| urbs | **civitate** | city | French "cité", Italian "città" |
-| iter | **caminu** | way, road | Spanish "camino", Italian "cammino" |
-| os | **bucca** | mouth | French "bouche", Italian "bocca" |
-| domus | **casa** | house | Spanish "casa", Italian "casa" |
+| equus | **caballu** | horse | Spanish “caballo”, French “cheval” |
+| ignis | **focu** | fire | Italian “fuoco”, Romanian “foc” |
+| edere | **manducare** | to eat | French “manger”, Portuguese “comer” (from *comedere) |
+| loqui | **parabolare** | to speak | Spanish “hablar”, French “parler” |
+| pulcher | **bellu** | beautiful | French “beau”, Italian “bello” |
+| magnus | **grande** | big | Spanish “grande”, Italian “grande” |
+| urbs | **civitate** | city | French “cité”, Italian “città” |
+| iter | **caminu** | way, road | Spanish “camino”, Italian “cammino” |
+| os | **bucca** | mouth | French “bouche”, Italian “bocca” |
+| domus | **casa** | house | Spanish “casa”, Italian “casa” |
 
 ### Word Formation
 
@@ -359,9 +359,9 @@ New words were formed through various processes:
      Example: **nasus** (nose) > **nasone** (big nose)
 
 3. Semantic shifts:
-   - **testa** (pot) > "head"
-   - **focus** (hearth) > "fire"
-   - **plumbu** (lead) > "grey" in some dialects
+   - **testa** (pot) > “head”
+   - **focus** (hearth) > “fire”
+   - **plumbu** (lead) > “grey” in some dialects
 
 4. Borrowings:
    - From Greek: **colpus** (gulf) from κόλπος
@@ -375,11 +375,11 @@ New words were formed through various processes:
 - **bucca**: mouth (Classical **os**)
 - **plovia**: rain (Classical **pluvia**)
 - **battalia**: battle (Classical **proelium**)
-- **formaticu**: cheese (from **forma**, "shape")
+- **formaticu**: cheese (from **forma**, “shape”)
 - **directu**: right (Classical **dexter**)
-- **bassiare**: to lower (from **bassus**, "low")
-- **adripare**: to arrive (from **ad ripam**, "to the shore")
-- **viaticu**: journey (from **via**, "way")
+- **bassiare**: to lower (from **bassus**, “low”)
+- **adripare**: to arrive (from **ad ripam**, “to the shore”)
+- **viaticu**: journey (from **via**, “way”)
 
 ## Regional Variations
 
@@ -489,23 +489,23 @@ Sardinian retained many archaic features of Vulgar Latin:
 While no extensive texts in pure Vulgar Latin exist, some inscriptions and glosses provide glimpses into its features:
 
 1. Graffiti from Pompeii (1st century CE):
-   **"Quisquis ama valia peria qui nosci amare"**
+   **“Quisquis ama valia peria qui nosci amare”**
    (Whoever loves, may they be well; may they perish who know not how to love)
 
-   Classical Latin: "Quisquis amat valeat, pereat qui nescit amare"
+   Classical Latin: “Quisquis amat valeat, pereat qui nescit amare”
 
-2. From the Appendix Probi (3rd-4th century CE), a list of "correct" and "incorrect" forms:
-   **"speculum non speclum"** (mirror, not 'speclum')
-   **"calida non calda"** (hot, not 'calda')
-   **"auris non oricla"** (ear, not 'oricla')
-   **"oculus non oclus"** (eye, not 'oclus')
+2. From the Appendix Probi (3rd-4th century CE), a list of “correct” and “incorrect” forms:
+   **“speculum non speclum”** (mirror, not 'speclum')
+   **“calida non calda”** (hot, not 'calda')
+   **“auris non oricla”** (ear, not 'oricla')
+   **“oculus non oclus”** (eye, not 'oclus')
 
 3. From the Reichenau Glosses (8th century CE):
-   **"matus: tristis"** ('matus' means sad)
+   **“matus: tristis”** ('matus' means sad)
    This shows the use of **matus** (from **mattus**, 'drunk') for 'sad', a semantic shift from Classical Latin.
 
 4. The Oaths of Strasbourg (842 CE), while technically Old French, show many Vulgar Latin features:
-   **"Pro Deo amur et pro christian poblo et nostro commun salvament..."**
+   **“Pro Deo amur et pro christian poblo et nostro commun salvament...”**
    (For the love of God and for the Christian people and our common salvation...)
 
 These examples demonstrate various features of Vulgar Latin, including:

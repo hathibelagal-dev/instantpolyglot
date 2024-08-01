@@ -123,7 +123,7 @@ Indefinite article (a/an):
 
 Adjectives in German agree with the noun they modify in gender, number, and case. The ending of the adjective depends on whether it's preceded by a definite article, indefinite article, or no article.
 
-Example with "gut" (good):
+Example with “gut” (good):
 
 | Case | Definite | Indefinite | No Article |
 |------|----------|------------|------------|
@@ -150,7 +150,7 @@ Personal pronouns:
 | Dat. | mir | dir | ihm | ihr | ihm | uns | euch | ihnen |
 | Gen. | meiner | deiner | seiner | ihrer | seiner | unser | euer | ihrer |
 
-Formal "you" (singular and plural) uses the 3rd person plural forms: **Sie**, **Ihnen**, **Ihr**.
+Formal “you” (singular and plural) uses the 3rd person plural forms: **Sie**, **Ihnen**, **Ihr**.
 
 Possessive pronouns agree with the noun they modify:
 - **mein Buch** (my book)
@@ -159,7 +159,7 @@ Possessive pronouns agree with the noun they modify:
 - **ihre Bücher** (her/their books)
 
 Reflexive pronouns:
-- **sich** for 3rd person and formal "you"
+- **sich** for 3rd person and formal “you”
 - Otherwise, same as accusative/dative personal pronouns
 
 Example: **Ich wasche mich** (I wash myself), **Er wäscht sich** (He washes himself)
@@ -174,7 +174,7 @@ Cardinal numbers:
 100: **hundert**
 1000: **tausend**
 
-For numbers 21-99, the ones digit comes first, connected by "und": **einundzwanzig** (21), **fünfundachtzig** (85)
+For numbers 21-99, the ones digit comes first, connected by “und”: **einundzwanzig** (21), **fünfundachtzig** (85)
 
 Ordinal numbers are formed by adding -te (up to 19) or -ste (from 20):
 **erste** (1st), **zweite** (2nd), **dritte** (3rd), **vierte** (4th), **zwanzigste** (20th)
@@ -326,7 +326,7 @@ Wh-questions: Question word, then verb
 ### Negation
 
 The primary negation word is **nicht**, usually placed at the end of the clause:
-- **Ich verstehe das nicht** (I don't understand that)
+- **Ich verstehe das nicht** (I don’t understand that)
 
 For negating specific nouns, **kein** is used:
 - **Ich habe kein Geld** (I have no money)
@@ -378,7 +378,7 @@ With dative (indicating location):
 
 ### Coordinating conjunctions
 
-Don't change word order:
+Don’t change word order:
 - und (and), aber (but), oder (or), denn (because), sondern (but rather)
 
 **Ich esse einen Apfel und ich trinke Wasser** (I eat an apple and I drink water)
@@ -408,7 +408,7 @@ Example:
 
 Adjectives change their endings based on the gender, number, and case of the noun they modify, as well as whether they're preceded by a definite article, indefinite article, or no article.
 
-Example with "gut" (good):
+Example with “gut” (good):
 
 | Case | Definite | Indefinite | No Article |
 |------|----------|------------|------------|
@@ -436,7 +436,7 @@ Cardinal numbers:
 Telling time:
 - 3:00 - **drei Uhr** (three o'clock)
 - 3:15 - **Viertel nach drei** (quarter past three)
-- 3:30 - **halb vier** (half past three, literally "half four")
+- 3:30 - **halb vier** (half past three, literally “half four”)
 - 3:45 - **Viertel vor vier** (quarter to four)
 
 Dates:
@@ -462,10 +462,10 @@ German uses many modal particles to add nuance to sentences. These are difficult
 
 German has many idiomatic expressions:
 
-- **Ich verstehe nur Bahnhof** (I only understand "train station" - meaning "I don't understand anything")
-- **Das ist nicht mein Bier** (That's not my beer - meaning "That's not my business/problem")
-- **Daumen drücken** (Press thumbs - equivalent to "fingers crossed")
-- **Ich habe die Nase voll** (I have the nose full - meaning "I've had enough")
+- **Ich verstehe nur Bahnhof** (I only understand “train station” - meaning “I don’t understand anything”)
+- **Das ist nicht mein Bier** (That's not my beer - meaning “That's not my business/problem”)
+- **Daumen drücken** (Press thumbs - equivalent to “fingers crossed”)
+- **Ich habe die Nase voll** (I have the nose full - meaning “I've had enough”)
 
 ## Colloquial German
 
@@ -499,10 +499,10 @@ German has adopted many loanwords, particularly from English in recent years:
 
 Some German words look similar to English words but have different meanings:
 
-- **aktuell** means "current", not "actual"
-- **bekommen** means "to get", not "to become"
-- **Gift** means "poison", not "gift"
-- **eventuell** means "possibly", not "eventually"
+- **aktuell** means “current”, not “actual”
+- **bekommen** means “to get”, not “to become”
+- **Gift** means “poison”, not “gift”
+- **eventuell** means “possibly”, not “eventually”
 
 ## Pronunciation quirks
 

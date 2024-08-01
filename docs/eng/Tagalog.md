@@ -245,19 +245,19 @@ Examples:
 Negation is expressed using **hindi** for most verbs and adjectives, and **wala** for existential sentences:
 
 - **Hindi ako kumain.** (I didn't eat.)
-- **Hindi maganda ang pelikula.** (The movie isn't good.)
-- **Wala akong pera.** (I don't have money.)
+- **Hindi maganda ang pelikula.** (The movie isn’t good.)
+- **Wala akong pera.** (I don’t have money.)
 
 ### Existential sentences
 
-Existential sentences use the words **may** (there is/are) or **wala** (there isn't/aren't):
+Existential sentences use the words **may** (there is/are) or **wala** (there isn’t/aren’t):
 
 - **May tubig sa baso.** (There is water in the glass.)
 - **Walang tao sa bahay.** (There is no one in the house.)
 
 ### Equational sentences
 
-Equational sentences (A is B) don't use a copula in Tagalog:
+Equational sentences (A is B) don’t use a copula in Tagalog:
 
 - **Guro si Maria.** (Maria is a teacher.)
 - **Maganda ang bulaklak.** (The flower is beautiful.)
@@ -329,7 +329,7 @@ Reduplication is a common feature in Tagalog, used to indicate various meanings:
 
 ## Colloquial Tagalog
 
-Colloquial Tagalog, especially as spoken in Metro Manila (often called "Manila Tagalog"), has some distinct features compared to formal or written Tagalog:
+Colloquial Tagalog, especially as spoken in Metro Manila (often called “Manila Tagalog”), has some distinct features compared to formal or written Tagalog:
 
 ### Contractions
 
@@ -355,7 +355,7 @@ Some particles are used more frequently or differently in colloquial speech:
 
 ### Code-switching
 
-Code-switching between Tagalog and English (sometimes called "Taglish") is very common in casual speech, especially in urban areas:
+Code-switching between Tagalog and English (sometimes called “Taglish”) is very common in casual speech, especially in urban areas:
 
 - **Nag-shopping ako sa mall kahapon.** (I went shopping at the mall yesterday.)
 - **Wait lang, kukunin ko lang yung phone ko.** (Wait, I'll just get my phone.)
@@ -368,9 +368,9 @@ Colloquial Tagalog has many slang terms and expressions:
 - **chika**: gossip
 - **gigil**: the urge to pinch or squeeze something cute
 - **kilig**: excitement or elation, especially from romantic situations
-- **pasok**: literally "enter," but used to mean "it fits" or "it's acceptable"
-- **petmalu**: cool, awesome (from reversed "malupet")
-- **lodi**: idol (from reversed "idolo")
+- **pasok**: literally “enter,” but used to mean “it fits” or “it's acceptable”
+- **petmalu**: cool, awesome (from reversed “malupet”)
+- **lodi**: idol (from reversed “idolo”)
 
 ### Pronunciation changes
 
@@ -394,9 +394,9 @@ Colloquial Tagalog often uses different pronouns from formal speech:
 
 Certain words are frequently used as discourse markers in casual conversation:
 
-- **ano**: used as a filler word, similar to "um" in English
-- **alam mo**: literally "you know," used similarly to the English phrase
-- **di ba**: tag question, similar to "right?" or "isn't it?"
+- **ano**: used as a filler word, similar to “um” in English
+- **alam mo**: literally “you know,” used similarly to the English phrase
+- **di ba**: tag question, similar to “right?” or “isn’t it?”
 - **eh**: used for various purposes, often to introduce an explanation or excuse
 
 Example: **Eh, alam mo naman, di ba? Mahirap eh.** (Well, you know, right? It's difficult.)
@@ -498,7 +498,7 @@ Tagalog has a system of respect language, though it's not as extensive as in som
 - **po**: a particle added to show respect, often used with elders or superiors
   Example: **Kumusta po kayo?** (How are you? [respectful])
 
-- **opo**: respectful way of saying "yes"
+- **opo**: respectful way of saying “yes”
 
 - **ho**: a less formal version of **po**
 
@@ -576,15 +576,15 @@ Many Tagalog verbs can be turned into nouns by adding the suffix **-an**:
 
 Tagalog has adapted many loan words, often changing them to fit Tagalog phonology:
 
-- **tren** from English "train"
-- **iskwater** from English "squatter"
-- **de-lata** from Spanish "de lata" (canned)
+- **tren** from English “train”
+- **iskwater** from English “squatter”
+- **de-lata** from Spanish “de lata” (canned)
 
 ### Idiomatic expressions
 
-Tagalog has many idiomatic expressions that don't translate directly:
+Tagalog has many idiomatic expressions that don’t translate directly:
 
-- **Bahala na**: "Whatever happens, happens" or "Leave it to fate"
+- **Bahala na**: “Whatever happens, happens” or “Leave it to fate”
 - **Tampo**: a feeling of being upset or slighted, but not expressing it directly
-- **Kanya-kanya**: "To each their own" or "Every man for himself"
+- **Kanya-kanya**: “To each their own” or “Every man for himself”
 - **Ningas kogon**: describing someone who starts projects with enthusiasm but quickly loses interest

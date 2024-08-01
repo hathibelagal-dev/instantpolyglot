@@ -19,7 +19,7 @@ Igbo has 8 vowels:
 | u | /u/ | **ude** [ude] (fame) |
 | ụ | /ʊ/ | **ụlọ** [ʊlɔ] (house) |
 
-The vowels /i/, /u/, /ɪ/, and /ʊ/ are often referred to as "light" vowels, while /e/, /o/, /a/, and /ɔ/ are "heavy" vowels. This distinction is important for vowel harmony in Igbo.
+The vowels /i/, /u/, /ɪ/, and /ʊ/ are often referred to as “light” vowels, while /e/, /o/, /a/, and /ɔ/ are “heavy” vowels. This distinction is important for vowel harmony in Igbo.
 
 ### Consonants
 
@@ -250,7 +250,7 @@ Igbo makes extensive use of serial verb constructions, where multiple verbs are 
 
 **Ọ were ego zụta akwụkwọ**
 (He/she took money bought book)
-"He/she bought a book with money"
+“He/she bought a book with money”
 
 ### Focus and Topicalization
 
@@ -281,7 +281,7 @@ This affects affixes as well. For example, the infinitive prefix can be either *
 Tones can change in certain grammatical constructions. For example, in possessive constructions, the tone on the possessed noun often changes to low:
 
 - **ụlọ́** (house, high tone)
-- **ụlọ̀ m** (my house, low tone on "ụlọ")
+- **ụlọ̀ m** (my house, low tone on “ụlọ”)
 
 ### Assimilation
 
@@ -326,7 +326,7 @@ Basic color terms in Igbo include:
 - **ọcha** (white)
 - **ojii** (black)
 - **ọbara ọbara** (red)
-- **akwụkwọ ndụ** (green, literally "leaf of life")
+- **akwụkwọ ndụ** (green, literally “leaf of life”)
 - **edo** (yellow)
 
 ### Numbers
@@ -363,7 +363,7 @@ Igbo has numerous dialects, with some differences in vocabulary, pronunciation, 
 
 Examples of dialectal differences:
 
-- The word for "come" varies across dialects:
+- The word for “come” varies across dialects:
   Central Igbo: **bịa**
   Onicha: **bia**
   Ika: **bia**
@@ -372,7 +372,7 @@ Examples of dialectal differences:
   Some dialects pronounce it as [ɣ], while others use [h] or even drop it entirely.
 
 - Vocabulary differences:
-  "Small" in different dialects:
+  “Small” in different dialects:
   Central Igbo: **obere**
   Onicha: **nta**
   Ụkwụani: **kirikiri**
@@ -459,7 +459,7 @@ Subordinate clauses are often introduced by conjunctions:
 Relative clauses are formed using the particle **nke**:
 
 **Nwoke nke bịara ebe a echeghị m**
-(The man who came here I don't remember)
+(The man who came here I don’t remember)
 
 ## Verbal Extensions
 
@@ -482,7 +482,7 @@ Igbo has a rich system of verbal extensions that modify the meaning of verbs:
 
 ## Noun Classification
 
-While Igbo doesn't have a formal noun class system like some other African languages, nouns can be categorized based on their semantic properties:
+While Igbo doesn’t have a formal noun class system like some other African languages, nouns can be categorized based on their semantic properties:
 
 1. Human nouns: **nwoke** (man), **nwanyị** (woman)
 2. Animal nouns: **ewu** (goat), **nkịta** (dog)
@@ -556,7 +556,7 @@ Igbo has borrowed many words from other languages, particularly English:
 
 Neologisms are also created to express modern concepts:
 
-- **igwe nkwọ** (bicycle, literally "iron horse")
-- **igwe efe** (airplane, literally "flying iron")
+- **igwe nkwọ** (bicycle, literally “iron horse”)
+- **igwe efe** (airplane, literally “flying iron”)
 
 This overview covers many aspects of the Igbo language, from its phonology and grammar to its discourse features and lexicon. The language's rich system of verbal extensions, tonal distinctions, and ideophones make it a fascinating subject for linguistic study.

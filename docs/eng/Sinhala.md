@@ -94,18 +94,18 @@ When vowels are combined with consonants, they are represented by diacritical ma
 
 Sinhala vowels are generally pronounced as follows:
 
-- **අ** /ə/: similar to the 'a' in "about"
-- **ආ** /aː/: like the 'a' in "father"
-- **ඇ** /æ/: like the 'a' in "cat"
+- **අ** /ə/: similar to the 'a' in “about”
+- **ආ** /aː/: like the 'a' in “father”
+- **ඇ** /æ/: like the 'a' in “cat”
 - **ඈ** /æː/: a longer version of /æ/
-- **ඉ** /i/: like the 'i' in "bit"
-- **ඊ** /iː/: like the 'ee' in "feet"
-- **උ** /u/: like the 'u' in "put"
-- **ඌ** /uː/: like the 'oo' in "boot"
-- **එ** /e/: like the 'e' in "bed"
-- **ඒ** /eː/: like the 'a' in "cake"
-- **ඔ** /o/: like the 'o' in "dog"
-- **ඕ** /oː/: like the 'o' in "go"
+- **ඉ** /i/: like the 'i' in “bit”
+- **ඊ** /iː/: like the 'ee' in “feet”
+- **උ** /u/: like the 'u' in “put”
+- **ඌ** /uː/: like the 'oo' in “boot”
+- **එ** /e/: like the 'e' in “bed”
+- **ඒ** /eː/: like the 'a' in “cake”
+- **ඔ** /o/: like the 'o' in “dog”
+- **ඕ** /oː/: like the 'o' in “go”
 
 ### Consonants
 
@@ -129,12 +129,12 @@ Sinhala nouns are inflected for number (singular and plural) and case. There are
 
 The plural is typically formed by adding a suffix to the singular form:
 
-- **ළමයා** (ḷamayā) "child" → **ළමයි** (ḷamayi) "children"
-- **පොත** (pota) "book" → **පොත්** (pot) "books"
+- **ළමයා** (ḷamayā) “child” → **ළමයි** (ḷamayi) “children”
+- **පොත** (pota) “book” → **පොත්** (pot) “books”
 
 Some nouns have irregular plurals:
 
-- **මිනිසා** (minisā) "man" → **මිනිස්සු** (minissu) "men, people"
+- **මිනිසා** (minisā) “man” → **මිනිස්සු** (minissu) “men, people”
 
 #### Case
 
@@ -147,7 +147,7 @@ Sinhala has several cases, including:
 5. Instrumental (means or instrument)
 6. Locative (location)
 
-Example of case declension for **ළමයා** (ḷamayā) "child":
+Example of case declension for **ළමයා** (ḷamayā) “child”:
 
 | Case | Singular | Plural |
 |------|----------|--------|
@@ -164,11 +164,11 @@ Sinhala pronouns are marked for person, number, and level of formality. Here are
 
 | Person | Singular | Plural |
 |--------|----------|--------|
-| 1st | මම (mama) "I" | අපි (api) "we" |
-| 2nd (informal) | ඔයා (oyā) "you" | ඔයාලා (oyālā) "you all" |
-| 2nd (formal) | ඔබ (oba) "you" | ඔබලා (obalā) "you all" |
-| 3rd (proximate) | මෙයා (meyā) "he/she" | මේගොල්ලො (mēgollo) "they" |
-| 3rd (distant) | ඌ (ū) "he/she" | උන් (un) "they" |
+| 1st | මම (mama) “I” | අපි (api) “we” |
+| 2nd (informal) | ඔයා (oyā) “you” | ඔයාලා (oyālā) “you all” |
+| 2nd (formal) | ඔබ (oba) “you” | ඔබලා (obalā) “you all” |
+| 3rd (proximate) | මෙයා (meyā) “he/she” | මේගොල්ලො (mēgollo) “they” |
+| 3rd (distant) | ඌ (ū) “he/she” | උන් (un) “they” |
 
 Pronouns are also inflected for case, similar to nouns.
 
@@ -181,60 +181,60 @@ Sinhala verbs are conjugated for tense, aspect, and mood. They agree with the su
 Sinhala has three main tenses: present, past, and future.
 
 Present tense:
-- **මම යනවා** (mama yanavā) "I go"
-- **ඔයා යනවා** (oyā yanavā) "You go"
-- **එයා යනවා** (eyā yanavā) "He/She goes"
+- **මම යනවා** (mama yanavā) “I go”
+- **ඔයා යනවා** (oyā yanavā) “You go”
+- **එයා යනවා** (eyā yanavā) “He/She goes”
 
 Past tense:
-- **මම ගියා** (mama giyā) "I went"
-- **ඔයා ගියා** (oyā giyā) "You went"
-- **එයා ගියා** (eyā giyā) "He/She went"
+- **මම ගියා** (mama giyā) “I went”
+- **ඔයා ගියා** (oyā giyā) “You went”
+- **එයා ගියා** (eyā giyā) “He/She went”
 
 Future tense:
-- **මම යන්නම්** (mama yannam) "I will go"
-- **ඔයා යයි** (oyā yayi) "You will go"
-- **එයා යයි** (eyā yayi) "He/She will go"
+- **මම යන්නම්** (mama yannam) “I will go”
+- **ඔයා යයි** (oyā yayi) “You will go”
+- **එයා යයි** (eyā yayi) “He/She will go”
 
 #### Aspect
 
 Sinhala distinguishes between perfective and imperfective aspects:
 
 Imperfective (ongoing action):
-- **මම කනවා** (mama kanavā) "I am eating"
+- **මම කනවා** (mama kanavā) “I am eating”
 
 Perfective (completed action):
-- **මම කෑවා** (mama kǣvā) "I ate"
+- **මම කෑවා** (mama kǣvā) “I ate”
 
 #### Mood
 
 Sinhala has several moods, including indicative, imperative, and optative:
 
 Indicative (factual statements):
-- **මම යනවා** (mama yanavā) "I go"
+- **මම යනවා** (mama yanavā) “I go”
 
 Imperative (commands):
-- **යන්න** (yanna) "Go!"
+- **යන්න** (yanna) “Go!”
 
 Optative (wishes or hopes):
-- **යන්න පුළුවන් වේවා** (yanna puḷuvan vēvā) "May (you) be able to go"
+- **යන්න පුළුවන් වේවා** (yanna puḷuvan vēvā) “May (you) be able to go”
 
 ### Adjectives
 
 Sinhala adjectives typically precede the nouns they modify and do not change for gender, number, or case:
 
-- **ලොකු ගෙදර** (loku gedara) "big house"
-- **ලොකු ගෙවල්** (loku geval) "big houses"
+- **ලොකු ගෙදර** (loku gedara) “big house”
+- **ලොකු ගෙවල්** (loku geval) “big houses”
 
 Some adjectives can also function as predicates:
 
-- **ගෙදර ලොකුයි** (gedara lokui) "The house is big"
+- **ගෙදර ලොකුයි** (gedara lokui) “The house is big”
 
 ### Adverbs
 
 Many adverbs in Sinhala are formed by adding the suffix **-ව** (-va) to adjectives:
 
-- **හොඳ** (hoňda) "good" → **හොඳට** (hoňdaṭa) "well"
-- **ඉක්මන්** (ikman) "quick" → **ඉක්මනින්** (ikmanin) "quickly"
+- **හොඳ** (hoňda) “good” → **හොඳට** (hoňdaṭa) “well”
+- **ඉක්මන්** (ikman) “quick” → **ඉක්මනින්** (ikmanin) “quickly”
 
 ### Word Order
 
@@ -242,8 +242,8 @@ The basic word order in Sinhala is Subject-Object-Verb (SOV):
 
 **මම පොත කියවනවා** (mama pota kiyavanavā)
 S    O    V
-"I   book read"
-"I read the book"
+“I   book read”
+“I read the book”
 
 However, the word order can be more flexible in spoken Sinhala, especially for emphasis or in questions.
 
@@ -278,7 +278,7 @@ Here are some common phrases in Sinhala:
 - No: **නැහැ** (næhæ)
 - Goodbye: **ගිහින් එන්නම්** (gihin ennam)
 - How are you?: **කොහොමද?** (kohomaða?)
-- I don't understand: **මට තේරෙන්නෙ නැහැ** (maṭa tērenné næhæ)
+- I don’t understand: **මට තේරෙන්නෙ නැහැ** (maṭa tērenné næhæ)
 - What's your name?: **ඔයාගේ නම මොකද්ද?** (oyāgē nama mokaððə?)
 - My name is...: **මගේ නම...** (magē nama...)
 
@@ -289,43 +289,43 @@ Spoken Sinhala often differs significantly from the written form. Some key diffe
 ### Pronunciation
 
 - The sound /ə/ is often dropped in fast speech: 
-  **කරනවා** (karanavā) → **කරනා** (karanā) "do"
+  **කරනවා** (karanavā) → **කරනා** (karanā) “do”
 
 - Final vowels are often nasalized:
-  **ගෙදර** (gedara) → **ගෙදරං** (gedaraṁ) "home"
+  **ගෙදර** (gedara) → **ගෙදරං** (gedaraṁ) “home”
 
 ### Grammar
 
 - The verb ending **-නවා** (-navā) is often shortened to **-නා** (-nā):
-  **යනවා** (yanavā) → **යනා** (yanā) "go"
+  **යනවා** (yanavā) → **යනා** (yanā) “go”
 
 - The plural marker **-ලා** (-lā) is used more frequently:
-  **මිනිස්සු** (minissu) → **මිනිස්සුලා** (minissulā) "people"
+  **මිනිස්සු** (minissu) → **මිනිස්සුලා** (minissulā) “people”
 
 ### Vocabulary
 
 Colloquial Sinhala often uses different words or shortened forms:
 
-- "What": **මොකක්ද** (mokakda) (formal) → **මොකද** (mokada) (colloquial)
-- "Where": **කොහෙද** (koheda) (formal) → **කෝ** (kō) (colloquial)
-- "How": **කෙසේද** (kesēda) (formal) → **කොහොමද** (kohomaða) (colloquial)
-- "Why": **ඇයි** (æyi) (formal) → **ඇයි** (æyi) or **මොකෝ** (mokō) (colloquial)
+- “What”: **මොකක්ද** (mokakda) (formal) → **මොකද** (mokada) (colloquial)
+- “Where”: **කොහෙද** (koheda) (formal) → **කෝ** (kō) (colloquial)
+- “How”: **කෙසේද** (kesēda) (formal) → **කොහොමද** (kohomaða) (colloquial)
+- “Why”: **ඇයි** (æyi) (formal) → **ඇයි** (æyi) or **මොකෝ** (mokō) (colloquial)
 
 ### Particles and Sentence-final Markers
 
 Colloquial Sinhala makes extensive use of particles and sentence-final markers to convey nuances of meaning, emphasis, or speaker attitude:
 
 - **නේ** (nē): used for confirmation or seeking agreement
-  **ඔයා යනවා නේ** (oyā yanavā nē) "You're going, right?"
+  **ඔයා යනවා නේ** (oyā yanavā nē) “You're going, right?”
 
 - **ලු** (lu): indicates reported speech or hearsay
-  **එයා එනවා ලු** (eyā enavā lu) "They say he's coming"
+  **එයා එනවා ලු** (eyā enavā lu) “They say he's coming”
 
 - **කො** (ko): used for polite requests or suggestions
-  **බලන්න කො** (balanna ko) "Let's see" or "Take a look"
+  **බලන්න කො** (balanna ko) “Let's see” or “Take a look”
 
 - **ද** (da): question marker
-  **ඔයා යනවා ද?** (oyā yanavā da?) "Are you going?"
+  **ඔයා යනවා ද?** (oyā yanavā da?) “Are you going?”
 
 ## Honorifics and Politeness
 
@@ -335,17 +335,17 @@ Sinhala has a complex system of honorifics and politeness levels, reflecting the
 
 Different pronouns are used depending on the social relationship:
 
-- **ඔයා** (oyā): informal "you" for peers or juniors
-- **ඔබ** (oba): formal "you" for respected individuals
-- **ඔබතුමා** (obatumā): very formal "you" for highly respected individuals or in official contexts
+- **ඔයා** (oyā): informal “you” for peers or juniors
+- **ඔබ** (oba): formal “you” for respected individuals
+- **ඔබතුමා** (obatumā): very formal “you” for highly respected individuals or in official contexts
 
 ### Verbs
 
 Verbs can take different forms to show respect:
 
-- **කනවා** (kanavā): neutral "eat"
-- **කනවද** (kanavada): polite "eat" (used when addressing respected individuals)
-- **වළඳනවා** (vaḷaňdanavā): honorific "eat" (used for monks or very respected individuals)
+- **කනවා** (kanavā): neutral “eat”
+- **කනවද** (kanavada): polite “eat” (used when addressing respected individuals)
+- **වළඳනවා** (vaḷaňdanavā): honorific “eat” (used for monks or very respected individuals)
 
 ### Titles
 
@@ -365,56 +365,56 @@ Sinhala has borrowed words from various languages throughout its history:
 
 Many religious and cultural terms come from Pali or Sanskrit:
 
-- **බුද්ධ** (buddha) "Buddha" (Sanskrit)
-- **ධර්මය** (dharmaya) "dharma, teachings" (Sanskrit)
-- **කර්මය** (karmaya) "karma" (Sanskrit)
+- **බුද්ධ** (buddha) “Buddha” (Sanskrit)
+- **ධර්මය** (dharmaya) “dharma, teachings” (Sanskrit)
+- **කර්මය** (karmaya) “karma” (Sanskrit)
 
 ### Tamil
 
 Due to long-standing contact with Tamil speakers, Sinhala has borrowed many words:
 
-- **මල්ලි** (malli) "younger brother" (from Tamil மல்லி malli)
-- **අක්කා** (akkā) "elder sister" (from Tamil அக்கா akkā)
+- **මල්ලි** (malli) “younger brother” (from Tamil மல்லி malli)
+- **අක්කා** (akkā) “elder sister” (from Tamil அக்கா akkā)
 
 ### Portuguese
 
 Portuguese colonizers introduced many new concepts and words:
 
-- **ඉස්කෝලේ** (iskōlē) "school" (from Portuguese escola)
-- **සාය** (sāya) "skirt" (from Portuguese saia)
+- **ඉස්කෝලේ** (iskōlē) “school” (from Portuguese escola)
+- **සාය** (sāya) “skirt” (from Portuguese saia)
 
 ### Dutch
 
 The Dutch colonial period also left linguistic traces:
 
-- **කක්කුස්සිය** (kakkussiya) "toilet" (from Dutch kakhuis)
-- **තප්පරය** (tapparaya) "stoep, veranda" (from Dutch stoep)
+- **කක්කුස්සිය** (kakkussiya) “toilet” (from Dutch kakhuis)
+- **තප්පරය** (tapparaya) “stoep, veranda” (from Dutch stoep)
 
 ### English
 
 Many modern terms, especially in technology and administration, come from English:
 
-- **කම්පියුටර්** (kampiyuṭar) "computer"
-- **බස්** (bas) "bus"
+- **කම්පියුටර්** (kampiyuṭar) “computer”
+- **බස්** (bas) “bus”
 
 ## Idioms and Expressions
 
 Sinhala has many colorful idioms and expressions:
 
 - **කටේ පැණි** (kaṭē pæṇi) 
-  Literal: "honey in the mouth"
+  Literal: “honey in the mouth”
   Meaning: Someone who speaks sweetly but may not be sincere
 
 - **අත් දෙක බෙල්ලේ** (at deka bellē)
-  Literal: "two hands on the neck"
+  Literal: “two hands on the neck”
   Meaning: To be in a difficult situation
 
 - **ඇඟට අමාරුයි** (æṅgaṭa amārui)
-  Literal: "body is difficult"
+  Literal: “body is difficult”
   Meaning: To be lazy
 
 - **කොළ කෑවා** (koḷa kǣvā)
-  Literal: "ate leaves"
+  Literal: “ate leaves”
   Meaning: To be fooled or tricked
 
 ## Sentence Structure and Particles
@@ -422,24 +422,24 @@ Sinhala has many colorful idioms and expressions:
 Sinhala uses various particles to indicate the role of words in a sentence:
 
 - **-ට** (-ṭa): dative case marker
-  **මට** (maṭa) "to me"
+  **මට** (maṭa) “to me”
 
 - **-ගේ** (-gē): genitive case marker
-  **මගේ** (magē) "my"
+  **මගේ** (magē) “my”
 
 - **-ගෙන්** (-gen): ablative case marker
-  **මගෙන්** (magen) "from me"
+  **මගෙන්** (magen) “from me”
 
-- **-එක්ක** (-ekka): comitative marker ("with")
-  **මා එක්ක** (mā ekka) "with me"
+- **-එක්ක** (-ekka): comitative marker (“with”)
+  **මා එක්ක** (mā ekka) “with me”
 
 ## Reduplication
 
 Sinhala uses reduplication for various purposes:
 
-- Emphasis: **හොඳ හොඳ** (hoňda hoňda) "very good"
-- Distributive meaning: **එක එක** (eka eka) "each one"
-- Continuity: **දවස දවස** (davasa davasa) "day by day"
+- Emphasis: **හොඳ හොඳ** (hoňda hoňda) “very good”
+- Distributive meaning: **එක එක** (eka eka) “each one”
+- Continuity: **දවස දවස** (davasa davasa) “day by day”
 
 ## Onomatopoeia
 
@@ -453,16 +453,16 @@ Sinhala has a rich inventory of onomatopoeic words:
 
 Spoken Sinhala uses various discourse markers to manage conversation flow:
 
-- **එහෙනම්** (ehenam): "in that case"
-- **ඉතින්** (itin): "so", "well"
-- **හරි** (hari): "okay", "alright"
+- **එහෙනම්** (ehenam): “in that case”
+- **ඉතින්** (itin): “so”, “well”
+- **හරි** (hari): “okay”, “alright”
 
 ## Code-switching
 
 In urban areas, it's common to hear Sinhala speakers code-switch between Sinhala and English:
 
 **මම office එකට යනවා** (mama office ekaṭa yanavā)
-"I'm going to the office"
+“I'm going to the office”
 
 ## Regional Variations
 

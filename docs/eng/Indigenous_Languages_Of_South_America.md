@@ -38,17 +38,17 @@ Example from Tariana:
 
 **nu-ñhapa-ka**
 1SG-arrive-REC.PAST.VIS
-"I arrived (I saw it happen)"
+“I arrived (I saw it happen)”
 
 **pi-ñhapa-mahka**
 2SG-arrive-REC.PAST.NONVIS
-"You arrived (I didn't see it happen)"
+“You arrived (I didn't see it happen)”
 
 **wa-ñhapa-mhade**
 1PL-arrive-FUT
-"We will arrive"
+“We will arrive”
 
-In this example, we see person prefixes (nu-, pi-, wa-), the verb root -ñhapa- "arrive", and tense/evidentiality suffixes (-ka, -mahka, -mhade).
+In this example, we see person prefixes (nu-, pi-, wa-), the verb root -ñhapa- “arrive”, and tense/evidentiality suffixes (-ka, -mahka, -mhade).
 
 Many Arawakan languages also have a system of classifier suffixes that categorize nouns based on their physical or functional properties.
 
@@ -56,11 +56,11 @@ Example from Baniwa:
 
 **aapi-da**
 fruit-CL:ROUND
-"round fruit"
+“round fruit”
 
 **aapi-hi**
 fruit-CL:LONG
-"long fruit"
+“long fruit”
 
 #### Syntax
 
@@ -70,13 +70,13 @@ Example from Terena:
 
 **Ûti nikoa xâne**
 man eat fish
-"The man eats fish"
+“The man eats fish”
 
 **Ina ovoku xâne**
 in house man
-"The man is in the house"
+“The man is in the house”
 
-In the second example, we see the postposition **ina** "in" following the noun it governs.
+In the second example, we see the postposition **ina** “in” following the noun it governs.
 
 ### Tupian
 
@@ -110,27 +110,27 @@ Example from Guarani:
 
 **a-guata**
 1SG-walk
-"I walk"
+“I walk”
 
 **re-guata**
 2SG-walk
-"You walk"
+“You walk”
 
 **o-guata**
 3-walk
-"He/she walks"
+“He/she walks”
 
 **ro-guata**
 1PL.EXCL-walk
-"We (excluding you) walk"
+“We (excluding you) walk”
 
 **ja-guata**
 1PL.INCL-walk
-"We (including you) walk"
+“We (including you) walk”
 
 **pe-guata**
 2PL-walk
-"You (plural) walk"
+“You (plural) walk”
 
 This example demonstrates the person prefixes in Guarani, including the distinction between inclusive and exclusive first person plural.
 
@@ -138,11 +138,11 @@ Tupian languages often have a rich system of valency-changing morphology:
 
 **a-mbo-guata**
 1SG-CAUS-walk
-"I make (someone) walk"
+“I make (someone) walk”
 
 **a-je-guata**
 1SG-REFL-walk
-"I walk myself"
+“I walk myself”
 
 #### Syntax
 
@@ -152,11 +152,11 @@ Example from Guarani:
 
 **Che jagua-pe a-hecha**
 I dog-ACC 1SG-see
-"I see the dog"
+“I see the dog”
 
 **Oga-pe a-ha**
 house-to 1SG-go
-"I go to the house"
+“I go to the house”
 
 Tupian languages often have a system of switch-reference marking, indicating whether the subject of a dependent clause is the same as or different from the subject of the main clause.
 
@@ -164,11 +164,11 @@ Example from Kamaiurá:
 
 **a-jot a-maraka-m**
 1SG-come 1SG-sing-GER
-"I came to sing" (same subject)
+“I came to sing” (same subject)
 
 **a-jot i-maraka-ramẽ**
 1SG-come 3-sing-SUB
-"I came when he sang" (different subject)
+“I came when he sang” (different subject)
 
 ### Quechuan
 
@@ -202,11 +202,11 @@ Example from Cusco Quechua:
 
 **Riku-wa-nki-chu**
 see-1OBJ-2SG-Q
-"Do you see me?"
+“Do you see me?”
 
 **Riku-chi-wa-nki-man-chu**
 see-CAUS-1OBJ-2SG-COND-Q
-"Would you show me?"
+“Would you show me?”
 
 In these examples, we see object marking (-wa-), subject marking (-nki-), causative (-chi-), conditional (-man-), and question (-chu) suffixes.
 
@@ -214,15 +214,15 @@ Quechuan languages also have a system of evidential suffixes, marking the source
 
 **Para-sha-n**
 rain-PROG-3SG
-"It is raining" (Direct evidence, the speaker sees it raining)
+“It is raining” (Direct evidence, the speaker sees it raining)
 
 **Para-sha-sqa**
 rain-PROG-REP
-"It was raining" (Reported evidence, someone told the speaker)
+“It was raining” (Reported evidence, someone told the speaker)
 
 **Para-sha-n-man**
 rain-PROG-3SG-COND
-"It might be raining" (Inferential evidence, based on clouds, for example)
+“It might be raining” (Inferential evidence, based on clouds, for example)
 
 #### Syntax
 
@@ -232,17 +232,17 @@ Example from Cusco Quechua:
 
 **Runakuna llaqtata ri-sqa-nku**
 people town-ACC go-PST.REP-3PL
-"The people went to town (I was told)"
+“The people went to town (I was told)”
 
 **Ñuqa wasi-man ri-saq**
 I house-to go-FUT.1SG
-"I will go to the house"
+“I will go to the house”
 
 Quechuan languages use nominalized clauses extensively in complex sentences:
 
 **Miku-na-yki-ta muna-ni**
 eat-NMLZ-2POSS-ACC want-1SG
-"I want you to eat" (literally: "I want your eating")
+“I want you to eat” (literally: “I want your eating”)
 
 ### Aymaran
 
@@ -274,15 +274,15 @@ Example from Aymara:
 
 **Uta-ja-ru**
 house-1POSS-to
-"To my house"
+“To my house”
 
 **Sar-ta**
 go-1SG
-"I go"
+“I go”
 
 **Sar-iri-:ta-wa**
 go-HAB-1SG-AFFIRM
-"I usually go"
+“I usually go”
 
 In the last example, we see habitual aspect (-iri-), first person singular (-:ta-), and an affirmative marker (-wa).
 
@@ -290,11 +290,11 @@ Aymara also has a complex system of data source marking, similar to but distinct
 
 **Jupa-x sar-i**
 he-TOP go-3SG
-"He goes" (Direct knowledge)
+“He goes” (Direct knowledge)
 
 **Jupa-x sar-tayna**
 he-TOP go-3SG.PST.NONFIRSTHAND
-"He went" (Non-firsthand information)
+“He went” (Non-firsthand information)
 
 #### Syntax
 
@@ -304,17 +304,17 @@ Example from Aymara:
 
 **Jupa-x uta-pa-ru sar-i**
 he-TOP house-3POSS-to go-3SG
-"He goes to his house"
+“He goes to his house”
 
 **Naya-x aka uta-n-k-t-wa**
 I-TOP this house-in-be-1SG-AFFIRM
-"I am in this house"
+“I am in this house”
 
 Like Quechua, Aymara makes extensive use of nominalized clauses:
 
 **Jupa-n jut-iri-pa-x wali-wa**
 he-GEN come-NMLZ-3POSS-TOP good-AFFIRM
-"That he comes is good" (literally: "His coming is good")
+“That he comes is good” (literally: “His coming is good”)
 
 ### Cariban
 
@@ -339,8 +339,8 @@ Vowels: /a e i o u ɨ/
 
 Some Cariban languages, like Panare, have a tonal system:
 
-**pë́j** "cassava bread" (high tone)
-**pë̀j** "clothes" (low tone)
+**pë́j** “cassava bread” (high tone)
+**pë̀j** “clothes” (low tone)
 
 #### Morphology
 
@@ -350,21 +350,21 @@ Example from Hixkaryana:
 
 **n-oseryeh-yako-no**
 3SG-laugh-COMPL-IMMED.PAST
-"He just finished laughing"
+“He just finished laughing”
 
 **m-enmah-no**
 2SG-teach-IMMED.PAST
-"You just taught"
+“You just taught”
 
 Cariban languages often have a system of person hierarchy in their verbal morphology, where only the higher-ranking participant is marked on the verb:
 
 **w-enyeh-no**
 1SG-see-IMMED.PAST
-"I saw him/her/it" (1 > 3)
+“I saw him/her/it” (1 > 3)
 
 **oy-onyeh-no**
 2SG.3-see-IMMED.PAST
-"He/she saw you" (3 > 2)
+“He/she saw you” (3 > 2)
 
 #### Syntax
 
@@ -374,17 +374,17 @@ Example from Hixkaryana:
 
 **toto y-ono-no kamara**
 man 3SG.3-eat-IMMED.PAST jaguar
-"The jaguar ate the man"
+“The jaguar ate the man”
 
 Cariban languages often use postpositions and have a system of switch-reference marking in complex sentences:
 
 **n-omok-ye, n-oseryeh-ye**
 3SG-come-DEP.SS, 3SG-laugh-DEP.SS
-"He came and (he) laughed" (same subject)
+“He came and (he) laughed” (same subject)
 
 **n-omok-ye, k-oseryeh-no**
 3SG-come-DEP.DS, 1SG-laugh-IMMED.PAST
-"He came and I laughed" (different subject)
+“He came and I laughed” (different subject)
 
 ## Linguistic Features
 
@@ -396,15 +396,15 @@ Example from Tariana (Arawakan):
 
 **José irida di-manika-ka**
 José football 3SG.NONFEM-play-REC.PAST.VIS
-"José played football" (I saw it)
+“José played football” (I saw it)
 
 **José irida di-manika-mahka**
 José football 3SG.NONFEM-play-REC.PAST.NONVIS
-"José played football" (I heard it)
+“José played football” (I heard it)
 
 **José irida di-manika-nihka**
 José football 3SG.NONFEM-play-REC.PAST.INFER
-"José played football" (I infer it from evidence)
+“José played football” (I infer it from evidence)
 
 This system in Tariana distinguishes visual, non-visual, and inferential evidentiality.
 
@@ -414,15 +414,15 @@ Several language families, including Tupian and some Arawakan languages, exhibit
 
 Example from Guarani (Tupian):
 
-**porã** [põɾã] "beautiful"
-**memby** [mẽmb̃ɨ̃] "child"
+**porã** [põɾã] “beautiful”
+**memby** [mẽmb̃ɨ̃] “child”
 
 In these examples, the nasality of one segment spreads to adjacent vowels and even some consonants.
 
 Example from Barasano (Tucanoan):
 
-**mĩpĩ** [mĩpĩ] "hummingbird"
-**mãkã** [mãkã] "river"
+**mĩpĩ** [mĩpĩ] “hummingbird”
+**mãkã** [mãkã] “river”
 
 In Barasano, nasality is a property of the entire morpheme and affects all sonorants within it.
 
@@ -432,14 +432,14 @@ Ejective consonants are common in Andean languages, including Quechuan and Aymar
 
 Example from Aymara:
 
-**p'iqi** [p'iqi] "head"
-**t'anta** [t'anta] "bread"
-**k'ari** [k'ari] "lie, falsehood"
+**p'iqi** [p'iqi] “head”
+**t'anta** [t'anta] “bread”
+**k'ari** [k'ari] “lie, falsehood”
 
 Example from Jaqaru (Aymaran):
 
-**č'aqa** [tʃ'aqa] "to break"
-**q'ipi** [q'ipi] "bundle"
+**č'aqa** [tʃ'aqa] “to break”
+**q'ipi** [q'ipi] “bundle”
 
 ### Polysynthesis
 
@@ -449,12 +449,12 @@ Example from Mapudungun (an isolate spoken in Chile and Argentina):
 
 **Leli-nie-ke-fu-i-ñ**
 watch-PROG-HAB-PAST-IND-1PL
-"We used to be watching it"
+“We used to be watching it”
 
 Example from Yagán (an isolate formerly spoken in Tierra del Fuego):
 
 **Mamihlapinatapai**
-"To look at each other hoping that either will offer to do something which both parties desire but are unwilling to do"
+“To look at each other hoping that either will offer to do something which both parties desire but are unwilling to do”
 
 This famous word encapsulates a complex concept in a single lexeme, demonstrating the polysynthetic nature of the language.
 
@@ -464,13 +464,13 @@ Many South American languages distinguish between inclusive and exclusive first 
 
 Example from Quechua:
 
-**Ñuqanchis** "we" (inclusive, including the addressee)
-**Ñuqayku** "we" (exclusive, not including the addressee)
+**Ñuqanchis** “we” (inclusive, including the addressee)
+**Ñuqayku** “we” (exclusive, not including the addressee)
 
 Example from Mochica (an extinct language formerly spoken in coastal Peru):
 
-**ixll** "we" (inclusive)
-**moiñ** "we" (exclusive)
+**ixll** “we” (inclusive)
+**moiñ** “we” (exclusive)
 
 ### Classifier Systems
 
@@ -480,31 +480,31 @@ Example from Yagua (Peba-Yaguan family, spoken in Peru):
 
 **tóó-nu** 
 tree-CL:TREE
-"tree"
+“tree”
 
 **tóó-tu**
 tree-CL:BUNDLELIKE
-"log"
+“log”
 
 **tóó-siy**
 tree-CL:SLENDER
-"stick"
+“stick”
 
-In this example, the same root "tóó" (tree) is classified differently based on its form or use.
+In this example, the same root “tóó” (tree) is classified differently based on its form or use.
 
 Example from Bora (Witotoan family, spoken in Peru and Colombia):
 
 **úméhe-ba**
 banana-CL:FRUIT
-"banana (fruit)"
+“banana (fruit)”
 
 **úméhe-i**
 banana-CL:PLANT
-"banana plant"
+“banana plant”
 
 **úméhe-ko**
 banana-CL:STICK
-"banana stalk"
+“banana stalk”
 
 ### Switch-Reference
 
@@ -514,7 +514,7 @@ Example from Cavineña (Tacanan family, spoken in Bolivia):
 
 **Tudya =tu-ke mare-kware [e-tata-wa=ke]**
 then =3SG-FM see.off-REM.PAST [NPF-go.out-PERF=LIG]
-"Then he saw him off when he (the other one) had gone out"
+“Then he saw him off when he (the other one) had gone out”
 
 In this example, the ligature =ke indicates that the subject of the dependent clause is different from the subject of the main clause.
 
@@ -536,11 +536,11 @@ Example of Mapudungun verbal morphology:
 
 **Leli-fi-ñ**
 watch-3OBJ-1SG.IND
-"I watch him/her/it"
+“I watch him/her/it”
 
 **Pe-la-fi-mi**
 see-NEG-3OBJ-2SG
-"You don't see him/her/it"
+“You don’t see him/her/it”
 
 ### Warao
 
@@ -550,21 +550,21 @@ Example of Warao possessive construction:
 
 **Ma-jobo**
 1SG-house
-"My house"
+“My house”
 
 **Ji-noko**
 1SG-canoe
-"My canoe"
+“My canoe”
 
 Warao has an interesting system of classificatory verbs, where different verbs are used depending on the position or state of the object:
 
 **Nao eku-ai**
 I stand-PRES
-"I am standing"
+“I am standing”
 
 **Nao aya-ha**
 I sit-PRES
-"I am sitting"
+“I am sitting”
 
 ### Trumai
 
@@ -574,11 +574,11 @@ Example of Trumai ergativity:
 
 **Chï'a hai-ts disi**
 child 3SG.ERG-eat fruit
-"The child ate the fruit"
+“The child ate the fruit”
 
 **Chï'a ka_ode**
 child sleep
-"The child slept"
+“The child slept”
 
 In the first example, the subject of the transitive verb takes the ergative case (marked by -ts), while in the second example, the subject of the intransitive verb is unmarked (absolutive).
 
@@ -588,18 +588,18 @@ Spoken in Colombia, Andoke is known for its complex tonal system and its use of 
 
 Andoke has four tones: high, low, rising, and falling. These tones can distinguish both lexical and grammatical meaning:
 
-**pǒ** (rising tone) "fish"
-**pò** (low tone) "timber"
+**pǒ** (rising tone) “fish”
+**pò** (low tone) “timber”
 
 Andoke also has an extensive classifier system, with over 60 classifiers. For example:
 
 **hɯ̃-ʔo**
 water-CL:LIQUID
-"water"
+“water”
 
 **hɯ̃-si**
 water-CL:RIVER
-"river"
+“river”
 
 ## Endangered Languages
 
@@ -613,11 +613,11 @@ Example of Kawésqar demonstrative:
 
 **Askártæs**
 DEM.PROX.VISIBLE
-"This one (visible and close)"
+“This one (visible and close)”
 
 **Askćéjer**
 DEM.DIST.INVISIBLE
-"That one (distant and not visible)"
+“That one (distant and not visible)”
 
 ### Vilela
 
@@ -627,7 +627,7 @@ Example of Vilela verbal morphology (from historical records):
 
 **Ni-lap-ki-n**
 1SG-hit-CAUS-PAST
-"I made (someone) hit"
+“I made (someone) hit”
 
 ### Yagán
 
@@ -637,7 +637,7 @@ Example of Yagán morphological complexity:
 
 **Teki-uina-na-moni-kipa-teka**
 look-PROG-STATE-CAUS-INCH-NARR
-"He/she began to cause (someone) to be in the state of looking"
+“He/she began to cause (someone) to be in the state of looking”
 
 This single word encapsulates a complex verbal concept that would require multiple words in many other languages.
 
@@ -651,13 +651,13 @@ Many indigenous languages have borrowed lexical items from Spanish or Portuguese
 
 Example from Guarani:
 
-**vaka** "cow" (from Spanish "vaca")
-**kamisa** "shirt" (from Spanish "camisa")
+**vaka** “cow” (from Spanish “vaca”)
+**kamisa** “shirt” (from Spanish “camisa”)
 
 Example from Quechua:
 
-**iskwila** "school" (from Spanish "escuela")
-**runa** "person" (native Quechua word)
+**iskwila** “school” (from Spanish “escuela”)
+**runa** “person” (native Quechua word)
 
 ### Structural Borrowing
 
@@ -665,16 +665,16 @@ Some languages have borrowed structural features from Spanish or Portuguese.
 
 Example: The development of a definite article in Quechua varieties in contact with Spanish:
 
-**Warmi-qa** "the woman" (traditional Quechua)
-**La warmi** "the woman" (in some contact varieties, borrowing Spanish "la")
+**Warmi-qa** “the woman” (traditional Quechua)
+**La warmi** “the woman” (in some contact varieties, borrowing Spanish “la”)
 
 Example from Guarani: The adoption of Spanish conjunctions
 
 **Ha upéi ou la che ermáno**
 And then come the my brother
-"And then my brother came"
+“And then my brother came”
 
-Here, "ha" (and) and "la" (the) are borrowed from Spanish, while the rest of the sentence structure remains Guarani.
+Here, “ha” (and) and “la” (the) are borrowed from Spanish, while the rest of the sentence structure remains Guarani.
 
 ### Mixed Languages
 
@@ -684,17 +684,17 @@ Example: Media Lengua, spoken in Ecuador, which combines Quechua grammar with a 
 
 **Yo-ga anda-ndu-ni**
 I-TOP walk-PROG-1SG
-"I am walking"
+“I am walking”
 
-(Here, "yo" is from Spanish, while the grammatical structure and suffixes are from Quechua)
+(Here, “yo” is from Spanish, while the grammatical structure and suffixes are from Quechua)
 
 Another example is Callahuaya, a secret language used by itinerant healers in Bolivia, which combines Quechua grammar with a lexicon derived mainly from Puquina (an extinct language):
 
 **Ñoqa lari-s-qa-y**
 I speak-PERF-NMLZ-1SG
-"I have spoken"
+“I have spoken”
 
-Here, the grammatical structure is Quechua, but "lari" (speak) is from Puquina.
+Here, the grammatical structure is Quechua, but “lari” (speak) is from Puquina.
 
 ## Typological Features
 

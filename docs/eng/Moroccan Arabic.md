@@ -51,20 +51,20 @@ The schwa [ə] is often inserted between consonants to break up clusters.
 ### Phonological processes
 
 1. Vowel reduction: Unstressed vowels often reduce to schwa or are dropped entirely.
-   Example: **ktab** [ktəb] "book" (MSA: **kitāb** [kitaːb])
+   Example: **ktab** [ktəb] “book” (MSA: **kitāb** [kitaːb])
 
 2. Consonant clusters: Moroccan Arabic allows for complex consonant clusters.
-   Example: **khdmt** [χdəmt] "I worked" (MSA: **ʿamiltu** [ʕamiltu])
+   Example: **khdmt** [χdəmt] “I worked” (MSA: **ʿamiltu** [ʕamiltu])
 
 3. Emphatic consonants: Like MSA, Moroccan Arabic has emphatic consonants that affect surrounding vowels.
-   Example: **ṭabla** [tˤabla] "table" vs. **tabla** [tabla] "drum"
+   Example: **ṭabla** [tˤabla] “table” vs. **tabla** [tabla] “drum”
 
 ## Orthography
 
 Moroccan Arabic is primarily a spoken language and does not have a standardized writing system. It is often written informally using Arabic script, Latin script, or a mixture of both. When written in Arabic script, short vowels are typically omitted.
 
 Example in Arabic script: الدار البيضاء
-Romanization: **ed-dar el-beyḍa** ("Casablanca")
+Romanization: **ed-dar el-beyḍa** (“Casablanca”)
 
 ## Morphology
 
@@ -115,9 +115,9 @@ Example: **dar** (house)
 Moroccan Arabic verbs have a rich system of derivation and inflection.
 
 1. Verb forms:
-   - Form I: basic form (e.g., **ktb** "to write")
-   - Form II: intensive/causative (e.g., **kttb** "to make write")
-   - Form III: reciprocal (e.g., **katb** "to correspond with")
+   - Form I: basic form (e.g., **ktb** “to write”)
+   - Form II: intensive/causative (e.g., **kttb** “to make write”)
+   - Form III: reciprocal (e.g., **katb** “to correspond with”)
    - Other forms exist but are less common
 
 2. Tenses and aspects:
@@ -125,7 +125,7 @@ Moroccan Arabic verbs have a rich system of derivation and inflection.
    - Imperfect: ongoing or habitual action
    - Future: formed with prefix **ghadi** or **ghad**
 
-3. Conjugation example (Form I verb **ktb** "to write"):
+3. Conjugation example (Form I verb **ktb** “to write”):
 
 Perfect:
 
@@ -214,11 +214,11 @@ Moroccan Arabic vocabulary is influenced by several languages:
 
 3. French:
    Due to the French protectorate period, many French loanwords are used.
-   Example: **tobic** (topic) from French "topic"
+   Example: **tobic** (topic) from French “topic”
 
 4. Spanish:
    Especially in northern Morocco, Spanish has influenced the vocabulary.
-   Example: **simana** (week) from Spanish "semana"
+   Example: **simana** (week) from Spanish “semana”
 
 5. English:
    Modern technology and global culture have introduced English words.
@@ -231,7 +231,7 @@ Some common Moroccan Arabic words and phrases:
 - **shukran** - Thank you
 - **smḥ li** - Excuse me
 - **bghit** - I want
-- **ma fhmt-sh** - I don't understand
+- **ma fhmt-sh** - I don’t understand
 - **zwin** - Beautiful
 - **bzzaf** - Very, a lot
 - **inshallah** - God willing
@@ -254,23 +254,23 @@ Moroccan Arabic has several regional dialects:
 
 Examples of dialectal differences:
 
-- "Now": **daba** (Central), **druk** (Northern)
-- "Come": **ajiu** (Central), **arwaḥu** (Southern)
+- “Now”: **daba** (Central), **druk** (Northern)
+- “Come”: **ajiu** (Central), **arwaḥu** (Southern)
 
 ## Colloquial Features
 
 1. Shortening of words:
    Many words are shortened in everyday speech.
-   Example: **ma ʿndish** → **ma ʿndish** (I don't have)
+   Example: **ma ʿndish** → **ma ʿndish** (I don’t have)
 
 2. Code-switching:
    Moroccan speakers often mix Darija with French or Spanish.
    Example: **ʿndi rendez-vous mʿa l-medcin** (I have an appointment with the doctor)
 
 3. Idiomatic expressions:
-   - **lla y-ʿawn** (May God help) - used as "good luck"
-   - **lla y-khllík** (May God keep you) - used as "please"
-   - **b-sḥḥa** (With health) - used as "enjoy your meal" or "you're welcome"
+   - **lla y-ʿawn** (May God help) - used as “good luck”
+   - **lla y-khllík** (May God keep you) - used as “please”
+   - **b-sḥḥa** (With health) - used as “enjoy your meal” or “you're welcome”
 
 4. Pragmatic particles:
    Words like **wah** (yes), **iyeh** (yeah), and **zʿma** (like, sort of) are frequently used in conversation.
@@ -511,11 +511,11 @@ The Moroccan Arabic verb system is rich and complex:
 
 ## Idiomatic Expressions
 
-1. **lla y-bark** - May God bless (used as "thank you")
-2. **ma ʿndish l-ḥq** - I don't have the right (used to politely disagree)
+1. **lla y-bark** - May God bless (used as “thank you”)
+2. **ma ʿndish l-ḥq** - I don’t have the right (used to politely disagree)
 3. **ʿla slamt-k** - On your safety (used when someone sneezes)
 4. **lla y-ster** - May God protect (used to express worry or hope)
-5. **b-khir ʿla khir** - Good upon good (used as a response to "How are you?")
+5. **b-khir ʿla khir** - Good upon good (used as a response to “How are you?”)
 
 ## Politeness Strategies
 
@@ -538,11 +538,11 @@ The Moroccan Arabic verb system is rich and complex:
    - Phonology: presence of emphatic consonants
 
 2. French influence:
-   - Loanwords: **tomobil** (car, from French "automobile")
+   - Loanwords: **tomobil** (car, from French “automobile”)
    - Code-switching: **ʿndi rendez-vous** (I have an appointment)
 
 3. Spanish influence (especially in the north):
-   - Vocabulary: **simana** (week, from Spanish "semana")
+   - Vocabulary: **simana** (week, from Spanish “semana”)
 
 4. Modern Standard Arabic influence:
    - Formal vocabulary: **mustaqbal** (future) alongside colloquial **mazyan**
@@ -589,7 +589,7 @@ The Moroccan Arabic verb system is rich and complex:
    **s-salamu ʿalaykum** (Peace be upon you)
 
 2. Closing formulas:
-   **bslama** (Goodbye, lit. "with peace")
+   **bslama** (Goodbye, lit. “with peace”)
 
 3. Turn-taking signals:
    **smaʿ** (Listen), **shuf** (Look)

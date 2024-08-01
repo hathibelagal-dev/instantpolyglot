@@ -135,11 +135,11 @@ Third person pronouns starting with **j-** or **i-** change to **ni-** if they f
 
 Numbers are inflected for case, some even for gender:
 
-"1": **jeden** (masc.), **jedna** (fem.), **jedno** (neut*.) Case forms resemble pronouns and adjectives: **jednego** (masc. and neut. genitive), **jedną** (fem. accusative) etc.
+“1”: **jeden** (masc.), **jedna** (fem.), **jedno** (neut*.) Case forms resemble pronouns and adjectives: **jednego** (masc. and neut. genitive), **jedną** (fem. accusative) etc.
 
-"2": **dwa** (masc.), **dwie** (fem.), **dwa** (neut.). Case forms resemble pronouns and adjectives: **dwóch** (masc. and neut. genitive), **dwie** (fem. genitive) etc.
+“2”: **dwa** (masc.), **dwie** (fem.), **dwa** (neut.). Case forms resemble pronouns and adjectives: **dwóch** (masc. and neut. genitive), **dwie** (fem. genitive) etc.
 
-"3": **trzy** for all genders. Some case forms: **trzech** (masc. and neut. genitive), **trzy** (masc. accusative), **trzy** (neut. accusative), **trzy** (fem. accusative).
+“3”: **trzy** for all genders. Some case forms: **trzech** (masc. and neut. genitive), **trzy** (masc. accusative), **trzy** (neut. accusative), **trzy** (fem. accusative).
 
 TBD
 
@@ -297,12 +297,12 @@ The word order in Polish is relatively flexible due to the case system, but the 
 - SVO: **Jan czyta książkę** (Jan reads a book)
 - OVS: **Książkę czyta Jan** (It's Jan who reads the book)
 
-Questions can be formed by adding the particle "czy" at the beginning of a statement or by using intonation:
+Questions can be formed by adding the particle “czy” at the beginning of a statement or by using intonation:
 - **Czy mówisz po polsku?** (Do you speak Polish?)
 - **Mówisz po polsku?** (You speak Polish? / Do you speak Polish?)
 
 Negation is formed by placing **nie** before the verb:
-- **Nie** mówię po polsku (I don't speak Polish)
+- **Nie** mówię po polsku (I don’t speak Polish)
 
 There are no definite or indefinite articles in Polish. The definiteness is expressed by context or by the use of demonstratives or possessives:
 - **widzę psa** ('I see a dog')
@@ -337,7 +337,7 @@ The accusative is used for
 * the direct object: **czytam książkę** ('I read a book'), **widzę psa** ('I see a dog')
 
 The genitive is used for many things, including:
-* the object of negation: **nie mam czasu** ('I don't have time'), **nie widzę psa** ('I don't see a dog').
+* the object of negation: **nie mam czasu** ('I don’t have time'), **nie widzę psa** ('I don’t see a dog').
 * ownership: **to jest dom Jana** ('this is Jan's house'), **to jest książka Ewy** ('this is Ewa's book').
 * content: **miska zupy** ('a bowl of soup'), **szklanka wody** ('a glass of water').
 * partitive: **mam trochę czasu** ('I have some time'), **mam kilka książek** ('I have a few books').

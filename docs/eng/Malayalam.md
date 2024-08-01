@@ -198,7 +198,7 @@ Example:
 **രാമൻ പുസ്തകം വായിക്കുന്നു**
 /raːman pust̪akam ʋaːjikkunnu/
 Raman book reads
-"Raman reads a book"
+“Raman reads a book”
 
 ### Question formation
 
@@ -207,12 +207,12 @@ Questions are formed by adding question particles or changing intonation:
 1. Yes/no questions: Add -ഓ /-oː/ at the end of the sentence
    **രാമൻ പുസ്തകം വായിക്കുന്നുവോ?**
    /raːman pust̪akam ʋaːjikkunnuʋoː/
-   "Does Raman read a book?"
+   “Does Raman read a book?”
 
 2. Wh-questions: Use question words like എന്ത് /ent̪ə/ (what), ആര് /aːrə/ (who), എവിടെ /eʋiʈe/ (where)
    **രാമൻ എന്ത് വായിക്കുന്നു?**
    /raːman ent̪ə ʋaːjikkunnu/
-   "What does Raman read?"
+   “What does Raman read?”
 
 ### Relative clauses
 
@@ -221,7 +221,7 @@ Relative clauses in Malayalam precede the noun they modify and end with a partic
 **ഞാൻ വായിച്ച പുസ്തകം**
 /ɲaːn ʋaːjit͡ʃt͡ʃa pust̪akam/
 I read-PAST-PARTICIPLE book
-"The book that I read"
+“The book that I read”
 
 ### Coordination
 
@@ -230,7 +230,7 @@ Coordination is achieved using conjunctions like -ഉം /-um/ (and) or എന�
 **രാമനും സീതയും വന്നു**
 /raːmanum siːt̪ajum ʋannu/
 Raman-and Sita-and came
-"Raman and Sita came"
+“Raman and Sita came”
 
 ### Subordination
 
@@ -239,7 +239,7 @@ Subordinate clauses are often formed using verbal participles or infinitives:
 **രാമൻ വന്നപ്പോൾ ഞാൻ പുസ്തകം വായിക്കുകയായിരുന്നു**
 /raːman ʋannappoːɭ ɲaːn pust̪akam ʋaːjikkukajaːjirunnu/
 Raman come-PAST-WHEN I book read-PROG-PAST
-"When Raman came, I was reading a book"
+“When Raman came, I was reading a book”
 
 ## Lexicon
 
@@ -265,9 +265,9 @@ Many words, especially in formal or literary contexts, are borrowed from Sanskri
 
 Due to Portuguese colonial influence, some words of Portuguese origin are used:
 
-- **ജനല** /d͡ʒanala/ (window, from Portuguese "janela")
-- **മേശ** /meːʃa/ (table, from Portuguese "mesa")
-- **സാബോൻ** /saːboːn/ (soap, from Portuguese "sabão")
+- **ജനല** /d͡ʒanala/ (window, from Portuguese “janela”)
+- **മേശ** /meːʃa/ (table, from Portuguese “mesa”)
+- **സാബോൻ** /saːboːn/ (soap, from Portuguese “sabão”)
 
 ### English loanwords
 
@@ -282,7 +282,7 @@ Modern Malayalam has incorporated many English words, especially in technology a
 Due to historical trade connections and Islamic influence, some words of Arabic and Persian origin are present:
 
 - **ഖബർ** /kʰabar/ (news, from Arabic)
-- **ദുനിയാവ്** /d̪unijaːʋə/ (world, from Arabic "dunya")
+- **ദുനിയാവ്** /d̪unijaːʋə/ (world, from Arabic “dunya”)
 - **ബാക്കി** /baːkki/ (remainder, from Arabic)
 
 ### Compound words
@@ -325,7 +325,7 @@ When vowels follow consonants, they are indicated by diacritical marks:
 
 ### Chillu letters
 
-Malayalam has a unique feature called "chillu" letters, which are pure consonants without the inherent /a/ vowel:
+Malayalam has a unique feature called “chillu” letters, which are pure consonants without the inherent /a/ vowel:
 
 ൻ /n/, ർ /r/, ൽ /l/, ൾ /ɭ/, ൺ /ɳ/, ൿ /k/
 

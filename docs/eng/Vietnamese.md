@@ -198,11 +198,11 @@ Vietnamese numbers follow a decimal system. Basic numbers include:
 9 | chín
 10 | mười
 
-Numbers from 11 to 19 are formed by adding "mười" (ten) before the digit:
+Numbers from 11 to 19 are formed by adding “mười” (ten) before the digit:
 - 11: mười một
 - 15: mười lăm (note: năm becomes lăm)
 
-Multiples of ten use "mươi":
+Multiples of ten use “mươi”:
 - 20: hai mươi
 - 50: năm mươi
 
@@ -221,10 +221,10 @@ Adjectives in Vietnamese do not change form. They typically follow the noun they
 Some adjectives can also function as stative verbs:
 - **Tôi mệt.** ('I am tired.')
 
-The comparative form of adjectives is formed using "hơn" (more):
+The comparative form of adjectives is formed using “hơn” (more):
 - **đẹp hơn** ('more beautiful')
 
-The superlative form uses "nhất" (most):
+The superlative form uses “nhất” (most):
 - **đẹp nhất** ('most beautiful')
 
 ### Verbs
@@ -247,7 +247,7 @@ Completed action can be indicated with **xong** or **rồi**:
 - **Tôi ăn xong rồi.** ('I have finished eating.')
 
 Negation is formed by placing **không** before the verb:
-- **Tôi không ăn cơm.** ('I don't eat rice.' or 'I am not eating rice.')
+- **Tôi không ăn cơm.** ('I don’t eat rice.' or 'I am not eating rice.')
 
 ### Adverbs
 
@@ -262,10 +262,10 @@ Vietnamese follows a Subject-Verb-Object (SVO) word order:
 
 ### Questions
 
-Yes/no questions can be formed by adding the particle "không" at the end of a statement:
+Yes/no questions can be formed by adding the particle “không” at the end of a statement:
 - **Bạn ăn cơm không?** ('Do you eat rice?')
 
-Alternative questions use "hay" (or) between options:
+Alternative questions use “hay” (or) between options:
 - **Bạn uống cà phê hay trà?** ('Do you drink coffee or tea?')
 
 Wh-questions use question words, which typically appear in the same position as the answer would:
@@ -296,7 +296,7 @@ Vietnamese uses several sentence-final particles to express mood or attitude:
   **Cẩn thận đấy.** ('Be careful, you hear?')
 
 - **nhỉ**: seeking confirmation or agreement
-  **Hôm nay trời đẹp nhỉ?** ('The weather is nice today, isn't it?')
+  **Hôm nay trời đẹp nhỉ?** ('The weather is nice today, isn’t it?')
 
 ### Serial verb constructions
 
@@ -311,24 +311,24 @@ While SVO is the basic word order, Vietnamese also frequently uses topic-comment
 
 ### Passive voice
 
-Passive constructions are less common in Vietnamese than in English. When used, they are often formed with "được" (to receive, can) or "bị" (to suffer):
+Passive constructions are less common in Vietnamese than in English. When used, they are often formed with “được” (to receive, can) or “bị” (to suffer):
 - **Cái cửa được mở.** ('The door is opened.')
 - **Anh ấy bị đuổi việc.** ('He was fired.' Literally: 'He suffered job dismissal.')
 
 ### Relative clauses
 
-Vietnamese relative clauses follow the noun they modify and are introduced by the particle "mà":
+Vietnamese relative clauses follow the noun they modify and are introduced by the particle “mà”:
 - **Người mà tôi gặp hôm qua là bạn tôi.** ('The person whom I met yesterday is my friend.')
 
-For possessive relationships, "của" is used:
+For possessive relationships, “của” is used:
 - **Người mà tôi mượn sách của anh ấy là bạn tôi.** ('The person whose book I borrowed is my friend.')
 
 ### Conditional sentences
 
-Conditional sentences in Vietnamese often use "nếu" (if) to introduce the condition:
+Conditional sentences in Vietnamese often use “nếu” (if) to introduce the condition:
 - **Nếu trời mưa, tôi sẽ ở nhà.** ('If it rains, I will stay at home.')
 
-The consequence can also be introduced by "thì":
+The consequence can also be introduced by “thì”:
 - **Nếu trời mưa thì tôi sẽ ở nhà.** ('If it rains, then I will stay at home.')
 
 ### Complement clauses
@@ -336,7 +336,7 @@ The consequence can also be introduced by "thì":
 Complement clauses often follow the main clause without a conjunction:
 - **Tôi nghĩ anh ấy sẽ đến.** ('I think he will come.')
 
-Some verbs require the complementizer "rằng" or "là":
+Some verbs require the complementizer “rằng” or “là”:
 - **Cô ấy nói rằng sẽ đến muộn.** ('She said that she will be late.')
 
 ### Imperative constructions
@@ -350,21 +350,21 @@ For more polite requests, **hãy** or **xin** can be used before the verb:
 
 ### Existential constructions
 
-Existential sentences often use "có" (to have):
+Existential sentences often use “có” (to have):
 - **Có một con mèo trong vườn.** ('There is a cat in the garden.')
 
-Negative existentials use "không có":
+Negative existentials use “không có”:
 - **Không có ai ở nhà.** ('There is nobody at home.')
 
 ### Copular constructions
 
-Vietnamese doesn't have a true copula (like "to be" in English). For equational sentences, the nouns or noun phrases are simply juxtaposed:
+Vietnamese doesn’t have a true copula (like “to be” in English). For equational sentences, the nouns or noun phrases are simply juxtaposed:
 - **Anh ấy bác sĩ.** ('He [is] a doctor.')
 
 For adjectival predicates, the adjective directly follows the subject:
 - **Hoa đẹp.** ('The flower [is] beautiful.')
 
-The particle "là" can be used for emphasis or clarity:
+The particle “là” can be used for emphasis or clarity:
 - **Anh ấy là bác sĩ.** ('He is a doctor.')
 
 ### Causative constructions
@@ -467,7 +467,7 @@ Vietnamese often uses clause chaining, where multiple clauses are linked togethe
 Vietnamese is a topic-prominent language, meaning that the topic of a sentence is often explicitly marked and can be different from the grammatical subject:
 
 **Về chuyện đó thì tôi không biết gì cả.** 
-('As for that matter, I don't know anything at all.')
+('As for that matter, I don’t know anything at all.')
 
 ### Double Subject Constructions
 
@@ -515,7 +515,7 @@ Vietnamese uses a variety of particles to express the speaker's attitude or to m
   **Tôi mà biết thì đã nói rồi.** ('If I had known, I would have said so.')
 
 - **chứ**: emphasis or rhetorical question
-  **Anh đi chứ?** ('You're going, aren't you?')
+  **Anh đi chứ?** ('You're going, aren’t you?')
 
 - **kìa**: drawing attention
   **Nhìn kìa!** ('Look there!')

@@ -220,12 +220,12 @@ Wh-questions start with the question word:
 
 Negation is formed with **niet** or **geen**:
 
-- **Ik lees niet** (I don't read)
-- **Ik heb geen boek** (I don't have a book)
+- **Ik lees niet** (I don’t read)
+- **Ik heb geen boek** (I don’t have a book)
 
 ### Conjunctions
 
-Coordinating conjunctions (e.g., **en**, **maar**, **of**) don't affect word order:
+Coordinating conjunctions (e.g., **en**, **maar**, **of**) don’t affect word order:
 
 - **Ik lees een boek en hij kijkt televisie** (I read a book and he watches television)
 
@@ -298,12 +298,12 @@ Colloquial Dutch often differs from standard written Dutch:
 While Standard Dutch is understood across the Netherlands and Flanders, there are notable regional differences:
 
 1. Pronunciation:
-   - The "soft g" [ɣ] in the south vs. the "hard g" [x] in the north
-   - The "Gooise r" [ʀ] in some central regions vs. the trilled [r] elsewhere
+   - The “soft g” [ɣ] in the south vs. the “hard g” [x] in the north
+   - The “Gooise r” [ʀ] in some central regions vs. the trilled [r] elsewhere
 
 2. Vocabulary:
-   - **patat** (NL) vs. **frieten** (BE) for "fries"
-   - **fiets** (NL) vs. **velo** (BE) for "bicycle"
+   - **patat** (NL) vs. **frieten** (BE) for “fries”
+   - **fiets** (NL) vs. **velo** (BE) for “bicycle”
 
 3. Use of diminutives:
    - More frequent use in Belgium: **een pintje** (a small beer) vs. **een biertje** in the Netherlands
@@ -325,7 +325,7 @@ While Standard Dutch is understood across the Netherlands and Flanders, there ar
 
 ## Writing system
 
-Dutch uses the Latin alphabet with no additional letters. However, the digraphs **ij** and **IJ** are sometimes considered a single letter, called the "long ij" or "Dutch y".
+Dutch uses the Latin alphabet with no additional letters. However, the digraphs **ij** and **IJ** are sometimes considered a single letter, called the “long ij” or “Dutch y”.
 
 Capitalization rules are similar to English, with some exceptions:
 - Pronouns referring to deity are not capitalized: **hij** (He), when referring to God
@@ -354,7 +354,7 @@ Ordinal numbers are formed by adding -de or -ste to the cardinal number:
 Telling time in Dutch:
 
 - **Het is drie uur** (It's three o'clock)
-- **Het is half vier** (It's half past three, literally "half four")
+- **Het is half vier** (It's half past three, literally “half four”)
 - **Het is kwart over drie** (It's quarter past three)
 - **Het is kwart voor vier** (It's quarter to four)
 
@@ -412,7 +412,7 @@ Formed with **zou** + **hebben/zijn** + past participle:
 
 ### Progressive aspect
 
-Dutch doesn't have a continuous form like English. Instead, it uses:
+Dutch doesn’t have a continuous form like English. Instead, it uses:
 
 1. **aan het** + infinitive:
    - **Ik ben aan het lezen** (I am reading)
@@ -508,7 +508,7 @@ Dutch uses many particles to add nuance to sentences:
 
 - **maar**: **Kom maar binnen** (Just come in)
 - **eens**: **Probeer het eens** (Try it once / Give it a try)
-- **toch**: **Je komt toch?** (You are coming, aren't you?)
+- **toch**: **Je komt toch?** (You are coming, aren’t you?)
 - **wel**: **Dat is wel interessant** (That is quite interesting)
 
 ## Diminutives
@@ -542,8 +542,8 @@ Dutch frequently creates compound words:
    - **slaapkamer** (bedroom)
 
 4. Preposition + noun:
-   - **onderdak** (shelter, literally "under-roof")
-   - **overhemd** (shirt, literally "over-garment")
+   - **onderdak** (shelter, literally “under-roof”)
+   - **overhemd** (shirt, literally “over-garment”)
 
 ## Pronominal adverbs
 
@@ -590,7 +590,7 @@ Examples:
 
 Dutch uses the same tense in reported speech as in direct speech:
 
-- Direct: **Hij zegt: "Ik ben ziek"** (He says: "I am sick")
+- Direct: **Hij zegt: “Ik ben ziek”** (He says: “I am sick”)
 - Reported: **Hij zegt dat hij ziek is** (He says that he is sick)
 
 ## Colloquialisms and slang

@@ -4,7 +4,7 @@ Surzhyk (Ukrainian: суржик, IPA: [ˈsurʒɪk]) is a mixed language or soci
 
 ## Historical Background
 
-The term "surzhyk" originally referred to a mix of grains, such as wheat and rye, and has been metaphorically applied to this linguistic phenomenon. The development of Surzhyk is closely tied to the historical and socio-political relationship between Ukraine and Russia, particularly during the Soviet era when Russian was promoted as the language of wider communication.
+The term “surzhyk” originally referred to a mix of grains, such as wheat and rye, and has been metaphorically applied to this linguistic phenomenon. The development of Surzhyk is closely tied to the historical and socio-political relationship between Ukraine and Russia, particularly during the Soviet era when Russian was promoted as the language of wider communication.
 
 ## Linguistic Features
 
@@ -50,7 +50,7 @@ Syntactic structures in Surzhyk can show both Ukrainian and Russian influences:
    **Я читаю книгу** [ja tʃɪˈtaju ˈknɪɦu] ('I am reading a book')
 
 2. Russian-style use of the genitive case after negation:
-   **Я не маю часу** [ja ne ˈmaju ˈtʃasu] ('I don't have time')
+   **Я не маю часу** [ja ne ˈmaju ˈtʃasu] ('I don’t have time')
 
 3. Inconsistent use of the vocative case:
    **Мамо!** [ˈmamo] (Ukrainian vocative) vs. **Мама!** [ˈmama] (Russian-style nominative for address)
@@ -182,7 +182,7 @@ Word order in Surzhyk generally follows Ukrainian SVO pattern but may show Russi
 Negation in Surzhyk may combine Ukrainian and Russian patterns:
 
 1. Sentence negation with **не** [ne]:
-   **Я не читаю книгу** [ja ne tʃɪˈtaju ˈknɪɦu] ('I don't read the book')
+   **Я не читаю книгу** [ja ne tʃɪˈtaju ˈknɪɦu] ('I don’t read the book')
 
 2. Inconsistent use of genitive case after negation:
    **Я не маю часу** [ja ne ˈmaju ˈtʃasu] (Ukrainian-style genitive)
@@ -467,7 +467,7 @@ Sentence structure in Surzhyk generally follows Ukrainian patterns with some Rus
 Negation in Surzhyk may combine Ukrainian and Russian patterns:
 
 1. Negative particle **не** [ne]:
-   **Я не читаю** [ja ne tʃɪˈtaju] ('I don't read')
+   **Я не читаю** [ja ne tʃɪˈtaju] ('I don’t read')
 
 2. Inconsistent use of genitive of negation:
    **Я не маю часу** [ja ne ˈmaju ˈtʃasu] (Ukrainian-style genitive)
@@ -575,7 +575,7 @@ Surzhyk incorporates many loanwords and calques, primarily from Russian:
 Surzhyk often uses Russian discourse markers and fillers:
 
 1. **ну** [nu] - multipurpose filler, 'well'
-   **Ну, я не знаю** [nu ja ne ˈznaju] ('Well, I don't know')
+   **Ну, я не знаю** [nu ja ne ˈznaju] ('Well, I don’t know')
 
 2. **вообще** [vaapˈʃʃe] - 'in general', 'at all'
    **Це вообще не важливо** [tse vaapˈʃʃe ne vaˈʒlɪvo] ('It's not important at all')
@@ -637,7 +637,7 @@ Surzhyk may use idioms and proverbs from both Ukrainian and Russian, sometimes i
 Attitudes towards Surzhyk vary widely among different social groups:
 
 1. Negative views:
-   Often seen as "impure" or "corrupted" language by language purists
+   Often seen as “impure” or “corrupted” language by language purists
    **Говори правильно!** [ɦovoˈrɪ ˈpravɪlʲno] ('Speak correctly!') - common admonition against Surzhyk use
 
 2. Neutral/pragmatic views:
@@ -661,7 +661,7 @@ The status of Surzhyk in official contexts and education is complex:
 
 3. Media representation:
    Surzhyk sometimes used in media for character portrayal or comedic effect
-   **Наші люди в булочну на такси не їздять** [ˈnaʃi ˈlʲudɪ v buˈlotʃnu na takˈsʲi ne ˈjizdʲatʲ] (Mixed Ukrainian-Russian quote from a popular Soviet film, 'Our people don't take taxis to the bakery')
+   **Наші люди в булочну на такси не їздять** [ˈnaʃi ˈlʲudɪ v buˈlotʃnu na takˈsʲi ne ˈjizdʲatʲ] (Mixed Ukrainian-Russian quote from a popular Soviet film, 'Our people don’t take taxis to the bakery')
 
 ### Code-switching and Diglossia
 

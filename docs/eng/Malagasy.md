@@ -255,8 +255,8 @@ Malagasy uses a base-10 number system:
 
 Numbers above ten are formed by combination:
 
-- **roa ambin'ny folo** (twelve, literally "two on top of ten")
-- **telo polo** (thirty, literally "three tens")
+- **roa ambin'ny folo** (twelve, literally “two on top of ten”)
+- **telo polo** (thirty, literally “three tens”)
 - **zato** (one hundred)
 - **arivo** (one thousand)
 
@@ -273,7 +273,7 @@ The basic word order in Malagasy is Verb-Object-Subject (VOS):
 
 **Mamaky boky ny mpianatra.**
 read    book  the student
-"The student reads a book."
+“The student reads a book.”
 
 This word order is relatively rare among the world's languages, found in only about 3% of documented languages.
 
@@ -283,14 +283,14 @@ While the basic word order is VOS, Malagasy often uses a topic-comment structure
 
 **Ny mpianatra dia mamaky boky.**
 the student   TOP read    book
-"As for the student, (he) reads a book."
+“As for the student, (he) reads a book.”
 
 ### Question Formation
 
 Questions are typically formed by adding the particle **ve** at the end of a statement:
 
 **Mamaky boky ny mpianatra ve?**
-"Does the student read a book?"
+“Does the student read a book?”
 
 Wh-questions use question words such as:
 
@@ -303,31 +303,31 @@ Wh-questions use question words such as:
 These usually appear at the end of the sentence:
 
 **Mamaky inona ny mpianatra?**
-"What does the student read?"
+“What does the student read?”
 
 ### Negation
 
 Negation is formed by using **tsy** before the verb:
 
 **Tsy mamaky boky ny mpianatra.**
-"The student does not read a book."
+“The student does not read a book.”
 
 Double negation is possible and common:
 
 **Tsy mamaky boky mihitsy ny mpianatra.**
-"The student does not read a book at all."
+“The student does not read a book at all.”
 
 ### Relative Clauses
 
 Relative clauses are typically introduced by **izay**:
 
 **Ny boky izay novakin'ny mpianatra**
-"The book that was read by the student"
+“The book that was read by the student”
 
 In spoken Malagasy, **izay** is often omitted:
 
 **Ny boky novakin'ny mpianatra**
-"The book (that) was read by the student"
+“The book (that) was read by the student”
 
 ### Serial Verb Constructions
 
@@ -335,7 +335,7 @@ Malagasy allows for serial verb constructions, where multiple verbs are used in 
 
 **Nitsangana niresaka izy.**
 stood up   spoke    he
-"He stood up and spoke."
+“He stood up and spoke.”
 
 ### Causatives
 
@@ -377,22 +377,22 @@ Malagasy has borrowed words from several languages:
    - **talata** (Tuesday)
    - **alakamisy** (Thursday)
    - **sabotsy** (Saturday)
-   - **sary** (image, from Arabic "sura")
+   - **sary** (image, from Arabic “sura”)
 
 2. French:
-   - **latabatra** (table, from "la table")
-   - **sekoly** (school, from "école")
-   - **soara** (evening, from "soir")
-   - **lasopy** (soup, from "la soupe")
-   - **pôlisy** (police, from "police")
-   - **milina** (machine, from "machine")
+   - **latabatra** (table, from “la table”)
+   - **sekoly** (school, from “école”)
+   - **soara** (evening, from “soir”)
+   - **lasopy** (soup, from “la soupe”)
+   - **pôlisy** (police, from “police”)
+   - **milina** (machine, from “machine”)
 
 3. English:
    - **metira** (meter)
    - **boky** (book)
    - **pilaoty** (pilot)
-   - **jiro** (electricity, from "gyro")
-   - **paika** (plan, from "plan")
+   - **jiro** (electricity, from “gyro”)
+   - **paika** (plan, from “plan”)
 
 4. Bantu languages:
    - **omby** (cattle)
@@ -401,9 +401,9 @@ Malagasy has borrowed words from several languages:
    - **sira** (salt)
 
 5. Sanskrit (via Malay):
-   - **soratra** (writing, from Sanskrit "sutra")
-   - **soa** (good, from Sanskrit "subha")
-   - **fary** (sugarcane, from Sanskrit "ikshu")
+   - **soratra** (writing, from Sanskrit “sutra”)
+   - **soa** (good, from Sanskrit “subha”)
+   - **fary** (sugarcane, from Sanskrit “ikshu”)
 
 ### Semantic Fields
 
@@ -435,8 +435,8 @@ Basic color terms in Malagasy:
 - **mavo** (yellow)
 - **manga** (blue)
 - **maitso** (green)
-- **volom-boankazo** (orange, literally "fruit-colored")
-- **volomparasy** (purple, literally "mulberry-colored")
+- **volom-boankazo** (orange, literally “fruit-colored”)
+- **volomparasy** (purple, literally “mulberry-colored”)
 
 #### Time Expressions
 
@@ -458,7 +458,7 @@ Malagasy has many idiomatic expressions that reflect cultural values and beliefs
 - **Ny hazo no vanon-ko lakana, ny tany naniriany no tsara** (The tree is suitable to be a canoe, the land where it grew is good)
 - **Izay mitambatra vato, izay misaraka fasika** (Those who unite are like rock, those who separate are like sand)
 - **Ny adala tsy atelina** (The fool is not swallowed - meaning one should not let foolishness overcome them)
-- **Ny tody tsy misy fa ny atao no miverina** (There is no revenge, but what is done comes back - similar to "what goes around comes around")
+- **Ny tody tsy misy fa ny atao no miverina** (There is no revenge, but what is done comes back - similar to “what goes around comes around”)
 
 ## Pragmatics and Discourse
 
@@ -526,8 +526,8 @@ Colloquial Malagasy often differs from the standard written form:
 
 - Shortened forms: **'lay** instead of **ilay** (the)
 - Informal pronouns: **'aho** instead of **izaho** (I)
-- Slang terms: **mahita banga** (to be hungry, literally "to see emptiness")
-- Reduplication for emphasis: **mora mora** (very cheap, from **mora** "cheap")
+- Slang terms: **mahita banga** (to be hungry, literally “to see emptiness”)
+- Reduplication for emphasis: **mora mora** (very cheap, from **mora** “cheap”)
 
 Common colloquial expressions:
 

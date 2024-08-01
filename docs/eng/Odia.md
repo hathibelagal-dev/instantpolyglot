@@ -137,16 +137,16 @@ Odia also has two diphthongs: /ɔi/ and /ɔu/.
 ### Phonological processes
 
 1. Nasalization: Vowels are often nasalized before or after nasal consonants.
-   Example: **ଆମ୍ଭ** /ambʰə/ [ãmbʰə] "we"
+   Example: **ଆମ୍ଭ** /ambʰə/ [ãmbʰə] “we”
 
 2. Assimilation: Consonants often assimilate in voicing and place of articulation to adjacent consonants.
-   Example: **ଉତ୍ପତ୍ତି** /ut̪pət̪t̪i/ [ud̪bət̪t̪i] "origin"
+   Example: **ଉତ୍ପତ୍ତି** /ut̪pət̪t̪i/ [ud̪bət̪t̪i] “origin”
 
 3. Schwa deletion: The inherent vowel /ə/ is often deleted in word-final position and in certain consonant clusters.
-   Example: **କମଳ** /kəməɭə/ [kəməɭ] "lotus"
+   Example: **କମଳ** /kəməɭə/ [kəməɭ] “lotus”
 
 4. Gemination: Consonants are often geminated (doubled) intervocalically.
-   Example: **ପିଲ୍ଲା** /pilla:/ "child"
+   Example: **ପିଲ୍ଲା** /pilla:/ “child”
 
 ## Morphology
 
@@ -159,16 +159,16 @@ Odia nouns are inflected for number, case, and gender.
 Odia has two genders: masculine and feminine. Most inanimate objects are considered masculine.
 
 Examples:
-- Masculine: **ଛାତ୍ର** (chātra) "student (male)"
-- Feminine: **ଛାତ୍ରୀ** (chātrī) "student (female)"
+- Masculine: **ଛାତ୍ର** (chātra) “student (male)”
+- Feminine: **ଛାତ୍ରୀ** (chātrī) “student (female)”
 
 #### Number
 
 Nouns have singular and plural forms. The plural is typically formed by adding **-ମାନେ** (-māne) for animate nouns and **-ଗୁଡ଼ିକ** (-guḍika) for inanimate nouns.
 
 Examples:
-- **ପିଲା** (pilā) "child" → **ପିଲାମାନେ** (pilāmāne) "children"
-- **ବହି** (bahi) "book" → **ବହିଗୁଡ଼ିକ** (bahiguḍika) "books"
+- **ପିଲା** (pilā) “child” → **ପିଲାମାନେ** (pilāmāne) “children”
+- **ବହି** (bahi) “book” → **ବହିଗୁଡ଼ିକ** (bahiguḍika) “books”
 
 #### Case
 
@@ -176,13 +176,13 @@ Odia has seven cases: nominative, accusative, instrumental, dative, ablative, ge
 
 | Case | Suffix | Example |
 |------|--------|---------|
-| Nominative | - | **ଘର** (ghara) "house" |
-| Accusative | -କୁ (-ku) | **ଘରକୁ** (gharaku) "to the house" |
-| Instrumental | -ରେ (-re) | **ଘରରେ** (gharare) "with the house" |
-| Dative | -କୁ (-ku) | **ଘରକୁ** (gharaku) "for the house" |
-| Ablative | -ରୁ (-ru) | **ଘରରୁ** (ghararu) "from the house" |
-| Genitive | -ର (-ra) | **ଘରର** (gharara) "of the house" |
-| Locative | -ରେ (-re) | **ଘରରେ** (gharare) "in the house" |
+| Nominative | - | **ଘର** (ghara) “house” |
+| Accusative | -କୁ (-ku) | **ଘରକୁ** (gharaku) “to the house” |
+| Instrumental | -ରେ (-re) | **ଘରରେ** (gharare) “with the house” |
+| Dative | -କୁ (-ku) | **ଘରକୁ** (gharaku) “for the house” |
+| Ablative | -ରୁ (-ru) | **ଘରରୁ** (ghararu) “from the house” |
+| Genitive | -ର (-ra) | **ଘରର** (gharara) “of the house” |
+| Locative | -ରେ (-re) | **ଘରରେ** (gharare) “in the house” |
 
 ### Pronouns
 
@@ -200,35 +200,35 @@ Odia has personal, demonstrative, interrogative, and relative pronouns.
 
 #### Demonstrative pronouns
 
-- Proximal: **ଏହା** (ehā) "this"
-- Distal: **ସେହା** (sehā) "that"
+- Proximal: **ଏହା** (ehā) “this”
+- Distal: **ସେହା** (sehā) “that”
 
 #### Interrogative pronouns
 
-- **କିଏ** (kie) "who"
-- **କ'ଣ** (kaṇa) "what"
-- **କେଉଁ** (keuñ) "which"
+- **କିଏ** (kie) “who”
+- **କ'ଣ** (kaṇa) “what”
+- **କେଉଁ** (keuñ) “which”
 
 #### Relative pronouns
 
-- **ଯେ** (je) "who, which"
-- **ଯାହା** (jāhā) "what"
+- **ଯେ** (je) “who, which”
+- **ଯାହା** (jāhā) “what”
 
 ### Adjectives
 
 Adjectives in Odia typically precede the nouns they modify and do not change for gender or number.
 
 Examples:
-- **ବଡ଼ ଘର** (baḍa ghara) "big house"
-- **ସୁନ୍ଦର ଫୁଲ** (sundara phula) "beautiful flower"
+- **ବଡ଼ ଘର** (baḍa ghara) “big house”
+- **ସୁନ୍ଦର ଫୁଲ** (sundara phula) “beautiful flower”
 
 Comparative and superlative forms are usually formed analytically:
 
-- Comparative: **ଅଧିକ** (adhika) "more" + adjective
-  Example: **ଅଧିକ ବଡ଼** (adhika baḍa) "bigger"
+- Comparative: **ଅଧିକ** (adhika) “more” + adjective
+  Example: **ଅଧିକ ବଡ଼** (adhika baḍa) “bigger”
 
-- Superlative: **ସବୁଠାରୁ** (sabuṭhāru) "most" + adjective
-  Example: **ସବୁଠାରୁ ବଡ଼** (sabuṭhāru baḍa) "biggest"
+- Superlative: **ସବୁଠାରୁ** (sabuṭhāru) “most” + adjective
+  Example: **ସବୁଠାରୁ ବଡ଼** (sabuṭhāru baḍa) “biggest”
 
 ### Verbs
 
@@ -237,9 +237,9 @@ Odia verbs are inflected for tense, aspect, mood, person, and number.
 #### Verb roots
 
 Most Odia verbs have a root form ending in -ିବା (-ibā). For example:
-- **କରିବା** (karibā) "to do"
-- **ଖାଇବା** (khāibā) "to eat"
-- **ଯିବା** (jibā) "to go"
+- **କରିବା** (karibā) “to do”
+- **ଖାଇବା** (khāibā) “to eat”
+- **ଯିବା** (jibā) “to go”
 
 #### Tenses
 
@@ -247,15 +247,15 @@ Odia has three main tenses: present, past, and future.
 
 1. Present tense:
    Root + person/number suffix
-   Example: **ମୁଁ କରେ** (muñ kare) "I do"
+   Example: **ମୁଁ କରେ** (muñ kare) “I do”
 
 2. Past tense:
    Root + -ିଲ (-il) + person/number suffix
-   Example: **ମୁଁ କଲି** (muñ kali) "I did"
+   Example: **ମୁଁ କଲି** (muñ kali) “I did”
 
 3. Future tense:
    Root + -ିବ (-ib) + person/number suffix
-   Example: **ମୁଁ କରିବି** (muñ karibi) "I will do"
+   Example: **ମୁଁ କରିବି** (muñ karibi) “I will do”
 
 #### Aspects
 
@@ -265,11 +265,11 @@ Odia has three aspects: simple, progressive, and perfect.
 
 2. Progressive aspect:
    Present participle (**-ଉଥିବା** -uthibā) + auxiliary verb **ଅଛି** (achi)
-   Example: **ମୁଁ କରୁଥିବା ଅଛି** (muñ karuthibā achi) "I am doing"
+   Example: **ମୁଁ କରୁଥିବା ଅଛି** (muñ karuthibā achi) “I am doing”
 
 3. Perfect aspect:
    Past participle (**-ିଥିବା** -ithibā) + auxiliary verb **ଅଛି** (achi)
-   Example: **ମୁଁ କରିଥିବା ଅଛି** (muñ karithibā achi) "I have done"
+   Example: **ମୁଁ କରିଥିବା ଅଛି** (muñ karithibā achi) “I have done”
 
 #### Moods
 
@@ -279,35 +279,35 @@ Odia has several moods, including indicative, imperative, and subjunctive.
 
 2. Imperative:
    2nd person singular (informal): Root + -ଅ (-a)
-   Example: **କର** (kara) "Do!"
+   Example: **କର** (kara) “Do!”
 
    2nd person singular (formal)/plural: Root + -ନ୍ତୁ (-ntu)
-   Example: **କରନ୍ତୁ** (karantu) "Do!"
+   Example: **କରନ୍ତୁ** (karantu) “Do!”
 
 3. Subjunctive:
    Root + -ନ୍ତା (-ntā)
-   Example: **ସେ କରନ୍ତା** (se karantā) "He/she might do"
+   Example: **ସେ କରନ୍ତା** (se karantā) “He/she might do”
 
 #### Negation
 
 Verbs are negated by adding the particle **ନାହିଁ** (nāhiñ) after the verb.
-Example: **ମୁଁ କରେ ନାହିଁ** (muñ kare nāhiñ) "I do not do"
+Example: **ମୁଁ କରେ ନାହିଁ** (muñ kare nāhiñ) “I do not do”
 
 ### Postpositions
 
 Odia uses postpositions instead of prepositions. Some common postpositions include:
 
-- **ରେ** (re) "in, at"
-- **କୁ** (ku) "to, towards"
-- **ପାଇଁ** (pāiñ) "for"
-- **ସହିତ** (sahita) "with"
-- **ଉପରେ** (upare) "on, upon"
-- **ତଳେ** (taḷe) "under, below"
+- **ରେ** (re) “in, at”
+- **କୁ** (ku) “to, towards”
+- **ପାଇଁ** (pāiñ) “for”
+- **ସହିତ** (sahita) “with”
+- **ଉପରେ** (upare) “on, upon”
+- **ତଳେ** (taḷe) “under, below”
 
 Examples:
-- **ଘରରେ** (gharare) "in the house"
-- **ବିଦ୍ୟାଳୟକୁ** (bidyāḷayaku) "to the school"
-- **ମୋ ପାଇଁ** (mo pāiñ) "for me"
+- **ଘରରେ** (gharare) “in the house”
+- **ବିଦ୍ୟାଳୟକୁ** (bidyāḷayaku) “to the school”
+- **ମୋ ପାଇଁ** (mo pāiñ) “for me”
 
 ## Syntax
 
@@ -321,14 +321,14 @@ Subject + Object + Verb
 Example:
 **ରାମ ବହି ପଢ଼େ।** (Rāma bahi paḍhe.)
 Ram (S) book (O) reads (V)
-"Ram reads a book."
+“Ram reads a book.”
 
 ### Modifiers
 
 Adjectives and adverbs generally precede the words they modify:
 
-- Adjective + Noun: **ବଡ଼ ଘର** (baḍa ghara) "big house"
-- Adverb + Verb: **ଧୀରେ ଚାଲ** (dhīre cāla) "walk slowly"
+- Adjective + Noun: **ବଡ଼ ଘର** (baḍa ghara) “big house”
+- Adverb + Verb: **ଧୀରେ ଚାଲ** (dhīre cāla) “walk slowly”
 
 ### Question formation
 
@@ -338,39 +338,39 @@ Questions in Odia are typically formed by adding question words or particles, or
    Add the particle **କି** (ki) at the end of the sentence or simply change the intonation.
    
    Example:
-   **ତୁମେ ଯିବ କି?** (Tume jiba ki?) "Will you go?"
+   **ତୁମେ ଯିବ କି?** (Tume jiba ki?) “Will you go?”
 
 2. Wh-questions:
    Use interrogative pronouns or adverbs at the beginning of the sentence.
    
    Example:
-   **କେଉଁଠାରେ ତୁମେ ରହୁଛ?** (Keuñṭhāre tume rahuchha?) "Where do you live?"
+   **କେଉଁଠାରେ ତୁମେ ରହୁଛ?** (Keuñṭhāre tume rahuchha?) “Where do you live?”
 
 ### Compound sentences
 
 Odia uses conjunctions to form compound sentences. Some common conjunctions include:
 
-- **ଓ** (o) "and"
-- **କିନ୍ତୁ** (kintu) "but"
-- **ଅଥବା** (athabā) "or"
+- **ଓ** (o) “and”
+- **କିନ୍ତୁ** (kintu) “but”
+- **ଅଥବା** (athabā) “or”
 
 Example:
 **ମୁଁ ଖାଇଲି ଓ ସେ ପିଇଲା।** (Muñ khāili o se piilā.)
-"I ate and he drank."
+“I ate and he drank.”
 
 ### Complex sentences
 
-Subordinate clauses in Odia often use the complementizer **ଯେ** (je) "that":
+Subordinate clauses in Odia often use the complementizer **ଯେ** (je) “that”:
 
 Example:
 **ମୁଁ ଜାଣେ ଯେ ସେ ଆସିବ।** (Muñ jāṇe je se āsiba.)
-"I know that he will come."
+“I know that he will come.”
 
-Relative clauses use relative pronouns like **ଯେ** (je) "who, which":
+Relative clauses use relative pronouns like **ଯେ** (je) “who, which”:
 
 Example:
 **ଯେଉଁ ଲୋକ ଆସିଲା, ସେ ମୋର ବନ୍ଧୁ।** (Jeuñ loka āsilā, se mora bandhu.)
-"The person who came is my friend."
+“The person who came is my friend.”
 
 ## Vocabulary
 
@@ -380,29 +380,29 @@ Odia vocabulary has been influenced by various languages throughout its history,
 
 A significant portion of Odia vocabulary is derived from Sanskrit. These words are often used in formal or literary contexts:
 
-- **ପୁସ୍ତକ** (pustaka) "book" (from Sanskrit पुस्तक)
-- **ବିଦ୍ୟାଳୟ** (bidyāḷaya) "school" (from Sanskrit विद्यालय)
+- **ପୁସ୍ତକ** (pustaka) “book” (from Sanskrit पुस्तक)
+- **ବିଦ୍ୟାଳୟ** (bidyāḷaya) “school” (from Sanskrit विद्यालय)
 
 ### Persian and Arabic influence
 
 Due to historical Persian and Mughal influence, Odia has borrowed words from Persian and Arabic:
 
-- **ଦରକାର** (darakāra) "need" (from Persian درکار)
-- **ଖବର** (khabara) "news" (from Arabic خبر)
+- **ଦରକାର** (darakāra) “need” (from Persian درکار)
+- **ଖବର** (khabara) “news” (from Arabic خبر)
 
 ### English loanwords
 
 Modern Odia has adopted many English words, especially in technology and contemporary culture:
 
-- **କମ୍ପ୍ୟୁଟର** (kampyuṭara) "computer"
-- **ମୋବାଇଲ** (mobāila) "mobile phone"
+- **କମ୍ପ୍ୟୁଟର** (kampyuṭara) “computer”
+- **ମୋବାଇଲ** (mobāila) “mobile phone”
 
 ### Compound words
 
 Odia frequently uses compound words to create new vocabulary:
 
-- **ଜଳ** (jaḷa) "water" + **ପାଗ** (pāga) "weather" = **ଜଳପାଗ** (jaḷapāga) "climate"
-- **ରାତି** (rāti) "night" + **ଆହାର** (āhāra) "food" = **ରାତ୍ରିଆହାର** (rātriāhāra) "dinner"
+- **ଜଳ** (jaḷa) “water” + **ପାଗ** (pāga) “weather” = **ଜଳପାଗ** (jaḷapāga) “climate”
+- **ରାତି** (rāti) “night” + **ଆହାର** (āhāra) “food” = **ରାତ୍ରିଆହାର** (rātriāhāra) “dinner”
 
 ## Idiomatic expressions
 
@@ -431,17 +431,17 @@ Odia has a complex system of honorifics and politeness levels:
 1. Informal: Used with close friends and younger family members
    Pronoun: **ତୁ** (tu)
    Verb ending: -ଉ (-u)
-   Example: **ତୁ କରୁ** (tu karu) "you do"
+   Example: **ତୁ କରୁ** (tu karu) “you do”
 
 2. Standard: Used with acquaintances and equals
    Pronoun: **ତୁମେ** (tume)
    Verb ending: -ଅ (-a)
-   Example: **ତୁମେ କର** (tume kara) "you do"
+   Example: **ତୁମେ କର** (tume kara) “you do”
 
 3. Formal: Used with elders, superiors, or in formal situations
    Pronoun: **ଆପଣ** (āpaṇa)
    Verb ending: -ନ୍ତି (-nti)
-   Example: **ଆପଣ କରନ୍ତି** (āpaṇa karanti) "you do"
+   Example: **ଆପଣ କରନ୍ତି** (āpaṇa karanti) “you do”
 
 ## Dialects
 
@@ -458,23 +458,23 @@ Odia has several dialects, with variations in vocabulary, pronunciation, and som
 5. Coastal Odia: Spoken along the coast, with some unique vocabulary related to fishing and maritime activities
 
 Example of dialectal differences:
-Standard Odia: **ମୁଁ** (muñ) "I"
-Western Odia: **ମୋ** (mo) "I"
+Standard Odia: **ମୁଁ** (muñ) “I”
+Western Odia: **ମୋ** (mo) “I”
 
 ## Phonostylistics
 
 Odia employs various phonostylistic features to convey emotion or emphasis:
 
 1. Vowel lengthening: Extending vowel sounds for emphasis
-   Example: **ବହୁୁୁତ** (bahuuut) "very much" (emphasizing the length)
+   Example: **ବହୁୁୁତ** (bahuuut) “very much” (emphasizing the length)
 
 2. Consonant gemination: Doubling consonants for intensity
-   Example: **ଏକ୍କେବାରେ** (ekkebaare) "absolutely" (emphasizing the intensity)
+   Example: **ଏକ୍କେବାରେ** (ekkebaare) “absolutely” (emphasizing the intensity)
 
 3. Intonation patterns: Changing pitch and stress to convey questions or emotions
 
 4. Reduplication: Repeating words or parts of words for emphasis or to indicate continuity
-   Example: **ଧୀରେ ଧୀରେ** (dhīre dhīre) "very slowly"
+   Example: **ଧୀରେ ଧୀରେ** (dhīre dhīre) “very slowly”
 
 ## Writing system variations
 
@@ -503,6 +503,6 @@ As Odia adapts to modern technology, several developments have occurred:
 Example of informal digital Odia:
 **ତମେ କ'ଣ କରୁଛ?** (Tame kaṇa karuchha?)
 Informal digital version: **ତମେ କନ କରୁଛ?** (Tame kana karuchha?)
-"What are you doing?"
+“What are you doing?”
 
 In conclusion, Odia is a rich and complex language with a long history and a vibrant present. Its unique script, intricate grammar, and diverse vocabulary make it a fascinating subject of study for linguists and language enthusiasts alike. As Odia continues to evolve in the modern world, it maintains its cultural significance while adapting to new technological and social contexts.

@@ -452,7 +452,7 @@ Miskito verbs can take numerous suffixes to indicate tense, aspect, mood, and ag
 
 **Yang sula ba kaikrasna**
 1SG deer DEF see-NEG-PRES-1SG
-'I don't see the deer'
+'I don’t see the deer'
 
 **Man bal-ram**
 2SG come-FUT
@@ -475,7 +475,7 @@ Misumalpan languages generally have SVO word order.
 Example in Miskito:
 **Yang dusa kum pikrasna**
 1SG tree a cut-NEG-PRES-1SG
-'I don't cut a tree'
+'I don’t cut a tree'
 
 Example in Ulwa:
 **Yang pan as sum-ikda**

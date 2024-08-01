@@ -327,7 +327,7 @@ Colloquial Azerbaijani may differ from the standard written language in several 
    **mağaza** (standard) → **magazin** (colloquial, from Russian) (store)
 
 4. Different pronoun usage:
-   **biz** (we) → **bizlər** (emphatic "we")
+   **biz** (we) → **bizlər** (emphatic “we”)
 
 5. Simplified verb forms:
    **gedəcəyəm** (I will go) → **gedəcəm** (colloquial form)
@@ -339,17 +339,17 @@ Colloquial Azerbaijani may differ from the standard written language in several 
 
 Azerbaijani, like many languages, has a rich collection of idiomatic expressions. Here are a few examples:
 
-1. **Gözüm üstə** (On my eye) - Meaning: "Certainly" or "With pleasure"
+1. **Gözüm üstə** (On my eye) - Meaning: “Certainly” or “With pleasure”
 
-2. **Başa düşmək** (To fall on the head) - Meaning: "To understand"
+2. **Başa düşmək** (To fall on the head) - Meaning: “To understand”
 
-3. **Ürəyinə dəymək** (To touch someone's heart) - Meaning: "To offend someone"
+3. **Ürəyinə dəymək** (To touch someone's heart) - Meaning: “To offend someone”
 
-4. **Gözdən pərdə asmaq** (To hang a curtain over the eyes) - Meaning: "To deceive"
+4. **Gözdən pərdə asmaq** (To hang a curtain over the eyes) - Meaning: “To deceive”
 
-5. **Qulaq asmaq** (To hang an ear) - Meaning: "To listen"
+5. **Qulaq asmaq** (To hang an ear) - Meaning: “To listen”
 
-6. **Dil tökmək** (To pour language) - Meaning: "To try to persuade someone"
+6. **Dil tökmək** (To pour language) - Meaning: “To try to persuade someone”
 
 ## Phonological Processes
 
@@ -457,14 +457,14 @@ Azerbaijani has several ways to form verbal nouns and participles:
    **yazacaq** (going to write)
 
 4. Negative participle: -mayan/-məyən
-   **yazmayan** (not writing, who doesn't write)
+   **yazmayan** (not writing, who doesn’t write)
 
 ## Conjunctions
 
 Azerbaijani uses various conjunctions to connect words, phrases, and clauses:
 
 - **və** (and): **alma və armud** (apple and pear)
-- **amma** (but): **İstəyirəm, amma bacarmıram** (I want to, but I can't)
+- **amma** (but): **İstəyirəm, amma bacarmıram** (I want to, but I can’t)
 - **çünki** (because): **Gedirəm, çünki gecdir** (I'm leaving because it's late)
 - **əgər** (if): **Əgər yağış yağsa, evdə qalacağam** (If it rains, I'll stay at home)
 
@@ -572,7 +572,7 @@ Azerbaijani has borrowed words from various languages throughout its history:
 Neologisms are often created to replace foreign words or express new concepts:
 
 - **səsyazan** (sound recorder)
-- **uzaqgörən** (television, literally "far-seer")
+- **uzaqgörən** (television, literally “far-seer”)
 
 ## Politeness and Etiquette in Language
 
@@ -595,8 +595,8 @@ Azerbaijani culture places a high value on politeness, which is reflected in the
 
 Azerbaijani has a rich tradition of proverbs and sayings:
 
-- **Tək əldən səs çıxmaz** (No sound comes from one hand) - Equivalent to "It takes two to tangle"
-- **Su axar, çuxurunu tapar** (Water flows and finds its hollow) - Similar to "Everything falls into place"
+- **Tək əldən səs çıxmaz** (No sound comes from one hand) - Equivalent to “It takes two to tangle”
+- **Su axar, çuxurunu tapar** (Water flows and finds its hollow) - Similar to “Everything falls into place”
 - **Yüz ölç, bir biç** (Measure a hundred times, cut once) - Emphasizing careful planning
 
 These proverbs often reflect cultural values and wisdom passed down through generations.

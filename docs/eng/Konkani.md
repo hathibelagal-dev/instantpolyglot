@@ -157,8 +157,8 @@ Konkani adjectives agree with the nouns they modify in gender, number, and case.
 
 Comparative and superlative forms are usually formed analytically:
 
-- Comparative: **चड बरो** (caḍ baro) (better, lit. "more good")
-- Superlative: **सगळ्यांत बरो** (sagaḷyāṃt baro) (best, lit. "good among all")
+- Comparative: **चड बरो** (caḍ baro) (better, lit. “more good”)
+- Superlative: **सगळ्यांत बरो** (sagaḷyāṃt baro) (best, lit. “good among all”)
 
 ### Verbs
 
@@ -240,59 +240,59 @@ Some common adverbs include:
 The basic word order in Konkani is Subject-Object-Verb (SOV):
 
 **हांव फळ खातां।** (hāṃv phaḷ khātāṃ.) (I fruit eat.)
-"I eat fruit."
+“I eat fruit.”
 
 However, due to its case system, Konkani allows for flexible word order:
 
 **फळ हांव खातां।** (phaḷ hāṃv khātāṃ.) (Fruit I eat.)
-"I eat fruit." (with emphasis on "fruit")
+“I eat fruit.” (with emphasis on “fruit”)
 
 ### Negation
 
 Negation is typically expressed by adding **ना** (nā) or **न्हय** (nhay) after the verb:
 
 **हांव वतां ना।** (hāṃv vatāṃ nā.) (I go not.)
-"I am not going."
+“I am not going.”
 
 **तो चलो न्हय।** (to calo nhay.) (He boy not.)
-"He is not a boy."
+“He is not a boy.”
 
 ### Questions
 
 Yes-no questions are formed by adding the question particle **-वय** (-vay) or by using rising intonation:
 
 **तूं वतां वय?** (tūṃ vatāṃ vay?) (You go?)
-"Are you going?"
+“Are you going?”
 
 **तूं वतां?** (tūṃ vatāṃ?) (You go?)
-"Are you going?"
+“Are you going?”
 
 Wh-questions use interrogative pronouns:
 
 **तूं कितें करतां?** (tūṃ kiteṃ kartāṃ?) (You what do?)
-"What are you doing?"
+“What are you doing?”
 
 ### Compound Sentences
 
 Coordinating conjunctions like **आनी** (ānī) (and), **पूण** (pūṇ) (but), and **वा** (vā) (or) are used to join clauses:
 
 **हांव घरा वतां आनी जेवतां।** (hāṃv gharā vatāṃ ānī jevtāṃ.) (I home go and eat.)
-"I go home and eat."
+“I go home and eat.”
 
 ### Subordinate Clauses
 
 Subordinating conjunctions introduce dependent clauses:
 
 **जर पाऊस पडलो जाल्यार, हांव घरा रावतलों।** (jar pāūs paḍalo jālyār, hāṃv gharā rāvtalōṃ.) (If rain falls, I home will-stay.)
-"If it rains, I will stay at home."
+“If it rains, I will stay at home.”
 
 ### Postpositions
 
 Konkani uses postpositions instead of prepositions. These come after the noun or pronoun they modify:
 
-- **घरा भायर** (gharā bhāyar) (house outside) "outside the house"
-- **माका लागीं** (mākā lāgīṃ) (me near) "near me"
-- **मेजा वयर** (mejā vayar) (table on) "on the table"
+- **घरा भायर** (gharā bhāyar) (house outside) “outside the house”
+- **माका लागीं** (mākā lāgīṃ) (me near) “near me”
+- **मेजा वयर** (mejā vayar) (table on) “on the table”
 
 ## Lexicon
 
@@ -311,12 +311,12 @@ Much of Konkani's core vocabulary is derived from Sanskrit. Examples include:
 Konkani has borrowed words from various languages due to historical and cultural contacts:
 
 1. Portuguese:
-   - **मेज** (mej) - table (from Portuguese "mesa")
-   - **कामीज** (kāmīj) - shirt (from Portuguese "camisa")
+   - **मेज** (mej) - table (from Portuguese “mesa”)
+   - **कामीज** (kāmīj) - shirt (from Portuguese “camisa”)
 
 2. Persian/Arabic:
-   - **बाजार** (bājār) - market (from Persian "bazar")
-   - **दुकान** (dukān) - shop (from Arabic "dukkan")
+   - **बाजार** (bājār) - market (from Persian “bazar”)
+   - **दुकान** (dukān) - shop (from Arabic “dukkan”)
 
 3. English:
    - **बस** (bas) - bus
@@ -327,11 +327,11 @@ Konkani has borrowed words from various languages due to historical and cultural
 Konkani uses various methods for word formation:
 
 1. Compounding:
-   - **दूदसाकर** (dūdsākar) - milk sugar (a type of sweet) from **दूद** (dūd) "milk" + **साकर** (sākar) "sugar"
+   - **दूदसाकर** (dūdsākar) - milk sugar (a type of sweet) from **दूद** (dūd) “milk” + **साकर** (sākar) “sugar”
 
 2. Affixation:
-   - **चलो** (calo) "boy" → **चली** (calī) "girl" (feminine suffix)
-   - **करप** (karap) "to do" → **करपी** (karapī) "doer" (agentive suffix)
+   - **चलो** (calo) “boy” → **चली** (calī) “girl” (feminine suffix)
+   - **करप** (karap) “to do” → **करपी** (karapī) “doer” (agentive suffix)
 
 3. Reduplication:
    - **हळू हळू** (haḷū haḷū) - very slowly
@@ -341,13 +341,13 @@ Konkani uses various methods for word formation:
 
 Konkani has many colorful idioms and expressions:
 
-1. **कानाक खारें लावप** (kānāk khāreṃ lāvap) - literally "to apply salt to the ear", meaning to provoke or instigate
+1. **कानाक खारें लावप** (kānāk khāreṃ lāvap) - literally “to apply salt to the ear”, meaning to provoke or instigate
 
-2. **तोंडार मीठ घालप** (tōṇḍār mīṭh ghālap) - literally "to put salt on the mouth", meaning to keep quiet
+2. **तोंडार मीठ घालप** (tōṇḍār mīṭh ghālap) - literally “to put salt on the mouth”, meaning to keep quiet
 
-3. **दोळ्यांत तेल घालून पळोवप** (doḷyāṃt tel ghālūn paḷovap) - literally "to look after putting oil in the eyes", meaning to take extreme care
+3. **दोळ्यांत तेल घालून पळोवप** (doḷyāṃt tel ghālūn paḷovap) - literally “to look after putting oil in the eyes”, meaning to take extreme care
 
-4. **पायांक पाय लावप** (pāyāṃk pāy lāvap) - literally "to touch feet to feet", meaning to follow closely
+4. **पायांक पाय लावप** (pāyāṃk pāy lāvap) - literally “to touch feet to feet”, meaning to follow closely
 
 ## Dialects
 
@@ -360,7 +360,7 @@ Konkani has several dialects, influenced by geographical and cultural factors:
 
 Differences between dialects can be seen in vocabulary, pronunciation, and sometimes grammar. For example:
 
-- "What" in different dialects:
+- “What” in different dialects:
   - Goan: **कितें** (kiteṃ)
   - Mangalorean: **क्या** (kyā)
   - Maharashtrian: **काय** (kāy)
@@ -374,7 +374,7 @@ Here's a sample text in Konkani with romanization and translation:
 (koṇkaṇī āmcī māybhās. tī āmkāṃ bhov mogācī. āmī tī śikatāt, vāparatāt ānī jatanāy ghetāt. koṇkaṇī bhāśeṃt sundar sāhitya āsā. āmce pūrvaj hyā bhāśeṃt ulayatāle. āmīy tī phuḍeṃ vharapāk jāy.)
 
 Translation:
-"Konkani is our mother tongue. It is very dear to us. We learn it, use it, and take care of it. There is beautiful literature in the Konkani language. Our ancestors spoke in this language. We too should take it forward."
+“Konkani is our mother tongue. It is very dear to us. We learn it, use it, and take care of it. There is beautiful literature in the Konkani language. Our ancestors spoke in this language. We too should take it forward.”
 
 ## Conclusion
 

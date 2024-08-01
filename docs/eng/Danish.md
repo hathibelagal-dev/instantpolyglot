@@ -6,7 +6,7 @@ Danish (dansk) is a North Germanic language spoken by approximately 6 million pe
 
 ## Spelling and pronunciation
 
-Danish pronunciation can be challenging for learners due to its numerous vowel sounds and the phenomenon known as "stød" (glottal stop). The spelling system is largely phonemic, but there are some irregularities.
+Danish pronunciation can be challenging for learners due to its numerous vowel sounds and the phenomenon known as “stød” (glottal stop). The spelling system is largely phonemic, but there are some irregularities.
 
 ### Vowels
 
@@ -50,7 +50,7 @@ Danish consonants are relatively straightforward, with a few exceptions:
 
 ### Soft d
 
-The letter "d" in Danish often represents a soft sound, particularly in the middle or end of words. This sound is typically transcribed as [ð] in IPA, but its exact pronunciation can vary:
+The letter “d” in Danish often represents a soft sound, particularly in the middle or end of words. This sound is typically transcribed as [ð] in IPA, but its exact pronunciation can vary:
 
 - **mad** [mæð] (food)
 - **rød** [ʁœːˀð] (red)
@@ -155,7 +155,7 @@ Perfect:
 - **jeg har talt** (I have spoken)
 - **du har spist** (you have eaten)
 
-Future tense is formed using the modal verb "vil" or the construction "kommer til at":
+Future tense is formed using the modal verb “vil” or the construction “kommer til at”:
 
 - **jeg vil tale** (I will speak)
 - **du kommer til at spise** (you are going to eat)
@@ -179,10 +179,10 @@ In subordinate clauses, the word order is typically subject-object-verb:
 
 ### Negation
 
-Negation is formed using the adverb "ikke" (not), which comes after the finite verb in main clauses and before the finite verb in subordinate clauses:
+Negation is formed using the adverb “ikke” (not), which comes after the finite verb in main clauses and before the finite verb in subordinate clauses:
 
-- **Jeg spiser ikke æbler** (I don't eat apples)
-- **Jeg ved, at han ikke spiser æbler** (I know that he doesn't eat apples)
+- **Jeg spiser ikke æbler** (I don’t eat apples)
+- **Jeg ved, at han ikke spiser æbler** (I know that he doesn’t eat apples)
 
 ### Questions
 
@@ -345,9 +345,9 @@ Danish has some grammatical features that set it apart from other Germanic langu
    - **bygge** (build) → **bygges** (is built)
 
 4. Use of present participle is less common than in English, often replaced by subordinate clauses
-   - English: "I saw him coming" → Danish: **"Jeg så, at han kom"** (I saw that he came)
+   - English: “I saw him coming” → Danish: **“Jeg så, at han kom”** (I saw that he came)
 
-5. The reflexive possessive pronoun "sin/sit/sine" used to refer back to the subject of the sentence
+5. The reflexive possessive pronoun “sin/sit/sine” used to refer back to the subject of the sentence
    - **Hun tog sin hat** (She took her [own] hat)
    - **Hun tog hendes hat** (She took her [someone else's] hat)
 
@@ -399,14 +399,14 @@ Danish verbs are conjugated for tense but not for person or number. Here's a mor
    b) Strong verbs: Change the vowel
       - **at synge** (to sing) → **jeg sang** (I sang)
 
-4. Perfect tense: Use "have" + past participle
+4. Perfect tense: Use “have” + past participle
    - **jeg har talt** (I have spoken), **du har spist** (you have eaten)
 
-5. Future tense: Use "vil" or "kommer til at" + infinitive
+5. Future tense: Use “vil” or “kommer til at” + infinitive
    - **jeg vil tale** (I will speak)
    - **du kommer til at spise** (you are going to eat)
 
-6. Conditional: Use "ville" + infinitive
+6. Conditional: Use “ville” + infinitive
    - **jeg ville tale** (I would speak)
 
 7. Imperative: Usually the same as the verb stem
@@ -456,7 +456,7 @@ Some common adverbs are irregular:
 
 ## Prepositions
 
-Danish prepositions can be tricky as their usage doesn't always correspond to English:
+Danish prepositions can be tricky as their usage doesn’t always correspond to English:
 
 - **i** (in): **Jeg bor i Danmark** (I live in Denmark)
 - **på** (on, at): **Jeg arbejder på et kontor** (I work at an office)
@@ -470,7 +470,7 @@ Some common Danish conjunctions:
 
 - **og** (and): **æbler og pærer** (apples and pears)
 - **eller** (or): **kaffe eller te** (coffee or tea)
-- **men** (but): **Jeg vil gerne, men jeg kan ikke** (I'd like to, but I can't)
+- **men** (but): **Jeg vil gerne, men jeg kan ikke** (I'd like to, but I can’t)
 - **fordi** (because): **Jeg lærer dansk, fordi jeg bor i Danmark** (I'm learning Danish because I live in Denmark)
 - **hvis** (if): **Hvis det regner, bliver jeg hjemme** (If it rains, I'll stay home)
 
@@ -516,7 +516,7 @@ Ordinal numbers:
 
 Telling time in Danish:
 - **Klokken er to** (It's two o'clock)
-- **Klokken er halv tre** (It's half past two, literally "half three")
+- **Klokken er halv tre** (It's half past two, literally “half three”)
 - **Klokken er kvart over to** (It's quarter past two)
 - **Klokken er ti minutter i tre** (It's ten minutes to three)
 
@@ -533,7 +533,7 @@ Dates are typically written in the format DD-MM-YYYY:
 
 Danish pronunciation can be challenging for learners due to several features:
 
-1. Vowel sounds: Danish has many vowel sounds, including some that don't exist in many other languages.
+1. Vowel sounds: Danish has many vowel sounds, including some that don’t exist in many other languages.
 
 2. Soft 'd' (blødt d): This sound, represented by [ð], is similar to the 'th' in English 'the', but softer.
 

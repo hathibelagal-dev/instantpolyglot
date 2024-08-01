@@ -91,18 +91,18 @@ Old Chinese grammar differed significantly from Modern Chinese. It was more synt
 
 The basic word order in Old Chinese was Subject-Verb-Object (SVO), but there was considerable flexibility:
 
-- **王** **殺** **敵** (*wjaŋ srats dək, "The king killed the enemy")
+- **王** **殺** **敵** (*wjaŋ srats dək, “The king killed the enemy”)
 
 However, Object-Verb (OV) order was also common, especially in poetry and formal prose:
 
-- **之** **友** (*tə ɢʷəʔ, "befriend him", literally "him befriend")
+- **之** **友** (*tə ɢʷəʔ, “befriend him”, literally “him befriend”)
 
 ### Nouns
 
 Nouns in Old Chinese did not inflect for number or case. Plurality could be expressed through context or by using numerals and quantifiers:
 
-- **人** (*nin, "person" or "people")
-- **三** **人** (*sam nin, "three people")
+- **人** (*nin, “person” or “people”)
+- **三** **人** (*sam nin, “three people”)
 
 ### Pronouns
 
@@ -147,8 +147,8 @@ Verbs in Old Chinese did not inflect for person or number, but they could take v
      **取** *tʰoʔ (to take) > **取** *tʰo-s (to have taken)
 
 Examples:
-- **王** **來** (*wjaŋ *rə̂ʔ, "The king comes")
-- **王** **殺** **之** (*wjaŋ *srat-s tə, "The king killed him")
+- **王** **來** (*wjaŋ *rə̂ʔ, “The king comes”)
+- **王** **殺** **之** (*wjaŋ *srat-s tə, “The king killed him”)
 
 ### Particles
 
@@ -169,74 +169,74 @@ Old Chinese used various particles to express grammatical relationships and mood
    - **焉** *ʔan (interrogative)
 
 Examples:
-- **子** **來** **乎** (*tsəʔ *rə̂ʔ *ɢa, "Are you coming?")
-- **吾** **不** **知** (*ŋa *pə *tre, "I don't know")
-- **王** **至** **矣** (*wjaŋ *tits *ləjʔ, "The king has arrived")
+- **子** **來** **乎** (*tsəʔ *rə̂ʔ *ɢa, “Are you coming?”)
+- **吾** **不** **知** (*ŋa *pə *tre, “I don’t know”)
+- **王** **至** **矣** (*wjaŋ *tits *ləjʔ, “The king has arrived”)
 
 ### Aspect and tense
 
 Old Chinese did not have grammatical tense but used context and aspectual markers to indicate temporal relationships:
 
 1. Perfect aspect: indicated by the *-s suffix or context
-   - **既** **食** (*krəp *m-lək-s, "having eaten")
+   - **既** **食** (*krəp *m-lək-s, “having eaten”)
 
 2. Progressive aspect: often indicated by reduplication
-   - **行行** (*ɡraŋ-ɡraŋ, "walking and walking")
+   - **行行** (*ɡraŋ-ɡraŋ, “walking and walking”)
 
 3. Future or habitual actions: often indicated by auxiliary verbs
-   - **將** **去** (*tsaŋ *kʰra-s, "will go")
+   - **將** **去** (*tsaŋ *kʰra-s, “will go”)
 
 ### Copula and existential verbs
 
 Old Chinese used several verbs to express existence and identity:
 
 1. **是** *dje (to be, copula)
-   - **是** **為** **君子** (*dje *wjaj *kun tsəʔ, "This is being a gentleman")
+   - **是** **為** **君子** (*dje *wjaj *kun tsəʔ, “This is being a gentleman”)
 
 2. **有** *ɢʷəʔ (to have, there is/are)
-   - **有** **虎** (*ɢʷəʔ *qʰraʔ, "There is a tiger")
+   - **有** **虎** (*ɢʷəʔ *qʰraʔ, “There is a tiger”)
 
 3. **在** *tsəʔ (to be at, to exist)
-   - **赤** **狄** **在** **北** (*tʰjak *dek *tsəʔ *pək, "The Red Di are in the north")
+   - **赤** **狄** **在** **北** (*tʰjak *dek *tsəʔ *pək, “The Red Di are in the north”)
 
 ### Nominal predicates
 
 In Old Chinese, nouns could often function as predicates without a copula:
 
-- **國** **君** (*kwək *kun, "The ruler is the state" or "The state is the ruler")
+- **國** **君** (*kwək *kun, “The ruler is the state” or “The state is the ruler”)
 
 ### Serial verb constructions
 
 Old Chinese made extensive use of serial verb constructions, where two or more verb phrases or clauses are strung together:
 
-- **出** **見** **客** (*tʰut *kens *kʰrak, "go out to see guests")
+- **出** **見** **客** (*tʰut *kens *kʰrak, “go out to see guests”)
 
 ### Syntax
 
 1. Topic-comment structure:
    Old Chinese frequently used topic-comment structures, where the topic is introduced first, followed by a comment about it:
    
-   - **見** **賢** **思齊** **焉** (*kens *ɡran *sə *dzij *ʔan, "Seeing a worthy person, [one should] think to emulate [them]")
+   - **見** **賢** **思齊** **焉** (*kens *ɡran *sə *dzij *ʔan, “Seeing a worthy person, [one should] think to emulate [them]”)
 
 2. Relative clauses:
    Relative clauses in Old Chinese typically preceded the noun they modified, without any overt relativizer:
    
-   - **所** **愛** **之** **物** (*s-qʰra-q *ʔrats *tə *mət, "the thing that [one] loves")
+   - **所** **愛** **之** **物** (*s-qʰra-q *ʔrats *tə *mət, “the thing that [one] loves”)
 
 3. Comparative constructions:
    Comparisons were often made using the verb **如** *na (to be like):
    
-   - **智** **如** **泉** (*trəs *na *dzwan, "wisdom is like a spring")
+   - **智** **如** **泉** (*trəs *na *dzwan, “wisdom is like a spring”)
 
 4. Passive voice:
    Passive meaning was often expressed through word order or context, rather than specific grammatical markers:
    
-   - **民** **可** **近** (*mjin *kʰaːjʔ *gjin, "The people can be approached")
+   - **民** **可** **近** (*mjin *kʰaːjʔ *gjin, “The people can be approached”)
 
 5. Causative constructions:
    Causatives were formed using prefixes or through verb serialization:
    
-   - **使** **民** **以** **時** (*s-rəʔ *mjin *ləʔ *də, "cause the people to be timely")
+   - **使** **民** **以** **時** (*s-rəʔ *mjin *ləʔ *də, “cause the people to be timely”)
 
 ## Lexicon
 
@@ -318,11 +318,11 @@ Characteristics of early Chinese writing:
 
 4. Phonetic loans:
    Characters borrowed to write words with similar pronunciations:
-   - **來** originally meant "wheat" but was borrowed to write "to come" (both pronounced *rə̂ʔ)
+   - **來** originally meant “wheat” but was borrowed to write “to come” (both pronounced *rə̂ʔ)
 
 5. Phonetic-semantic compounds:
    Characters composed of a semantic element (radical) and a phonetic element:
-   - **河** "river": 氵(water radical) + 可 *kʰaːjʔ (phonetic element)
+   - **河** “river”: 氵(water radical) + 可 *kʰaːjʔ (phonetic element)
 
 6. Character evolution:
    Many characters underwent significant changes in form over time:
@@ -330,7 +330,7 @@ Characteristics of early Chinese writing:
 
 7. Regional variations:
    Different states often used variant forms of characters before standardization:
-   - The character for "east" (東) had several regional variants before the Qin unification
+   - The character for “east” (東) had several regional variants before the Qin unification
 
 ## Historical development
 
@@ -360,12 +360,12 @@ The Old Chinese period saw significant linguistic changes:
 5. Grammaticalization:
    Many function words in later Chinese developed from content words in Old Chinese:
    - **之** *tə (originally a demonstrative) > genitive particle
-   - **於** *ʔa (originally "in, at") > general locative preposition
+   - **於** *ʔa (originally “in, at”) > general locative preposition
 
 6. Lexical replacement:
    Some common Old Chinese words were replaced or became restricted in use:
-   - **谷** *kloːk "valley" was largely replaced by 山谷 in later Chinese
-   - **逆** *ŋraːk "to oppose" became less common, with 反對 taking its place in many contexts
+   - **谷** *kloːk “valley” was largely replaced by 山谷 in later Chinese
+   - **逆** *ŋraːk “to oppose” became less common, with 反對 taking its place in many contexts
 
 ## Dialects and variants
 
@@ -374,17 +374,17 @@ While our knowledge of Old Chinese dialects is limited, there is evidence of reg
 1. Chu dialect:
    The state of Chu in the south had some distinctive features:
    - Use of **於** *ʔa where northern dialects used **乎** *ɢa as a question particle
-   - Vocabulary differences, e.g., **雲** *wən "to say" instead of northern **曰** *wat
+   - Vocabulary differences, e.g., **雲** *wən “to say” instead of northern **曰** *wat
 
 2. Wu dialect:
    The state of Wu in the lower Yangtze region had some characteristics:
    - Possible preservation of some consonant clusters lost elsewhere
-   - Lexical items like **言** *ŋan "to speak" where other regions used **語** *ŋaʔ
+   - Lexical items like **言** *ŋan “to speak” where other regions used **語** *ŋaʔ
 
 3. Qin dialect:
    The state of Qin in the west, which eventually unified China, had features that influenced later standard Chinese:
    - Possible early loss of some final consonants
-   - Lexical items that became standard, e.g., **犬** *kʰʷens "dog" replacing earlier **狗** *koːʔ
+   - Lexical items that became standard, e.g., **犬** *kʰʷens “dog” replacing earlier **狗** *koːʔ
 
 4. Yan dialect:
    The state of Yan in the northeast may have had features that influenced later Mandarin:
@@ -431,8 +431,8 @@ Poetry was a crucial aspect of Old Chinese literature, and the study of ancient 
    *kʷaːn kʷaːn *tsa *ku, *tsəʔ *ɡaːj *tə *tu.
    *ʔiwk *diwk *djuk *nraʔ, *kun *tsəʔ *ɡaːds *gu.
 
-   "Guan-guan cry the ospreys, on the islet in the river.
-   The lovely maiden, a good match for the gentleman."
+   “Guan-guan cry the ospreys, on the islet in the river.
+   The lovely maiden, a good match for the gentleman.”
 
 2. From the **論語** (Analects), 1.1:
 
@@ -440,13 +440,13 @@ Poetry was a crucial aspect of Old Chinese literature, and the study of ancient 
    **有朋自遠方來，不亦樂乎？**
    **人不知而不慍，不亦君子乎？」**
 
-   *tsəʔ *wat: "ɡroːk *nə *də *zəp *tə, *pə *ʔjək *ljot *ɢa?
+   *tsəʔ *wat: “ɡroːk *nə *də *zəp *tə, *pə *ʔjək *ljot *ɢa?
    *ɢʷəʔ *bəŋ *zəʔ *ʔʷans *paŋ *rə̂ʔ, *pə *ʔjək *ŋraːk *ɢa?
-   *nin *pə *tre *nə *pə *ʔuns, *pə *ʔjək *kun *tsəʔ *ɢa?"
+   *nin *pə *tre *nə *pə *ʔuns, *pə *ʔjək *kun *tsəʔ *ɢa?”
 
-   "The Master said: 'To learn and timely practice what one has learned, is this not a pleasure?
+   “The Master said: 'To learn and timely practice what one has learned, is this not a pleasure?
    To have friends come from afar, is this not a joy?
-   To remain unrecognized by others without resentment, is this not the mark of a gentleman?'"
+   To remain unrecognized by others without resentment, is this not the mark of a gentleman?'”
 
 3. From the **道德經** (Dao De Jing), Chapter 1:
 
@@ -456,8 +456,8 @@ Poetry was a crucial aspect of Old Chinese literature, and the study of ancient 
    *luː *kʰaːjʔ *luː, *pəj *daŋ *luː.
    *mjeŋ *kʰaːjʔ *mjeŋ, *pəj *daŋ *mjeŋ.
 
-   "The Way that can be spoken of is not the constant Way.
-   The name that can be named is not the constant name."
+   “The Way that can be spoken of is not the constant Way.
+   The name that can be named is not the constant name.”
 
 These examples showcase various features of Old Chinese, including its grammar, vocabulary, and phonology. The reconstructed pronunciations are approximate and may vary depending on the specific reconstruction system used.
 

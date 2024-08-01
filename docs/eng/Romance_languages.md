@@ -40,8 +40,8 @@ While each Romance language has its unique characteristics, they share many comm
 
 2. Consonant clusters: Generally simpler than in Latin, with many clusters simplified or eliminated.
    Examples:
-   - Latin "noctem" (night) → Spanish "noche", Italian "notte", French "nuit"
-   - Latin "factum" (fact) → Spanish "hecho", Italian "fatto", French "fait"
+   - Latin “noctem” (night) → Spanish “noche”, Italian “notte”, French “nuit”
+   - Latin “factum” (fact) → Spanish “hecho”, Italian “fatto”, French “fait”
 
 3. Stress: Usually predictable, often on the penultimate syllable.
    Examples:
@@ -50,7 +50,7 @@ While each Romance language has its unique characteristics, they share many comm
 
 4. Palatalization: Common process affecting velar and dental consonants before front vowels.
    Examples:
-   - Latin "centum" (hundred) → Italian "cento" /ˈtʃɛnto/, French "cent" /sɑ̃/, Spanish "ciento" /ˈθjento/
+   - Latin “centum” (hundred) → Italian “cento” /ˈtʃɛnto/, French “cent” /sɑ̃/, Spanish “ciento” /ˈθjento/
 
 ### Morphology
 
@@ -73,17 +73,17 @@ While each Romance language has its unique characteristics, they share many comm
    - Italian: il, lo, la, i, gli, le (definite); un, uno, una (indefinite)
 
 4. Verb conjugation: Complex systems with many tenses and moods, including indicative, subjunctive, and conditional.
-   Example (present indicative of "to speak"):
+   Example (present indicative of “to speak”):
    - Spanish: hablo, hablas, habla, hablamos, habláis, hablan
    - French: parle, parles, parle, parlons, parlez, parlent
    - Italian: parlo, parli, parla, parliamo, parlate, parlano
 
 5. Synthetic passive voice: Generally lost, replaced by periphrastic constructions.
    Examples:
-   - Latin: "amatur" (he is loved)
-   - Spanish: "es amado" (he is loved)
-   - French: "il est aimé" (he is loved)
-   - Italian: "è amato" (he is loved)
+   - Latin: “amatur” (he is loved)
+   - Spanish: “es amado” (he is loved)
+   - French: “il est aimé” (he is loved)
+   - Italian: “è amato” (he is loved)
 
 ### Syntax
 
@@ -106,22 +106,22 @@ While each Romance language has its unique characteristics, they share many comm
 
 4. Negation: Often involves double negation or negative concord.
    Examples:
-   - French: Je ne vois rien. (I don't see anything.)
-   - Italian: Non vedo niente. (I don't see anything.)
-   - Spanish: No veo nada. (I don't see anything.)
+   - French: Je ne vois rien. (I don’t see anything.)
+   - Italian: Non vedo niente. (I don’t see anything.)
+   - Spanish: No veo nada. (I don’t see anything.)
 
 ### Lexicon
 
 1. Core vocabulary: Largely derived from Latin, with significant shared cognates across Romance languages.
    Examples:
-   - "Water": Latin "aqua" → Spanish "agua", Italian "acqua", Portuguese "água", French "eau"
-   - "Fire": Latin "focus" → Spanish "fuego", Italian "fuoco", Portuguese "fogo", French "feu"
+   - “Water”: Latin “aqua” → Spanish “agua”, Italian “acqua”, Portuguese “água”, French “eau”
+   - “Fire”: Latin “focus” → Spanish “fuego”, Italian “fuoco”, Portuguese “fogo”, French “feu”
 
 2. Loanwords: Influences from Germanic languages, Arabic, and more recently, English.
    Examples:
-   - Germanic: French "guerre" (war), Spanish "guerra", Italian "guerra"
-   - Arabic: Spanish "alcalde" (mayor), Portuguese "açúcar" (sugar)
-   - English: French "le weekend", Spanish "el fútbol", Italian "il computer"
+   - Germanic: French “guerre” (war), Spanish “guerra”, Italian “guerra”
+   - Arabic: Spanish “alcalde” (mayor), Portuguese “açúcar” (sugar)
+   - English: French “le weekend”, Spanish “el fútbol”, Italian “il computer”
 
 ## Major Romance Languages
 
@@ -205,7 +205,7 @@ Portuguese is spoken by over 250 million people, primarily in Portugal, Brazil, 
 - Influences from Arabic and indigenous languages of Brazil and Africa
   Examples: azeitona (olive), abacaxi (pineapple), samba (samba)
 - Divergent vocabulary between European and Brazilian Portuguese
-  Examples: comboio (EP) vs. trem (BP) for "train", casa de banho (EP) vs. banheiro (BP) for "bathroom"
+  Examples: comboio (EP) vs. trem (BP) for “train”, casa de banho (EP) vs. banheiro (BP) for “bathroom”
 
 ### French
 
@@ -239,7 +239,7 @@ French is spoken by about 275 million people worldwide and is known for its sign
 - Obligatory use of subject pronouns (non-pro-drop)
   Example: Il pleut. (It's raining.)
 - Negation typically formed with 'ne ... pas' enclosing the verb
-  Example: Je ne mange pas de viande. (I don't eat meat.)
+  Example: Je ne mange pas de viande. (I don’t eat meat.)
 
 #### Lexicon
 
@@ -285,7 +285,7 @@ Italian is spoken by about 65 million people, mainly in Italy, and is often cons
 - Many words preserved from Latin that were lost in other Romance languages
   Examples: casa (house), acqua (water), uscire (to exit)
 - Significant regional variation in vocabulary due to historical political fragmentation
-  Examples: ragazzo (standard Italian) vs. guaglione (Neapolitan) for "boy"
+  Examples: ragazzo (standard Italian) vs. guaglione (Neapolitan) for “boy”
 
 ### Romanian
 
@@ -615,55 +615,55 @@ Romance languages have developed various syntactic features that differ from Lat
 1. Loss of case system (except in Romanian)
    - Increased reliance on word order and prepositions to indicate grammatical relationships
    Example:
-   Latin: "Marcus Juliae librum dat" (Marcus gives Julia a book)
-   Italian: "Marco dà un libro a Giulia"
-   Spanish: "Marco da un libro a Julia"
-   French: "Marc donne un livre à Julie"
+   Latin: “Marcus Juliae librum dat” (Marcus gives Julia a book)
+   Italian: “Marco dà un libro a Giulia”
+   Spanish: “Marco da un libro a Julia”
+   French: “Marc donne un livre à Julie”
 
 2. Development of articles
    - Latin had no articles; Romance languages developed both definite and indefinite articles
    Example:
-   Latin: "homo" (man/the man)
-   Italian: "un uomo" (a man), "l'uomo" (the man)
-   Spanish: "un hombre" (a man), "el hombre" (the man)
-   French: "un homme" (a man), "l'homme" (the man)
+   Latin: “homo” (man/the man)
+   Italian: “un uomo” (a man), “l'uomo” (the man)
+   Spanish: “un hombre” (a man), “el hombre” (the man)
+   French: “un homme” (a man), “l'homme” (the man)
 
 3. Analytic passive constructions
    - Latin synthetic passive (e.g., 'amatur' - he is loved) replaced by analytic forms
    Example:
-   Latin: "amatur" (he is loved)
-   Italian: "è amato"
-   Spanish: "es amado"
-   French: "est aimé"
+   Latin: “amatur” (he is loved)
+   Italian: “è amato”
+   Spanish: “es amado”
+   French: “est aimé”
 
 4. Periphrastic future and conditional tenses
    - Classical Latin synthetic future replaced by analytic forms derived from infinitive + 'have'
    Example (future of 'to sing'):
-   Latin: "cantabo" (I will sing)
-   Italian: "canterò" (from cantare + ho)
-   Spanish: "cantaré" (from cantar + he)
-   French: "chanterai" (from chanter + ai)
+   Latin: “cantabo” (I will sing)
+   Italian: “canterò” (from cantare + ho)
+   Spanish: “cantaré” (from cantar + he)
+   French: “chanterai” (from chanter + ai)
 
 5. Development of clitic pronoun systems
    - Pronouns in many Romance languages can attach to verbs as clitics
    Example:
-   Italian: "Dammelo" (Give it to me)
-   Spanish: "Dámelo" (Give it to me)
-   French: "Donne-le-moi" (Give it to me)
+   Italian: “Dammelo” (Give it to me)
+   Spanish: “Dámelo” (Give it to me)
+   French: “Donne-le-moi” (Give it to me)
 
 6. Use of subjunctive mood
    - While Latin used the subjunctive extensively, its use in Romance languages varies
    Example (I want you to come):
-   Italian: "Voglio che tu venga"
-   Spanish: "Quiero que vengas"
-   French: "Je veux que tu viennes"
+   Italian: “Voglio che tu venga”
+   Spanish: “Quiero que vengas”
+   French: “Je veux que tu viennes”
 
 7. Question formation
    - Inversion or use of interrogative particles
    Example:
-   French: "Parlez-vous français?" or "Est-ce que vous parlez français?"
-   Spanish: "¿Hablas español?"
-   Italian: "Parli italiano?"
+   French: “Parlez-vous français?” or “Est-ce que vous parlez français?”
+   Spanish: “¿Hablas español?”
+   Italian: “Parli italiano?”
 
 ## Dialectal Variation
 
@@ -671,30 +671,30 @@ Romance languages exhibit significant dialectal variation, often forming dialect
 
 1. Iberian Peninsula:
    - Galician-Portuguese continuum
-     Example: Galician "home" vs. Portuguese "homem" (man)
+     Example: Galician “home” vs. Portuguese “homem” (man)
    - Catalan-Occitan continuum
-     Example: Catalan "aigua" vs. Occitan "aiga" (water)
+     Example: Catalan “aigua” vs. Occitan “aiga” (water)
 
 2. Italy:
    - Northern Italian dialects (Gallo-Italic)
-     Example: Piedmontese "ca" vs. Standard Italian "casa" (house)
+     Example: Piedmontese “ca” vs. Standard Italian “casa” (house)
    - Central Italian dialects (including Tuscan, the basis of standard Italian)
-     Example: Tuscan "figliolo" vs. Standard Italian "figlio" (son)
+     Example: Tuscan “figliolo” vs. Standard Italian “figlio” (son)
    - Southern Italian dialects
-     Example: Neapolitan "guaglione" vs. Standard Italian "ragazzo" (boy)
+     Example: Neapolitan “guaglione” vs. Standard Italian “ragazzo” (boy)
 
 3. France:
    - Langues d'oïl in the north (including standard French)
-     Example: Picard "pu" vs. Standard French "plus" (more)
+     Example: Picard “pu” vs. Standard French “plus” (more)
    - Occitan (Langue d'oc) in the south
-     Example: Occitan "filha" vs. French "fille" (daughter)
+     Example: Occitan “filha” vs. French “fille” (daughter)
 
 4. Eastern Romance:
    - Daco-Romanian (standard Romanian)
    - Aromanian
    - Megleno-Romanian
    - Istro-Romanian
-   Example: Romanian "apă" vs. Aromanian "apã" (water)
+   Example: Romanian “apă” vs. Aromanian “apã” (water)
 
 ## Classification
 
@@ -766,15 +766,15 @@ Romance languages have significantly influenced many non-Romance languages:
 Many creole languages are based on Romance languages, particularly French, Portuguese, and Spanish. Examples include:
 
 - Haitian Creole (French-based)
-  Example: "Mwen renmen ou" (I love you) - compare with French "Je t'aime"
+  Example: “Mwen renmen ou” (I love you) - compare with French “Je t'aime”
 
 - Papiamentu (Spanish and Portuguese-based)
-  Example: "Mi ta papia Papiamentu" (I speak Papiamentu) - compare with Spanish "Yo hablo Papiamento"
+  Example: “Mi ta papia Papiamentu” (I speak Papiamentu) - compare with Spanish “Yo hablo Papiamento”
 
 - Cape Verdean Creole (Portuguese-based)
-  Example: "N ta papia Kriolu" (I speak Creole) - compare with Portuguese "Eu falo Crioulo"
+  Example: “N ta papia Kriolu” (I speak Creole) - compare with Portuguese “Eu falo Crioulo”
 
 - Chavacano (Spanish-based, spoken in the Philippines)
-  Example: "Ta komé yo" (I am eating) - compare with Spanish "Estoy comiendo"
+  Example: “Ta komé yo” (I am eating) - compare with Spanish “Estoy comiendo”
 
 These creole languages demonstrate how Romance languages have spread globally and evolved in contact with other languages, creating new linguistic systems that retain elements of their Romance origins while developing unique features.

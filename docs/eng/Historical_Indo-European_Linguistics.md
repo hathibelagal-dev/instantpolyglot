@@ -36,7 +36,7 @@ The vowel system of PIE was relatively simple, with a central opposition between
 
 #### Laryngeals
 
-Three "laryngeal" consonants are reconstructed for PIE, conventionally written as h₁, h₂, h₃. Their exact phonetic values are debated, but they had significant effects on neighboring vowels:
+Three “laryngeal” consonants are reconstructed for PIE, conventionally written as h₁, h₂, h₃. Their exact phonetic values are debated, but they had significant effects on neighboring vowels:
 
 - h₁e > e
 - h₂e > a
@@ -45,13 +45,13 @@ Three "laryngeal" consonants are reconstructed for PIE, conventionally written a
 The laryngeal theory, proposed by Ferdinand de Saussure and later elaborated by others, has been crucial in explaining various phenomena in daughter languages, including:
 
 1. Vowel coloring: The different outcomes of laryngeals explain vowel qualities in daughter languages.
-   Example: PIE *dʰh₁tos "placed" > Greek **thetós**, Sanskrit **hitá-**
+   Example: PIE *dʰh₁tos “placed” > Greek **thetós**, Sanskrit **hitá-**
 
 2. Consonant lengthening: In some languages, laryngeals caused lengthening of preceding consonants.
-   Example: PIE *pih₂-wō(n) "fat" > Greek **pī́ōn**, Sanskrit **pī́van-**
+   Example: PIE *pih₂-wō(n) “fat” > Greek **pī́ōn**, Sanskrit **pī́van-**
 
 3. Vowel lengthening: When lost between consonants, laryngeals often caused compensatory lengthening.
-   Example: PIE *ph₂tēr "father" > Greek **patḗr**, Sanskrit **pitár-**
+   Example: PIE *ph₂tēr “father” > Greek **patḗr**, Sanskrit **pitár-**
 
 ### Morphology
 
@@ -78,7 +78,7 @@ Three genders: Masculine, Feminine, Neuter
 
 The gender system in PIE was grammatical rather than strictly based on natural gender. The feminine gender is thought to have developed later, originally being a collective or abstract derivative of the masculine/neuter.
 
-Example reconstruction (word for "horse"):
+Example reconstruction (word for “horse”):
 
 | Case | Singular | Plural |
 |------|----------|--------|
@@ -101,7 +101,7 @@ This paradigm showcases several important features of PIE nominal morphology:
 
 Adjectives in PIE were declined similarly to nouns, agreeing with the nouns they modified in gender, number, and case. Many adjectives had different stem forms for masculine/neuter and feminine.
 
-Example reconstruction (word for "new"):
+Example reconstruction (word for “new”):
 
 | Case | Masc./Neut. Sg. | Fem. Sg. | Neut. Pl. |
 |------|-----------------|----------|-----------|
@@ -124,7 +124,7 @@ Example reconstruction (first-person singular pronoun):
 | Gen. | *h₁méne |
 | Dat. | *h₁mói |
 
-Demonstrative pronouns often formed the basis for definite articles in daughter languages. PIE is reconstructed with several demonstrative stems, including *so-/to- (forming the basis of English "the" and "that") and *k̑i-/k̑e- (cf. Latin "hic, haec, hoc").
+Demonstrative pronouns often formed the basis for definite articles in daughter languages. PIE is reconstructed with several demonstrative stems, including *so-/to- (forming the basis of English “the” and “that”) and *k̑i-/k̑e- (cf. Latin “hic, haec, hoc”).
 
 #### Verbs
 
@@ -138,11 +138,11 @@ PIE verbs were conjugated for:
 
 Verbs had complex ablaut patterns, with different root grades in different forms:
 
-- e-grade: *bʰér-e-ti "he carries"
-- o-grade: *bʰór-os "burden"
-- zero-grade: *bʰr̥-tós "carried"
+- e-grade: *bʰér-e-ti “he carries”
+- o-grade: *bʰór-os “burden”
+- zero-grade: *bʰr̥-tós “carried”
 
-Example reconstruction (root *bʰer- "to carry"):
+Example reconstruction (root *bʰer- “to carry”):
 
 Present indicative active:
 
@@ -161,19 +161,19 @@ This paradigm illustrates several key features of PIE verbal morphology:
 The PIE verbal system also included:
 
 1. Athematic verbs: Verbs without a thematic vowel, often showing ablaut in the root.
-   Example: *h₁és-mi "I am", *h₁s-énti "they are"
+   Example: *h₁és-mi “I am”, *h₁s-énti “they are”
 
 2. Aorist: A past tense form, often with zero-grade root in athematic forms.
-   Example: *gʷém-t "he/she went" (root *gʷem- "to go")
+   Example: *gʷém-t “he/she went” (root *gʷem- “to go”)
 
 3. Perfect: Indicated a state resulting from past action, formed with o-grade root and specific endings.
-   Example: *de-dórk-e "he has seen" (root *derk- "to see")
+   Example: *de-dórk-e “he has seen” (root *derk- “to see”)
 
 4. Middle voice: Indicated that the subject was also somehow affected by the action.
-   Example: *bʰér-e-tor "he carries (for himself)"
+   Example: *bʰér-e-tor “he carries (for himself)”
 
 5. Non-finite forms: Included participles, infinitives, and verbal nouns.
-   Example: *bʰér-ont- "carrying" (present active participle)
+   Example: *bʰér-ont- “carrying” (present active participle)
 
 ### Syntax
 
@@ -181,7 +181,7 @@ PIE is reconstructed as having a relatively free word order, with SOV (Subject-O
 
 Example sentence:
 ***wīrós h₁éḱwom h₂ég̑eti**
-"The man drives the horse"
+“The man drives the horse”
 
 Other syntactic features of PIE included:
 
@@ -199,27 +199,27 @@ This describes the consonant shifts that occurred in Proto-Germanic:
 
 1. PIE voiceless stops > Germanic voiceless fricatives
    *p > f, *t > θ, *k > h
-   Example: PIE *pōds "foot" > Proto-Germanic *fōts
+   Example: PIE *pōds “foot” > Proto-Germanic *fōts
 
 2. PIE voiced stops > Germanic voiceless stops
    *b > p, *d > t, *g > k
-   Example: PIE *dekm̥ "ten" > Proto-Germanic *tehun
+   Example: PIE *dekm̥ “ten” > Proto-Germanic *tehun
 
 3. PIE voiced aspirated stops > Germanic voiced fricatives (later stops)
    *bʰ > β (b), *dʰ > ð (d), *gʰ > ɣ (g)
-   Example: PIE *bʰrāter- "brother" > Proto-Germanic *brōþēr
+   Example: PIE *bʰrāter- “brother” > Proto-Germanic *brōþēr
 
-Grimm's Law explains many of the systematic differences between Germanic languages and their Indo-European cousins. For instance, it accounts for why English "father" begins with [f], while Latin "pater" begins with [p].
+Grimm's Law explains many of the systematic differences between Germanic languages and their Indo-European cousins. For instance, it accounts for why English “father” begins with [f], while Latin “pater” begins with [p].
 
 ### Verner's Law
 
 Verner's Law, named after Danish linguist Karl Verner, explains apparent exceptions to Grimm's Law in Germanic languages. It states that voiceless fricatives resulting from Grimm's Law became voiced if the preceding syllable did not carry the main stress in PIE.
 
 Example:
-PIE *ph₂tḗr "father" > Proto-Germanic *fadēr (not *faþēr)
+PIE *ph₂tḗr “father” > Proto-Germanic *fadēr (not *faþēr)
 
 This law explains alternations in some Germanic strong verbs:
-Old English **cēosan** "to choose" (s < *s) vs. **curon** "they chose" (r < *z < *s)
+Old English **cēosan** “to choose” (s < *s) vs. **curon** “they chose” (r < *z < *s)
 
 ### Grassmann's Law
 
@@ -227,7 +227,7 @@ This describes a dissimilation of aspirates in Indo-Iranian and Greek:
 
 When a root has two aspirated consonants, the first one loses its aspiration.
 
-Example: PIE *bʰeudʰ- "to be aware" > Sanskrit **bodh-**, Greek **peuth-**
+Example: PIE *bʰeudʰ- “to be aware” > Sanskrit **bodh-**, Greek **peuth-**
 
 This law operates independently in Greek and Sanskrit, showing that it occurred after the split of these branches from PIE.
 
@@ -235,7 +235,7 @@ This law operates independently in Greek and Sanskrit, showing that it occurred 
 
 In Indo-Iranian, Balto-Slavic, and Armenian, *s becomes *š after *r, *u, *k, or *i:
 
-Example: PIE *mus- "mouse" > Sanskrit **muṣ-**, but Latin **mūs**
+Example: PIE *mus- “mouse” > Sanskrit **muṣ-**, but Latin **mūs**
 
 This shared innovation is one piece of evidence for a closer relationship between these branches.
 
@@ -244,10 +244,10 @@ This shared innovation is one piece of evidence for a closer relationship betwee
 This divides the IE languages based on the treatment of the PIE palatals:
 
 - Centum languages (Western IE): Merged palatals with velars
-  Example: PIE *ḱm̥tóm "hundred" > Latin **centum**, Greek **hekaton**
+  Example: PIE *ḱm̥tóm “hundred” > Latin **centum**, Greek **hekaton**
 
 - Satem languages (Eastern IE): Palatals become sibilants
-  Example: PIE *ḱm̥tóm "hundred" > Sanskrit **śatam**, Lithuanian **šimtas**
+  Example: PIE *ḱm̥tóm “hundred” > Sanskrit **śatam**, Lithuanian **šimtas**
 
 This isogloss was once thought to represent a fundamental split in the IE family, but it's now recognized that the changes occurred independently in different branches.
 
@@ -257,7 +257,7 @@ This sound law, operating in Indo-Iranian, describes the interaction of aspirate
 
 When a voiced aspirated stop is followed by a voiceless stop, the sequence becomes voiced aspirated + voiced unaspirated.
 
-Example: PIE *bʰudʰ-to- > Sanskrit **buddha-** "awakened" (not *budʰta-)
+Example: PIE *bʰudʰ-to- > Sanskrit **buddha-** “awakened” (not *budʰta-)
 
 ## Major Indo-European Branches
 
@@ -272,7 +272,7 @@ Key features:
 
 Example (Sanskrit):
 **devā́nāṃ priyáḥ**
-"beloved of the gods"
+“beloved of the gods”
 
 The Indo-Iranian branch is noted for its early attestation (Vedic Sanskrit) and the preservation of many archaic features. It's divided into three main sub-branches:
 
@@ -292,7 +292,7 @@ Key features:
 Example (Ancient Greek):
 **ἄνδρα μοι ἔννεπε, Μοῦσα**
 ándra moi énnepe, Moûsa
-"Tell me, O Muse, of the man"
+“Tell me, O Muse, of the man”
 
 Greek is notable for its long and well-documented history, allowing linguists to trace changes over time. Major periods include:
 
@@ -313,7 +313,7 @@ Key features:
 
 Example (Latin):
 **Gallia est omnis divisa in partes tres**
-"All Gaul is divided into three parts"
+“All Gaul is divided into three parts”
 
 The Italic branch initially included other languages of ancient Italy, such as Oscan and Umbrian, but these became extinct, leaving Latin as the sole ancestor of modern Italic (Romance) languages. Major Romance languages include:
 
@@ -340,7 +340,7 @@ Italian:
 
 Romanian:
 - Retention of three-gender system (masculine, feminine, neuter)
-- Development of a postposed definite article: **lupul** "the wolf"
+- Development of a postposed definite article: **lupul** “the wolf”
 
 ### Celtic
 
@@ -353,7 +353,7 @@ Key features:
 
 Example (Old Irish):
 **Mōr in gním**
-"Great (is) the deed"
+“Great (is) the deed”
 
 The Celtic languages are divided into two main branches:
 
@@ -368,8 +368,8 @@ The Celtic languages are divided into two main branches:
 
 Celtic languages are known for their complex systems of initial consonant mutations, where the initial consonant of a word changes based on grammatical context. For example, in Welsh:
 
-**pen** "head" > **fy mhen** "my head" (nasal mutation)
-**tad** "father" > **ei dad** "his father" (soft mutation)
+**pen** “head” > **fy mhen** “my head” (nasal mutation)
+**tad** “father” > **ei dad** “his father” (soft mutation)
 
 ### Germanic
 
@@ -382,7 +382,7 @@ Key features:
 
 Example (Gothic):
 **Atta unsar þu in himinam**
-"Our Father, you in heaven"
+“Our Father, you in heaven”
 
 The Germanic branch is divided into three main sub-branches:
 
@@ -397,10 +397,10 @@ Germanic languages are characterized by:
   Weak: English **talk, talked, talked**
 
 - Umlaut (vowel mutation):
-  Old English **fōt** "foot", plural **fēt** (modern "feet")
+  Old English **fōt** “foot”, plural **fēt** (modern “feet”)
 
 - Development of a dental suffix for past tense in weak verbs:
-  Gothic **nasida** "saved", English **saved**, German **rettete**
+  Gothic **nasida** “saved”, English **saved**, German **rettete**
 
 ### Balto-Slavic
 
@@ -414,7 +414,7 @@ Key features:
 Example (Old Church Slavonic):
 **Отьче нашь, иже еси на небесѣхъ**
 Otĭče našĭ, iže jesi na nebesěxŭ
-"Our Father, who art in heaven"
+“Our Father, who art in heaven”
 
 The Balto-Slavic branch is divided into:
 
@@ -429,16 +429,16 @@ The Balto-Slavic branch is divided into:
 
 Lithuanian is often noted for its conservatism, retaining many archaic features of PIE. For example:
 
-- Retention of PIE *ei: Lithuanian **eiti** "to go" (cf. Greek **eimi** "I go")
+- Retention of PIE *ei: Lithuanian **eiti** “to go” (cf. Greek **eimi** “I go”)
 - Preservation of the PIE accent system
 
 Slavic languages are characterized by:
 
 - Robust aspect system in verbs:
-  Russian **читать** (imperfective) vs. **прочитать** (perfective) "to read"
+  Russian **читать** (imperfective) vs. **прочитать** (perfective) “to read”
 
 - Palatal consonants:
-  Russian **нять** [nʲatʲ] "to crumple"
+  Russian **нять** [nʲatʲ] “to crumple”
 
 ### Armenian
 
@@ -452,11 +452,11 @@ Key features:
 Example (Classical Armenian):
 **Հայր մեր որ յերկինս ես**
 Hayr mer or yerkins es
-"Our Father who art in heaven"
+“Our Father who art in heaven”
 
 Armenian shows some affinities with Greek and Indo-Iranian, but is generally classified as its own branch. It has undergone significant sound changes, making its relationship to other IE languages less immediately obvious. For example:
 
-PIE *pṓds "foot" > Armenian **ոտք** (otk')
+PIE *pṓds “foot” > Armenian **ոտք** (otk')
 
 ### Albanian
 
@@ -469,12 +469,12 @@ Key features:
 
 Example:
 **Ati ynë që je në qiell**
-"Our Father who art in heaven"
+“Our Father who art in heaven”
 
 Albanian has been heavily influenced by neighboring languages, but retains a core IE vocabulary and grammar. It shows some unique developments:
 
-- PIE *sh₂ēns "moon" > Albanian **hënë**
-- Development of admirative mood: **punuaka** "I am working, apparently"
+- PIE *sh₂ēns “moon” > Albanian **hënë**
+- Development of admirative mood: **punuaka** “I am working, apparently”
 
 ### Anatolian
 
@@ -488,7 +488,7 @@ Key features:
 Example (Hittite):
 **nu-uš-ša-an an-da ša-li-ga-aš GIŠlu-ut-ta-a-i**
 nu=šan anda šaligaš luttāi
-"And he runs into the booth"
+“And he runs into the booth”
 
 The discovery and decipherment of Hittite in the early 20th century had a significant impact on IE studies. It provided evidence for the laryngeal theory and showed that some features of PIE, such as the feminine gender, may have developed after Anatolian split from the rest of the IE family.
 
@@ -503,7 +503,7 @@ Key features:
 
 Example (Tocharian B):
 **ñäktets käṣṣi ñem klyu tsopats**
-"The god's teacher's name was heard"
+“The god's teacher's name was heard”
 
 Tocharian, discovered in the early 20th century, consists of two closely related languages: Tocharian A and Tocharian B. Its centum character, despite its eastern location, challenged the idea of a clean east-west split in the IE family.
 
@@ -526,23 +526,23 @@ Sound correspondences:
 
 Reconstructed PIE form: ***ph₂tḗr**
 
-The comparative method relies on the principle that sound changes are regular and systematic. This allows linguists to posit "sound laws" that explain the development of sounds in different linguistic environments.
+The comparative method relies on the principle that sound changes are regular and systematic. This allows linguists to posit “sound laws” that explain the development of sounds in different linguistic environments.
 
 ## Ablaut
 
 Ablaut refers to systematic alternations in root vowels in PIE and its descendants. The main grades are:
 
-- e-grade: *bʰer- "carry"
+- e-grade: *bʰer- “carry”
 - o-grade: *bʰor- 
 - zero-grade: *bʰr̥-
 - lengthened e-grade: *bʰēr-
 - lengthened o-grade: *bʰōr-
 
 Example in Greek:
-- Present: **pʰérō** "I carry" (e-grade)
-- Aorist: **é-pʰor-on** "I carried" (o-grade)
-- Verbal noun: **pʰór-os** "tribute" (o-grade)
-- Adjective: **pʰor-tós** "carried" (zero-grade)
+- Present: **pʰérō** “I carry” (e-grade)
+- Aorist: **é-pʰor-on** “I carried” (o-grade)
+- Verbal noun: **pʰór-os** “tribute” (o-grade)
+- Adjective: **pʰor-tós** “carried” (zero-grade)
 
 Ablaut played a crucial role in PIE morphology, marking different grammatical categories and derivational processes. In many daughter languages, original ablaut alternations have been obscured by sound changes or analogical leveling, but traces remain in irregular verbs and derivational patterns.
 
@@ -552,7 +552,7 @@ PIE is reconstructed as having a pitch accent system, which is preserved in Vedi
 
 Example (Vedic Sanskrit):
 **agním īḷe puróhitaṃ**
-"I praise Agni, the household priest"
+“I praise Agni, the household priest”
 
 The acute accent marks high pitch on the syllable.
 
@@ -563,23 +563,23 @@ In some branches, the accent shifted:
 
 The PIE accent system interacted with ablaut, with unaccented syllables often showing zero-grade vocalism. This interaction is particularly visible in Greek and Sanskrit:
 
-Greek **patḗr** (nom. sg.) vs. **patrós** (gen. sg.) "father"
-Sanskrit **pitā́** (nom. sg.) vs. **pitrā́** (instr. sg.) "father"
+Greek **patḗr** (nom. sg.) vs. **patrós** (gen. sg.) “father”
+Sanskrit **pitā́** (nom. sg.) vs. **pitrā́** (instr. sg.) “father”
 
 ## Semantic Change
 
 Tracking semantic changes is an important part of historical linguistics. Common types include:
 
-1. Broadening: PIE ***ghostis* "stranger" > Latin **hostis** "enemy"
-2. Narrowing: Old English **deor** "animal" > Modern English "deer"
-3. Amelioration: Old English **cnafa** "boy, servant" > Modern English "knave"
-4. Pejoration: Old English **sǣlig** "blessed" > Modern English "silly"
+1. Broadening: PIE ***ghostis* “stranger” > Latin **hostis** “enemy”
+2. Narrowing: Old English **deor** “animal” > Modern English “deer”
+3. Amelioration: Old English **cnafa** “boy, servant” > Modern English “knave”
+4. Pejoration: Old English **sǣlig** “blessed” > Modern English “silly”
 
 Other types of semantic change include:
 
-5. Metaphorical extension: PIE **mūs* "mouse" > computer "mouse"
-6. Metonymy: Latin **coxa** "hip" > French **cuisse** "thigh"
-7. Euphemism: Proto-Germanic **dauþuz* "death" > German **Ableben** "passing"
+5. Metaphorical extension: PIE **mūs* “mouse” > computer “mouse”
+6. Metonymy: Latin **coxa** “hip” > French **cuisse** “thigh”
+7. Euphemism: Proto-Germanic **dauþuz* “death” > German **Ableben** “passing”
 
 Understanding semantic changes is crucial for tracing the development of vocabulary and for accurate reconstruction of PIE lexicon.
 
@@ -587,16 +587,16 @@ Understanding semantic changes is crucial for tracing the development of vocabul
 
 Indo-European languages have developed new vocabulary through various means:
 
-1. Compounding: German **Fernseher** "television" (lit. "far-seer")
+1. Compounding: German **Fernseher** “television” (lit. “far-seer”)
 2. Derivation: English **un-think-able**
 3. Borrowing: English **croissant** from French
-4. Calquing: German **Wolkenkratzer** "skyscraper" (lit. "cloud-scraper")
+4. Calquing: German **Wolkenkratzer** “skyscraper” (lit. “cloud-scraper”)
 
 These processes have been active throughout the history of IE languages, leading to significant vocabulary differences even between closely related languages. For example:
 
-- Compounding in Germanic languages: German **Handschuh** "glove" (lit. "hand-shoe")
+- Compounding in Germanic languages: German **Handschuh** “glove” (lit. “hand-shoe”)
 - Extensive borrowing in English: **beef** (from Old French), **sky** (from Old Norse)
-- Calquing in Slavic languages: Russian **небоскрёб** (neboskrjob) "skyscraper" (calque of English)
+- Calquing in Slavic languages: Russian **небоскрёб** (neboskrjob) “skyscraper” (calque of English)
 
 ## Subgrouping
 
@@ -610,7 +610,7 @@ More controversial proposals include:
 - Greco-Armenian
 - Germano-Baltic
 
-The exact structure of the IE family tree remains a subject of debate. Some linguists propose a "bush" model rather than a tree, suggesting that many branches split off from PIE in relatively quick succession.
+The exact structure of the IE family tree remains a subject of debate. Some linguists propose a “bush” model rather than a tree, suggesting that many branches split off from PIE in relatively quick succession.
 
 ## Writing Systems
 
@@ -626,7 +626,7 @@ Indo-European languages have been written in various scripts:
 Example (Russian Cyrillic):
 **Мой дядя самых честных правил**
 Moj djadja samyx čestnyx pravil
-"My uncle has most honest principles"
+“My uncle has most honest principles”
 
 The choice and development of writing systems have been influenced by cultural and historical factors. For example:
 
@@ -638,10 +638,10 @@ The choice and development of writing systems have been influenced by cultural a
 
 This involves using reconstructed vocabulary to make inferences about PIE culture and homeland. Key terms include:
 
-- ***reg̑-* "king": suggests social hierarchy
-- ***kwekwlos* "wheel": implies knowledge of wheeled vehicles
-- ***h₂erg̑ntom* "silver": indicates metallurgy
-- ***h₁ek̑wos* "horse": suggests importance of horses
+- ***reg̑-* “king”: suggests social hierarchy
+- ***kwekwlos* “wheel”: implies knowledge of wheeled vehicles
+- ***h₂erg̑ntom* “silver”: indicates metallurgy
+- ***h₁ek̑wos* “horse”: suggests importance of horses
 
 These terms have led to various theories about PIE homeland and culture, such as the Kurgan hypothesis.
 

@@ -385,7 +385,7 @@ Example:
 
 Additional examples:
 - **Manehna henteu pinter** ('He/She is not smart')
-- **Urang henteu boga waktu** ('We don't have time')
+- **Urang henteu boga waktu** ('We don’t have time')
 
 For nouns, the negation word **lain** ('not') is used.
 
@@ -397,7 +397,7 @@ Additional examples:
 - **Manehna lain guru** ('He/She is not a teacher')
 
 Double negation is possible and often used for emphasis:
-**Abdi henteu teu terang** ('I don't not know' = 'I certainly know')
+**Abdi henteu teu terang** ('I don’t not know' = 'I certainly know')
 
 ### Questions
 
@@ -444,7 +444,7 @@ Additional examples:
 Conditional sentences often use the word **lamun** ('if') to introduce the condition.
 
 Example:
-**Lamun hujan, abdi moal indit** ('If it rains, I won't go')
+**Lamun hujan, abdi moal indit** ('If it rains, I won’t go')
 
 Additional examples:
 - **Lamun anjeun datang, urang bisa papanggih** ('If you come, we can meet')
@@ -529,7 +529,7 @@ Some notable dialects include:
 
 Differences between dialects can include vocabulary, pronunciation, and even some grammatical features. For example:
 
-- The word for "not" varies: **henteu** (standard), **moal** (Banten), **embung** (Cirebon)
+- The word for “not” varies: **henteu** (standard), **moal** (Banten), **embung** (Cirebon)
 - Pronunciation of /a/ in final syllables: [a] in Priangan, [ɔ] in some northern dialects
 - Use of different personal pronouns across dialects
 
@@ -573,7 +573,7 @@ The choice of speech level depends on various factors such as age, social status
 Sundanese has many idiomatic expressions that reflect its cultural values and worldview. Here are a few examples:
 
 1. **Ulah ngaririweuh batur**
-   Literal: Don't disturb others
+   Literal: Don’t disturb others
    Meaning: Mind your own business
 
 2. **Herang caina beunang laukna**

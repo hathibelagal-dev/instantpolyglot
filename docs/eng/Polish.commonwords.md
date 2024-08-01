@@ -89,7 +89,7 @@
 | naprawdę | [napravdɛ] | adverb | really |
 | możesz | [mɔʐɛʂ] | verb (2nd person singular present) | you can |
 | chyba | [xɨba] | adverb (of modality) | probably |
-| porządku | [pɔʐɔntku] | noun (masculine locative) | order (as in "in order") |
+| porządku | [pɔʐɔntku] | noun (masculine locative) | order (as in “in order”) |
 | dziękuję | [d͡ʑɛŋkujɛ] | verb (1st person singular present) | thank you |
 | muszę | [muʂɛ] | verb (1st person singular present) | I must |
 | panie | [paɲɛ] | noun (masculine vocative) | sir |
@@ -145,7 +145,7 @@
 | stało | [stawɔ] | verb (3rd person singular neuter past) | happened |
 | was | [vas] | pronoun (2nd person plural accusative/genitive) | you |
 | czym | [t͡ʂɨm] | pronoun (neuter instrumental interrogative) | what |
-| prostu | [prɔstu] | noun (masculine locative) (in phrase "po prostu") | simplicity |
+| prostu | [prɔstu] | noun (masculine locative) (in phrase “po prostu”) | simplicity |
 | będziesz | [bɛɲd͡ʑɛʂ] | verb (2nd person singular future) | you will be |
 | chodź | [xɔt͡ɕ] | verb (2nd person singular imperative) | come |
 | czemu | [t͡ʂɛmu] | pronoun (neuter dative interrogative) | why |
@@ -326,7 +326,7 @@
 | spójrz | [spujʂ] | verb (2nd person singular imperative) | look |
 | chciałbym | [xt͡ɕawbɨm] | verb (1st person singular masculine conditional) | I would like |
 | sir | [sɛr] | noun (masculine animate nominative singular; English loanword) | sir |
-| razie | [raʑɛ] | noun (masculine locative singular; used in phrase "w razie") | case |
+| razie | [raʑɛ] | noun (masculine locative singular; used in phrase “w razie”) | case |
 | nasze | [naʂɛ] | pronoun (neuter nominative/accusative singular or non-masculine-personal nominative/accusative plural possessive) | our |
 | dokładnie | [dɔkwadɲɛ] | adverb | exactly |
 | czuję | [t͡ʂujɛ] | verb (1st person singular present) | I feel |
@@ -609,10 +609,10 @@
 | dobranoc | [dɔbranɔt͡s] | interjection | good night |
 | żadnego | [ʐadnɛgɔ] | pronoun (masculine/neuter genitive singular) | no/none |
 | kapitanie | [kapitaɲɛ] | noun (masculine animate vocative singular) | captain |
-| zobaczenia | [zɔbat͡ʂɛɲa] | noun (neuter genitive singular) | seeing (as in "see you") |
+| zobaczenia | [zɔbat͡ʂɛɲa] | noun (neuter genitive singular) | seeing (as in “see you”) |
 | możecie | [mɔʐɛt͡ɕɛ] | verb (2nd person plural present) | you can |
 | wspaniale | [fspaɲalɛ] | adverb | great |
-| ogóle | [ɔgulɛ] | noun (masculine locative singular) | general (as in "in general") |
+| ogóle | [ɔgulɛ] | noun (masculine locative singular) | general (as in “in general”) |
 | także | [takʐɛ] | adverb | also |
 | pół | [puw] | numeral (indeclinable) | half |
 | idziesz | [id͡ʑɛʂ] | verb (2nd person singular present) | you go |
@@ -1004,7 +1004,7 @@
 | siostra | [ɕɔstra] | noun (feminine nominative singular) | sister |
 | oraz | [ɔras] | conjunction | and |
 | prawdziwy | [pravd͡ʑivɨ] | adjective (masculine nominative singular) | true/real |
-| czyż | [t͡ʂɨʐ] | particle | isn't it |
+| czyż | [t͡ʂɨʐ] | particle | isn’t it |
 | następny | [nastɛmpnɨ] | adjective (masculine nominative singular) | next |
 | proste | [prɔstɛ] | adjective (neuter nominative/accusative singular or non-masculine-personal nominative/accusative plural) | simple |
 | rodzinę | [rɔd͡ʑinɛ] | noun (feminine accusative singular) | family |
@@ -1250,7 +1250,7 @@
 | siostra | [ɕɔstra] | noun (feminine nominative singular) | sister |
 | oraz | [ɔras] | conjunction | and |
 | prawdziwy | [pravd͡ʑivɨ] | adjective (masculine nominative singular) | true/real |
-| czyż | [t͡ʂɨʐ] | particle | isn't it |
+| czyż | [t͡ʂɨʐ] | particle | isn’t it |
 | następny | [nastɛmpnɨ] | adjective (masculine nominative singular) | next |
 | proste | [prɔstɛ] | adjective (neuter nominative/accusative singular or non-masculine-personal nominative/accusative plural) | simple |
 | rodzinę | [rɔd͡ʑinɛ] | noun (feminine accusative singular) | family |
@@ -1496,7 +1496,7 @@
 | siostra | [ɕɔstra] | noun (feminine nominative singular) | sister |
 | oraz | [ɔras] | conjunction | and |
 | prawdziwy | [pravd͡ʑivɨ] | adjective (masculine nominative singular) | true/real |
-| czyż | [t͡ʂɨʐ] | particle | isn't it |
+| czyż | [t͡ʂɨʐ] | particle | isn’t it |
 | następny | [nastɛmpnɨ] | adjective (masculine nominative singular) | next |
 | proste | [prɔstɛ] | adjective (neuter nominative/accusative singular or non-masculine-personal nominative/accusative plural) | simple |
 | rodzinę | [rɔd͡ʑinɛ] | noun (feminine accusative singular) | family |

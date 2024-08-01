@@ -38,7 +38,7 @@ Most consonants in Patois are similar to those in English, with a few notable di
 | ng | /ŋg/ | **singin** (singing) |
 | ch | /tʃ/ | **chuch** (church) |
 | j | /dʒ/ | **jraiv** (drive) |
-| kya | /kja/ | **kyaan** (can't) |
+| kya | /kja/ | **kyaan** (can’t) |
 | nya | /nja/ | **nyam** (eat) |
 
 ### Stress and Intonation
@@ -172,20 +172,20 @@ Patois verbs do not conjugate for person or number. Tense, aspect, and mood are 
 
 9. Passive voice: Formed with **get** or by using active voice with an unspecified subject
    - **Di buk get sel** (The book was sold)
-   - **Dem sel di buk** (The book was sold - lit. "They sold the book")
+   - **Dem sel di buk** (The book was sold - lit. “They sold the book”)
 
 ### Negation
 
 Negation in Patois is typically formed with **no** or **naa**:
 
-- **Mi no nuo** (I don't know)
+- **Mi no nuo** (I don’t know)
 - **Im naa kom** (He's not coming)
 - **Dem neva si it** (They never saw it)
 - **Nobadi naa go** (Nobody is going)
 
 Double negatives are common and used for emphasis:
 
-- **Mi no waant notn** (I don't want anything)
+- **Mi no waant notn** (I don’t want anything)
 - **Im neva du notn** (He never did anything)
 
 ### Questions
@@ -287,7 +287,7 @@ Jamaican Patois vocabulary is primarily derived from English, but it includes ma
 | **Facety** | Disrespectful, rude |
 | **Bait** | Great, cool |
 | **Bringle** | Eggplant |
-| **Buss** | To burst; also means "to be successful" |
+| **Buss** | To burst; also means “to be successful” |
 | **Cotch** | To lean or relax |
 | **Crosses** | Hardship, trouble |
 | **Cyaa** | Cannot |
@@ -297,14 +297,14 @@ Jamaican Patois vocabulary is primarily derived from English, but it includes ma
 | **Inna** | In, inside |
 | **Jook** | To poke or stab |
 | **Kip** | To catch |
-| **Lick** | To hit; also means "to overcome a challenge" |
-| **Mash up** | To destroy; also means "to party hard" |
+| **Lick** | To hit; also means “to overcome a challenge” |
+| **Mash up** | To destroy; also means “to party hard” |
 | **Nuff** | Many, a lot |
 | **Ongle** | Only |
 | **Pree** | To look at closely |
 | **Raatid** | An exclamation of surprise |
 | **Sketel** | A loose woman |
-| **Tun up** | To appear; also means "to party" |
+| **Tun up** | To appear; also means “to party” |
 | **Wutliss** | Worthless |
 
 ### African-derived Words
@@ -346,7 +346,7 @@ Patois often creates new words by combining existing ones:
 
 | Patois | Literal Translation | Meaning |
 |--------|---------------------|---------|
-| **Mi nuh bizniz** | I don't business | I don't care |
+| **Mi nuh bizniz** | I don’t business | I don’t care |
 | **Tek weh yuself** | Take away yourself | Go away |
 | **Chaka-chaka** | - | Messy, disorderly |
 | **Tun up yu mout** | Turn up your mouth | Pout |
@@ -397,7 +397,7 @@ Patois often uses a topic-comment structure, where the topic is stated first, fo
 
 ### Copula
 
-The copula ("to be") is often omitted in Patois:
+The copula (“to be”) is often omitted in Patois:
 
 - **Im sick** (He is sick)
 - **Di dog big** (The dog is big)
@@ -426,7 +426,7 @@ Sometimes, the relative pronoun is omitted entirely:
 Coordination in Patois is similar to English, using conjunctions like **an** (and), **but**, and **or**:
 
 - **Mi an yu a fren** (You and I are friends)
-- **Im waant fi go, but im kyaan** (He wants to go, but he can't)
+- **Im waant fi go, but im kyaan** (He wants to go, but he can’t)
 - **Yu waant tiiti or kofi?** (Do you want tea or coffee?)
 
 ### Subordination
@@ -498,7 +498,7 @@ Assimilation occurs when one sound becomes more like a neighboring sound:
 
 Jamaican speakers often engage in code-switching between Patois and Standard English, depending on the social context. This results in a continuum of speech varieties:
 
-1. Basilect: The "deepest" form of Patois, furthest from Standard English
+1. Basilect: The “deepest” form of Patois, furthest from Standard English
 2. Mesolect: An intermediate variety
 3. Acrolect: The variety closest to Standard English
 

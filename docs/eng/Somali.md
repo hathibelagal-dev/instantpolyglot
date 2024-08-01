@@ -433,7 +433,7 @@ The basic word order in Somali is SOV (Subject-Object-Verb):
 
 **Cali baa rooti cunay**
 Ali FOC bread ate
-"Ali ate bread"
+“Ali ate bread”
 
 However, Somali also uses focus particles (like **baa** in the example above) that can change the word order for emphasis. The focused element typically comes first in the sentence.
 
@@ -460,7 +460,7 @@ Negation is expressed using the particle **ma** for declarative sentences and **
 
 - **Ma iman doono** (I will not come)
 - **Cali ma tegin** (Ali did not go)
-- **Ha tegin** (Don't go)
+- **Ha tegin** (Don’t go)
 
 In past tense negations, the verb takes a special negative form:
 - **ma tegín** (I/you/he/she did not go)
@@ -483,11 +483,11 @@ Wh-questions use question words like:
 Examples:
 **Xaggee baad tegaysaa?**
 Where FOC-you going
-"Where are you going?"
+“Where are you going?”
 
 **Maxay samaysay Maryam?**
 What-she did Maryam
-"What did Maryam do?"
+“What did Maryam do?”
 
 ### Subordinate Clauses
 
@@ -495,29 +495,29 @@ Relative clauses in Somali use the particle **oo**:
 
 **Ninkii oo guriga tegay**
 The-man who house-the went
-"The man who went to the house"
+“The man who went to the house”
 
 **Gabadha aan la hadlay**
 The-girl I with spoke
-"The girl I spoke with"
+“The girl I spoke with”
 
 Conditional clauses use **haddii** (if):
 
 **Haddii ay roobto, ma tegi doono**
 If it rains, NEG go will-I
-"If it rains, I will not go"
+“If it rains, I will not go”
 
 Temporal clauses often use **markii** (when):
 
 **Markii aan imid, way seexatay**
 When I came, she-FOC slept
-"When I came, she was sleeping"
+“When I came, she was sleeping”
 
 Purpose clauses use **si** (so that):
 
 **Waxaan u tegey si aan u arko**
 I-FOC to went so-that I to see
-"I went in order to see"
+“I went in order to see”
 
 ### Coordination
 
@@ -533,13 +533,13 @@ Comparatives use **ka** (than):
 
 **Cali waa ka dheer yahay Maryam**
 Ali FOC than tall is Maryam
-"Ali is taller than Maryam"
+“Ali is taller than Maryam”
 
 Superlatives use **ugu** before the adjective:
 
 **Cali waa ugu dheer yahay fasalka**
 Ali FOC most tall is class-the
-"Ali is the tallest in the class"
+“Ali is the tallest in the class”
 
 ### Possessive Constructions
 
@@ -547,7 +547,7 @@ Possession is indicated by word order in Somali, with the possessor preceding th
 
 **guriga Cali**
 house-the Ali
-"Ali's house"
+“Ali's house”
 
 For pronominal possession, suffixes are used:
 
@@ -562,7 +562,7 @@ Somali allows for verb serialization, where multiple verbs are used in sequence 
 
 **Wuu kacay tegey**
 He-FOC got-up went
-"He got up and left"
+“He got up and left”
 
 ## Lexicon
 
@@ -583,11 +583,11 @@ Many Arabic loanwords are related to religion, commerce, and administration:
 
 Italian loanwords often relate to modern concepts and technology:
 
-- **baasto** (pasta) from Italian "pasta"
-- **kumbuyuutar** (computer) from Italian "computer"
-- **baaskiil** (bicycle) from Italian "bicicletta"
-- **boorsó** (purse) from Italian "borsa"
-- **kaamero** (camera) from Italian "camera"
+- **baasto** (pasta) from Italian “pasta”
+- **kumbuyuutar** (computer) from Italian “computer”
+- **baaskiil** (bicycle) from Italian “bicicletta”
+- **boorsó** (purse) from Italian “borsa”
+- **kaamero** (camera) from Italian “camera”
 
 ### English Loanwords
 
@@ -617,7 +617,7 @@ Somali uses several methods for word formation:
 
 4. Conversion:
    Many words can function as different parts of speech without changing form:
-   **qor** as a noun means "back", as a verb means "write"
+   **qor** as a noun means “back”, as a verb means “write”
 
 ## Dialectology
 
@@ -651,7 +651,7 @@ Somali has many colorful idiomatic expressions:
 
 - **Af daboolan waa dahab**
   (A closed mouth is gold)
-  Meaning: Similar to "Silence is golden"
+  Meaning: Similar to “Silence is golden”
 
 - **Gacmo wadajir baa wax ku gooya**
   (Hands working together can cut through anything)
@@ -662,7 +662,7 @@ Somali has many colorful idiomatic expressions:
   Meaning: Education is important
 
 - **Nin aad taqaan iyo tuug aadan aqoon midna ha rumaysan**
-  (Don't trust a man you know or a thief you don't know)
+  (Don’t trust a man you know or a thief you don’t know)
   Meaning: Be cautious in your dealings with others
 
 ## Colloquial Language

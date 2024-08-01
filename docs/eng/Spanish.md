@@ -63,9 +63,9 @@ The acute accent is also used to distinguish between homophones:
 ### Regional Variations
 
 There are notable pronunciation differences between Spanish dialects:
-- In most of Spain, "c" before "e" or "i" and "z" are pronounced /θ/ (like "th" in English "think"), while in Latin America they are pronounced /s/.
-- In many parts of Spain and the Caribbean, final "s" is often aspirated or dropped.
-- In parts of Argentina and Uruguay, "ll" and "y" are pronounced /ʃ/ (like "sh" in English).
+- In most of Spain, “c” before “e” or “i” and “z” are pronounced /θ/ (like “th” in English “think”), while in Latin America they are pronounced /s/.
+- In many parts of Spain and the Caribbean, final “s” is often aspirated or dropped.
+- In parts of Argentina and Uruguay, “ll” and “y” are pronounced /ʃ/ (like “sh” in English).
 
 ## Orthography
 
@@ -75,7 +75,7 @@ Spanish uses the Latin alphabet with the addition of **ñ**. The letters **k** a
 
 - **ñ**: represents the palatal nasal sound /ɲ/
 - **á, é, í, ó, ú**: vowels with acute accents to mark stress or distinguish homophones
-- **ü**: used in the sequences "güe" and "güi" to indicate that the "u" is pronounced
+- **ü**: used in the sequences “güe” and “güi” to indicate that the “u” is pronounced
 
 ### Punctuation
 
@@ -160,7 +160,7 @@ Personal pronouns:
 | 3pl masc | ellos | los/les | ellos |
 | 3pl fem | ellas | las/les | ellas |
 
-Note: The use of "vosotros/as" is primarily limited to Spain; most of Latin America uses "ustedes" for both formal and informal plural "you".
+Note: The use of “vosotros/as” is primarily limited to Spain; most of Latin America uses “ustedes” for both formal and informal plural “you”.
 
 Examples:
 - **Yo hablo español.** (I speak Spanish.)
@@ -392,11 +392,11 @@ Common question words:
 
 Negation is formed by placing **no** before the verb:
 
-- **No hablo italiano.** (I don't speak Italian.)
+- **No hablo italiano.** (I don’t speak Italian.)
 - **Ella no está aquí.** (She is not here.)
 
 Double negatives are allowed and even required in Spanish:
-- **No veo a nadie.** (I don't see anybody.)
+- **No veo a nadie.** (I don’t see anybody.)
 - **Nunca he estado allí.** (I have never been there.)
 
 ### Reflexive Constructions
@@ -410,7 +410,7 @@ Reflexive verbs are common in Spanish and are used to indicate that the subject 
 
 The passive voice is less common in Spanish than in English. It's often replaced by reflexive constructions or active voice with an impersonal subject:
 
-- **Se habla español.** (Spanish is spoken.) [Literally: "One speaks Spanish."]
+- **Se habla español.** (Spanish is spoken.) [Literally: “One speaks Spanish.”]
 - **La casa fue construida en 1900.** (The house was built in 1900.)
 
 ### Object Pronouns
@@ -428,7 +428,7 @@ With infinitives, gerunds, and affirmative imperatives, the pronouns are attache
 
 ### Ser vs. Estar
 
-Spanish uses two verbs for "to be": **ser** and **estar**. Their usage depends on the context:
+Spanish uses two verbs for “to be”: **ser** and **estar**. Their usage depends on the context:
 
 **Ser** is used for:
 - Essential characteristics: **Soy alto.** (I am tall.)
@@ -445,7 +445,7 @@ Spanish uses two verbs for "to be": **ser** and **estar**. Their usage depends o
 
 Verbs like **gustar** (to like) have a special construction where the thing being liked is the grammatical subject:
 
-- **Me gusta el chocolate.** (I like chocolate.) [Literally: "Chocolate pleases me."]
+- **Me gusta el chocolate.** (I like chocolate.) [Literally: “Chocolate pleases me.”]
 - **Nos interesan las películas.** (We are interested in movies.)
 
 ## Idiomatic Expressions
@@ -454,7 +454,7 @@ Spanish has many idiomatic expressions. Here are a few examples:
 
 - **Tener ganas de** (to feel like doing something): **Tengo ganas de bailar.** (I feel like dancing.)
 - **Hacer cola** (to queue): **Tuvimos que hacer cola durante horas.** (We had to queue for hours.)
-- **Tomar el pelo** (to pull someone's leg): **No me tomes el pelo.** (Don't pull my leg.)
+- **Tomar el pelo** (to pull someone's leg): **No me tomes el pelo.** (Don’t pull my leg.)
 - **Estar como una cabra** (to be crazy): **Ese hombre está como una cabra.** (That man is crazy.)
 - **Ponerse las pilas** (to get one's act together): **Es hora de ponerse las pilas.** (It's time to get your act together.)
 
@@ -509,9 +509,9 @@ In parts of Latin America, particularly Argentina and Uruguay, **vos** is used i
 
 ### Pronunciation
 
-- In parts of Spain, "c" before "e" or "i" and "z" are pronounced /θ/ (like "th" in English "think"), while in Latin America they are pronounced /s/.
-- In many parts of the Caribbean and southern Spain, final "s" is often aspirated or dropped: **está** might sound like "ehtá" or "etá".
-- In Argentina and Uruguay, "ll" and "y" are often pronounced /ʃ/ (like "sh" in English) instead of /j/ or /ʎ/.
+- In parts of Spain, “c” before “e” or “i” and “z” are pronounced /θ/ (like “th” in English “think”), while in Latin America they are pronounced /s/.
+- In many parts of the Caribbean and southern Spain, final “s” is often aspirated or dropped: **está** might sound like “ehtá” or “etá”.
+- In Argentina and Uruguay, “ll” and “y” are often pronounced /ʃ/ (like “sh” in English) instead of /j/ or /ʎ/.
 
 ## Numbers
 

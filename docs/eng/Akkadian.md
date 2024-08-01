@@ -57,10 +57,10 @@ Determinatives are unpronounced signs used to indicate the category of the follo
 
 Logograms are signs that represent entire words. Many logograms were borrowed from Sumerian. For example:
 
-- 𒈗 (LUGAL) = **šarrum** "king"
-- 𒂊 (E2) = **bītum** "house"
-- 𒁷 (KÙ.BABBAR) = **kaspum** "silver"
-- 𒃻 (ŠA3) = **libbum** "heart"
+- 𒈗 (LUGAL) = **šarrum** “king”
+- 𒂊 (E2) = **bītum** “house”
+- 𒁷 (KÙ.BABBAR) = **kaspum** “silver”
+- 𒃻 (ŠA3) = **libbum** “heart”
 
 ### Sample Text
 
@@ -70,9 +70,9 @@ Here's a more extended sample of Akkadian text in cuneiform with transliteration
 
 **1 ḫa-am-mu-ra-bi LUGAL GAL LUGAL dan-num LUGAL KUR aš-šur-KI LUGAL kiš-šat er-bé-et-tim ša-r ma-a-ta a-ra-bi-a ù ak-ka-di-i LUGAL kiš-ša-at ni-ši pa-li-iḫ ki-ib-ra-a-tim**
 
-"Hammurabi, great king, mighty king, king of Assyria, king of the four quarters (of the world), king of the land of the Arabs and Akkadians, king of all peoples, reverent one of the (four) quarters"
+“Hammurabi, great king, mighty king, king of Assyria, king of the four quarters (of the world), king of the land of the Arabs and Akkadians, king of all peoples, reverent one of the (four) quarters”
 
-This inscription showcases various features of Akkadian writing, including the use of logograms (e.g., LUGAL for "king"), determinatives (KUR for "land"), and syllabic spelling.
+This inscription showcases various features of Akkadian writing, including the use of logograms (e.g., LUGAL for “king”), determinatives (KUR for “land”), and syllabic spelling.
 
 ## Phonology
 
@@ -105,35 +105,35 @@ Akkadian had four vowel qualities:
 Vowel length was phonemic, with each vowel having a short and long version. Long vowels are typically represented in transliteration with a macron (ā, ē, ī, ū).
 
 Examples of minimal pairs:
-- **šarrum** "king" vs. **šārum** "wind"
-- **ilu** "god" vs. **īlu** "they went up"
+- **šarrum** “king” vs. **šārum** “wind”
+- **ilu** “god” vs. **īlu** “they went up”
 
 ### Phonological Processes
 
 1. Vowel Harmony: In Old Babylonian, the vowel of some prefixes and suffixes harmonized with the vowel of the root. This process affected mainly the prefix vowels of verbs. For example:
-   - **iprus** "he decided" vs. **ipqid** "he appointed"
-   - **uparrис** "he separated" vs. **uparris** "he separated"
+   - **iprus** “he decided” vs. **ipqid** “he appointed”
+   - **uparrис** “he separated” vs. **uparris** “he separated”
 
 2. Assimilation: Consonants often assimilated to adjacent consonants. This process was particularly common with nasals and stops:
-   - /nb/ → [mb]: **inbi** → **imbi** "he named"
-   - /nt/ → [nd]: **imtaḫar** → **imdaḫar** "he received"
-   - /np/ → [mp]: **inpur** → **impur** "he sent"
+   - /nb/ → [mb]: **inbi** → **imbi** “he named”
+   - /nt/ → [nd]: **imtaḫar** → **imdaḫar** “he received”
+   - /np/ → [mp]: **inpur** → **impur** “he sent”
 
 3. Syncope: Short vowels in open syllables often dropped in certain environments:
-   - **kalabum** → **kalbum** "dog"
-   - **awilum** → **awlum** "man"
+   - **kalabum** → **kalbum** “dog”
+   - **awilum** → **awlum** “man”
 
 4. Vowel Contraction: When two vowels came into contact due to morphological processes, they often contracted:
-   - /a+u/ → [û]: **ša uldu** → **šūldu** "which he bore"
-   - /i+a/ → [ê]: **ši'āmum** → **šêmum** "to buy"
+   - /a+u/ → [û]: **ša uldu** → **šūldu** “which he bore”
+   - /i+a/ → [ê]: **ši'āmum** → **šêmum** “to buy”
 
 5. Consonant Weakening: Certain consonants, particularly /w/, /y/, and /ʔ/, often weakened or disappeared in certain positions:
-   - **awīlum** → **amīlum** "man" (in Assyrian)
-   - **ra'āmum** → **râmum** "to love"
+   - **awīlum** → **amīlum** “man” (in Assyrian)
+   - **ra'āmum** → **râmum** “to love”
 
 6. Stress: While not marked in writing, stress in Akkadian was likely penultimate in most cases, with some exceptions:
-   - **šár-rum** "king"
-   - **i-pár-ras** "he decides"
+   - **šár-rum** “king”
+   - **i-pár-ras** “he decides”
 
 These phonological processes played a crucial role in shaping the morphology and phonotactics of Akkadian, and understanding them is key to comprehending the language's historical development and dialectal variations.
 
@@ -148,27 +148,27 @@ Nouns in Akkadian are inflected for gender (masculine and feminine), number (sin
 #### Gender
 
 Most nouns have inherent gender, but some suffixes can change gender:
-- **-um** (masc.): **šarrum** "king"
-- **-tum** (fem.): **šarratum** "queen"
-- **-ūtum** (abstract nouns, often feminine): **šarrūtum** "kingship"
+- **-um** (masc.): **šarrum** “king”
+- **-tum** (fem.): **šarratum** “queen”
+- **-ūtum** (abstract nouns, often feminine): **šarrūtum** “kingship”
 
 Some nouns can be either masculine or feminine:
-- **ūmum** "day" (usually masculine)
-- **šattum** "year" (usually feminine)
+- **ūmum** “day” (usually masculine)
+- **šattum** “year” (usually feminine)
 
 #### Number
 
 - Singular: unmarked
 - Dual: **-ān** (oblique cases), **-ā** (nominative)
-  Example: **šēpān** "two feet" (oblique), **šēpā** "two feet" (nominative)
+  Example: **šēpān** “two feet” (oblique), **šēpā** “two feet” (nominative)
 - Plural:
   - Masculine: **-ū** (nominative), **-ī** (oblique)
   - Feminine: **-ātum** (nominative), **-ātim** (oblique)
 
 Some nouns have irregular plurals:
-- **ilum** "god" → **ilū** / **ilī** "gods"
-- **awīlum** "man" → **awīlū** / **awīlī** "men"
-- **ālum** "city" → **ālānū** / **ālānī** "cities"
+- **ilum** “god” → **ilū** / **ilī** “gods”
+- **awīlum** “man” → **awīlū** / **awīlī** “men”
+- **ālum** “city” → **ālānū** / **ālānī** “cities”
 
 #### Case
 
@@ -177,7 +177,7 @@ Akkadian has three cases:
 - Accusative: **-am** (sing.), **-ī** (masc. pl.), **-ātim** (fem. pl.)
 - Genitive: **-im** (sing.), **-ī** (masc. pl.), **-ātim** (fem. pl.)
 
-Example declension of **šarrum** "king":
+Example declension of **šarrum** “king”:
 
 | Case | Singular | Plural |
 |------|----------|--------|
@@ -194,21 +194,21 @@ When a noun is followed by a genitive, it takes a special form called the constr
 - Feminine plural: **-āt** (all cases)
 
 Example:
-- **bīt šarrim** "the house of the king" (construct **bīt** from **bītum**)
-- **mārāt šarrim** "the daughters of the king" (construct **mārāt** from **mārātum**)
+- **bīt šarrim** “the house of the king” (construct **bīt** from **bītum**)
+- **mārāt šarrim** “the daughters of the king” (construct **mārāt** from **mārātum**)
 
 ### Adjectives
 
 Adjectives agree with the nouns they modify in gender, number, and case. They generally follow the same declension patterns as nouns.
 
-Example: **dannum** "strong" (masc. sing. nom.)
-- **dannutum** "strong" (fem. sing. nom.)
-- **dannūtum** "strong" (masc. pl. nom.)
-- **dannātum** "strong" (fem. pl. nom.)
+Example: **dannum** “strong” (masc. sing. nom.)
+- **dannutum** “strong” (fem. sing. nom.)
+- **dannūtum** “strong” (masc. pl. nom.)
+- **dannātum** “strong” (fem. pl. nom.)
 
 Comparative and superlative forms are usually expressed through syntax rather than morphology:
-- **dannum eli aḫḫīšu** "stronger than his brothers" (lit. "strong compared to his brothers")
-- **dannum ina aḫḫīšu** "strongest among his brothers" (lit. "strong among his brothers")
+- **dannum eli aḫḫīšu** “stronger than his brothers” (lit. “strong compared to his brothers”)
+- **dannum ina aḫḫīšu** “strongest among his brothers” (lit. “strong among his brothers”)
 
 ### Pronouns
 
@@ -237,16 +237,16 @@ Possessive suffixes are attached directly to nouns:
 | 3rd fem. | -ša | -šina |
 
 Example:
-- **bītum** "house"
-- **bītī** "my house"
-- **bītka** "your (masc. sing.) house"
-- **bītšunu** "their (masc.) house"
+- **bītum** “house”
+- **bītī** “my house”
+- **bītka** “your (masc. sing.) house”
+- **bītšunu** “their (masc.) house”
 
 #### Demonstrative Pronouns
 
 Akkadian has several demonstrative pronouns:
-- **annûm** (masc.), **annītum** (fem.) "this"
-- **ullûm** (masc.), **ullītum** (fem.) "that"
+- **annûm** (masc.), **annītum** (fem.) “this”
+- **ullûm** (masc.), **ullītum** (fem.) “that”
 
 These decline for case and number:
 - **annûm** (nom.), **anniam** (acc.), **annim** (gen.)
@@ -254,7 +254,7 @@ These decline for case and number:
 #### Relative Pronoun
 
 The relative pronoun in Akkadian is **ša**, which is indeclinable:
-- **awīlum ša illkam** "the man who came"
+- **awīlum ša illkam** “the man who came”
 
 ### Verbs
 
@@ -264,18 +264,18 @@ Akkadian verbs are highly complex, with inflections for person, gender, number, 
 
 There are several verb stems in Akkadian, each with a different nuance:
 
-1. G-stem (basic stem): **parāsum** "to decide"
-2. D-stem (intensive): **purrusum** "to separate"
-3. Š-stem (causative): **šuprusum** "to make decide"
-4. N-stem (passive): **naprusum** "to be decided"
+1. G-stem (basic stem): **parāsum** “to decide”
+2. D-stem (intensive): **purrusum** “to separate”
+3. Š-stem (causative): **šuprusum** “to make decide”
+4. N-stem (passive): **naprusum** “to be decided”
 5. t-stems (reflexive/reciprocal):
-   - Gt-stem: **pitrusum** "to decide for oneself"
-   - Dt-stem: **putarrusum** "to be separated"
-   - Št-stem: **šutaprusum** "to make decide one another"
+   - Gt-stem: **pitrusum** “to decide for oneself”
+   - Dt-stem: **putarrusum** “to be separated”
+   - Št-stem: **šutaprusum** “to make decide one another”
 
 #### Conjugation
 
-Verbs are conjugated for person, gender, and number using prefixes and suffixes. Here's the full G-stem preterite (past tense) conjugation for **parāsum** "to decide":
+Verbs are conjugated for person, gender, and number using prefixes and suffixes. Here's the full G-stem preterite (past tense) conjugation for **parāsum** “to decide”:
 
 | Person | Singular | Plural |
 |--------|----------|--------|
@@ -301,10 +301,10 @@ Note the doubling of the second radical consonant in the present tense.
 
 Akkadian has several tenses/aspects:
 
-1. Preterite (past perfective): **iprus** "he decided"
-2. Present (present-future): **iparras** "he decides/will decide"
-3. Perfect (past with present relevance): **iptaras** "he has decided"
-4. Stative (resultative): **paris** "he is/was in a state of having decided"
+1. Preterite (past perfective): **iprus** “he decided”
+2. Present (present-future): **iparras** “he decides/will decide”
+3. Perfect (past with present relevance): **iptaras** “he has decided”
+4. Stative (resultative): **paris** “he is/was in a state of having decided”
 
 The stative is unique in that it uses suffixes rather than prefixes for person marking:
 
@@ -319,10 +319,10 @@ The stative is unique in that it uses suffixes rather than prefixes for person m
 #### Moods
 
 1. Indicative (unmarked)
-2. Imperative: **purus** "decide!"
-3. Precative (polite command): **liprus** "may he decide"
-4. Vetitive (negative command): **ay iprus** "let him not decide"
-5. Cohortative (1st person command): **i niprus** "let us decide"
+2. Imperative: **purus** “decide!”
+3. Precative (polite command): **liprus** “may he decide”
+4. Vetitive (negative command): **ay iprus** “let him not decide”
+5. Cohortative (1st person command): **i niprus** “let us decide”
 
 The imperative has its own conjugation:
 
@@ -334,8 +334,8 @@ The imperative has its own conjugation:
 #### Participles
 
 Akkadian has active and passive participles:
-- Active: **pārisum** "deciding"
-- Passive: **parsum** "decided"
+- Active: **pārisum** “deciding”
+- Passive: **parsum** “decided”
 
 These decline like adjectives:
 - **pārisum** (masc. sing. nom.), **pāristum** (fem. sing. nom.), **pārisūtum** (masc. pl. nom.)
@@ -343,20 +343,20 @@ These decline like adjectives:
 #### Infinitive
 
 The infinitive is formed by adding **-um** to the verb stem:
-- **parāsum** "to decide"
+- **parāsum** “to decide”
 
 It can be declined like a noun:
-- **ana parāsim** "in order to decide" (dative)
-- **ina parāsim** "while deciding" (locative)
+- **ana parāsim** “in order to decide” (dative)
+- **ina parāsim** “while deciding” (locative)
 
 #### Verbal Adjective
 
 The verbal adjective is similar to the passive participle but describes a state rather than an action:
-- **parsum** "decided, separate"
+- **parsum** “decided, separate”
 
 It declines like an adjective and can be used predicatively:
-- **awīlum parsum** "a separated man"
-- **awīlum paris** "the man is separated"
+- **awīlum parsum** “a separated man”
+- **awīlum paris** “the man is separated”
 
 ### Numerals
 
@@ -377,7 +377,7 @@ Akkadian has a complex system of numerals, with different forms for cardinal and
 9. **tiše**
 10. **ešer**
 
-Numbers 11-19 are formed by combining the unit with **-šeret** "ten":
+Numbers 11-19 are formed by combining the unit with **-šeret** “ten”:
 - 11: **ištēnšeret**
 - 12: **šinšeret**
 
@@ -403,12 +403,12 @@ Ordinal numbers are formed with the pattern **parus**:
 When used with counted nouns, numbers behave in specific ways:
 - 1: uses normal adjective agreement
 - 2: uses a special construction: **2 + noun.dual**
-  Example: **šinā šēpān** "two feet"
+  Example: **šinā šēpān** “two feet”
 - 3-10: noun in plural, number follows in construct state
-  Example: **šarrū šalāšat** "three kings"
+  Example: **šarrū šalāšat** “three kings”
 - 11-19: noun in singular, number precedes
 - 20 and above: noun in singular, number follows
-  Example: **awīlum ešrā** "twenty men"
+  Example: **awīlum ešrā** “twenty men”
 
 ## Syntax
 
@@ -419,12 +419,12 @@ The basic word order in Akkadian is Subject-Object-Verb (SOV), but there is some
 Example:
 **šarrum ālaš ibni**
 king-NOM city-ACC he-built
-"The king built the city"
+“The king built the city”
 
 However, other orders are possible for emphasis or in specific constructions:
 
-- OSV: **ālaš šarrum ibni** "It was the city that the king built"
-- SVO: **šarrum ibni ālaš** "The king built (it), the city"
+- OSV: **ālaš šarrum ibni** “It was the city that the king built”
+- SVO: **šarrum ibni ālaš** “The king built (it), the city”
 
 ### Noun Phrases
 
@@ -432,12 +432,12 @@ Adjectives and genitives typically follow the noun they modify:
 
 **bītum rabûm ša šarrim**
 house-NOM large-NOM of king-GEN
-"The large house of the king"
+“The large house of the king”
 
 Multiple adjectives can be used:
 **bītum rabûm dannum**
 house-NOM large-NOM strong-NOM
-"The large, strong house"
+“The large, strong house”
 
 ### Relative Clauses
 
@@ -445,32 +445,32 @@ Relative clauses are introduced by the relative pronoun **ša**:
 
 **awīlum ša māram īmuru**
 man-NOM who son-ACC saw
-"The man who saw the son"
+“The man who saw the son”
 
 The relative pronoun **ša** is invariable and does not change for gender, number, or case. The verb in the relative clause agrees with its antecedent:
 
 **sinništum ša māram tulid**
 woman-NOM who son-ACC she-bore
-"The woman who bore a son"
+“The woman who bore a son”
 
 ### Subordinate Clauses
 
 Subordinate clauses often use the subjunctive mood and are introduced by conjunctions such as:
 
-- **kīma** "that, because"
-- **inūma** "when"
-- **šumma** "if"
+- **kīma** “that, because”
+- **inūma** “when”
+- **šumma** “if”
 
 Example:
 **šumma awīlum awīlam iššiak**
 if man-NOM man-ACC strikes
-"If a man strikes another man"
+“If a man strikes another man”
 
-Temporal clauses often use the construct state of **ūm** "day" with a verb in the subjunctive:
+Temporal clauses often use the construct state of **ūm** “day” with a verb in the subjunctive:
 
 **ūm ālam īrubū**
 day-CONST city-ACC they-entered-SUBJ
-"When they entered the city"
+“When they entered the city”
 
 ### Coordinate Clauses
 
@@ -478,13 +478,13 @@ Coordinate clauses are often simply juxtaposed without a conjunction:
 
 **šarrum īliam ālaš ibni**
 king-NOM he-arose city-ACC he-built
-"The king arose and built the city"
+“The king arose and built the city”
 
 The conjunction **-ma** can be used to connect clauses, often implying a sequence of events:
 
 **šarrum īliam-ma ālaš ibni**
 king-NOM he-arose-and city-ACC he-built
-"The king arose and then built the city"
+“The king arose and then built the city”
 
 ### Negation
 
@@ -492,12 +492,12 @@ Negation is typically expressed with the particle **lā** before the verb:
 
 **šarrum ālaš lā ibni**
 king-NOM city-ACC not he-built
-"The king did not build the city"
+“The king did not build the city”
 
 In prohibitions, **lā** is used with the perfect:
 **lā taptaras**
 not you-have-decided
-"You must not decide"
+“You must not decide”
 
 ### Questions
 
@@ -505,18 +505,18 @@ Yes-no questions are often identical to statements, with only intonation differe
 
 **ul illiam**
 not he-arose
-"Did he not arise?"
+“Did he not arise?”
 
 Wh-questions use interrogative words such as:
-- **mannum** "who"
-- **mīnum** "what"
-- **ayyum** "which"
+- **mannum** “who”
+- **mīnum** “what”
+- **ayyum** “which”
 
 These usually come at the beginning of the sentence:
 
 **mannum ālaš ibni**
 who city-ACC built
-"Who built the city?"
+“Who built the city?”
 
 ### Infinitive Constructions
 
@@ -524,7 +524,7 @@ Infinitives can be used in various constructions, often with prepositions:
 
 **ana ālim erēbim illiam**
 to city-GEN enter-INF-GEN he-arose
-"He arose to enter the city"
+“He arose to enter the city”
 
 ### Stative Constructions
 
@@ -532,11 +532,11 @@ The stative can be used to express resultative or stative meanings:
 
 **bābum petī**
 door-NOM open-STAT
-"The door is open"
+“The door is open”
 
 It can also be used with adjectives:
 **šarrum dannat**
 king-NOM strong-STAT.3SG.F
-"The king is strong"
+“The king is strong”
 
 This extensive overview of Akkadian syntax showcases the complexity and richness of the language's grammatical structures. Understanding these patterns is crucial for reading and interpreting Akkadian texts accurately.

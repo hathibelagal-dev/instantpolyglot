@@ -67,26 +67,26 @@ Louisiana Creole has the following consonant phonemes:
 
 ### Stress
 
-Stress in Louisiana Creole is generally on the final syllable of a word, but it's not phonemic and doesn't typically affect meaning. This pattern is similar to French, from which Louisiana Creole derives much of its phonology.
+Stress in Louisiana Creole is generally on the final syllable of a word, but it's not phonemic and doesn’t typically affect meaning. This pattern is similar to French, from which Louisiana Creole derives much of its phonology.
 
 ### Phonological Processes
 
 Louisiana Creole exhibits several phonological processes that distinguish it from its lexifier language, French:
 
 1. Final consonant deletion: Many words derived from French have lost their final consonants in Louisiana Creole:
-   - French "tout" → LC **tou** [tu] (all)
-   - French "noir" → LC **nwè** [nwɛ] (black)
+   - French “tout” → LC **tou** [tu] (all)
+   - French “noir” → LC **nwè** [nwɛ] (black)
 
 2. Cluster reduction: Consonant clusters are often simplified:
-   - French "prendre" → LC **pran** [pʁã] (to take)
-   - French "quatre" → LC **kat** [kat] (four)
+   - French “prendre” → LC **pran** [pʁã] (to take)
+   - French “quatre” → LC **kat** [kat] (four)
 
 3. Nasalization: Vowels before nasal consonants are often nasalized, and the nasal consonant may be dropped:
-   - French "bon" [bɔn] → LC **bon** [bõ] (good)
-   - French "dans" [dɑ̃s] → LC **dan** [dã] (in)
+   - French “bon” [bɔn] → LC **bon** [bõ] (good)
+   - French “dans” [dɑ̃s] → LC **dan** [dã] (in)
 
 4. Palatalization: Some consonants are palatalized before front vowels:
-   - French "tuer" [tɥe] → LC **tché** [tʃe] (to kill)
+   - French “tuer” [tɥe] → LC **tché** [tʃe] (to kill)
 
 5. Vowel harmony: In some dialects, there's a tendency for vowels to harmonize within a word:
    - **lézòt** → **lòzòt** (the others)
@@ -98,7 +98,7 @@ These phonological processes contribute to the unique sound system of Louisiana 
 
 ## Orthography
 
-Louisiana Creole doesn't have a standardized orthography, but several writing systems have been proposed. The most common one is based on French orthography with some modifications. Here are some key features:
+Louisiana Creole doesn’t have a standardized orthography, but several writing systems have been proposed. The most common one is based on French orthography with some modifications. Here are some key features:
 
 1. The letter 'é' represents /e/, while 'è' represents /ɛ/.
 2. The letter 'o' can represent both /o/ and /ɔ/.
@@ -139,7 +139,7 @@ It's important to note that due to the lack of standardization, spelling can var
 
 ### Nouns and Articles
 
-Louisiana Creole nouns don't have grammatical gender. Plurality is usually indicated by context or by using the plural marker **yé** after the noun.
+Louisiana Creole nouns don’t have grammatical gender. Plurality is usually indicated by context or by using the plural marker **yé** after the noun.
 
 Examples:
 - **chat** (cat) / **chat yé** (cats)
@@ -192,7 +192,7 @@ Demonstrative pronouns:
 
 Examples:
 - **Sa sé en bon liv.** (This is a good book.)
-- **Mo pa lé sa-yé.** (I don't want these/those.)
+- **Mo pa lé sa-yé.** (I don’t want these/those.)
 
 Reflexive pronouns are formed by adding **kò** (body) to the possessive pronouns:
 - **mo-la kò** (myself)
@@ -207,7 +207,7 @@ Example:
 
 ### Verbs
 
-Louisiana Creole verbs don't conjugate for person or number. Tense, aspect, and mood are indicated by pre-verbal markers.
+Louisiana Creole verbs don’t conjugate for person or number. Tense, aspect, and mood are indicated by pre-verbal markers.
 
 Present tense is unmarked:
 - **Mo manjé.** (I eat.)
@@ -231,7 +231,7 @@ Conditional mood is marked with **sré**:
 - **Mo sré manjé.** (I would eat.)
 
 Negation is formed by placing **pa** after the verb or after the tense/aspect marker:
-- **Mo pa manjé.** (I don't eat.)
+- **Mo pa manjé.** (I don’t eat.)
 - **Mo té pa manjé.** (I didn't eat.)
 
 These markers can be combined to create more complex tenses and aspects:
@@ -257,7 +257,7 @@ Adjectives in Louisiana Creole typically come after the noun they modify:
 - **en gro chat** (a big cat)
 - **dlo fré** (cold water)
 
-Adjectives don't agree in gender or number with the nouns they modify:
+Adjectives don’t agree in gender or number with the nouns they modify:
 - **en gro chat** (a big cat)
 - **dé gro chat** (two big cats)
 
@@ -314,7 +314,7 @@ Common question words include:
 - **kote** (where)
 - **pou ki** (why)
 - **kombyen** (how much/many)
-- **ki lè** (when, lit. "what time")
+- **ki lè** (when, lit. “what time”)
 
 ### Syntax
 
@@ -372,7 +372,7 @@ Common conjunctions include:
 
 Examples:
 - **Mo é twa** (You and I)
-- **Li lé alé, mé li pa kapab.** (He wants to go, but he can't.)
+- **Li lé alé, mé li pa kapab.** (He wants to go, but he can’t.)
 - **To vlé kafé ou té?** (Do you want coffee or tea?)
 
 ### Copula
@@ -395,16 +395,16 @@ Louisiana Creole vocabulary is primarily derived from French, with significant i
 
 Many words are similar to French but may have undergone phonological changes:
 
-- **dlo** (water) - from French "de l'eau"
-- **zwazo** (bird) - from French "oiseau"
-- **kouri** (to run) - from French "courir"
-- **dòmi** (to sleep) - from French "dormir"
-- **fèy** (leaf) - from French "feuille"
-- **fwa** (time, occasion) - from French "fois"
-- **lannwit** (night) - from French "la nuit"
-- **larivyè** (river) - from French "la rivière"
-- **lékol** (school) - from French "l'école"
-- **lapli** (rain) - from French "la pluie"
+- **dlo** (water) - from French “de l'eau”
+- **zwazo** (bird) - from French “oiseau”
+- **kouri** (to run) - from French “courir”
+- **dòmi** (to sleep) - from French “dormir”
+- **fèy** (leaf) - from French “feuille”
+- **fwa** (time, occasion) - from French “fois”
+- **lannwit** (night) - from French “la nuit”
+- **larivyè** (river) - from French “la rivière”
+- **lékol** (school) - from French “l'école”
+- **lapli** (rain) - from French “la pluie”
 
 ### African-derived words
 
@@ -412,9 +412,9 @@ Some words have roots in various African languages:
 
 - **gombo** (okra) - from Bantu languages
 - **zombi** (zombie) - from Kongo language
-- **makak** (monkey) - from Kikongo "makaku"
-- **djob** (work, job) - possibly from Wolof "jëf" (action, deed)
-- **kouyon** (fool) - possibly from Wolof "xuyya" (to deceive)
+- **makak** (monkey) - from Kikongo “makaku”
+- **djob** (work, job) - possibly from Wolof “jëf” (action, deed)
+- **kouyon** (fool) - possibly from Wolof “xuyya” (to deceive)
 
 ### English loanwords
 
@@ -422,8 +422,8 @@ English has influenced Louisiana Creole, especially in more recent times:
 
 - **trak** (truck)
 - **biznis** (business)
-- **troblé** (to trouble) - from English "trouble"
-- **mové** (to move) - from English "move"
+- **troblé** (to trouble) - from English “trouble”
+- **mové** (to move) - from English “move”
 - **fiks** (to fix)
 - **wòk** (to walk)
 
@@ -432,58 +432,58 @@ English has influenced Louisiana Creole, especially in more recent times:
 Some words come from Native American languages, often relating to local flora and fauna:
 
 - **chaoui** (raccoon) - from Choctaw
-- **bayou** (slow-moving stream) - from Choctaw "bayuk"
-- **sakamité** (corn soup) - from Choctaw "sakamichi"
+- **bayou** (slow-moving stream) - from Choctaw “bayuk”
+- **sakamité** (corn soup) - from Choctaw “sakamichi”
 - **plaquemine** (persimmon) - from Mobilian Jargon
 
 ### Compound words
 
 Louisiana Creole often creates new words by combining existing ones:
 
-- **dlo-fyèv** (sweat, literally "fever water")
-- **mal-tèt** (headache, literally "bad head")
-- **koud-zèl** (elbow, literally "elbow-wing")
-- **gro-tèt** (proud, arrogant, literally "big head")
-- **pié-bwa** (tree, literally "foot-wood")
-- **bèk-fin** (gossip, literally "fine beak")
+- **dlo-fyèv** (sweat, literally “fever water”)
+- **mal-tèt** (headache, literally “bad head”)
+- **koud-zèl** (elbow, literally “elbow-wing”)
+- **gro-tèt** (proud, arrogant, literally “big head”)
+- **pié-bwa** (tree, literally “foot-wood”)
+- **bèk-fin** (gossip, literally “fine beak”)
 
 ### Idiomatic expressions
 
 Like any language, Louisiana Creole has its share of idiomatic expressions:
 
-- **Lèstoma-mwen apé kryé kòkòdril.** (I'm very hungry, literally "My stomach is crying crocodile.")
-- **Fè kou krab.** (To go backwards, literally "Do like a crab.")
-- **Mété dlo dan so vin.** (To calm down, literally "Put water in one's wine.")
-- **Pran kou-d-solèy.** (To get sunburned, literally "Take a hit of sun.")
-- **Fè lapin.** (To run away, literally "Do rabbit.")
+- **Lèstoma-mwen apé kryé kòkòdril.** (I'm very hungry, literally “My stomach is crying crocodile.”)
+- **Fè kou krab.** (To go backwards, literally “Do like a crab.”)
+- **Mété dlo dan so vin.** (To calm down, literally “Put water in one's wine.”)
+- **Pran kou-d-solèy.** (To get sunburned, literally “Take a hit of sun.”)
+- **Fè lapin.** (To run away, literally “Do rabbit.”)
 - **Koulé kòm en roch.** (To sink like a stone, used to describe failure)
 
 ### Semantic shifts
 
 Some words have undergone semantic shifts from their French origins:
 
-- **ganyé** (to get, to have) - from French "gagner" (to win, to earn)
-- **konnin** (to know) - from French "connaître" (to know a person) but used for both "connaître" and "savoir" in LC
-- **gardé** (to look) - from French "garder" (to keep)
-- **trapé** (to catch, to get) - from French "attraper" (to catch)
+- **ganyé** (to get, to have) - from French “gagner” (to win, to earn)
+- **konnin** (to know) - from French “connaître” (to know a person) but used for both “connaître” and “savoir” in LC
+- **gardé** (to look) - from French “garder” (to keep)
+- **trapé** (to catch, to get) - from French “attraper” (to catch)
 
 ### Time expressions
 
-- **asouè** (this evening) - from French "à ce soir"
-- **aprémen** (tomorrow) - from French "après-demain" (day after tomorrow)
-- **yè** (yesterday) - from French "hier"
-- **avan-yè** (day before yesterday) - from French "avant-hier"
+- **asouè** (this evening) - from French “à ce soir”
+- **aprémen** (tomorrow) - from French “après-demain” (day after tomorrow)
+- **yè** (yesterday) - from French “hier”
+- **avan-yè** (day before yesterday) - from French “avant-hier”
 
 ### Kinship terms
 
-- **popa** (father) - from French "papa"
-- **moma** (mother) - from French "maman"
-- **frè** (brother) - from French "frère"
-- **sè** (sister) - from French "sœur"
-- **tonton** (uncle) - from French "tonton"
-- **matant** (aunt) - from French "ma tante"
-- **pépé** (grandfather) - from French "pépé"
-- **mémé** (grandmother) - from French "mémé"
+- **popa** (father) - from French “papa”
+- **moma** (mother) - from French “maman”
+- **frè** (brother) - from French “frère”
+- **sè** (sister) - from French “sœur”
+- **tonton** (uncle) - from French “tonton”
+- **matant** (aunt) - from French “ma tante”
+- **pépé** (grandfather) - from French “pépé”
+- **mémé** (grandmother) - from French “mémé”
 
 ## Dialectal Variation
 
@@ -493,7 +493,7 @@ While Louisiana Creole is primarily spoken in Louisiana, there are some regional
 
 This variety is considered more conservative and retains more French-like features:
 
-- Use of **nou** for "we" instead of **no** used in other varieties
+- Use of **nou** for “we” instead of **no** used in other varieties
 - Retention of /r/ in more contexts
 - More frequent use of the possessive marker **a** instead of **-la**
   Example: **liv a mwen** instead of **liv mo-la** (my book)

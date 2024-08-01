@@ -69,19 +69,19 @@ Note: The pronunciation of 'r' can vary significantly between dialects, from the
 
    Note: These retroflex sounds are not used in all dialects.
 
-2. The "sj" sound [ʃ]:
+2. The “sj” sound [ʃ]:
    - **sj**: **sjø** [ʃøː] (sea)
    - **skj**: **skjære** [ˈʃæːɾə] (magpie)
    - **sk** before front vowels: **ski** [ʃiː] (ski)
 
-3. The "kj" sound [ç]:
+3. The “kj” sound [ç]:
    - **kj**: **kjøpe** [ˈçøːpə] (buy)
    - **tj**: **tjue** [ˈçʉːə] (twenty)
    - **k** before front vowels: **kino** [ˈçiːnu] (cinema)
 
    Note: In some dialects and among younger speakers, the [ç] sound is merging with [ʃ].
 
-4. The "ng" sound [ŋ]:
+4. The “ng” sound [ŋ]:
    - **ng**: **sang** [sɑŋ] (song)
    - **nk**: **tanke** [ˈtɑŋkə] (thought)
 

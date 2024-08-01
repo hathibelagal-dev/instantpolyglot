@@ -92,7 +92,7 @@ Example: 같이 **gachi** [katɕʰi] (together)
 
 ### Stress and intonation
 
-Korean doesn't have lexical stress like English. Instead, it uses pitch accent, where the pitch of certain syllables is higher than others. The general pattern is a rise in pitch on the second syllable of a word, but this can vary depending on the specific word and context.
+Korean doesn’t have lexical stress like English. Instead, it uses pitch accent, where the pitch of certain syllables is higher than others. The general pattern is a rise in pitch on the second syllable of a word, but this can vary depending on the specific word and context.
 
 ## Morphology
 
@@ -166,7 +166,7 @@ Sino-Korean numbers (used for dates, money, phone numbers, etc.):
 
 ### Adjectives
 
-In Korean, adjectives function similarly to verbs and are sometimes called "descriptive verbs". They can be used as predicates without a copula.
+In Korean, adjectives function similarly to verbs and are sometimes called “descriptive verbs”. They can be used as predicates without a copula.
 
 Example:
 - 크다 **keuda** (to be big)
@@ -228,7 +228,7 @@ The basic word order in Korean is Subject-Object-Verb (SOV):
 
 However, the word order can be quite flexible due to the use of particles, as long as the verb remains at the end:
 
-- 책**을** 나**는** 읽**는다** (Emphasizing "book")
+- 책**을** 나**는** 읽**는다** (Emphasizing “book”)
 - **Chaek-eul** na**-neun** ilg**neunda**
 - Book I read
 
@@ -249,10 +249,10 @@ Wh-questions use question words in the same position as the word they're replaci
 Korean has two main ways of forming negatives:
 
 1. Using 안 **an** before the verb:
-   - 안 가요 **An gayo** (I don't go)
+   - 안 가요 **An gayo** (I don’t go)
 
 2. Using 지 않다 **ji anhda** after the verb stem:
-   - 가지 않아요 **Gaji anhayo** (I don't go)
+   - 가지 않아요 **Gaji anhayo** (I don’t go)
 
 ### Relative clauses
 
@@ -265,9 +265,9 @@ In Korean, relative clauses come before the noun they modify and end with an adj
 
 Reported speech in Korean uses the quotative particles 라고 **-rago** (for direct quotes) or 고 **-go** (for indirect quotes):
 
-- 그는 "나는 학생이다"**라고** 말했다
-- **Geuneun "naneun haksaengida"rago malhaessda**
-- He said, "I am a student"
+- 그는 “나는 학생이다”**라고** 말했다
+- **Geuneun “naneun haksaengida”rago malhaessda**
+- He said, “I am a student”
 
 - 그는 자기가 학생이**라고** 말했다
 - **Geuneun jagiga haksaengi-rago malhaessda**
@@ -352,10 +352,10 @@ Korean has many idiomatic expressions, often drawing from traditional culture, n
    Meaning: To be perceptive or quick to pick up on social cues
 
 2. 발 없는 말이 천리 간다 **bal eopsneun mari cheolli ganda** (words without feet travel a thousand li)
-   Meaning: Rumors spread quickly (similar to "news travels fast")
+   Meaning: Rumors spread quickly (similar to “news travels fast”)
 
 3. 똥 묻은 개가 겨 묻은 개 나무란다 **ttong mudeun gaega gyeo mudeun gae namuranda** (A dog with feces criticizes a dog with husks)
-   Meaning: Similar to "the pot calling the kettle black"
+   Meaning: Similar to “the pot calling the kettle black”
 
 4. 하늘의 별 따기 **haneul-ui byeol ttagi** (picking stars from the sky)
    Meaning: An extremely difficult or impossible task
@@ -363,8 +363,8 @@ Korean has many idiomatic expressions, often drawing from traditional culture, n
 5. 식은 죽 먹기 **sigeun juk meokgi** (eating cold porridge)
    Meaning: An extremely easy task
 
-6. 밥 먹을 때는 개도 안 건드린다 **bap meogeul ttaeneun gaedo an geondeulinda** (Even a dog isn't bothered when eating)
-   Meaning: Don't disturb someone while they're eating
+6. 밥 먹을 때는 개도 안 건드린다 **bap meogeul ttaeneun gaedo an geondeulinda** (Even a dog isn’t bothered when eating)
+   Meaning: Don’t disturb someone while they're eating
 
 ## Dialects
 
@@ -452,9 +452,9 @@ Korean has borrowed words from various languages throughout its history, with si
 
 When adapting foreign words, Korean often makes these changes:
 
-- Adds vowels to break up consonant clusters: "strike" becomes 스트라이크 **seuteuraikeu**
-- Replaces sounds not found in Korean: "f" often becomes "p", so "coffee" becomes 커피 **keopi**
-- Adapts words to fit Korean syllable structure: "cream" becomes 크림 **keurim**
+- Adds vowels to break up consonant clusters: “strike” becomes 스트라이크 **seuteuraikeu**
+- Replaces sounds not found in Korean: “f” often becomes “p”, so “coffee” becomes 커피 **keopi**
+- Adapts words to fit Korean syllable structure: “cream” becomes 크림 **keurim**
 
 ## Pragmatics
 
@@ -465,7 +465,7 @@ Korean pragmatics are heavily influenced by the culture's emphasis on social hie
    - 언니 **eonni** (older sister, used by females to address older females)
 
 2. Indirect communication: Korean often prefers indirect communication to maintain harmony.
-   - Instead of directly saying "no," one might say 좀 어렵겠네요 **jom eoryeopgetneyo** (It might be a bit difficult)
+   - Instead of directly saying “no,” one might say 좀 어렵겠네요 **jom eoryeopgetneyo** (It might be a bit difficult)
 
 3. Honorifics: As mentioned earlier, the extensive honorific system reflects and reinforces social relationships.
 

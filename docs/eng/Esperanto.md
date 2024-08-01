@@ -14,11 +14,11 @@ Each letter represents one sound, and all letters are pronounced. The pronunciat
 
 | Letter | Sound | IPA | Example |
 |--------|-------|-----|---------|
-| A | as in "father" | [a] | **amo** (love) |
-| E | as in "bed" | [e] | **bela** (beautiful) |
-| I | as in "machine" | [i] | **libro** (book) |
-| O | as in "or" | [o] | **domo** (house) |
-| U | as in "rule" | [u] | **suno** (sun) |
+| A | as in “father” | [a] | **amo** (love) |
+| E | as in “bed” | [e] | **bela** (beautiful) |
+| I | as in “machine” | [i] | **libro** (book) |
+| O | as in “or” | [o] | **domo** (house) |
+| U | as in “rule” | [u] | **suno** (sun) |
 
 ### Consonants
 
@@ -26,18 +26,18 @@ Most consonants are pronounced as in English, with some exceptions:
 
 | Letter | Sound | IPA | Example |
 |--------|-------|-----|---------|
-| C | like "ts" in "cats" | [ts] | **celo** (goal) |
-| Ĉ | like "ch" in "church" | [tʃ] | **ĉambro** (room) |
-| G | always hard as in "go" | [g] | **gasto** (guest) |
-| Ĝ | like "j" in "judge" | [dʒ] | **ĝardeno** (garden) |
-| H | as in "home" | [h] | **horo** (hour) |
-| Ĥ | like "ch" in Scottish "loch" | [x] | **ĥoro** (choir) |
-| J | like "y" in "yes" | [j] | **jes** (yes) |
-| Ĵ | like "s" in "pleasure" | [ʒ] | **ĵurnalo** (newspaper) |
+| C | like “ts” in “cats” | [ts] | **celo** (goal) |
+| Ĉ | like “ch” in “church” | [tʃ] | **ĉambro** (room) |
+| G | always hard as in “go” | [g] | **gasto** (guest) |
+| Ĝ | like “j” in “judge” | [dʒ] | **ĝardeno** (garden) |
+| H | as in “home” | [h] | **horo** (hour) |
+| Ĥ | like “ch” in Scottish “loch” | [x] | **ĥoro** (choir) |
+| J | like “y” in “yes” | [j] | **jes** (yes) |
+| Ĵ | like “s” in “pleasure” | [ʒ] | **ĵurnalo** (newspaper) |
 | R | rolled or trilled | [r] | **radio** (radio) |
-| S | always voiceless, as in "see" | [s] | **sano** (health) |
-| Ŝ | like "sh" in "shop" | [ʃ] | **ŝipo** (ship) |
-| Ŭ | like "w" in "water" | [w] | **aŭto** (car) |
+| S | always voiceless, as in “see” | [s] | **sano** (health) |
+| Ŝ | like “sh” in “shop” | [ʃ] | **ŝipo** (ship) |
+| Ŭ | like “w” in “water” | [w] | **aŭto** (car) |
 
 ### Stress
 
@@ -274,10 +274,10 @@ Suffixes:
 Esperanto has developed its own idiomatic expressions:
 
 - **Kio okazas?** (What's happening?)
-- **Ĝis la revido!** (See you later!, literally "Until the re-seeing")
+- **Ĝis la revido!** (See you later!, literally “Until the re-seeing”)
 - **Feliĉan naskiĝtagon!** (Happy birthday!)
 - **Bonan apetiton!** (Enjoy your meal!)
-- **Ne dankinde** (You're welcome, literally "Not thank-worthy")
+- **Ne dankinde** (You're welcome, literally “Not thank-worthy”)
 
 ## Sample Text
 
@@ -295,4 +295,4 @@ Article 1
 
 All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-This text showcases several key features of Esperanto, including its regular grammar (all adjectives end in -a, all adverbs in -e), its use of the accusative case (-n ending), and its word-building capabilities (denaske = "by birth", from de + naski + e).
+This text showcases several key features of Esperanto, including its regular grammar (all adjectives end in -a, all adverbs in -e), its use of the accusative case (-n ending), and its word-building capabilities (denaske = “by birth”, from de + naski + e).

@@ -138,7 +138,7 @@ Personal pronouns:
 | 3rd pl. masc. | eles | os | lhes |
 | 3rd pl. fem. | elas | as | lhes |
 
-Note: In Brazil, "tu" is rarely used except in some regions, and "vós" is archaic.
+Note: In Brazil, “tu” is rarely used except in some regions, and “vós” is archaic.
 
 Possessive pronouns:
 
@@ -317,12 +317,12 @@ Questions in Portuguese can be formed in several ways:
 
 Negation in Portuguese is typically formed by placing **não** before the verb:
 
-- **Eu não falo inglês** (I don't speak English)
-- **Ele não gosta de café** (He doesn't like coffee)
+- **Eu não falo inglês** (I don’t speak English)
+- **Ele não gosta de café** (He doesn’t like coffee)
 
 Double negatives are common and grammatically correct in Portuguese:
-- **Não vi ninguém** (I didn't see anyone, literally: "I didn't see nobody")
-- **Nunca não fiz isso** (I have never done that, literally: "Never I didn't do that")
+- **Não vi ninguém** (I didn't see anyone, literally: “I didn't see nobody”)
+- **Nunca não fiz isso** (I have never done that, literally: “Never I didn't do that”)
 
 ### Prepositions
 
@@ -437,9 +437,9 @@ While European Portuguese (EP) and Brazilian Portuguese (BP) are mutually intell
      EP: **Estou a falar** (I am speaking)
      BP: **Estou falando**
 
-4. Use of "você":
-   - In EP, "você" is somewhat formal, while "tu" is used for informal situations
-   - In BP, "você" is the standard form in most regions, with "tu" used regionally
+4. Use of “você”:
+   - In EP, “você” is somewhat formal, while “tu” is used for informal situations
+   - In BP, “você” is the standard form in most regions, with “tu” used regionally
 
 5. Spelling:
    - Some words have different spellings:
@@ -450,9 +450,9 @@ While European Portuguese (EP) and Brazilian Portuguese (BP) are mutually intell
 
 Colloquial language differs between EP and BP. Here are some examples from BP:
 
-1. **Beleza** - Literally "beauty", used as a greeting or to mean "okay"
+1. **Beleza** - Literally “beauty”, used as a greeting or to mean “okay”
 
-2. **Cara** - Literally "face", used to mean "dude" or "guy"
+2. **Cara** - Literally “face”, used to mean “dude” or “guy”
 
 3. **Pô** - An interjection expressing surprise or frustration
 
@@ -460,7 +460,7 @@ Colloquial language differs between EP and BP. Here are some examples from BP:
 
 5. **Tá** - Short for **está** (is)
 
-6. **Valeu** - Thanks, or "it was worth it"
+6. **Valeu** - Thanks, or “it was worth it”
 
 7. **Vixe** - An interjection expressing surprise or shock
 
@@ -474,4 +474,4 @@ In EP, some colloquial expressions include:
 
 4. **Altamente** - Awesome
 
-5. **Pá** - Interjection, similar to "man" or "dude"
+5. **Pá** - Interjection, similar to “man” or “dude”

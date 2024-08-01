@@ -1,6 +1,6 @@
 # Oromo
 
-Oromo (also known as Afaan Oromoo, meaning "language of the Oromo") is an Afroasiatic language belonging to the Cushitic branch. It is native to the Ethiopian state of Oromia and spoken by the Oromo people and neighboring ethnic groups in the Horn of Africa. With approximately 30 million speakers, it is the most widely spoken language in Ethiopia and the fourth most widely spoken language in Africa.
+Oromo (also known as Afaan Oromoo, meaning “language of the Oromo”) is an Afroasiatic language belonging to the Cushitic branch. It is native to the Ethiopian state of Oromia and spoken by the Oromo people and neighboring ethnic groups in the Horn of Africa. With approximately 30 million speakers, it is the most widely spoken language in Ethiopia and the fourth most widely spoken language in Africa.
 
 ## Phonology
 
@@ -77,7 +77,7 @@ Examples:
 - **moo-TOO-ra** (car)
 
 In compound words, each component may retain its original stress:
-- **mana-BAR-noo-TAA** (school, literally "house-learning")
+- **mana-BAR-noo-TAA** (school, literally “house-learning”)
 
 ### Tone
 
@@ -107,7 +107,7 @@ And five long vowels:
 
 Some notes on Oromo orthography:
 
-1. The letter **c** represents the sound [tʃ], similar to "ch" in English "church".
+1. The letter **c** represents the sound [tʃ], similar to “ch” in English “church”.
    Example: **caccabsuu** [tʃatʃtʃabsuu] (to break)
 
 2. **x** represents [t'], a voiceless alveolar ejective.
@@ -229,7 +229,7 @@ Example of case marking for **nama** (person):
 
 #### Definiteness
 
-Oromo does not have definite or indefinite articles like "the" or "a" in English. Definiteness is often inferred from context or can be indicated by demonstratives or possessives:
+Oromo does not have definite or indefinite articles like “the” or “a” in English. Definiteness is often inferred from context or can be indicated by demonstratives or possessives:
 
 - **Kitaaba bite.** (I bought a book/the book.)
 - **Kitaaba kana bite.** (I bought this book.)
@@ -346,7 +346,7 @@ Examples:
 
 #### Relative Pronouns
 
-The main relative pronoun in Oromo is **kan**, which can be translated as "who," "which," or "that." It agrees in gender and number with its antecedent:
+The main relative pronoun in Oromo is **kan**, which can be translated as “who,” “which,” or “that.” It agrees in gender and number with its antecedent:
 
 - Masculine singular: **kan**
 - Feminine singular: **tan**
@@ -355,7 +355,7 @@ The main relative pronoun in Oromo is **kan**, which can be translated as "who,"
 Examples:
 - **Namichi kan kitaaba barreesse ni dhufe.** (The man who wrote the book came.)
 - **Kitaabni kan ani dubbise bareedaa ture.** (The book that I read was beautiful.)
-- **Namoota warra kaleessa arge hin beeku.** (I don't know the people whom I saw yesterday.)
+- **Namoota warra kaleessa arge hin beeku.** (I don’t know the people whom I saw yesterday.)
 
 ### Verbs
 
@@ -436,7 +436,7 @@ Oromo verbs can express various moods, including indicative, imperative, jussive
 
 Oromo has a productive causative form, typically formed by adding the suffix **-sis-** or **-s-** to the verb stem:
 
-- **barachuu** (to learn) → **barsiisuu** (to teach, literally "to cause to learn")
+- **barachuu** (to learn) → **barsiisuu** (to teach, literally “to cause to learn”)
 - **deemuu** (to go) → **deemsiisuu** (to make go, to send)
 - **dhuguu** (to drink) → **dhugsiisuu** (to make drink)
 
@@ -471,7 +471,7 @@ Reciprocal actions are expressed using **wal** (each other):
 
 Oromo frequently uses compound verbs, often combining a noun or adjective with a light verb like **godhu** (to make) or **ta'u** (to become):
 
-- **hojii godhu** (to work, literally "to make work")
+- **hojii godhu** (to work, literally “to make work”)
 - **gammachuu ta'u** (to become happy)
 
 Example:
@@ -500,9 +500,9 @@ In complex sentences, dependent clauses usually precede the main clause:
 
 Negation in Oromo is typically expressed by the particle **hin** before the verb and the suffix **-u** or **-n** at the end of the verb:
 
-**Ani hin deemu.** (I don't go.)
-**Inni hin dhufi.** (He doesn't come.)
-**Ishiin hin beektu.** (She doesn't know.)
+**Ani hin deemu.** (I don’t go.)
+**Inni hin dhufi.** (He doesn’t come.)
+**Ishiin hin beektu.** (She doesn’t know.)
 
 In the past tense, the negative is formed differently:
 
@@ -678,17 +678,17 @@ Oromo has rich vocabulary in certain semantic fields, reflecting the cultural an
 
 Oromo has many idiomatic expressions that reflect cultural values and traditional wisdom:
 
-- **Harki tokko hin rukutu.** (One hand doesn't clap.) - Meaning: Cooperation is necessary.
+- **Harki tokko hin rukutu.** (One hand doesn’t clap.) - Meaning: Cooperation is necessary.
 
-- **Abbaan beekaa ilma beekaa hin qabu.** (A wise father doesn't always have a wise son.) - Meaning: Wisdom isn't necessarily inherited.
+- **Abbaan beekaa ilma beekaa hin qabu.** (A wise father doesn’t always have a wise son.) - Meaning: Wisdom isn’t necessarily inherited.
 
 - **Roobni aadaa cabsa.** (Rain breaks tradition.) - Meaning: Circumstances can force changes in plans or customs.
 
-- **Nama nyaatee hin nyaatan.** (One doesn't eat a person who has fed you.) - Meaning: Be grateful to those who have helped you.
+- **Nama nyaatee hin nyaatan.** (One doesn’t eat a person who has fed you.) - Meaning: Be grateful to those who have helped you.
 
 - **Garraamummaan karaa dheeraa deema.** (Patience travels a long road.) - Meaning: Patience leads to success.
 
-- **Gurri dhagahu malee hin dubbatu.** (The ear hears but doesn't speak.) - Meaning: Listen more, speak less.
+- **Gurri dhagahu malee hin dubbatu.** (The ear hears but doesn’t speak.) - Meaning: Listen more, speak less.
 
 - **Harka kennaa fi fudhaa lagatu.** (Hands that give and take cross rivers.) - Meaning: Generosity and reciprocity lead to success.
 
@@ -715,8 +715,8 @@ Oromo has several dialects, with some degree of mutual intelligibility between t
 
 While there are differences in pronunciation, vocabulary, and some grammatical features between these dialects, they are generally considered variants of the same language. Some examples of dialectal differences:
 
-- Pronunciation: The word for "come" is pronounced as **kota** in some dialects and **koota** in others.
-- Vocabulary: "Water" is **bishaan** in most dialects but **daalachaa** in some eastern dialects.
+- Pronunciation: The word for “come” is pronounced as **kota** in some dialects and **koota** in others.
+- Vocabulary: “Water” is **bishaan** in most dialects but **daalachaa** in some eastern dialects.
 - Grammar: The negative particle is **hin** in most dialects but **in** in some southern dialects.
 
 ## Colloquial Oromo
@@ -741,8 +741,8 @@ Colloquial Oromo, especially among younger speakers in urban areas, may differ f
    Colloquial: **Iskuulii deema.**
 
 5. New coinages:
-   **harkamobayila** (mobile phone, literally "hand mobile")
-   **samsamuu** (computer, from "thinking machine")
+   **harkamobayila** (mobile phone, literally “hand mobile”)
+   **samsamuu** (computer, from “thinking machine”)
 
 6. Abbreviations:
    **ABO** for **Adda Bilisummaa Oromoo** (Oromo Liberation Front)
@@ -755,12 +755,12 @@ Understanding these colloquial forms can be crucial for learners aiming to commu
 Oromo has a rich tradition of proverbs and sayings that encapsulate cultural wisdom and values. Here are some examples:
 
 1. **Harmeen ilmoo ishee hin nyaattu.** 
-   (A mother doesn't eat her child.)
+   (A mother doesn’t eat her child.)
    Meaning: A mother always protects her children.
 
 2. **Nama wajjin nyaatte hin nyaatin.**
-   (Don't eat the person you've eaten with.)
-   Meaning: Don't betray those who have shared with you.
+   (Don’t eat the person you've eaten with.)
+   Meaning: Don’t betray those who have shared with you.
 
 3. **Harka kennaa fi fudhaa lagatu.**
    (Hands that give and take cross rivers.)

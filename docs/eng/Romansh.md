@@ -295,7 +295,7 @@ Negation is typically formed using the particle **na** before the verb:
 
 In some varieties, especially in colloquial speech, **na** can be omitted:
 
-**Jau chant betg.** (I don't sing.)
+**Jau chant betg.** (I don’t sing.)
 
 ### Reflexive Verbs
 
@@ -321,12 +321,12 @@ Latin-derived words:
 - **charn** (meat) < Latin CARNE
 
 German-influenced words:
-- **malsaun** (sick) < German "krank" (with Romansh prefix mal-)
-- **schtgisa** (excuse) < German "Entschuldigung"
+- **malsaun** (sick) < German “krank” (with Romansh prefix mal-)
+- **schtgisa** (excuse) < German “Entschuldigung”
 
 Italian-influenced words:
-- **tgau** (head) < Italian "capo"
-- **savair** (to know) < Italian "sapere"
+- **tgau** (head) < Italian “capo”
+- **savair** (to know) < Italian “sapere”
 
 Some common Romansh words and phrases:
 
@@ -334,7 +334,7 @@ Some common Romansh words and phrases:
 - **Bun di!** - Good day!
 - **Grazia fitg** - Thank you very much
 - **Plidar rumantsch** - To speak Romansh
-- **Chalanda mars** - New Year's Day (literally "first of March", from an old calendar system)
+- **Chalanda mars** - New Year's Day (literally “first of March”, from an old calendar system)
 - **Tgau** - Hello (informal, used in some regions)
 - **Stgisa** - Excuse me
 - **Bun appetit** - Enjoy your meal
@@ -418,8 +418,8 @@ Spoken in the Surselva region, this is the most widely used variety.
 
 Characteristics:
 - Retains Latin final -A: **casa** (house)
-- Uses **tgei** for "what": **Tgei fas ti?** (What are you doing?)
-- "To be" in present tense: **jeu sun, ti eis, el/ella ei, nus essan, vus essas, els/ellas ein**
+- Uses **tgei** for “what”: **Tgei fas ti?** (What are you doing?)
+- “To be” in present tense: **jeu sun, ti eis, el/ella ei, nus essan, vus essas, els/ellas ein**
 
 ### Sutsilvan
 
@@ -427,8 +427,8 @@ Spoken in the Schons Valley and parts of the Domleschg region.
 
 Characteristics:
 - Changes Latin final -A to -O: **tgeso** (house)
-- Uses **tge** for "what": **Tge fas te?** (What are you doing?)
-- "To be" in present tense: **jou sunt, tei eist, el/ella ei, nous ischan, vous ischas, els/ellas ein**
+- Uses **tge** for “what”: **Tge fas te?** (What are you doing?)
+- “To be” in present tense: **jou sunt, tei eist, el/ella ei, nous ischan, vous ischas, els/ellas ein**
 
 ### Surmiran
 
@@ -436,8 +436,8 @@ Spoken in the Surses region.
 
 Characteristics:
 - Changes Latin final -A to -A or -E: **tgesa** (house)
-- Uses **tge** for "what": **Tge fast te?** (What are you doing?)
-- "To be" in present tense: **ia sung, te ist, el/ella è, nous ischans, vous ischas, els/ellas èn**
+- Uses **tge** for “what”: **Tge fast te?** (What are you doing?)
+- “To be” in present tense: **ia sung, te ist, el/ella è, nous ischans, vous ischas, els/ellas èn**
 
 ### Puter
 
@@ -445,8 +445,8 @@ Spoken in the Upper Engadine.
 
 Characteristics:
 - Changes Latin final -A to -E: **chesa** (house)
-- Uses **che** for "what": **Che fest tü?** (What are you doing?)
-- "To be" in present tense: **eu sun, tü est, el/ella es, nus eschan, vus eschat, els/ellas sun**
+- Uses **che** for “what”: **Che fest tü?** (What are you doing?)
+- “To be” in present tense: **eu sun, tü est, el/ella es, nus eschan, vus eschat, els/ellas sun**
 - Has the sound [y] (written ü): **üna** (one, feminine)
 
 ### Vallader
@@ -455,8 +455,8 @@ Spoken in the Lower Engadine and Val Müstair.
 
 Characteristics:
 - Changes Latin final -A to -A: **chasa** (house)
-- Uses **che** for "what": **Che fast tü?** (What are you doing?)
-- "To be" in present tense: **eu sun, tü est, el/ella es, nus eschan, vus eschat, els/ellas sun**
+- Uses **che** for “what”: **Che fast tü?** (What are you doing?)
+- “To be” in present tense: **eu sun, tü est, el/ella es, nus eschan, vus eschat, els/ellas sun**
 - Has the sound [y] (written ü): **üna** (one, feminine)
 
 ### Rumantsch Grischun
@@ -465,8 +465,8 @@ This is the standardized written form created in 1982 to serve as a compromise b
 
 Characteristics:
 - Tends to choose forms that are common to most varieties or represent a compromise between them
-- Uses **tge** for "what": **Tge fas ti?** (What are you doing?)
-- "To be" in present tense: **jau sun, ti es, el/ella è, nus essan, vus essas, els/ellas èn**
+- Uses **tge** for “what”: **Tge fas ti?** (What are you doing?)
+- “To be” in present tense: **jau sun, ti es, el/ella è, nus essan, vus essas, els/ellas èn**
 
 ## Grammar Peculiarities
 
@@ -585,10 +585,10 @@ Here's a sample text in Rumantsch Grischun with an English translation:
 
 Translation:
 
-"The Fox and the Stork"
+“The Fox and the Stork”
 
-"A fox had invited a stork for dinner. The dinner was served on a flat plate, and the poor stork with its long beak could hardly taste anything, while the fox licked up everything in the blink of an eye. To return the favor, the stork invited the fox for dinner the next day. She served the soup in a glass with a long and narrow neck, so that the fox could only lick the surface, while the stork with her long beak could eat everything."
+“A fox had invited a stork for dinner. The dinner was served on a flat plate, and the poor stork with its long beak could hardly taste anything, while the fox licked up everything in the blink of an eye. To return the favor, the stork invited the fox for dinner the next day. She served the soup in a glass with a long and narrow neck, so that the fox could only lick the surface, while the stork with her long beak could eat everything.”
 
-"The moral: Don't do to others what you don't want done to you!"
+“The moral: Don’t do to others what you don’t want done to you!”
 
 This text demonstrates several features of Romansh, including its vocabulary, grammar, and syntax. It also shows how Romansh, like many languages, uses animal fables to convey moral lessons.

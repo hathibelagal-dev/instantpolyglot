@@ -42,12 +42,12 @@ Note that individual NENA languages may have slight variations in their consonan
 
 Examples of minimal pairs illustrating consonant contrasts:
 
-**pata** "width" vs. **bata** "houses"
-**tara** "door" vs. **dara** "generation"
-**kapa** "stone" vs. **gaba** "side"
-**sama** "poison" vs. **zama** "time"
-**šata** "year" vs. **žala** "young man"
-**xala** "aunt" vs. **ɣala** "mistake"
+**pata** “width” vs. **bata** “houses”
+**tara** “door” vs. **dara** “generation”
+**kapa** “stone” vs. **gaba** “side”
+**sama** “poison” vs. **zama** “time”
+**šata** “year” vs. **žala** “young man”
+**xala** “aunt” vs. **ɣala** “mistake”
 
 ### Vowels
 
@@ -65,46 +65,46 @@ Some languages may also have long vowels, represented by doubling the vowel lett
 
 Examples of minimal pairs illustrating vowel contrasts:
 
-**bera** "well, pit" vs. **bara** "outside"
-**šima** "name" vs. **šema** "he heard"
-**guda** "wall" vs. **gora** "man"
+**bera** “well, pit” vs. **bara** “outside”
+**šima** “name” vs. **šema** “he heard”
+**guda** “wall” vs. **gora** “man”
 
 ### Stress
 
 Stress patterns can vary among NENA languages, but many follow a penultimate stress rule. For example:
 
-**ˈbrata** "daughter"
-**šəmˈmana** "fat"
-**mšadˈdana** "sender"
+**ˈbrata** “daughter”
+**šəmˈmana** “fat”
+**mšadˈdana** “sender”
 
 However, there are exceptions and variations:
 
-- Some words have final stress: **kteˈwa** "he was writing"
-- Stress can shift with the addition of suffixes: **ˈgora** "man" → **goˈraha** "her man"
+- Some words have final stress: **kteˈwa** “he was writing”
+- Stress can shift with the addition of suffixes: **ˈgora** “man” → **goˈraha** “her man”
 - Some dialects have developed tonal distinctions that interact with stress
 
 ### Phonological processes
 
 1. Vowel reduction: Unstressed vowels often reduce to schwa [ə].
-   Example: **ˈbrata** "daughter" → **brəˈtata** "her daughter"
-             **ˈgora** "man" → **gəˈraha** "her man"
+   Example: **ˈbrata** “daughter” → **brəˈtata** “her daughter”
+             **ˈgora** “man” → **gəˈraha** “her man”
 
 2. Consonant assimilation: Adjacent consonants may assimilate in voicing or place of articulation.
-   Example: **ˈxəmša** "five" + **-ta** → **xəmšˈta** "fifth (f.)"
-             **ˈšabta** "Saturday" + **-ta** → **šabətta** "the following Saturday"
+   Example: **ˈxəmša** “five” + **-ta** → **xəmšˈta** “fifth (f.)”
+             **ˈšabta** “Saturday” + **-ta** → **šabətta** “the following Saturday”
 
 3. Syncope: Unstressed vowels may be deleted in certain environments.
-   Example: **ˈgora** "man" + **-e** → **gˈre** "men"
-             **ˈkalba** "dog" + **-e** → **kalˈbe** "dogs"
+   Example: **ˈgora** “man” + **-e** → **gˈre** “men”
+             **ˈkalba** “dog” + **-e** → **kalˈbe** “dogs”
 
 4. Epenthesis: In some dialects, a vowel may be inserted to break up consonant clusters.
-   Example: **ˈšimša** "sun" → **šiˈməmša** "suns"
+   Example: **ˈšimša** “sun” → **šiˈməmša** “suns”
 
 5. Final devoicing: In some dialects, voiced obstruents are devoiced word-finally.
-   Example: **ˈguda** "wall" → **gut** (in isolation or before a voiceless consonant)
+   Example: **ˈguda** “wall” → **gut** (in isolation or before a voiceless consonant)
 
 6. Pharyngealization spread: In dialects that preserve emphatic consonants, the pharyngealization can spread to neighboring segments.
-   Example: **ṭaˈra** "door" may be realized as [tˤɑˈrˤɑ] with pharyngealization affecting both vowels
+   Example: **ṭaˈra** “door” may be realized as [tˤɑˈrˤɑ] with pharyngealization affecting both vowels
 
 ## Morphology
 
@@ -118,7 +118,7 @@ Nouns in NENA languages are marked for:
 2. Number: singular and plural
 3. State: absolute, construct, and emphatic
 
-Example paradigm for **brata** "daughter":
+Example paradigm for **brata** “daughter”:
 
 | | Singular | Plural |
 |-|----------|--------|
@@ -130,15 +130,15 @@ Note: The emphatic state is the default form for most nouns in modern usage.
 
 Additional examples:
 
-**gora** "man" (m.)
+**gora** “man” (m.)
 - Plural: **gure**
 - Construct: **gor**
 
-**beta** "house" (m.)
+**beta** “house” (m.)
 - Plural: **bate**
 - Construct: **bet**
 
-**šəmša** "sun" (f.)
+**šəmša** “sun” (f.)
 - Plural: **šəmše**
 - Construct: **šəmš**
 
@@ -146,53 +146,53 @@ Additional examples:
 
 Some nouns have irregular plural forms:
 
-**bron** "son" → **bnone** "sons"
-**xmara** "donkey" → **xmare** "donkeys"
-**yoma** "day" → **yomane** "days"
+**bron** “son” → **bnone** “sons”
+**xmara** “donkey” → **xmare** “donkeys”
+**yoma** “day” → **yomane** “days”
 
 #### Possession
 
 Possession is typically expressed through suffixes:
 
-**brat-i** "my daughter"
-**brat-ox** "your (m.sg.) daughter"
-**brat-ax** "your (f.sg.) daughter"
-**brat-e** "his daughter"
-**brat-o** "her daughter"
-**brat-an** "our daughter"
-**brat-oxun** "your (pl.) daughter"
-**brat-ehun** "their daughter"
+**brat-i** “my daughter”
+**brat-ox** “your (m.sg.) daughter”
+**brat-ax** “your (f.sg.) daughter”
+**brat-e** “his daughter”
+**brat-o** “her daughter”
+**brat-an** “our daughter”
+**brat-oxun** “your (pl.) daughter”
+**brat-ehun** “their daughter”
 
 These suffixes can also be used with prepositions:
 
-**əll-i** "to me"
-**əmm-ox** "with you (m.sg.)"
-**mənn-a** "from her"
+**əll-i** “to me”
+**əmm-ox** “with you (m.sg.)”
+**mənn-a** “from her”
 
 ### Adjectives
 
 Adjectives agree with nouns in gender and number:
 
-**gora raba** "big man"
-**brata rabta** "big daughter"
-**gure rabe** "big men"
-**bnate rabate** "big daughters"
+**gora raba** “big man”
+**brata rabta** “big daughter”
+**gure rabe** “big men”
+**bnate rabate** “big daughters”
 
 Some adjectives have irregular feminine or plural forms:
 
-**xwara** "white" (m.) → **xwarta** "white" (f.)
-**smoka** "red" (m.) → **smokta** "red" (f.)
-**basima** "pleasant" (m.) → **basimta** "pleasant" (f.)
+**xwara** “white” (m.) → **xwarta** “white” (f.)
+**smoka** “red” (m.) → **smokta** “red” (f.)
+**basima** “pleasant” (m.) → **basimta** “pleasant” (f.)
 
 Comparative and superlative forms are usually formed analytically:
 
-**bəš raba** "bigger" (lit. "more big")
-**bəš raba mən kul** "biggest" (lit. "more big than all")
+**bəš raba** “bigger” (lit. “more big”)
+**bəš raba mən kul** “biggest” (lit. “more big than all”)
 
 However, some adjectives have suppletive comparative forms:
 
-**ṭawa** "good" → **ṭawtera** "better"
-**biša** "bad" → **bištera** "worse"
+**ṭawa** “good” → **ṭawtera** “better”
+**biša** “bad” → **bištera** “worse”
 
 ### Pronouns
 
@@ -215,30 +215,30 @@ Demonstrative pronouns:
 
 Interrogative pronouns:
 
-**mani** "who"
-**mudi** "what"
-**ema** "where"
-**eyma** "when"
-**dax** "how"
-**qamu** "why"
+**mani** “who”
+**mudi** “what”
+**ema** “where”
+**eyma** “when”
+**dax** “how”
+**qamu** “why”
 
 Relative pronoun:
 
 **d-** (indeclinable)
 
-Example: **gora d-xzeli** "the man whom I saw"
+Example: **gora d-xzeli** “the man whom I saw”
 
 Reflexive pronouns:
 
 **gyan-** + possessive suffix
 
-Example: **gyan-i** "myself", **gyan-ox** "yourself (m.sg.)"
+Example: **gyan-i** “myself”, **gyan-ox** “yourself (m.sg.)”
 
 Reciprocal pronoun:
 
-**xdade** "each other"
+**xdade** “each other”
 
-Example: **xzelu xdade** "they saw each other"
+Example: **xzelu xdade** “they saw each other”
 
 ### Verbs
 
@@ -250,7 +250,7 @@ Where TAM stands for Tense-Aspect-Mood.
 
 #### Present base
 
-Example paradigm for **p-t-x** "to open":
+Example paradigm for **p-t-x** “to open”:
 
 | Person | Singular | Plural |
 |--------|----------|--------|
@@ -264,7 +264,7 @@ The **k-** prefix indicates present tense. Some dialects use **g-** or **q-** in
 
 #### Past base
 
-Example paradigm for **p-t-x** "to open":
+Example paradigm for **p-t-x** “to open”:
 
 | Person | Singular | Plural |
 |--------|----------|--------|
@@ -292,52 +292,52 @@ Passive participle: **ptixa** (m), **ptixta** (f)
 
 #### Verbal nouns
 
-**ptaxa** "opening"
+**ptaxa** “opening”
 
 #### Object suffixes
 
 Object suffixes can be added to verb forms:
 
-**xze-li** "I saw"
-**xze-li-lux** "I saw you (m.sg.)"
-**xze-li-la** "I saw her"
+**xze-li** “I saw”
+**xze-li-lux** “I saw you (m.sg.)”
+**xze-li-la** “I saw her”
 
 #### Compound tenses
 
 Perfect: participle + enclitic pronouns
-**ptixa-yen** "I have opened"
-**ptixa-yət** "you (m.sg.) have opened"
-**ptixa-yle** "he has opened"
+**ptixa-yen** “I have opened”
+**ptixa-yət** “you (m.sg.) have opened”
+**ptixa-yle** “he has opened”
 
 Progressive: present participle + auxiliary **ywa**
-**patəx ywen** "I am opening"
-**patəxta ywa** "she is opening"
+**patəx ywen** “I am opening”
+**patəxta ywa** “she is opening”
 
 #### Derived stems
 
 NENA languages have several derived verbal stems, including:
 
 1. Causative: often formed with **m-** prefix
-   **ylp** "to learn" → **mylp** "to teach"
+   **ylp** “to learn” → **mylp** “to teach”
 
 2. Passive: often formed with internal vowel change and **-y-** infix
-   **qtl** "to kill" → **qtil** "to be killed"
+   **qtl** “to kill” → **qtil** “to be killed”
 
 3. Reciprocal/Reflexive: often formed with **m-t-** prefix
-   **xze** "to see" → **mxuze** "to see each other"
+   **xze** “to see” → **mxuze** “to see each other”
 
 4. Intensive: often formed by doubling the middle radical
-   **ptx** "to open" → **pttx** "to open wide"
+   **ptx** “to open” → **pttx** “to open wide”
 
 ### Derivational morphology
 
 NENA languages have several productive ways to derive new words:
 
-1. Verbal nouns: **ptaxa** "opening" from **p-t-x** "to open"
-2. Agentive nouns: **patəxana** "opener" from **p-t-x** "to open"
-3. Diminutives: **kalba** "dog" → **kalbona** "little dog"
-4. Abstract nouns: **xwara** "white" → **xwaruta** "whiteness"
-5. Adjectives from nouns: **šəmša** "sun" → **šəmšaya** "solar"
+1. Verbal nouns: **ptaxa** “opening” from **p-t-x** “to open”
+2. Agentive nouns: **patəxana** “opener” from **p-t-x** “to open”
+3. Diminutives: **kalba** “dog” → **kalbona** “little dog”
+4. Abstract nouns: **xwara** “white” → **xwaruta** “whiteness”
+5. Adjectives from nouns: **šəmša** “sun” → **šəmšaya** “solar”
 
 ## Syntax
 
@@ -346,105 +346,105 @@ NENA languages have several productive ways to derive new words:
 The basic word order in NENA languages is typically SVO (Subject-Verb-Object):
 
 **Dawid xzele kalba.**
-"David saw the dog."
+“David saw the dog.”
 
 However, other word orders are possible for emphasis or in specific constructions:
 
 **Kalba xzele Dawid.** (OVS)
-"It was the dog that David saw."
+“It was the dog that David saw.”
 
 **Xzele Dawid kalba.** (VSO)
-"David saw the dog." (with focus on the action)
+“David saw the dog.” (with focus on the action)
 
 ### Agreement
 
 Verbs agree with their subjects in person, number, and gender:
 
 **brata zəlla.**
-"The daughter went."
+“The daughter went.”
 
 **bnate zəllun.**
-"The daughters went."
+“The daughters went.”
 
 **ana k-azən.**
-"I go."
+“I go.”
 
 **axnan k-azax.**
-"We go."
+“We go.”
 
 ### Negation
 
 Negation is typically expressed with the particle **la** before the verb:
 
 **la zəlli.**
-"I didn't go."
+“I didn't go.”
 
 **la k-yəʿən.**
-"I don't know."
+“I don’t know.”
 
 In some dialects, a circumfix **la-...-la** is used for emphasis:
 
 **la-zəlli-la.**
-"I absolutely didn't go."
+“I absolutely didn't go.”
 
 ### Questions
 
 Yes/no questions are often formed by intonation alone:
 
 **zəllux?**
-"Did you go?"
+“Did you go?”
 
 Alternatively, some dialects use question particles:
 
 **ki zəllux?**
-"Did you go?"
+“Did you go?”
 
 Wh-questions use interrogative words:
 
 **mani zəlle?**
-"Who went?"
+“Who went?”
 
 **ema zəllux?**
-"Where did you go?"
+“Where did you go?”
 
 **qamu la-teli?**
-"Why didn't he come?"
+“Why didn't he come?”
 
 **eyma bet-atət?**
-"When will you come?"
+“When will you come?”
 
 ### Relative clauses
 
 Relative clauses are typically introduced by the particle **d-**:
 
 **gora d-xzeli ətmol**
-"The man whom I saw yesterday"
+“The man whom I saw yesterday”
 
 **beta d-bneli abuki**
-"The house that your father built"
+“The house that your father built”
 
 In some dialects, the relative particle may be omitted, especially in spoken language:
 
 **gora xzeli ətmol**
-"The man (whom) I saw yesterday"
+“The man (whom) I saw yesterday”
 
 ### Copular sentences
 
 In the present tense, copular sentences often use a zero copula:
 
 **Dawid raba.**
-"David (is) big."
+“David (is) big.”
 
 **Ana malləpana.**
-"I (am) a teacher."
+“I (am) a teacher.”
 
-In other tenses, forms of the verb **h-w-y** "to be" are used:
+In other tenses, forms of the verb **h-w-y** “to be” are used:
 
 **Dawid wewa raba.**
-"David was big."
+“David was big.”
 
 **Ana bet-hawən malləpana.**
-"I will be a teacher."
+“I will be a teacher.”
 
 ### Possession
 
@@ -452,138 +452,138 @@ Possession can be expressed in several ways:
 
 1. Using the preposition **d-**:
    **beta d-abuki**
-   "your father's house" (lit. "house of your father")
+   “your father's house” (lit. “house of your father”)
 
 2. Using the construct state:
    **bet-abuki**
-   "your father's house"
+   “your father's house”
 
 3. Using possessive suffixes:
    **bet-i**
-   "my house"
+   “my house”
 
-4. Using the verb **it** "there is" with possessive suffixes:
+4. Using the verb **it** “there is” with possessive suffixes:
    **it-li xmara.**
-   "I have a donkey." (lit. "there is to me a donkey")
+   “I have a donkey.” (lit. “there is to me a donkey”)
 
 ### Causatives
 
 Causatives can be formed in several ways:
 
 1. Using the causative stem (as mentioned in the morphology section):
-   **ylp** "to learn" → **mylp** "to teach"
+   **ylp** “to learn” → **mylp** “to teach”
 
-2. Using the verb **šbq** "to leave, allow":
+2. Using the verb **šbq** “to leave, allow”:
    **šbəqli d-azəl.**
-   "I let him go." (lit. "I allowed that he goes")
+   “I let him go.” (lit. “I allowed that he goes”)
 
-3. Using the verb **ʿbd** "to make, do":
+3. Using the verb **ʿbd** “to make, do”:
    **ʿbədle d-ʾabi.**
-   "He made me cry." (lit. "He made that I cry")
+   “He made me cry.” (lit. “He made that I cry”)
 
 ### Conditionals
 
-Conditional sentences typically use the particle **ən** "if":
+Conditional sentences typically use the particle **ən** “if”:
 
 **ən atət, bet-xazənnux.**
-"If you come, I will see you."
+“If you come, I will see you.”
 
 Counterfactual conditionals often use the past tense or the perfect:
 
 **ən teli-wa, xzeli-wa-le.**
-"If he had come, I would have seen him."
+“If he had come, I would have seen him.”
 
 ### Complement clauses
 
 Complement clauses are often introduced by the particle **d-**:
 
 **k-baʿən d-atət.**
-"I want you to come." (lit. "I want that you come")
+“I want you to come.” (lit. “I want that you come”)
 
 **k-xəšwən d-la bet-aze.**
-"I think that he won't go."
+“I think that he won’t go.”
 
 Some verbs can take direct complements without a complementizer:
 
 **k-baʿən azən.**
-"I want to go."
+“I want to go.”
 
 ### Coordination
 
-Coordination is typically expressed with the conjunction **u** "and":
+Coordination is typically expressed with the conjunction **u** “and”:
 
 **Dawid u Maryam**
-"David and Mary"
+“David and Mary”
 
 **zəlle u tele**
-"He went and came"
+“He went and came”
 
-The disjunctive conjunction is typically **yan** "or":
+The disjunctive conjunction is typically **yan** “or”:
 
 **Dawid yan Maryam**
-"David or Mary"
+“David or Mary”
 
 ### Adverbial clauses
 
 Various conjunctions are used to introduce adverbial clauses:
 
-**kad** "when, while":
+**kad** “when, while”:
 **kad teli, xzeli-le.**
-"When he came, I saw him."
+“When he came, I saw him.”
 
-**măṭu** "because":
+**măṭu** “because”:
 **la-teli măṭu mariʿ-wa.**
-"He didn't come because he was sick."
+“He didn't come because he was sick.”
 
-**hal-d** "until":
+**hal-d** “until”:
 **mpele hal-d teli abuki.**
-"He waited until your father came."
+“He waited until your father came.”
 
 ## Lexicon
 
 The Neo-Aramaic lexicon consists of:
 
 1. Native Aramaic words:
-   **brata** "daughter"
-   **kalba** "dog"
-   **šəmša** "sun"
-   **mayya** "water"
-   **lišana** "tongue, language"
-   **ʿeyna** "eye"
-   **reša** "head"
-   **ləbba** "heart"
+   **brata** “daughter”
+   **kalba** “dog”
+   **šəmša** “sun”
+   **mayya** “water”
+   **lišana** “tongue, language”
+   **ʿeyna** “eye”
+   **reša** “head”
+   **ləbba** “heart”
 
 2. Loanwords from various languages:
 
    a. Arabic:
-   **ktaba** "book" (from Arabic **kitāb**)
-   **maktab** "office" (from Arabic **maktab**)
-   **ʿalam** "world" (from Arabic **ʿālam**)
-   **sahla** "easy" (from Arabic **sahl**)
+   **ktaba** “book” (from Arabic **kitāb**)
+   **maktab** “office” (from Arabic **maktab**)
+   **ʿalam** “world” (from Arabic **ʿālam**)
+   **sahla** “easy” (from Arabic **sahl**)
 
    b. Kurdish:
-   **zengil** "rich" (from Kurdish **zengîn**)
-   **xanim** "lady" (from Kurdish **xanim**)
-   **xoš** "good, nice" (from Kurdish **xweş**)
-   **zor** "very, much" (from Kurdish **zor**)
+   **zengil** “rich” (from Kurdish **zengîn**)
+   **xanim** “lady” (from Kurdish **xanim**)
+   **xoš** “good, nice” (from Kurdish **xweş**)
+   **zor** “very, much” (from Kurdish **zor**)
 
    c. Persian:
-   **dəšman** "enemy" (from Persian **dušman**)
-   **dost** "friend" (from Persian **dōst**)
-   **rang** "color" (from Persian **rang**)
-   **šar** "city" (from Persian **šahr**)
+   **dəšman** “enemy” (from Persian **dušman**)
+   **dost** “friend” (from Persian **dōst**)
+   **rang** “color” (from Persian **rang**)
+   **šar** “city” (from Persian **šahr**)
 
    d. Turkish:
-   **bazar** "market" (from Turkish **pazar**)
-   **čay** "tea" (from Turkish **çay**)
-   **oda** "room" (from Turkish **oda**)
-   **qahwa** "coffee" (from Turkish **kahve**)
+   **bazar** “market” (from Turkish **pazar**)
+   **čay** “tea” (from Turkish **çay**)
+   **oda** “room” (from Turkish **oda**)
+   **qahwa** “coffee” (from Turkish **kahve**)
 
    e. English (recent borrowings):
-   **kompyuter** "computer"
-   **tilifon** "telephone"
-   **televizyon** "television"
-   **otomobil** "automobile"
+   **kompyuter** “computer”
+   **tilifon** “telephone”
+   **televizyon** “television”
+   **otomobil** “automobile”
 
 ### Numerals
 
@@ -610,64 +610,64 @@ Cardinal numbers:
 
 Ordinal numbers are formed by adding **-aya** (m) or **-eta** (f) to the cardinal number:
 
-**xamšaya** "fifth (m)"
-**xamšeta** "fifth (f)"
+**xamšaya** “fifth (m)”
+**xamšeta** “fifth (f)”
 
-**qamaya** "first (m)"
-**qameta** "first (f)"
+**qamaya** “first (m)”
+**qameta** “first (f)”
 
 ### Kinship terms
 
 NENA languages often have rich systems of kinship terms. Some examples:
 
-**baba** "father"
-**yəmma** "mother"
-**axa** "brother"
-**xata** "sister"
-**saba** "grandfather"
-**nana** "grandmother"
-**dada** "paternal uncle"
-**ʿamma** "paternal aunt"
-**xala** "maternal aunt"
-**xalunka** "maternal uncle"
+**baba** “father”
+**yəmma** “mother”
+**axa** “brother”
+**xata** “sister”
+**saba** “grandfather”
+**nana** “grandmother”
+**dada** “paternal uncle”
+**ʿamma** “paternal aunt”
+**xala** “maternal aunt”
+**xalunka** “maternal uncle”
 
 ### Body parts
 
 Many body part terms are native Aramaic words:
 
-**reša** "head"
-**ʿeyna** "eye"
-**naxira** "nose"
-**pumma** "mouth"
-**əđna** "ear"
-**əda** "hand"
-**aqla** "foot"
-**kərsa** "stomach"
-**gəlda** "skin"
+**reša** “head”
+**ʿeyna** “eye”
+**naxira** “nose”
+**pumma** “mouth”
+**əđna** “ear”
+**əda** “hand”
+**aqla** “foot”
+**kərsa** “stomach”
+**gəlda** “skin”
 
 ### Color terms
 
 Basic color terms often include:
 
-**xwara** "white"
-**koma** "black"
-**smoka** "red"
-**zarga** "blue"
-**yeroga** "green"
-**zerda** "yellow"
+**xwara** “white”
+**koma** “black”
+**smoka** “red”
+**zarga** “blue”
+**yeroga** “green”
+**zerda** “yellow”
 
 ### Time expressions
 
-**adyu** "today"
-**ətmol** "yesterday"
-**qənyətha** "tomorrow"
-**šəta** "year"
-**yarxa** "month"
-**šawuʿa** "week"
-**yoma** "day"
-**lele** "night"
-**qema** "morning"
-**ramša** "evening"
+**adyu** “today”
+**ətmol** “yesterday”
+**qənyətha** “tomorrow”
+**šəta** “year”
+**yarxa** “month”
+**šawuʿa** “week”
+**yoma** “day”
+**lele** “night”
+**qema** “morning”
+**ramša** “evening”
 
 ## Dialectal variation
 
@@ -694,7 +694,7 @@ Neo-Aramaic languages show significant dialectal variation. Some notable differe
 
 Example of dialectal variation:
 
-"I am going to the house"
+“I am going to the house”
 
 Urmi dialect: **ana g-azən ga beta**
 Alqosh dialect: **ana k-azən ṭal beta**
@@ -706,15 +706,15 @@ Neo-Aramaic languages are written in several scripts, depending on the community
 
 1. Syriac script (most common):
    a. Eastern (Madnḥāyā) variant:
-      ܒܪܵܬܵܐ (brata) "daughter"
+      ܒܪܵܬܵܐ (brata) “daughter”
    b. Western (Serṭā) variant:
-      ܒܪܬܐ (brata) "daughter"
+      ܒܪܬܐ (brata) “daughter”
 
 2. Hebrew script (used by some Jewish Neo-Aramaic speakers):
-   בראתא (brata) "daughter"
+   בראתא (brata) “daughter”
 
 3. Latin script (used in some modern publications and online):
-   brata "daughter"
+   brata “daughter”
 
 The choice of script often reflects religious and cultural affiliations of the speakers.
 
@@ -728,7 +728,7 @@ Here are some sample texts in different Neo-Aramaic varieties to illustrate the 
 
 Xa yoma, zelle xa gavra l-šuqa qa zavune axla. Bad maṭyele, xzele raba naše w-yitve ʾva gaw xa beta. Qurbene w-šuʾele, mani ʾiton axton? W-mujəbləhon, axnan ʾivax malaxe d-alaha.
 
-"One day, a man went to the market to buy food. When he arrived, he saw many people sitting in a house. He approached and asked, 'Who are you?' And they answered, 'We are angels of God.'"
+“One day, a man went to the market to buy food. When he arrived, he saw many people sitting in a house. He approached and asked, 'Who are you?' And they answered, 'We are angels of God.'”
 
 2. Jewish Zakho dialect (NENA, in Hebrew script):
 

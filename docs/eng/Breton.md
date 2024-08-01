@@ -66,7 +66,7 @@ However, there are exceptions, particularly with words ending in certain suffixe
 
 In compound words, each element typically retains its original stress:
 
-- **ti-kêr** [ˈtiˈkɛːr] (town hall, literally "house-town")
+- **ti-kêr** [ˈtiˈkɛːr] (town hall, literally “house-town”)
 
 ### Mutations
 
@@ -227,7 +227,7 @@ Before vowels and most consonants:
 - **an ti** (the house)
 - **an dud** (the people)
 
-Before "n", "d", "t", "h":
+Before “n”, “d”, “t”, “h”:
 - **an neizh** (the nest)
 - **an dour** (the water)
 - **an ti** (the house)
@@ -340,7 +340,7 @@ Example with **kanañ** (to sing):
 
 In everyday speech, Breton often uses a periphrastic construction with the verbal noun and the auxiliary verb **ober** (to do):
 
-- **Kanañ a ran** (I sing, lit. "Singing I do")
+- **Kanañ a ran** (I sing, lit. “Singing I do”)
 - **Kanañ a rez** (You sing)
 - **Kanañ a ra** (He/She sings)
 
@@ -445,58 +445,58 @@ The basic word order in Breton is Verb-Subject-Object (VSO):
 
 **Debriñ a ra Yann avalou.**
 (Eat does Yann apples)
-"Yann eats apples."
+“Yann eats apples.”
 
 However, Breton often uses a periphrastic construction where the verbal noun comes first, followed by a conjugated form of the verb **ober** (to do):
 
 **Debriñ a ra Yann avalou.**
 (Eating does Yann apples)
-"Yann eats apples."
+“Yann eats apples.”
 
 For emphasis, other elements can be fronted:
 
 **Yann a zebr avalou.**
 (Yann eats apples)
-"It's Yann who eats apples."
+“It's Yann who eats apples.”
 
 **Avalou a zebr Yann.**
 (Apples eats Yann)
-"It's apples that Yann eats."
+“It's apples that Yann eats.”
 
 ### Questions
 
 Questions can be formed by using the particle **ha** at the beginning of the sentence:
 
 **Ha debriñ a ra Yann avalou?**
-"Does Yann eat apples?"
+“Does Yann eat apples?”
 
 Or by using interrogative words:
 
 **Petra a zebr Yann?**
-"What does Yann eat?"
+“What does Yann eat?”
 
 **Piv a zebr avalou?**
-"Who eats apples?"
+“Who eats apples?”
 
 **Pegoulz e tebr Yann avalou?**
-"When does Yann eat apples?"
+“When does Yann eat apples?”
 
 ### Negation
 
 Negation is formed using the particles **ne** before the verb and **ket** after:
 
 **Ne zebr ket Yann avalou.**
-"Yann doesn't eat apples."
+“Yann doesn’t eat apples.”
 
 In colloquial Breton, **ne** is often omitted:
 
 **Zebr ket Yann avalou.**
-"Yann doesn't eat apples."
+“Yann doesn’t eat apples.”
 
 For emphasis, **tamm** can be used instead of **ket**:
 
 **Ne zebr tamm Yann avalou.**
-"Yann doesn't eat apples at all."
+“Yann doesn’t eat apples at all.”
 
 ### Prepositions
 
@@ -511,7 +511,7 @@ Breton has a rich system of prepositions, many of which can be conjugated. For e
 
 Example:
 **Reiñ a ran ul levr dezhi.**
-"I give a book to her."
+“I give a book to her.”
 
 Other common prepositions include:
 
@@ -655,7 +655,7 @@ The standard written form, Peurunvan (Unified Breton), was developed to bridge t
 Some differences between dialects include:
 
 - Pronunciation: e.g., **kazh** (cat) is [kas] in Kerneveg but [kah] in Gwenedeg
-- Vocabulary: e.g., "potato" is **patatez** in Kerneveg but **aval-douar** in Leoneg
+- Vocabulary: e.g., “potato” is **patatez** in Kerneveg but **aval-douar** in Leoneg
 - Grammar: e.g., the future tense ending **-o** in most dialects becomes **-ou** in Gwenedeg
 
 ## Idiomatic Expressions
@@ -663,40 +663,40 @@ Some differences between dialects include:
 Breton has many colorful idiomatic expressions. Here are a few examples:
 
 - **Bez' ez eus pesk er mor** (There are fish in the sea)
-Equivalent to the English "There are plenty more fish in the sea"
+Equivalent to the English “There are plenty more fish in the sea”
 
 - **Ober bili** (To make pebbles)
-Meaning "to chat, to gossip"
+Meaning “to chat, to gossip”
 
 - **Mont da Gernev da dreiñ ar rod** (To go to Cornwall to turn the wheel)
-Meaning "to do something useless or unnecessary"
+Meaning “to do something useless or unnecessary”
 
 - **Kaout kig-ha-farz** (To have kig-ha-farz)
-Meaning "to be lucky" (kig-ha-farz is a traditional Breton dish)
+Meaning “to be lucky” (kig-ha-farz is a traditional Breton dish)
 
 - **Ober e votoù** (To make one's shoes)
-Meaning "to die"
+Meaning “to die”
 
 - **Bezañ e-barzh ar ouenn vat** (To be in the good race)
-Meaning "to be in a good mood"
+Meaning “to be in a good mood”
 
 - **Pakañ anezhi** (To catch it)
-Meaning "to get drunk"
+Meaning “to get drunk”
 
 ## Loan Words
 
 While Breton has many native Celtic words, it has also borrowed from other languages, particularly French. Some examples:
 
-- **sinema** (cinema) - from French "cinéma"
-- **trakteur** (tractor) - from French "tracteur"
-- **bered** (cemetery) - from French "cimetière"
-- **skol** (school) - from Latin "schola"
-- **kleier** (bells) - from Old French "cloche"
-- **butun** (tobacco) - from French "petun"
-- **ti-bank** (bank) - from French "banque"
+- **sinema** (cinema) - from French “cinéma”
+- **trakteur** (tractor) - from French “tracteur”
+- **bered** (cemetery) - from French “cimetière”
+- **skol** (school) - from Latin “schola”
+- **kleier** (bells) - from Old French “cloche”
+- **butun** (tobacco) - from French “petun”
+- **ti-bank** (bank) - from French “banque”
 - **radio** (radio) - international word
-- **kompoder** (computer) - from English "computer"
-- **chañs** (luck) - from French "chance"
+- **kompoder** (computer) - from English “computer”
+- **chañs** (luck) - from French “chance”
 
 ## Colloquial Breton
 
@@ -704,11 +704,11 @@ Colloquial Breton often differs from the standard written form. Some features of
 
 - Omission of the negative particle **ne**: 
   Standard: **Ne gomzan ket brezhoneg**
-  Colloquial: **Komzan ket brezhoneg** (I don't speak Breton)
+  Colloquial: **Komzan ket brezhoneg** (I don’t speak Breton)
 
 - Use of French loan words:
   Standard: **Ur c'harr-tan**
-  Colloquial: **Ur watur** (a car, from French "voiture")
+  Colloquial: **Ur watur** (a car, from French “voiture”)
 
 - Simplification of the mutation system in some areas
 
@@ -765,7 +765,7 @@ Breton has a rich literary tradition, both oral and written. Some notable aspect
 
 ## Current Status
 
-Breton is classified as a "severely endangered" language by UNESCO. However, revitalization efforts have been ongoing since the late 20th century:
+Breton is classified as a “severely endangered” language by UNESCO. However, revitalization efforts have been ongoing since the late 20th century:
 
 1. Education: Diwan schools offer Breton-medium education from preschool to high school
 2. Media: Radio and television programs in Breton, including on France 3 Bretagne

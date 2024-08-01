@@ -335,12 +335,12 @@ Scottish Gaelic has several dialects, broadly divided into three groups:
 
 These dialects can differ in pronunciation, vocabulary, and some grammatical features. For example:
 
-- The word for "sun" is **grian** in most dialects, but **grèin** in some southern dialects.
+- The word for “sun” is **grian** in most dialects, but **grèin** in some southern dialects.
 - The future tense ending -idh is often pronounced as [i] in northern dialects but as [ɪç] in southern dialects.
 
 ## Lenition
 
-Lenition is a important phonological process in Scottish Gaelic where certain consonants are "softened" in specific grammatical contexts. This is marked in writing by adding an "h" after the consonant. Not all consonants can be lenited.
+Lenition is a important phonological process in Scottish Gaelic where certain consonants are “softened” in specific grammatical contexts. This is marked in writing by adding an “h” after the consonant. Not all consonants can be lenited.
 
 Lenitable consonants and their lenited forms:
 
@@ -389,9 +389,9 @@ In eclipsis, the initial consonant of a word is replaced by its eclipsed form:
 - t → d
 
 Example:
-**ann am baile** (in a town) - pronounced more like "ann am maile" in dialects with eclipsis
+**ann am baile** (in a town) - pronounced more like “ann am maile” in dialects with eclipsis
 
-**seachd gcinn** (seven heads) - pronounced more like "seachd ginn"
+**seachd gcinn** (seven heads) - pronounced more like “seachd ginn”
 
 It's important to note that eclipsis is not consistently represented in writing in Scottish Gaelic, unlike in Irish, and its use varies among dialects.
 
@@ -422,7 +422,7 @@ Regular verbs follow predictable patterns in their conjugations. Let's use the v
 
 ### Irregular Verbs
 
-Scottish Gaelic has 11 primary irregular verbs. These verbs don't follow the regular patterns and must be memorized. Here are a few examples:
+Scottish Gaelic has 11 primary irregular verbs. These verbs don’t follow the regular patterns and must be memorized. Here are a few examples:
 
 1. **bi** (to be)
    - Present: **tha**
@@ -604,7 +604,7 @@ Scottish Gaelic syntax has some unique features:
 
 ### Equative Sentences
 
-To say "X is Y" in Scottish Gaelic, you use the construction "'S e ... a th' ann":
+To say “X is Y” in Scottish Gaelic, you use the construction “'S e ... a th' ann”:
 
 **'S e tidsear a th' annam.** (I am a teacher. Literally: It's a teacher that is in me.)
 **'S e baile mòr a th' ann an Glaschu.** (Glasgow is a big city. Literally: It's a big city that is in Glasgow.)
@@ -624,7 +624,7 @@ Yes/no questions are formed using the particle **an** at the beginning of the se
 
 Negative questions use **nach**:
 
-**Nach eil thu ag iarraidh biadh?** (Don't you want food?)
+**Nach eil thu ag iarraidh biadh?** (Don’t you want food?)
 
 Wh-questions use interrogative pronouns:
 

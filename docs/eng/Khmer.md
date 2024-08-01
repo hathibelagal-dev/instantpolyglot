@@ -13,7 +13,7 @@ Khmer consonants are divided into two series:
 1. A-series (ឧ, **o**)
 2. O-series (ឱ, **oo**)
 
-Each consonant inherently carries a vowel sound. A-series consonants carry an implicit "a" sound, while O-series consonants carry an implicit "o" sound.
+Each consonant inherently carries a vowel sound. A-series consonants carry an implicit “a” sound, while O-series consonants carry an implicit “o” sound.
 
 Here are the basic consonants:
 
@@ -120,12 +120,12 @@ Unlike some of its neighbors (such as Vietnamese or Thai), Khmer is not a tonal 
 
 ### Nouns
 
-Khmer nouns do not inflect for number or gender. Plurality can be indicated by context, numeral classifiers, or by adding words like ពួក (**puak**, "group") or ច្រើន (**craen**, "many").
+Khmer nouns do not inflect for number or gender. Plurality can be indicated by context, numeral classifiers, or by adding words like ពួក (**puak**, “group”) or ច្រើន (**craen**, “many”).
 
 Examples:
-- **សៀវភៅ** (/siəwpʰɨw/) - "book" or "books"
-- **ពួកគេ** (/puək kee/) - "they" (literally "group they")
-- **សៀវភៅច្រើន** (/siəwpʰɨw craən/) - "many books"
+- **សៀវភៅ** (/siəwpʰɨw/) - “book” or “books”
+- **ពួកគេ** (/puək kee/) - “they” (literally “group they”)
+- **សៀវភៅច្រើន** (/siəwpʰɨw craən/) - “many books”
 
 ### Pronouns
 
@@ -145,23 +145,23 @@ Khmer has a complex system of pronouns that reflect social relationships and lev
 Khmer verbs do not conjugate for person, number, or tense. Tense and aspect are typically indicated by context or by using time words or auxiliary verbs.
 
 Examples:
-- **ខ្ញុំទៅផ្សារ** (/kʰɲom tɨw psar/) - "I go to the market" (present tense by context)
-- **ខ្ញុំបានទៅផ្សារ** (/kʰɲom baan tɨw psar/) - "I went to the market" (past tense indicated by បាន /baan/)
-- **ខ្ញុំនឹងទៅផ្សារ** (/kʰɲom nɨŋ tɨw psar/) - "I will go to the market" (future tense indicated by នឹង /nɨŋ/)
+- **ខ្ញុំទៅផ្សារ** (/kʰɲom tɨw psar/) - “I go to the market” (present tense by context)
+- **ខ្ញុំបានទៅផ្សារ** (/kʰɲom baan tɨw psar/) - “I went to the market” (past tense indicated by បាន /baan/)
+- **ខ្ញុំនឹងទៅផ្សារ** (/kʰɲom nɨŋ tɨw psar/) - “I will go to the market” (future tense indicated by នឹង /nɨŋ/)
 
 ### Adjectives
 
 Adjectives in Khmer typically follow the noun they modify.
 
 Example:
-- **ផ្ទះធំ** (/ptəah tʰom/) - "big house" (literally "house big")
+- **ផ្ទះធំ** (/ptəah tʰom/) - “big house” (literally “house big”)
 
 ### Word Order
 
 Khmer follows a Subject-Verb-Object (SVO) word order.
 
 Example:
-- **ខ្ញុំញ៉ាំបាយ** (/kʰɲom ɲam baaj/) - "I eat rice"
+- **ខ្ញុំញ៉ាំបាយ** (/kʰɲom ɲam baaj/) - “I eat rice”
   Subject (ខ្ញុំ) - Verb (ញ៉ាំ) - Object (បាយ)
 
 ### Classifiers
@@ -169,8 +169,8 @@ Example:
 Khmer uses numeral classifiers when counting objects. The classifier comes after the number and before the noun.
 
 Examples:
-- **សៀវភៅមួយក្បាល** (/siəwpʰɨw muəj kbal/) - "one book" (literally "book one head")
-- **ឆ្កែពីរក្បាល** (/cʰkae pii kbal/) - "two dogs" (literally "dog two head")
+- **សៀវភៅមួយក្បាល** (/siəwpʰɨw muəj kbal/) - “one book” (literally “book one head”)
+- **ឆ្កែពីរក្បាល** (/cʰkae pii kbal/) - “two dogs” (literally “dog two head”)
 
 Common classifiers include:
 - ក្បាល (**kbal**) - for animals and some objects
@@ -183,24 +183,24 @@ Questions in Khmer can be formed by adding question words or particles:
 
 - **តើ** (/taə/) - general question particle, placed at the beginning of a sentence
 - **ទេ** (/tee/) - yes/no question particle, placed at the end of a sentence
-- **អ្វី** (/ʔvəj/) - "what"
-- **ណា** (/naa/) - "which"
-- **ពេលណា** (/peel naa/) - "when"
-- **នៅឯណា** (/nɨw ae naa/) - "where"
-- **ហេតុអ្វី** (/heet ʔvəj/) - "why"
-- **យ៉ាងម៉េច** (/jaaŋ meec/) - "how"
+- **អ្វី** (/ʔvəj/) - “what”
+- **ណា** (/naa/) - “which”
+- **ពេលណា** (/peel naa/) - “when”
+- **នៅឯណា** (/nɨw ae naa/) - “where”
+- **ហេតុអ្វី** (/heet ʔvəj/) - “why”
+- **យ៉ាងម៉េច** (/jaaŋ meec/) - “how”
 
 Examples:
-- **តើអ្នកឈ្មោះអ្វី?** (/taə neak chmoh ʔvəj/) - "What is your name?"
-- **អ្នកទៅផ្សារទេ?** (/neak tɨw psar tee/) - "Are you going to the market?"
+- **តើអ្នកឈ្មោះអ្វី?** (/taə neak chmoh ʔvəj/) - “What is your name?”
+- **អ្នកទៅផ្សារទេ?** (/neak tɨw psar tee/) - “Are you going to the market?”
 
 ### Negation
 
 Negation in Khmer is typically formed by using the word មិន (**min**) before the verb or adjective. For stronger negation, អត់ (**at**) can be used instead of or in addition to មិន.
 
 Examples:
-- **ខ្ញុំមិនទៅ** (/kʰɲom mɨn tɨw/) - "I'm not going"
-- **ខ្ញុំអត់ចូលចិត្តបាយ** (/kʰɲom ʔɑt cool cət baaj/) - "I don't like rice"
+- **ខ្ញុំមិនទៅ** (/kʰɲom mɨn tɨw/) - “I'm not going”
+- **ខ្ញុំអត់ចូលចិត្តបាយ** (/kʰɲom ʔɑt cool cət baaj/) - “I don’t like rice”
 
 ### Sentence Final Particles
 
@@ -211,8 +211,8 @@ Khmer uses various sentence-final particles to express mood, politeness, or emph
 - ទេ (**te**) - softens statements or questions
 
 Examples:
-- **ពិបាកណាស់** (/pi-baak nas/) - "Very difficult"
-- **អ្នកទៅផ្សារទេ?** (/neak tɨw psar te/) - "Are you going to the market?" (polite form)
+- **ពិបាកណាស់** (/pi-baak nas/) - “Very difficult”
+- **អ្នកទៅផ្សារទេ?** (/neak tɨw psar te/) - “Are you going to the market?” (polite form)
 
 ## Vocabulary
 
@@ -222,40 +222,40 @@ Khmer vocabulary has been influenced by various languages throughout its history
 
 Many words related to religion, royalty, and formal or academic contexts come from Sanskrit or Pali:
 
-- **ព្រះ** (/preah/) - "sacred, royal" (from Sanskrit प्रिय "priya")
-- **សាសនា** (/saasənaa/) - "religion" (from Pali सासन "sāsana")
-- **វិទ្យាល័យ** (/wittyealəy/) - "high school" (from Sanskrit विद्यालय "vidyālaya")
+- **ព្រះ** (/preah/) - “sacred, royal” (from Sanskrit प्रिय “priya”)
+- **សាសនា** (/saasənaa/) - “religion” (from Pali सासन “sāsana”)
+- **វិទ្យាល័យ** (/wittyealəy/) - “high school” (from Sanskrit विद्यालय “vidyālaya”)
 
 ### Thai Loanwords
 
 Due to historical and cultural connections, Khmer has borrowed some words from Thai:
 
-- **ទូរទស្សន៍** (/tuureəʔtəh/) - "television" (from Thai โทรทัศน์ "thorathat")
-- **រថយន្ត** (/rɔːtʰəjun/) - "car" (from Thai รถยนต์ "rot yon")
+- **ទូរទស្សន៍** (/tuureəʔtəh/) - “television” (from Thai โทรทัศน์ “thorathat”)
+- **រថយន្ត** (/rɔːtʰəjun/) - “car” (from Thai รถยนต์ “rot yon”)
 
 ### French Loanwords
 
 Due to the French colonial period, many modern and technical terms are borrowed from French:
 
-- **កាហ្វេ** (/kaːfei/) - "coffee" (from French "café")
-- **ប៊ិច** (/bic/) - "pen" (from French "Bic", a brand name)
-- **ម៉ូតូ** (/moːtoː/) - "motorcycle" (from French "moto")
+- **កាហ្វេ** (/kaːfei/) - “coffee” (from French “café”)
+- **ប៊ិច** (/bic/) - “pen” (from French “Bic”, a brand name)
+- **ម៉ូតូ** (/moːtoː/) - “motorcycle” (from French “moto”)
 
 ### English Loanwords
 
 In recent years, many English words have entered Khmer, especially in technology and pop culture:
 
-- **កុំព្យូទ័រ** (/kompjuːtɔː/) - "computer"
-- **អ៊ីនធឺណិត** (/ʔiːntɨːnət/) - "internet"
-- **ហ្វេសប៊ុក** (/fɛːsbuk/) - "Facebook"
+- **កុំព្យូទ័រ** (/kompjuːtɔː/) - “computer”
+- **អ៊ីនធឺណិត** (/ʔiːntɨːnət/) - “internet”
+- **ហ្វេសប៊ុក** (/fɛːsbuk/) - “Facebook”
 
 ### Compound Words
 
 Khmer frequently forms new words by combining existing words:
 
-- **ទឹកដោះគោ** (/tɨk doh koo/) - "milk" (literally "water breast cow")
-- **រថយន្តក្រុង** (/rɔːtʰəjun kruŋ/) - "bus" (literally "car city")
-- **ទូរស័ព្ទដៃ** (/tuːrəsap dai/) - "mobile phone" (literally "telephone hand")
+- **ទឹកដោះគោ** (/tɨk doh koo/) - “milk” (literally “water breast cow”)
+- **រថយន្តក្រុង** (/rɔːtʰəjun kruŋ/) - “bus” (literally “car city”)
+- **ទូរស័ព្ទដៃ** (/tuːrəsap dai/) - “mobile phone” (literally “telephone hand”)
 
 ## Colloquial Khmer
 
@@ -265,15 +265,15 @@ Colloquial Khmer can differ significantly from formal or written Khmer. Some com
 
 Many words are shortened in casual speech:
 
-- **ទៅ** (/tɨw/) becomes **ទៅ៎** (/tə/) - "to go"
-- **មក** (/mɔːk/) becomes **ម៉ក** (/mok/) - "to come"
+- **ទៅ** (/tɨw/) becomes **ទៅ៎** (/tə/) - “to go”
+- **មក** (/mɔːk/) becomes **ម៉ក** (/mok/) - “to come”
 
 ### Slang and Idioms
 
 Khmer has many idiomatic expressions and slang terms:
 
-- **ស៊ីចុក** (/sii cuk/) - literally "eat painful", means "delicious"
-- **កុំព្រុស** (/kom pruh/) - literally "don't boil", means "don't worry"
+- **ស៊ីចុក** (/sii cuk/) - literally “eat painful”, means “delicious”
+- **កុំព្រុស** (/kom pruh/) - literally “don’t boil”, means “don’t worry”
 
 ### Particle Usage
 
@@ -284,28 +284,28 @@ Colloquial speech often uses particles for emphasis or to express emotions:
 - **ហើយ** (/haəj/) - used to express completion or impatience
 
 Example:
-- **ទៅណាហើយ?** (/tɨw naa haəj/) - "Where are you going?" (with a sense of impatience)
+- **ទៅណាហើយ?** (/tɨw naa haəj/) - “Where are you going?” (with a sense of impatience)
 
 ### Pronoun Dropping
 
 In casual speech, pronouns are often omitted when the subject is clear from context:
 
-- Formal: **តើអ្នកទៅណា?** (/taə neak tɨw naa/) - "Where are you going?"
-- Colloquial: **ទៅណា?** (/tɨw naa/) - "Where (are you) going?"
+- Formal: **តើអ្នកទៅណា?** (/taə neak tɨw naa/) - “Where are you going?”
+- Colloquial: **ទៅណា?** (/tɨw naa/) - “Where (are you) going?”
 
 ### Informal Pronouns
 
 Colloquial Khmer uses different pronouns than formal speech:
 
-- **អញ** (/aɲ/) - "I" (very informal, can be considered rude)
-- **ងឹង** (/ŋɨŋ/) - "you" (informal, used among close friends)
+- **អញ** (/aɲ/) - “I” (very informal, can be considered rude)
+- **ងឹង** (/ŋɨŋ/) - “you” (informal, used among close friends)
 
 ### Reduplication
 
 Khmer often uses reduplication for emphasis or to create new meanings:
 
-- **ថ្មីៗ** (/tməj tməj/) - "brand new" (from **ថ្មី** /tməj/ "new")
-- **ស្រស់ៗ** (/srɑh srɑh/) - "very fresh" (from **ស្រស់** /srɑh/ "fresh")
+- **ថ្មីៗ** (/tməj tməj/) - “brand new” (from **ថ្មី** /tməj/ “new”)
+- **ស្រស់ៗ** (/srɑh srɑh/) - “very fresh” (from **ស្រស់** /srɑh/ “fresh”)
 
 ## Register System
 
@@ -330,9 +330,9 @@ Examples of register differences:
 
 Khmer allows complex consonant clusters, especially in syllable-initial position:
 
-- **ស្រី** (/srəj/) - "woman"
-- **ក្រោម** (/kraom/) - "under"
-- **ស្វា** (/svaa/) - "monkey"
+- **ស្រី** (/srəj/) - “woman”
+- **ក្រោម** (/kraom/) - “under”
+- **ស្វា** (/svaa/) - “monkey”
 
 ### Final Consonants
 
@@ -348,8 +348,8 @@ Khmer has a limited set of consonants that can appear in syllable-final position
 
 Khmer exhibits a form of vowel harmony in some words, particularly those with infixes:
 
-- **ស្រស់** (/srɑh/) "fresh" → **ស្រសើរ** (/srɑsaə/) "to praise"
-- **ច្រើន** (/craən/) "many" → **ចំរើន** (/cɑmraən/) "to prosper"
+- **ស្រស់** (/srɑh/) “fresh” → **ស្រសើរ** (/srɑsaə/) “to praise”
+- **ច្រើន** (/craən/) “many” → **ចំរើន** (/cɑmraən/) “to prosper”
 
 ## Syntax
 
@@ -357,42 +357,42 @@ Khmer exhibits a form of vowel harmony in some words, particularly those with in
 
 While Khmer generally follows SVO order, it also frequently uses a topic-comment structure:
 
-- **លុយវិញ ខ្ញុំគ្មាន** (/luj vɨɲ kʰɲom kmien/) - "As for money, I don't have any" (literally "money return I not have")
+- **លុយវិញ ខ្ញុំគ្មាន** (/luj vɨɲ kʰɲom kmien/) - “As for money, I don’t have any” (literally “money return I not have”)
 
 ### Serial Verb Constructions
 
 Khmer makes extensive use of serial verb constructions, where multiple verbs are strung together without conjunctions:
 
-- **គាត់ដើរទៅផ្សារ** (/koat daə tɨw psaa/) - "He walks to the market" (literally "he walk go market")
+- **គាត់ដើរទៅផ្សារ** (/koat daə tɨw psaa/) - “He walks to the market” (literally “he walk go market”)
 
 ### Relative Clauses
 
 Relative clauses in Khmer typically follow the noun they modify and are introduced by the relative pronoun **ដែល** (/dael/):
 
-- **មនុស្សដែលខ្ញុំស្គាល់** (/mənuh dael kʰɲom skoel/) - "The person whom I know"
+- **មនុស្សដែលខ្ញុំស្គាល់** (/mənuh dael kʰɲom skoel/) - “The person whom I know”
 
 ### Comparative and Superlative
 
-Comparatives are formed using **ជាង** (/cieŋ/) "more than":
+Comparatives are formed using **ជាង** (/cieŋ/) “more than”:
 
-- **គាត់ខ្ពស់ជាងខ្ញុំ** (/koat kpuh cieŋ kʰɲom/) - "He is taller than me"
+- **គាត់ខ្ពស់ជាងខ្ញុំ** (/koat kpuh cieŋ kʰɲom/) - “He is taller than me”
 
-Superlatives use **ជាងគេ** (/cieŋ kee/) "more than all":
+Superlatives use **ជាងគេ** (/cieŋ kee/) “more than all”:
 
-- **គាត់ខ្ពស់ជាងគេ** (/koat kpuh cieŋ kee/) - "He is the tallest"
+- **គាត់ខ្ពស់ជាងគេ** (/koat kpuh cieŋ kee/) - “He is the tallest”
 
 ### Causatives
 
 Khmer has several ways to form causatives, including the prefix **បណ្ដាល** (/bɑndaal/):
 
-- **ដេក** (/deek/) "to sleep" → **បណ្ដាលឱ្យដេក** (/bɑndaal ʔaoj deek/) "to cause to sleep"
+- **ដេក** (/deek/) “to sleep” → **បណ្ដាលឱ្យដេក** (/bɑndaal ʔaoj deek/) “to cause to sleep”
 
 ## Idiomatic Expressions
 
 Khmer has many idiomatic expressions that reflect cultural values and ways of thinking:
 
-- **ស្លាប់ដូចគ្នា ស្មើគ្នា** (/slap dooc knie smaə knie/) - "We all die the same, we are all equal" (emphasizing equality)
-- **ដើរយឺតទៅមុខ ល្អជាងរត់ថយក្រោយ** (/daə jɨɨt tɨw muk lʔɑɑ cieŋ rut tʰɔɔj kraoj/) - "Walking slowly forward is better than running backward" (emphasizing steady progress)
+- **ស្លាប់ដូចគ្នា ស្មើគ្នា** (/slap dooc knie smaə knie/) - “We all die the same, we are all equal” (emphasizing equality)
+- **ដើរយឺតទៅមុខ ល្អជាងរត់ថយក្រោយ** (/daə jɨɨt tɨw muk lʔɑɑ cieŋ rut tʰɔɔj kraoj/) - “Walking slowly forward is better than running backward” (emphasizing steady progress)
 
 ## Numbers and Counting
 
@@ -416,7 +416,7 @@ Khmer uses a decimal system with unique words for numbers up to a million:
 
 When counting, Khmer uses classifiers between the number and the noun:
 
-- **សៀវភៅបីក្បាល** (/siəwpʰɨw bəj kbal/) - "three books" (literally "book three head")
+- **សៀវភៅបីក្បាល** (/siəwpʰɨw bəj kbal/) - “three books” (literally “book three head”)
 
 ## Kinship Terms
 

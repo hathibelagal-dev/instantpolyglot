@@ -295,7 +295,7 @@ Armenian vocabulary has been influenced by various languages throughout its hist
 Armenian uses various prefixes and suffixes for word formation:
 
 1. Prefixes:
-   - **ան-** (**an-**): negation (like English "un-" or "in-")
+   - **ան-** (**an-**): negation (like English “un-” or “in-”)
      Example: **հնար** (**hnar**) - possible → **անհնար** (**anhnar**) - impossible
 
 2. Suffixes:
@@ -349,22 +349,22 @@ Colloquial Armenian, especially in Yerevan (the capital of Armenia), has some di
    - **ինչպե՞ս ես** (**inchpes es**) → **ինչպե՞ս էս** (**inchpes es**) - How are you?
 
 2. Contraction of words:
-   - **չգիտեմ** (**chgitem**) → **չէմ** (**chem**) - I don't know
+   - **չգիտեմ** (**chgitem**) → **չէմ** (**chem**) - I don’t know
 
 3. Use of Russian loanwords:
    - **пока** (poka) instead of **ցտեսություն** (**ts'tesut'yun**) - goodbye
 
 4. Slang expressions:
-   - **ախպեր** (**axper**) - bro (literally "brother")
+   - **ախպեր** (**axper**) - bro (literally “brother”)
 
 ## Idiomatic Expressions
 
 Armenian has many idiomatic expressions. Here are a few examples:
 
-1. **Աչքդ լույս** (**Achk'd luys**) - Congratulations (literally "Light to your eye")
-2. **Գլուխս պտտվում է** (**Gluxs pttvum e**) - I'm dizzy (literally "My head is spinning")
-3. **Լեզուն կուլ տալ** (**Lezun kul tal**) - To keep silent (literally "To swallow one's tongue")
-4. **Ականջը կախ** (**Akanjə kax**) - To be upset (literally "Ear hanging")
+1. **Աչքդ լույս** (**Achk'd luys**) - Congratulations (literally “Light to your eye”)
+2. **Գլուխս պտտվում է** (**Gluxs pttvum e**) - I'm dizzy (literally “My head is spinning”)
+3. **Լեզուն կուլ տալ** (**Lezun kul tal**) - To keep silent (literally “To swallow one's tongue”)
+4. **Ականջը կախ** (**Akanjə kax**) - To be upset (literally “Ear hanging”)
 
 ## Phonological Processes
 
@@ -451,7 +451,7 @@ Armenian has been quite resistant to loanwords historically, often creating new 
 
 ## Honorifics and Formality
 
-Armenian has a formal and informal "you" distinction:
+Armenian has a formal and informal “you” distinction:
 
 - Informal: **դու** (**du**)
 - Formal: **դուք** (**duk'**)
@@ -482,8 +482,8 @@ Armenian has a rich tradition of proverbs and sayings. Here are a few examples:
    Literal: The road is found by walking.
 
 3. **Մի ծաղիկով գարուն չի գա։** (**Mi tsaghikov garun chi ga.**)
-   Meaning: One swallow doesn't make a summer.
-   Literal: Spring doesn't come with one flower.
+   Meaning: One swallow doesn’t make a summer.
+   Literal: Spring doesn’t come with one flower.
 
 4. **Ձուկը գլխից է հոտում։** (**Dzukə glxits' e hotum.**)
    Meaning: The fish rots from the head down.

@@ -12,14 +12,14 @@ Turkish has 8 vowels:
 
 | Letter | Sound | IPA |
 |--------|-------|-----|
-| a | as in "father" | [a] |
-| e | as in "bed" | [e] |
-| ı | similar to the second vowel in "roses" | [ɯ] |
-| i | as in "meet" | [i] |
-| o | as in "door" | [o] |
-| ö | as in German "schön" | [ø] |
-| u | as in "boot" | [u] |
-| ü | as in German "über" | [y] |
+| a | as in “father” | [a] |
+| e | as in “bed” | [e] |
+| ı | similar to the second vowel in “roses” | [ɯ] |
+| i | as in “meet” | [i] |
+| o | as in “door” | [o] |
+| ö | as in German “schön” | [ø] |
+| u | as in “boot” | [u] |
+| ü | as in German “über” | [y] |
 
 Turkish vowels are characterized by vowel harmony, a crucial feature of the language that we'll discuss in more detail later.
 
@@ -29,27 +29,27 @@ Turkish has 21 consonants:
 
 | Letter | Sound | IPA |
 |--------|-------|-----|
-| b | as in "bed" | [b] |
-| c | as in "jam" | [dʒ] |
-| ç | as in "church" | [tʃ] |
-| d | as in "door" | [d] |
-| f | as in "father" | [f] |
-| g | as in "go" | [ɡ] |
+| b | as in “bed” | [b] |
+| c | as in “jam” | [dʒ] |
+| ç | as in “church” | [tʃ] |
+| d | as in “door” | [d] |
+| f | as in “father” | [f] |
+| g | as in “go” | [ɡ] |
 | ğ | silent, lengthens preceding vowel | - |
-| h | as in "hope" | [h] |
-| j | as in "measure" | [ʒ] |
-| k | as in "key" | [k] |
-| l | as in "love" | [l] |
-| m | as in "mother" | [m] |
-| n | as in "no" | [n] |
-| p | as in "pen" | [p] |
+| h | as in “hope” | [h] |
+| j | as in “measure” | [ʒ] |
+| k | as in “key” | [k] |
+| l | as in “love” | [l] |
+| m | as in “mother” | [m] |
+| n | as in “no” | [n] |
+| p | as in “pen” | [p] |
 | r | rolled, as in Spanish | [r] |
-| s | as in "sun" | [s] |
-| ş | as in "ship" | [ʃ] |
-| t | as in "tea" | [t] |
-| v | as in "voice" | [v] |
-| y | as in "yes" | [j] |
-| z | as in "zebra" | [z] |
+| s | as in “sun” | [s] |
+| ş | as in “ship” | [ʃ] |
+| t | as in “tea” | [t] |
+| v | as in “voice” | [v] |
+| y | as in “yes” | [j] |
+| z | as in “zebra” | [z] |
 
 ### Stress
 
@@ -59,7 +59,7 @@ In Turkish, stress typically falls on the last syllable of a word. However, ther
 2. Some loan words maintain their original stress: **'telefon** (telephone), **'lüks** (luxury).
 3. Some suffixes do not take stress, keeping it on the last syllable of the root word:
    - The question particle **mı/mi/mu/mü**: **geli'yor mu?** (Is he/she coming?)
-   - The negative suffix **-me/-ma**: **'gelme** (don't come)
+   - The negative suffix **-me/-ma**: **'gelme** (don’t come)
    - Some adverbial suffixes: **'hızlıca** (quickly)
 
 ### Notable pronunciation features
@@ -79,7 +79,7 @@ Turkish is an agglutinative language, meaning that complex words are formed by a
 
 ### Nouns
 
-Turkish nouns are relatively simple compared to many other languages. They do not have grammatical gender, and there's no need for articles (like "the" or "a" in English).
+Turkish nouns are relatively simple compared to many other languages. They do not have grammatical gender, and there's no need for articles (like “the” or “a” in English).
 
 #### Cases
 
@@ -217,8 +217,8 @@ Ordinal numbers are formed by adding the suffix -inci/ıncı/uncu/üncü:
 - 4th - **dördüncü**
 
 When using numbers with nouns, the noun remains in the singular form:
-- **üç elma** (three apples, literally "three apple")
-- **on kitap** (ten books, literally "ten book")
+- **üç elma** (three apples, literally “three apple”)
+- **on kitap** (ten books, literally “ten book”)
 
 ### Verbs
 
@@ -357,12 +357,12 @@ Turkish has several participle forms:
    - **pişmiş yemek** (cooked food)
 
 3. Future participle (-ecek/-acak):
-   - **gelecek hafta** (next week, literally "the week that will come")
+   - **gelecek hafta** (next week, literally “the week that will come”)
    - **yapılacak iş** (the work to be done)
 
 4. Habitual participle (-er/-ar):
-   - **güler yüz** (smiling face, literally "face that smiles")
-   - **akar su** (running water, literally "water that flows")
+   - **güler yüz** (smiling face, literally “face that smiles”)
+   - **akar su** (running water, literally “water that flows”)
 
 ### Gerunds
 
@@ -469,7 +469,7 @@ In addition to vowel harmony, Turkish also exhibits consonant assimilation. This
 
 Turkish has a complex system of honorifics and politeness markers:
 
-1. Second person plural pronoun **siz** is used as a formal "you" for singular addressees:
+1. Second person plural pronoun **siz** is used as a formal “you” for singular addressees:
    - **Nasılsınız?** (How are you? - formal)
    - **Nasılsın?** (How are you? - informal)
 
@@ -490,8 +490,8 @@ Turkish has a complex system of honorifics and politeness markers:
 Turkish uses reduplication to intensify adjectives and adverbs:
 
 1. Full reduplication:
-   - **yavaş yavaş** (very slowly, literally "slow slow")
-   - **hızlı hızlı** (very quickly, literally "quick quick")
+   - **yavaş yavaş** (very slowly, literally “slow slow”)
+   - **hızlı hızlı** (very quickly, literally “quick quick”)
 
 2. Partial reduplication with m-:
    - **kırmızı** (red) → **kıpkırmızı** (bright red)
@@ -502,21 +502,21 @@ Turkish uses reduplication to intensify adjectives and adverbs:
 Turkish forms compounds in several ways:
 
 1. Simple juxtaposition:
-   - **demir yolu** (railroad, literally "iron road")
-   - **çaydanlık** (teapot, from **çay** "tea" + **-dan** "container" + **-lık** "device for")
+   - **demir yolu** (railroad, literally “iron road”)
+   - **çaydanlık** (teapot, from **çay** “tea” + **-dan** “container” + **-lık** “device for”)
 
 2. With the compound marker -(s)i:
    - **Türk kahvesi** (Turkish coffee)
-   - **çocuk bahçesi** (kindergarten, literally "child garden")
+   - **çocuk bahçesi** (kindergarten, literally “child garden”)
 
 ### Idioms and expressions
 
 Turkish has many colorful idioms and expressions:
 
-- **Gözden düşmek** (to fall from favor, literally "to fall from the eye")
-- **Kulak kabartmak** (to eavesdrop, literally "to raise one's ear")
-- **Ağzı kulaklarına varmak** (to be very happy, literally "one's mouth reaches one's ears")
-- **Etekleri zil çalmak** (to be very excited, literally "one's skirts ring bells")
+- **Gözden düşmek** (to fall from favor, literally “to fall from the eye”)
+- **Kulak kabartmak** (to eavesdrop, literally “to raise one's ear”)
+- **Ağzı kulaklarına varmak** (to be very happy, literally “one's mouth reaches one's ears”)
+- **Etekleri zil çalmak** (to be very excited, literally “one's skirts ring bells”)
 
 ### Loanwords
 
@@ -527,15 +527,15 @@ Turkish has borrowed words from various languages throughout its history:
    - **dost** (friend, from Persian)
 
 2. French:
-   - **kuaför** (hairdresser, from French "coiffeur")
-   - **pantolon** (trousers, from French "pantalon")
+   - **kuaför** (hairdresser, from French “coiffeur”)
+   - **pantolon** (trousers, from French “pantalon”)
 
 3. Italian:
-   - **gazete** (newspaper, from Italian "gazzetta")
-   - **palyaço** (clown, from Italian "pagliaccio")
+   - **gazete** (newspaper, from Italian “gazzetta”)
+   - **palyaço** (clown, from Italian “pagliaccio”)
 
 4. English (more recent borrowings):
-   - **bilgisayar** (computer, a Turkish neologism meaning "information counter")
+   - **bilgisayar** (computer, a Turkish neologism meaning “information counter”)
    - **internet** (internet)
 
 ### Colloquial Turkish
@@ -552,7 +552,7 @@ Colloquial Turkish often differs from the standard written language:
 
 3. Informal pronouns:
    - **kanka** (buddy, close friend)
-   - **hacı** (literally "pilgrim," used informally like "dude")
+   - **hacı** (literally “pilgrim,” used informally like “dude”)
 
 4. Slang:
    - **cool** → **havalı**
@@ -573,7 +573,7 @@ While Turkish is relatively uniform across Turkey, there are some regional varia
    - Uses some different vocabulary items
 
 4. Aegean dialect:
-   - Often softens the "k" sound to "g": **kalk** → **kalg** (stand up)
+   - Often softens the “k” sound to “g”: **kalk** → **kalg** (stand up)
    - Has a more melodic intonation
 
 ### Writing system
@@ -591,5 +591,5 @@ Capitalization rules in Turkish are similar to English, with some exceptions:
 
 Punctuation in Turkish is generally similar to English, with a few differences:
 
-- Quotation marks: „ " or " " (both forms are acceptable)
+- Quotation marks: „ “ or ” " (both forms are acceptable)
 - Apostrophes are used to separate proper nouns from suffixes: **Türkiye'de** (in Turkey)

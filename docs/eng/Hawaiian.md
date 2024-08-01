@@ -291,7 +291,7 @@ Hawaiian has specific terms for family relationships, often distinguishing betwe
 
 Hawaiian has adopted many loanwords, particularly for modern concepts:
 
-- **kauka** (doctor, from English "doctor")
+- **kauka** (doctor, from English “doctor”)
 - **pāka** (park)
 - **kāmela** (camel)
 - **kepakī** (cabbage)
@@ -312,7 +312,7 @@ Hawaiian has many idiomatic expressions that reflect cultural values and perspec
 - **Mālama pono** (Take care properly) - A phrase encouraging responsible behavior
 - **A hui hou** (Until we meet again) - A common farewell
 - **Ua mau ke ea o ka ʻāina i ka pono** (The life of the land is perpetuated in righteousness) - The state motto of Hawaii
-- **Mai poina** (Don't forget) - A reminder to remember important things or people
+- **Mai poina** (Don’t forget) - A reminder to remember important things or people
 
 ## Reduplication
 
@@ -382,7 +382,7 @@ The pronunciation of 'w' can vary:
 
 ### Equational Sentences
 
-Hawaiian uses equational sentences to express "to be" concepts:
+Hawaiian uses equational sentences to express “to be” concepts:
 
 **He kumu ʻo Keola.** (Keola is a teacher.)
 [Indefinite article] + teacher + [subject marker] + Keola
@@ -401,9 +401,9 @@ Example:
 
 Hawaiian often forms compound nouns by combining two or more words:
 
-- **hale pule** (church, literally "house prayer")
-- **waihona puke** (library, literally "repository book")
-- **kumu hula** (hula teacher, literally "source hula")
+- **hale pule** (church, literally “house prayer”)
+- **waihona puke** (library, literally “repository book”)
+- **kumu hula** (hula teacher, literally “source hula”)
 
 ## Verb Phrases
 
@@ -476,9 +476,9 @@ Superlatives use **loa**:
 In Hawaiian, verbs can be nominalized by adding the definite article **ka/ke**:
 
 **ʻaʻole maopopo iaʻu ke kākau ʻana**
-(I don't understand the writing)
+(I don’t understand the writing)
 
-Here, **kākau** (to write) becomes a noun "the writing" with the addition of **ke** and **ʻana**.
+Here, **kākau** (to write) becomes a noun “the writing” with the addition of **ke** and **ʻana**.
 
 ## Locatives
 
@@ -614,8 +614,8 @@ Hawaiian traditionally used a base-4 counting system for some items:
 - **lua** (two)
 - **kolu** (three)
 - **hā** (four)
-- **lima** (five, or "one hand")
-- **ʻumi** (ten, or "two hands")
+- **lima** (five, or “one hand”)
+- **ʻumi** (ten, or “two hands”)
 
 ## Pronunciation Variation
 

@@ -12,15 +12,15 @@ Welsh has both short and long vowels. The length of a vowel can change the meani
 
 | Letter | Sound (short) | Sound (long) |
 |--------|---------------|--------------|
-| a | [a] as in "cat" | [aː] as in "father" |
-| e | [ɛ] as in "pet" | [eː] as in "play" |
-| i | [ɪ] as in "bit" | [iː] as in "meet" |
-| o | [ɔ] as in "pot" | [oː] as in "boat" |
+| a | [a] as in “cat” | [aː] as in “father” |
+| e | [ɛ] as in “pet” | [eː] as in “play” |
+| i | [ɪ] as in “bit” | [iː] as in “meet” |
+| o | [ɔ] as in “pot” | [oː] as in “boat” |
 | u | [ɨ] (no English equivalent) | [ɨː] (longer version) |
-| w | [ʊ] as in "put" | [uː] as in "boot" |
-| y | [ə] as in "about" or [ɨ] | [əː] or [ɨː] |
+| w | [ʊ] as in “put” | [uː] as in “boot” |
+| y | [ə] as in “about” or [ɨ] | [əː] or [ɨː] |
 
-The letter "y" can represent different sounds depending on its position in a word and the dialect.
+The letter “y” can represent different sounds depending on its position in a word and the dialect.
 
 ### Consonants
 
@@ -29,8 +29,8 @@ Most consonants are pronounced similarly to English, with some notable exception
 | Letter/Digraph | Sound |
 |----------------|-------|
 | c | Always [k], never [s] |
-| ch | [x] (like Scottish "loch") |
-| dd | [ð] (like "th" in "this") |
+| ch | [x] (like Scottish “loch”) |
+| dd | [ð] (like “th” in “this”) |
 | f | [v] |
 | ff | [f] |
 | g | Always hard [ɡ], never [dʒ] |
@@ -106,7 +106,7 @@ Welsh also has a system of collective nouns and singulatives. For some nouns, pa
 
 ### Articles
 
-Welsh has no indefinite article equivalent to English "a" or "an". The definite article "the" is **y** before consonants and **yr** before vowels:
+Welsh has no indefinite article equivalent to English “a” or “an”. The definite article “the” is **y** before consonants and **yr** before vowels:
 
 - **y ci** (the dog)
 - **yr afon** (the river)
@@ -253,9 +253,9 @@ Welsh has several tenses and aspects, including:
    - **Byddwn i'n canu** (I would sing)
    - **Canwn** (I would sing)
 
-### The Verb "bod" (to be)
+### The Verb “bod” (to be)
 
-The verb "bod" is irregular and is used both as a main verb and an auxiliary. Here are some of its forms:
+The verb “bod” is irregular and is used both as a main verb and an auxiliary. Here are some of its forms:
 
 Present:
 - **dw i** (I am)
@@ -284,9 +284,9 @@ Future:
 - **byddwch chi** (you will be, plural/formal)
 - **byddan nhw** (they will be)
 
-### Aspect: "Gwneud" (to do/make) as an Auxiliary
+### Aspect: “Gwneud” (to do/make) as an Auxiliary
 
-Welsh often uses the verb "gwneud" as an auxiliary to emphasize or question an action:
+Welsh often uses the verb “gwneud” as an auxiliary to emphasize or question an action:
 
 - **Gwnes i ganu** (I did sing)
 - **Wnes ti ganu?** (Did you sing?)
@@ -327,7 +327,7 @@ Questions can be formed in several ways:
    - **Beth wyt ti'n wneud?** (What are you doing?)
    - **Pwy yw e?** (Who is he?)
 
-2. By using the interrogative form of "bod":
+2. By using the interrogative form of “bod”:
    - **Wyt ti'n hoffi coffi?** (Do you like coffee?)
    - **Ydych chi'n siarad Cymraeg?** (Do you speak Welsh?)
 
@@ -338,12 +338,12 @@ Questions can be formed in several ways:
 
 Negation is typically formed using **ddim**:
 
-- **Dw i ddim yn hoffi coffi** (I don't like coffee)
-- **Fydd e ddim yn dod** (He won't come)
+- **Dw i ddim yn hoffi coffi** (I don’t like coffee)
+- **Fydd e ddim yn dod** (He won’t come)
 
 Some verbs have specific negative forms:
 - **Mae** (is) → **Dydy... ddim** (is not)
-- **Oes** (there is) → **Does... ddim** (there isn't)
+- **Oes** (there is) → **Does... ddim** (there isn’t)
 
 ### Relative Clauses
 
@@ -360,8 +360,8 @@ Possession can be expressed in several ways:
    - **fy nhŷ** (my house)
    - **ei char hi** (her car)
 
-2. Using the possessive construction with "gan":
-   - **Mae car gan Siân** (Siân has a car, literally "There is a car with Siân")
+2. Using the possessive construction with “gan”:
+   - **Mae car gan Siân** (Siân has a car, literally “There is a car with Siân”)
 
 3. Using the construct state (more formal):
    - **tŷ'r athro** (the teacher's house)
@@ -377,7 +377,7 @@ Welsh allows for emphasis by fronting different parts of the sentence:
 
 Welsh often uses impersonal constructions where English might use passive voice:
 
-- **Gwelwyd y ci** (The dog was seen, literally "One saw the dog")
+- **Gwelwyd y ci** (The dog was seen, literally “One saw the dog”)
 
 ## Vocabulary
 
@@ -391,10 +391,10 @@ Welsh vocabulary has been influenced by various languages throughout its history
    - **cariad** (love)
 
 2. Latin loanwords (often through religious influence):
-   - **eglwys** (church, from Latin "ecclesia")
-   - **ffenestr** (window, from Latin "fenestra")
-   - **pont** (bridge, from Latin "pons")
-   - **ysgol** (school, from Latin "schola")
+   - **eglwys** (church, from Latin “ecclesia”)
+   - **ffenestr** (window, from Latin “fenestra”)
+   - **pont** (bridge, from Latin “pons”)
+   - **ysgol** (school, from Latin “schola”)
 
 3. English loanwords:
    - **trên** (train)
@@ -413,9 +413,9 @@ Many Welsh words have cognates in other Celtic languages, particularly Breton an
 - Welsh **dŵr** (water), Breton **dour**, Cornish **dowr**
 
 Welsh has also contributed some words to English, including:
-- "corgi" (from Welsh **cor** "dwarf" + **ci** "dog")
-- "bard" (from Welsh **bardd**)
-- "penguin" (possibly from Welsh **pen gwyn** "white head")
+- “corgi” (from Welsh **cor** “dwarf” + **ci** “dog”)
+- “bard” (from Welsh **bardd**)
+- “penguin” (possibly from Welsh **pen gwyn** “white head”)
 
 ### Word Formation
 
@@ -441,7 +441,7 @@ Welsh has many colorful idiomatic expressions:
 - **Mae hi'n bwrw hen wragedd a ffyn** (It's raining old women and sticks) - It's raining heavily
 - **Fel arfer** (As usual) - Usually
 - **Diolch yn fawr** (Thank you big) - Thank you very much
-- **Nos da** (Good night) - Literally "Night good"
+- **Nos da** (Good night) - Literally “Night good”
 
 ## Dialects
 
@@ -456,8 +456,8 @@ Characteristics of Northern dialects include:
    - Words like **llaeth** (milk) are pronounced with two syllables: [ɬaɨθ]
 
 2. Vocabulary:
-   - **fo** instead of **fe** for "he"
-   - **rŵan** instead of **nawr** for "now"
+   - **fo** instead of **fe** for “he”
+   - **rŵan** instead of **nawr** for “now”
 
 3. Grammar:
    - Use of **'di** instead of **wedi** in perfect constructions:
@@ -472,8 +472,8 @@ Features of Southern dialects include:
    - Words like **llaeth** are pronounced with one syllable: [ɬaiθ]
 
 2. Vocabulary:
-   - **e** or **fe** instead of **fo** for "he"
-   - **nawr** instead of **rŵan** for "now"
+   - **e** or **fe** instead of **fo** for “he”
+   - **nawr** instead of **rŵan** for “now”
 
 3. Grammar:
    - More frequent use of the present tense ending **-ith**:
@@ -491,11 +491,11 @@ Welsh phonology has several distinctive features:
 
 Welsh has a number of consonants not found in English:
 
-1. Voiceless lateral fricative [ɬ], spelled "ll":
+1. Voiceless lateral fricative [ɬ], spelled “ll”:
    - **llaeth** [ɬaiθ] (milk)
    - **llan** [ɬan] (church)
 
-2. Voiceless alveolar trill [r̥], spelled "rh":
+2. Voiceless alveolar trill [r̥], spelled “rh”:
    - **rhaid** [r̥aid] (must)
    - **rhed** [r̥ɛd] (run)
 
@@ -581,7 +581,7 @@ Welsh, like many languages, has distinctions between formal and informal languag
 The second person singular has two forms:
 
 - Informal: **ti**
-- Formal: **chi** (also used for plural "you")
+- Formal: **chi** (also used for plural “you”)
 
 ### Verb Forms
 

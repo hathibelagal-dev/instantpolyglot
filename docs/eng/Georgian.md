@@ -51,8 +51,8 @@ The Georgian alphabet, known as Mkhedruli (მხედრული), consists o
 2. Vowels: Georgian has five vowels (ა, ე, ი, ო, უ), which are generally pronounced as in Italian or Spanish.
 
 3. Consonant Clusters: Georgian is known for its complex consonant clusters, which can occur at the beginning, middle, or end of words. For example:
-   - **გვპრთხილობს** /gvprtʰxilɔbs/ ("he/she is warning us")
-   - **მწვრთნელი** /mtsʼvrtʰnɛli/ ("coach")
+   - **გვპრთხილობს** /gvprtʰxilɔbs/ (“he/she is warning us”)
+   - **მწვრთნელი** /mtsʼvrtʰnɛli/ (“coach”)
 
 4. Stress: Stress in Georgian is generally weak and falls on the first syllable of a word, but it can shift in certain grammatical forms or compound words.
 
@@ -68,12 +68,12 @@ Nouns in Georgian do not have grammatical gender. They decline for number (singu
 
 The plural is typically formed by adding the suffix -ები (-ebi) to the singular form:
 
-- **წიგნი** (tsigni) "book" → **წიგნები** (tsignebi) "books"
-- **კაცი** (katsi) "man" → **კაცები** (katsebi) "men"
+- **წიგნი** (tsigni) “book” → **წიგნები** (tsignebi) “books”
+- **კაცი** (katsi) “man” → **კაცები** (katsebi) “men”
 
 Some nouns have irregular plurals:
-- **ძმა** (dzma) "brother" → **ძმები** (dzmebi) "brothers"
-- **და** (da) "sister" → **დები** (debi) "sisters"
+- **ძმა** (dzma) “brother” → **ძმები** (dzmebi) “brothers”
+- **და** (da) “sister” → **დები** (debi) “sisters”
 
 #### Cases
 
@@ -87,7 +87,7 @@ Georgian has seven cases:
 6. Adverbial (purpose, function)
 7. Vocative (direct address)
 
-Example declension of **კაცი** (katsi) "man":
+Example declension of **კაცი** (katsi) “man”:
 
 | Case | Singular | Plural |
 |------|----------|--------|
@@ -103,17 +103,17 @@ Example declension of **კაცი** (katsi) "man":
 
 Adjectives in Georgian usually precede the noun they modify and agree with it in case and number. Most adjectives end in -ი (-i) in their basic form.
 
-Example with **დიდი** (didi) "big":
+Example with **დიდი** (didi) “big”:
 
-- Nominative: **დიდი სახლი** (didi sakhli) "big house"
-- Ergative: **დიდმა სახლმა** (didma sakhlma) "by the big house"
-- Dative: **დიდ სახლს** (did sakhls) "to the big house"
+- Nominative: **დიდი სახლი** (didi sakhli) “big house”
+- Ergative: **დიდმა სახლმა** (didma sakhlma) “by the big house”
+- Dative: **დიდ სახლს** (did sakhls) “to the big house”
 
 Comparatives are formed with the prefix უ- (u-) and suffix -ეს (-es):
-- **დიდი** (didi) "big" → **უდიდესი** (udidesi) "biggest"
+- **დიდი** (didi) “big” → **უდიდესი** (udidesi) “biggest”
 
-Superlatives add the prefix ყველაზე (qvelaze) "most" to the comparative:
-- **ყველაზე უდიდესი** (qvelaze udidesi) "the biggest"
+Superlatives add the prefix ყველაზე (qvelaze) “most” to the comparative:
+- **ყველაზე უდიდესი** (qvelaze udidesi) “the biggest”
 
 ### Pronouns
 
@@ -129,14 +129,14 @@ Personal pronouns in Georgian decline for case but not for gender. Here are the 
 | 3pl | ისინი (isini) | მათ (mat) |
 
 Demonstrative pronouns:
-- **ეს** (es) "this" (near)
-- **ეგ** (eg) "that" (medium distance)
-- **ის** (is) "that" (far)
+- **ეს** (es) “this” (near)
+- **ეგ** (eg) “that” (medium distance)
+- **ის** (is) “that” (far)
 
 Possessive pronouns are formed by adding the genitive case ending to personal pronouns:
-- **ჩემი** (chemi) "my"
-- **შენი** (sheni) "your"
-- **მისი** (misi) "his/her/its"
+- **ჩემი** (chemi) “my”
+- **შენი** (sheni) “your”
+- **მისი** (misi) “his/her/its”
 
 ### Verbs
 
@@ -167,7 +167,7 @@ A Georgian verb can have the following structure:
 
 (Preverb) - (Version vowel) - Root - (Thematic suffix) - (Screeve marker) - Person marker
 
-Example with the verb **აკეთებს** (aketebs) "he/she does":
+Example with the verb **აკეთებს** (aketebs) “he/she does”:
 
 - Preverb: **გა-** (ga-)
 - Version vowel: **ა-** (a-)
@@ -177,7 +177,7 @@ Example with the verb **აკეთებს** (aketebs) "he/she does":
 
 #### Conjugation Example
 
-Let's conjugate the verb **აკეთებს** (aketebs) "to do" in the present tense:
+Let's conjugate the verb **აკეთებს** (aketebs) “to do” in the present tense:
 
 | Person | Singular | Plural |
 |--------|----------|--------|
@@ -189,15 +189,15 @@ Let's conjugate the verb **აკეთებს** (aketebs) "to do" in the pres
 
 Georgian verbs have perfective and imperfective aspects, often distinguished by preverbs:
 
-- Imperfective: **აკეთებს** (aketebs) "he/she is doing"
-- Perfective: **გააკეთებს** (gaaketebs) "he/she will do"
+- Imperfective: **აკეთებს** (aketebs) “he/she is doing”
+- Perfective: **გააკეთებს** (gaaketebs) “he/she will do”
 
 #### Passive Voice
 
 Passive voice is formed by adding the prefix **ი-** (i-) or **ე-** (e-) to the verb stem:
 
-- Active: **აშენებს** (ashenebs) "he/she builds"
-- Passive: **შენდება** (shendeba) "it is being built"
+- Active: **აშენებს** (ashenebs) “he/she builds”
+- Passive: **შენდება** (shendeba) “it is being built”
 
 ## Syntax
 
@@ -212,7 +212,7 @@ A typical Georgian sentence follows this pattern:
 Example:
 **გიორგი მარიამს წიგნს აძლევს.**
 (Giorgi Mariams tsigns adzlevs.)
-"George gives Mary a book."
+“George gives Mary a book.”
 
 ### Agreement
 
@@ -220,9 +220,9 @@ Verbs agree with both the subject and direct object in person and number:
 
 **მე შენ გხედავ.**
 (Me shen gkhedav.)
-"I see you."
+“I see you.”
 
-Here, the verb **გხედავ** (gkhedav) contains markers for both the first-person subject ("I") and the second-person object ("you").
+Here, the verb **გხედავ** (gkhedav) contains markers for both the first-person subject (“I”) and the second-person object (“you”).
 
 ### Postpositions
 
@@ -230,59 +230,59 @@ Georgian uses postpositions rather than prepositions:
 
 **სახლის წინ**
 (sakhlis tsin)
-"in front of the house"
+“in front of the house”
 
 ### Relative Clauses
 
-Relative clauses are formed using the relative pronoun **რომელიც** (romelits) "which":
+Relative clauses are formed using the relative pronoun **რომელიც** (romelits) “which”:
 
 **კაცი, რომელიც აქ ცხოვრობს, ჩემი მეზობელია.**
 (Katsi, romelits ak tskhovrobs, chemi mezobelia.)
-"The man who lives here is my neighbor."
+“The man who lives here is my neighbor.”
 
 ### Questions
 
 Questions can be formed by adding the particle **-ა** (-a) to the verb or using question words:
 
-- **მოდიხარ?** (modikhar?) "Are you coming?"
-- **სად მიდიხარ?** (sad midikhar?) "Where are you going?"
+- **მოდიხარ?** (modikhar?) “Are you coming?”
+- **სად მიდიხარ?** (sad midikhar?) “Where are you going?”
 
 ## Vocabulary
 
 Georgian vocabulary is primarily derived from Common Kartvelian roots, but has been influenced by various languages throughout its history:
 
 1. Persian: 
-   - **ფანჯარა** (panjara) "window"
-   - **ქალაქი** (kalaki) "city"
+   - **ფანჯარა** (panjara) “window”
+   - **ქალაქი** (kalaki) “city”
 
 2. Arabic:
-   - **ალამი** (alami) "flag"
-   - **ქარავანი** (karavani) "caravan"
+   - **ალამი** (alami) “flag”
+   - **ქარავანი** (karavani) “caravan”
 
 3. Greek:
-   - **ანგელოზი** (angelozi) "angel"
-   - **ეკლესია** (eklesia) "church"
+   - **ანგელოზი** (angelozi) “angel”
+   - **ეკლესია** (eklesia) “church”
 
 4. Turkish:
-   - **ფაშა** (pasha) "pasha"
-   - **ყავა** (qava) "coffee"
+   - **ფაშა** (pasha) “pasha”
+   - **ყავა** (qava) “coffee”
 
 5. Russian (mostly modern terms):
-   - **მანქანა** (mankan) "car"
-   - **ტელევიზორი** (televizori) "television"
+   - **მანქანა** (mankan) “car”
+   - **ტელევიზორი** (televizori) “television”
 
 ### Word Formation
 
 Georgian uses several methods for word formation:
 
 1. Compounding:
-   - **მზე** (mze) "sun" + **სინათლე** (sinatle) "light" → **მზესინათლე** (mzesinatle) "sunlight"
+   - **მზე** (mze) “sun” + **სინათლე** (sinatle) “light” → **მზესინათლე** (mzesinatle) “sunlight”
 
 2. Affixation:
-   - **წერა** (tsera) "to write" → **მწერალი** (mtserali) "writer"
+   - **წერა** (tsera) “to write” → **მწერალი** (mtserali) “writer”
 
 3. Conversion:
-   - **თეთრი** (tetri) "white" → **თეთრი** (tetri) "coin" (historically a silver coin)
+   - **თეთრი** (tetri) “white” → **თეთრი** (tetri) “coin” (historically a silver coin)
 
 ## Dialects
 
@@ -305,88 +305,88 @@ Standard Georgian is based on the Kartlian dialect, but incorporates features fr
 Colloquial Georgian can differ significantly from the standard written language:
 
 1. Contractions:
-   - Standard: **არ არის** (ar aris) "is not"
+   - Standard: **არ არის** (ar aris) “is not”
    - Colloquial: **არაა** (araa)
 
 2. Vowel reduction:
-   - Standard: **გამარჯობა** (gamarjoba) "hello"
+   - Standard: **გამარჯობა** (gamarjoba) “hello”
    - Colloquial: **გამარჯობ** (gamarjob)
 
 3. Particle usage:
    - The particle **-ო** (-o) is often added to reported speech in colloquial Georgian:
-     **მოვდივარო** (modivaro) "He says he's coming"
+     **მოვდივარო** (modivaro) “He says he's coming”
 
 4. Loanwords:
    Colloquial Georgian, especially among younger speakers, incorporates many English loanwords:
-   - **ოკეი** (okei) "okay"
-   - **ბაი** (bai) "bye"
+   - **ოკეი** (okei) “okay”
+   - **ბაი** (bai) “bye”
 
 ## Idiomatic Expressions
 
 Georgian has many colorful idiomatic expressions:
 
-1. **შენი ჭირიმე** (sheni chirime) - literally "may I take your trouble," used as a term of endearment or gratitude
+1. **შენი ჭირიმე** (sheni chirime) - literally “may I take your trouble,” used as a term of endearment or gratitude
 
-2. **გულის გახეთქვა** (gulis gakhetkva) - literally "to tear one's heart," meaning to worry excessively
+2. **გულის გახეთქვა** (gulis gakhetkva) - literally “to tear one's heart,” meaning to worry excessively
 
-3. **თავის მოკატუნება** (tavis mokatuneba) - literally "to make oneself into a kitten," meaning to pretend to be innocent
+3. **თავის მოკატუნება** (tavis mokatuneba) - literally “to make oneself into a kitten,” meaning to pretend to be innocent
 
-4. **ენის მოტეხვა** (enis motexva) - literally "to break one's tongue," meaning to struggle with pronunciation
+4. **ენის მოტეხვა** (enis motexva) - literally “to break one's tongue,” meaning to struggle with pronunciation
 
-5. **ყურების ჩამოყრა** (qurebis chamoqra) - literally "to drop one's ears," meaning to become sad or disappointed
+5. **ყურების ჩამოყრა** (qurebis chamoqra) - literally “to drop one's ears,” meaning to become sad or disappointed
 
 ## Phonological Processes
 
 Georgian exhibits several interesting phonological processes:
 
 1. Vowel Syncopation: In certain grammatical forms, unstressed vowels may be dropped:
-   - **ქალაქი** (kalaki) "city" → **ქალქის** (kalkis) "of the city"
+   - **ქალაქი** (kalaki) “city” → **ქალქის** (kalkis) “of the city”
 
 2. Consonant Assimilation: Consonants often assimilate in voicing or place of articulation:
-   - **გადმო-** (gadmo-) + **კვეთა** (kveta) → **გადმოგვეთა** (gadmogveta) "to cross over"
+   - **გადმო-** (gadmo-) + **კვეთა** (kveta) → **გადმოგვეთა** (gadmogveta) “to cross over”
 
 3. Epenthesis: In some consonant clusters, a vowel may be inserted:
-   - **ფიქრი** (pikri) → colloquial **ფიქირი** (pikiri) "thought"
+   - **ფიქრი** (pikri) → colloquial **ფიქირი** (pikiri) “thought”
 
 ## Verb Classes
 
 Georgian verbs can be categorized into several classes based on their morphological behavior:
 
 1. Transitive verbs: Take direct objects and use the ergative case for subjects in certain tenses.
-   Example: **წერს** (tsers) "he/she writes"
+   Example: **წერს** (tsers) “he/she writes”
 
 2. Intransitive verbs: Do not take direct objects.
-   Example: **დგას** (dgas) "he/she stands"
+   Example: **დგას** (dgas) “he/she stands”
 
 3. Indirect verbs: Take indirect objects in the dative case.
-   Example: **უყვარს** (uqvars) "he/she loves"
+   Example: **უყვარს** (uqvars) “he/she loves”
 
 4. Medial verbs: Express actions done for oneself.
-   Example: **იბანს** (ibans) "he/she washes oneself"
+   Example: **იბანს** (ibans) “he/she washes oneself”
 
 5. Stative verbs: Express states rather than actions.
-   Example: **აქვს** (akvs) "he/she has"
+   Example: **აქვს** (akvs) “he/she has”
 
 ## Verb Screeves
 
 The Georgian verb system is organized into screeves, which are groups of related tenses and moods. Here's a more detailed look at the main screeves:
 
 1. Present/Future Screeve:
-   - Present: **აკეთებს** (aketebs) "he/she does"
-   - Future: **გააკეთებს** (gaaketebs) "he/she will do"
-   - Present Subjunctive: **აკეთებდეს** (aketebdes) "he/she may do"
+   - Present: **აკეთებს** (aketebs) “he/she does”
+   - Future: **გააკეთებს** (gaaketebs) “he/she will do”
+   - Present Subjunctive: **აკეთებდეს** (aketebdes) “he/she may do”
 
 2. Imperfect/Conditional Screeve:
-   - Imperfect: **აკეთებდა** (aketebda) "he/she was doing"
-   - Conditional: **გააკეთებდა** (gaaketebda) "he/she would do"
+   - Imperfect: **აკეთებდა** (aketebda) “he/she was doing”
+   - Conditional: **გააკეთებდა** (gaaketebda) “he/she would do”
 
 3. Aorist/Optative Screeve:
-   - Aorist: **გააკეთა** (gaaketa) "he/she did"
-   - Optative: **გააკეთოს** (gaaket'os) "let him/her do"
+   - Aorist: **გააკეთა** (gaaketa) “he/she did”
+   - Optative: **გააკეთოს** (gaaket'os) “let him/her do”
 
 4. Perfect Screeve:
-   - Perfect: **გაუკეთებია** (gauket'ebia) "he/she has apparently done"
-   - Pluperfect: **გაეკეთებინა** (gaeket'ebina) "he/she had done"
+   - Perfect: **გაუკეთებია** (gauket'ebia) “he/she has apparently done”
+   - Pluperfect: **გაეკეთებინა** (gaeket'ebina) “he/she had done”
 
 ## Numerals
 
@@ -394,32 +394,32 @@ Georgian has a vigesimal (base-20) number system, which is evident in numbers fr
 
 - 1-10: **ერთი** (erti), **ორი** (ori), **სამი** (sami), **ოთხი** (otkhi), **ხუთი** (khuti), **ექვსი** (ekvsi), **შვიდი** (shvidi), **რვა** (rva), **ცხრა** (tsxra), **ათი** (ati)
 - 20: **ოცი** (otsi)
-- 21: **ოცდაერთი** (otsdaerti) (literally "twenty and one")
-- 40: **ორმოცი** (ormotsi) (literally "two twenty")
-- 50: **ორმოცდაათი** (ormotsdaati) (literally "two twenty and ten")
+- 21: **ოცდაერთი** (otsdaerti) (literally “twenty and one”)
+- 40: **ორმოცი** (ormotsi) (literally “two twenty”)
+- 50: **ორმოცდაათი** (ormotsdaati) (literally “two twenty and ten”)
 
 Ordinal numbers are formed by adding the circumfix **მე- -ე** (me- -e) to the cardinal number:
-- **მეორე** (meore) "second"
-- **მესამე** (mesame) "third"
+- **მეორე** (meore) “second”
+- **მესამე** (mesame) “third”
 
 ## Reduplication
 
 Georgian uses reduplication for emphasis or to create new words:
 
-- **ნელ-ნელა** (nel-nela) "very slowly" (from **ნელი** (neli) "slow")
-- **ცოტ-ცოტა** (tsot-tsota) "little by little" (from **ცოტა** (tsota) "little")
+- **ნელ-ნელა** (nel-nela) “very slowly” (from **ნელი** (neli) “slow”)
+- **ცოტ-ცოტა** (tsot-tsota) “little by little” (from **ცოტა** (tsota) “little”)
 
 ## Politeness and Formality
 
 Georgian has several ways to express politeness and formality:
 
 1. Second person plural forms used for formal address:
-   - Informal: **შენ ხარ** (shen khar) "you are"
-   - Formal: **თქვენ ბრძანდებით** (tkven brdzandebit) "you are" (polite)
+   - Informal: **შენ ხარ** (shen khar) “you are”
+   - Formal: **თქვენ ბრძანდებით** (tkven brdzandebit) “you are” (polite)
 
 2. Honorific verbs:
-   - **ბრძანება** (brdzaneba) "to order, to say" (polite)
-   - **მობრძანება** (mobrdzaneba) "to come" (polite)
+   - **ბრძანება** (brdzaneba) “to order, to say” (polite)
+   - **მობრძანება** (mobrdzaneba) “to come” (polite)
 
 3. Polite particles:
    - **-ო** (-o) added to the end of a sentence when addressing someone formally
@@ -428,41 +428,41 @@ Georgian has several ways to express politeness and formality:
 
 Georgian has many calques, particularly from Russian:
 
-- **წყალსაცავი** (tsqalsatsavi) "water reservoir" (from Russian водохранилище)
-- **თვითმფრინავი** (tvitmfrinavi) "airplane" (literally "self-flyer", from Russian самолёт)
+- **წყალსაცავი** (tsqalsatsavi) “water reservoir” (from Russian водохранилище)
+- **თვითმფრინავი** (tvitmfrinavi) “airplane” (literally “self-flyer”, from Russian самолёт)
 
 ## Nominal Derivation
 
 Georgian uses various affixes to derive nouns:
 
 1. Agent nouns:
-   - **-ელი** (-eli): **მასწავლებელი** (mastsavlebeli) "teacher" (from **სწავლა** (stsavla) "to learn")
+   - **-ელი** (-eli): **მასწავლებელი** (mastsavlebeli) “teacher” (from **სწავლა** (stsavla) “to learn”)
 
 2. Abstract nouns:
-   - **-ობა** (-oba): **მეგობრობა** (megobroba) "friendship" (from **მეგობარი** (megobari) "friend")
+   - **-ობა** (-oba): **მეგობრობა** (megobroba) “friendship” (from **მეგობარი** (megobari) “friend”)
 
 3. Diminutives:
-   - **-იკო** (-iko): **კაციკო** (katsiko) "little man" (from **კაცი** (katsi) "man")
+   - **-იკო** (-iko): **კაციკო** (katsiko) “little man” (from **კაცი** (katsi) “man”)
 
 ## Verbal Nouns (Masdar)
 
 Georgian can form verbal nouns (similar to gerunds in English) from verbs:
 
-- **კეთება** (keteba) "doing" (from **აკეთებს** (aketebs) "to do")
-- **სიარული** (siaruli) "walking" (from **დადის** (dadis) "to walk")
+- **კეთება** (keteba) “doing” (from **აკეთებს** (aketebs) “to do”)
+- **სიარული** (siaruli) “walking” (from **დადის** (dadis) “to walk”)
 
 These verbal nouns can be used as subjects or objects in sentences:
 
 **სიარული სასიამოვნოა.**
 (Siaruli sasiamovnoa.)
-"Walking is pleasant."
+“Walking is pleasant.”
 
 ## Evidentiality
 
 Georgian has grammatical markers for evidentiality, indicating the source of information:
 
-- Direct evidence: **წვიმს** (tsvims) "It's raining" (the speaker sees it raining)
-- Indirect evidence: **წვიმდა** (tsvimda) "It was raining" (the speaker infers it rained, e.g., from wet ground)
-- Reported speech: **წვიმსო** (tsvimso) "It's raining, they say" (the speaker heard it from someone else)
+- Direct evidence: **წვიმს** (tsvims) “It's raining” (the speaker sees it raining)
+- Indirect evidence: **წვიმდა** (tsvimda) “It was raining” (the speaker infers it rained, e.g., from wet ground)
+- Reported speech: **წვიმსო** (tsvimso) “It's raining, they say” (the speaker heard it from someone else)
 
 This comprehensive overview covers many aspects of the Georgian language, from its unique alphabet and complex verb system to its idiomatic expressions and cultural nuances. The language's rich morphology, flexible syntax, and distinct features like its vigesimal number system make it a fascinating subject for linguistic study.

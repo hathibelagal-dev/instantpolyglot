@@ -155,9 +155,9 @@ And in the past tense:
 
 The negative verb in North Sami is conjugated, while the main verb takes a special negative form. For example:
 
-- **In boađe** ('I don't come')
-- **Eat boađe** ('You don't come', singular)
-- **Eai boađe** ('They don't come')
+- **In boađe** ('I don’t come')
+- **Eat boađe** ('You don’t come', singular)
+- **Eai boađe** ('They don’t come')
 
 #### Verb types
 
@@ -213,8 +213,8 @@ Wh-questions use interrogative words at the beginning of the sentence:
 
 Negation in North Sami is expressed using a negative verb that conjugates for person and number, while the main verb takes a special connegative form:
 
-- **In máhte sámegiela** ('I don't know Sami language')
-- **Ii son boađe** ('He/she doesn't come')
+- **In máhte sámegiela** ('I don’t know Sami language')
+- **Ii son boađe** ('He/she doesn’t come')
 
 ### Case usage
 
@@ -339,7 +339,7 @@ Earlier orthographies varied between countries, which can still be seen in some 
 
 ### Consonant gradation
 
-Consonant gradation is a key feature of North Sami phonology. It involves alternations between "strong" and "weak" grade consonants in different grammatical forms of words. This affects both pronunciation and spelling. Some examples:
+Consonant gradation is a key feature of North Sami phonology. It involves alternations between “strong” and “weak” grade consonants in different grammatical forms of words. This affects both pronunciation and spelling. Some examples:
 
 - **girji** ('book', nominative) → **girjji** (genitive/accusative)
 - **loddi** ('bird', nominative) → **lotti** (genitive/accusative)
@@ -438,7 +438,7 @@ North Sami has a rich system of derivational morphology, allowing for the creati
 North Sami uses various particles and discourse markers to add nuance to sentences:
 
 1. **ge/ge**: adds emphasis, similar to 'even' or 'also'
-   - **In munges dieđe** ('Even I don't know')
+   - **In munges dieđe** ('Even I don’t know')
 
 2. **han**: indicates that information is known or obvious
    - **Dat han lea čielggas** ('That is obvious, as we know')
@@ -454,7 +454,7 @@ North Sami uses various particles and discourse markers to add nuance to sentenc
 North Sami has many idiomatic expressions, often reflecting traditional Sami culture:
 
 - **Biegga njuolgá** (literally 'The wind straightens', meaning 'Things are improving')
-- **Ii oro sátni sánis** (literally 'The word doesn't stay on the word', meaning 'He/she doesn't keep promises')
+- **Ii oro sátni sánis** (literally 'The word doesn’t stay on the word', meaning 'He/she doesn’t keep promises')
 - **Borrat bohccobierggu váibmui** (literally 'To eat reindeer meat to the heart', meaning 'To be satisfied')
 
 ## Code-switching and language contact

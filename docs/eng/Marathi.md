@@ -254,7 +254,7 @@ However, word order can be flexible for emphasis or in poetry.
 
 Negation is typically expressed by adding the particle **नाही** /naːhiː/ at the end of the sentence:
 
-**मी फळ खात नाही** /miː pʰəɭ kʰaːt̪ naːhiː/ (I don't eat fruit)
+**मी फळ खात नाही** /miː pʰəɭ kʰaːt̪ naːhiː/ (I don’t eat fruit)
 
 ### Questions
 
@@ -381,8 +381,8 @@ Colloquial Marathi often differs from the standard written form. Some notable fe
    - In Pune: **काय गं?** /kaːj ɡə̃/ (What's up?)
 
 4. Influence of Hindi and English:
-   - **टाइम** /ʈaːim/ instead of **वेळ** /ʋeɭ/ for "time"
-   - **बाय** /baːj/ instead of **निरोप** /nirop/ for "goodbye"
+   - **टाइम** /ʈaːim/ instead of **वेळ** /ʋeɭ/ for “time”
+   - **बाय** /baːj/ instead of **निरोप** /nirop/ for “goodbye”
 
 5. Use of particles for emphasis:
    - **च** /t͡ʃ/: **मीच केलं** /miːt͡ʃ kelə̃/ (I did it myself)
@@ -392,15 +392,15 @@ Colloquial Marathi often differs from the standard written form. Some notable fe
 
 Marathi has a rich repertoire of idioms and expressions. Here are a few examples:
 
-1. **डोक्यावरून जाणे** /ɖokjaːʋəruːn d͡ʒaːɳe/ (lit. "to go over the head") - To not understand
+1. **डोक्यावरून जाणे** /ɖokjaːʋəruːn d͡ʒaːɳe/ (lit. “to go over the head”) - To not understand
 
-2. **कानात तेल घालणे** /kaːnaːt̪ t̪el ɡʰaːlʌɳe/ (lit. "to put oil in ears") - To ignore someone's advice
+2. **कानात तेल घालणे** /kaːnaːt̪ t̪el ɡʰaːlʌɳe/ (lit. “to put oil in ears”) - To ignore someone's advice
 
-3. **दोन धोपटणे** /d̪on d̪ʰopʌʈʌɳe/ (lit. "to wash two") - To scold or punish someone
+3. **दोन धोपटणे** /d̪on d̪ʰopʌʈʌɳe/ (lit. “to wash two”) - To scold or punish someone
 
-4. **पाचावर धारण बसणे** /paːt͡ʃaːʋʌr d̪ʰaːrʌɳ bʌsʌɳe/ (lit. "to sit on five") - To be extremely scared
+4. **पाचावर धारण बसणे** /paːt͡ʃaːʋʌr d̪ʰaːrʌɳ bʌsʌɳe/ (lit. “to sit on five”) - To be extremely scared
 
-5. **डोळ्यात तेल घालून बसणे** /ɖoɭjaːt̪ t̪el ɡʰaːluːn bʌsʌɳe/ (lit. "to sit with oil in eyes") - To be very alert or vigilant
+5. **डोळ्यात तेल घालून बसणे** /ɖoɭjaːt̪ t̪el ɡʰaːluːn bʌsʌɳe/ (lit. “to sit with oil in eyes”) - To be very alert or vigilant
 
 ## Honorifics and Respect
 
@@ -493,7 +493,7 @@ Marathi has a rich tradition of proverbs (म्हणी /mhʌɳiː/):
 
 2. **शेवटचं हसतो तो खूप हसतो** /ʃeʋʌʈt͡ʃə̃ hʌst̪o t̪o kʰuːp hʌst̪o/
    (He who laughs last laughs the most)
-   Equivalent to the English "He who laughs last laughs best."
+   Equivalent to the English “He who laughs last laughs best.”
 
 3. **जशास तसे** /d͡ʒʌʃaːs t̪ʌse/
    (As you sow, so shall you reap)
@@ -505,7 +505,7 @@ Marathi has a rich tradition of proverbs (म्हणी /mhʌɳiː/):
 
 5. **आंधळ्याला आरसा दाखवणे** /aːnd̪ʰəɭjaːlaː aːrəsaː d̪aːkʰəʋəɳe/
    (Showing a mirror to a blind person)
-   Meaning: Trying to explain something to someone who can't or won't understand.
+   Meaning: Trying to explain something to someone who can’t or won’t understand.
 
 ## Literary Traditions
 
@@ -529,10 +529,10 @@ Example:
 Marathi has several regional dialects, including:
 
 1. **वऱ्हाडी** /ʋəɽhaːɖiː/: Spoken in the Vidarbha region.
-   - Characteristic: Use of **ह्ये** /hje/ instead of **हे** /he/ for "this".
+   - Characteristic: Use of **ह्ये** /hje/ instead of **हे** /he/ for “this”.
 
 2. **कोकणी** /kokəɳiː/: Spoken in the Konkan coastal region.
-   - Characteristic: Use of **गेलो** /ɡelo/ instead of **गेला** /ɡelaː/ for past tense "went".
+   - Characteristic: Use of **गेलो** /ɡelo/ instead of **गेला** /ɡelaː/ for past tense “went”.
 
 3. **डेक्कनी** /ɖekkəniː/: Spoken in parts of Maharashtra and northern Karnataka.
    - Characteristic: Influence of Urdu vocabulary.
@@ -560,7 +560,7 @@ Marathi allows for verb serialization, where multiple verbs are used in sequence
 
 ## Copula Omission
 
-In present tense sentences, the copula (form of "to be") can often be omitted:
+In present tense sentences, the copula (form of “to be”) can often be omitted:
 
 **तो डॉक्टर** /t̪o ɖɔkʈər/ (He [is] a doctor)
 

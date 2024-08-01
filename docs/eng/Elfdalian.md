@@ -208,11 +208,11 @@ Elfdalian has a vigesimal (base-20) counting system for numbers between 50 and 9
 - 20: **tjugu**
 - 30: **trättį**
 - 40: **fjöruti**
-- 50: **ålfemti** (lit. "two and a half times twenty")
-- 60: **trįtjugu** (lit. "three times twenty")
-- 70: **trįtjugu og tį** (lit. "three times twenty and ten")
-- 80: **fjerðtjugu** (lit. "four times twenty")
-- 90: **fjerðtjugu og tį** (lit. "four times twenty and ten")
+- 50: **ålfemti** (lit. “two and a half times twenty”)
+- 60: **trįtjugu** (lit. “three times twenty”)
+- 70: **trįtjugu og tį** (lit. “three times twenty and ten”)
+- 80: **fjerðtjugu** (lit. “four times twenty”)
+- 90: **fjerðtjugu og tį** (lit. “four times twenty and ten”)
 - 100: **undrað**
 
 ## Syntax
@@ -240,7 +240,7 @@ Like other Germanic languages, Elfdalian follows the V2 rule in main clauses, wh
 
 Negation is typically expressed using the adverb **int** (not), which follows the finite verb in main clauses:
 
-- **Ig sjår int estn** (I don't see the horse)
+- **Ig sjår int estn** (I don’t see the horse)
 
 In subordinate clauses, the negation precedes the finite verb:
 
@@ -277,17 +277,17 @@ Elfdalian vocabulary is primarily Germanic in origin, with many words traceable 
 
 Many common words in Elfdalian are cognates with other Germanic languages:
 
-- **mun** (mouth) - cf. Swedish "mun", German "Mund"
-- **and** (duck) - cf. Swedish "and", German "Ente"
-- **warg** (wolf) - cf. Swedish "varg", Old English "wearg"
+- **mun** (mouth) - cf. Swedish “mun”, German “Mund”
+- **and** (duck) - cf. Swedish “and”, German “Ente”
+- **warg** (wolf) - cf. Swedish “varg”, Old English “wearg”
 
 ### Archaisms
 
 Elfdalian has preserved many Old Norse words that have been lost or changed in other Scandinavian languages:
 
-- **eldå** (to kindle a fire) - from Old Norse "elda"
-- **kuoða** (to say) - from Old Norse "kveða"
-- **lesa** (to read) - from Old Norse "lesa" (in modern Swedish, "läsa")
+- **eldå** (to kindle a fire) - from Old Norse “elda”
+- **kuoða** (to say) - from Old Norse “kveða”
+- **lesa** (to read) - from Old Norse “lesa” (in modern Swedish, “läsa”)
 
 ### Loanwords
 
@@ -310,7 +310,7 @@ Elfdalian has borrowed words from various languages throughout its history:
 Elfdalian has developed some unique words and expressions:
 
 - **glyöpa** (to swallow the wrong way)
-- **illa-tjyöt** (naughty, mischievous - literally "badly behaved")
+- **illa-tjyöt** (naughty, mischievous - literally “badly behaved”)
 
 ### Compound Words
 
@@ -323,9 +323,9 @@ Like other Germanic languages, Elfdalian readily forms compound words:
 
 Elfdalian has many idiomatic expressions that reflect its unique cultural and linguistic heritage:
 
-- **Eð ir int oll dager suguskaft** (It's not every day the pig-trough) - meaning "It's not always easy"
-- **Åvå ögnär i nåvän** (To have eyes in one's fist) - meaning "To be stingy"
-- **Falå åv krakę** (To fall off the crow) - meaning "To be surprised"
+- **Eð ir int oll dager suguskaft** (It's not every day the pig-trough) - meaning “It's not always easy”
+- **Åvå ögnär i nåvän** (To have eyes in one's fist) - meaning “To be stingy”
+- **Falå åv krakę** (To fall off the crow) - meaning “To be surprised”
 
 These expressions often use imagery from rural life and nature, reflecting the traditional lifestyle of Älvdalen.
 
@@ -335,7 +335,7 @@ Elfdalian has a complex verb system that preserves many features from Old Norse.
 
 ### Strong Verbs
 
-Strong verbs in Elfdalian change their stem vowel to indicate tense, similar to English "sing-sang-sung". There are several classes of strong verbs:
+Strong verbs in Elfdalian change their stem vowel to indicate tense, similar to English “sing-sang-sung”. There are several classes of strong verbs:
 
 Class 1:
 - **bitå** (to bite): **ig bit** (I bite), **ig bait** (I bit), **ig ävę bitið** (I have bitten)
@@ -537,7 +537,7 @@ Wh-questions place the question word at the beginning of the sentence:
 
 ### Vowel Balance
 
-Elfdalian exhibits a phenomenon known as "vowel balance," where the quality of unstressed vowels depends on the length of the preceding stressed syllable:
+Elfdalian exhibits a phenomenon known as “vowel balance,” where the quality of unstressed vowels depends on the length of the preceding stressed syllable:
 
 - After a short syllable: **viku** (week)
 - After a long syllable: **måna** (moon)
@@ -561,8 +561,8 @@ Some consonants alternate depending on their position:
 Elfdalian has preserved some words and meanings that have been lost or changed in other Scandinavian languages:
 
 - **glyöpa** (to swallow the wrong way) - a unique Elfdalian word
-- **spilå** (to run, specifically about small animals or children) - in other Scandinavian languages, this word usually means "to play"
-- **lesa** (to read) - from Old Norse, while most other Scandinavian languages use a form derived from Latin "legere"
+- **spilå** (to run, specifically about small animals or children) - in other Scandinavian languages, this word usually means “to play”
+- **lesa** (to read) - from Old Norse, while most other Scandinavian languages use a form derived from Latin “legere”
 
 ## Influence from Neighboring Languages
 

@@ -184,7 +184,7 @@ The simple past is formed by adding personal endings to the past stem:
 #### Negation
 
 Verbs are negated by adding ن- (na-) or نـ- (ne-) to the beginning:
-**نمی‌خورم** (ne-mi-khor-am, 'I don't eat')
+**نمی‌خورم** (ne-mi-khor-am, 'I don’t eat')
 **نخوردم** (na-khord-am, 'I didn't eat')
 
 #### Compound Verbs

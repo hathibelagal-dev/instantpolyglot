@@ -496,16 +496,16 @@ While PIE is reconstructed as a single language, it likely had dialectal variati
 Here are some reconstructed PIE sentences to illustrate the language's structure:
 
 1. **\*h₂ówis h₁ekʷōs-kʷe*
-   "The sheep and the horses"
+   “The sheep and the horses”
 
 2. **\*h₂ówis, kʷesyo wĺ̥h₁neh₂ ne h₁ést, h₁ékʷōns dedorḱe*
-   "The sheep, whose wool was gone (lit. 'not was'), saw horses"
+   “The sheep, whose wool was gone (lit. 'not was'), saw horses”
 
 3. **\*h₁ekʷōms su̯ekurúh₁ wógʰom wégʰontm̥ h₂ner-m̥-kʷe méǵh₂m̥ bʰórom, h₂ówis-kʷe méǵh₂m̥ bʰórom wégʰontm̥*
-   "One carrying a heavy wagon, one carrying a heavy load, and the sheep carrying a heavy load"
+   “One carrying a heavy wagon, one carrying a heavy load, and the sheep carrying a heavy load”
 
 4. **\*h₂ówis h₁ekʷoibʰyós u̯ekʷét*
-   "The sheep said to the horses"
+   “The sheep said to the horses”
 
 5. **\*ḱḗr moi agʰnutoi h₁ékʷōns h₂eǵontm̥ h₂nerm̥ widn̥téi*
-   "My heart pains me seeing a man driving horses"
+   “My heart pains me seeing a man driving horses”

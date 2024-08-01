@@ -122,7 +122,7 @@ Hungarian has a large number of cases (around 18-20, depending on analysis). Her
 | Delative | -ról/-ről | From (off of) | Leveszem a könyvet az asztalról. (I take the book from the table.) |
 | Terminative | -ig | Until, as far as | Budapestig utazom. (I'm traveling to Budapest.) |
 
-Example declension of "ház" (house):
+Example declension of “ház” (house):
 
 | Case | Singular | Plural |
 |------|----------|--------|
@@ -149,7 +149,7 @@ Possession in Hungarian is indicated by suffixes on the possessed noun. These su
 
 When the possessor is explicitly stated, it takes the dative case:
 
-- Péternek a háza (Peter's house, literally "to Peter his house")
+- Péternek a háza (Peter's house, literally “to Peter his house”)
 
 ### Pronouns
 
@@ -197,7 +197,7 @@ Hungarian verbs are conjugated for person, number, tense, mood, and definiteness
 
 #### Present tense
 
-Example with "olvas" (to read):
+Example with “olvas” (to read):
 
 | Person | Indefinite | Definite |
 |--------|------------|----------|
@@ -208,7 +208,7 @@ Example with "olvas" (to read):
 | ti | olvas**tok** | olvas**sátok** |
 | ők | olvas**nak** | olvas**sák** |
 
-The definite conjugation is used when the object is definite (e.g., "I read the book"), while the indefinite is used otherwise.
+The definite conjugation is used when the object is definite (e.g., “I read the book”), while the indefinite is used otherwise.
 
 #### Past tense
 
@@ -225,7 +225,7 @@ The past tense is formed by adding -t or -tt to the stem, followed by personal e
 
 #### Future tense
 
-The future is typically formed using the auxiliary "fog" with the infinitive:
+The future is typically formed using the auxiliary “fog” with the infinitive:
 
 - olvasni fogok (I will read)
 - olvasni fogsz (you will read)
@@ -321,12 +321,12 @@ Questions can be formed by intonation or by using question words:
 
 Question words always come immediately before the verb.
 
-Negation is formed by placing "nem" before the verb:
+Negation is formed by placing “nem” before the verb:
 
 - Nem olvasok. (I'm not reading.)
 - János nem könyvet olvas. (János is not reading a book.)
 
-In negative sentences with a focus, "nem" comes before the focused element:
+In negative sentences with a focus, “nem” comes before the focused element:
 
 - János NEM A KÖNYVTÁRBAN olvas. (János is not reading in the library.)
 
@@ -335,7 +335,7 @@ There are no articles in Hungarian. Definiteness is expressed through the use of
 - Olvasok egy könyvet. (I'm reading a book.)
 - Olvasom a könyvet. (I'm reading the book.)
 
-Subordinate clauses are often introduced by "hogy" (that):
+Subordinate clauses are often introduced by “hogy” (that):
 
 - Tudom, hogy János olvas. (I know that János is reading.)
 
@@ -396,15 +396,15 @@ Derivation:
 
 Hungarian has a complex system of formal and informal address:
 
-- Informal: "te" (you singular), "ti" (you plural)
-- Formal: "ön" (you singular), "önök" (you plural)
-- Semi-formal: "maga" (you singular), "maguk" (you plural)
+- Informal: “te” (you singular), “ti” (you plural)
+- Formal: “ön” (you singular), “önök” (you plural)
+- Semi-formal: “maga” (you singular), “maguk” (you plural)
 
 The choice depends on the relationship between speakers, age, and social context. Generally:
 
-- "Te" is used among friends, family members, and when addressing children or animals.
-- "Ön" is the most formal and polite form, used in official situations, with strangers, or to show respect.
-- "Maga" is less formal than "ön" but more formal than "te". It's often used with acquaintances or in rural areas.
+- “Te” is used among friends, family members, and when addressing children or animals.
+- “Ön” is the most formal and polite form, used in official situations, with strangers, or to show respect.
+- “Maga” is less formal than “ön” but more formal than “te”. It's often used with acquaintances or in rural areas.
 
 When using formal address, verbs are conjugated in the third person:
 - Hogy van ön? (How are you? - formal)
@@ -412,7 +412,7 @@ When using formal address, verbs are conjugated in the third person:
 
 ### Names and titles
 
-In Hungarian, the family name comes before the given name. For example, in the name "Nagy János", "Nagy" is the family name and "János" is the given name.
+In Hungarian, the family name comes before the given name. For example, in the name “Nagy János”, “Nagy” is the family name and “János” is the given name.
 
 Titles are used frequently and are placed before the family name:
 - Nagy úr (Mr. Nagy)
@@ -423,11 +423,11 @@ Titles are used frequently and are placed before the family name:
 
 Hungarian has many colorful expressions and idioms. Here are a few examples:
 
-- Nem esik messze az alma a fájától. (The apple doesn't fall far from the tree.)
-- Több szem többet lát. (Many eyes see more. - equivalent to "Two heads are better than one.")
+- Nem esik messze az alma a fájától. (The apple doesn’t fall far from the tree.)
+- Több szem többet lát. (Many eyes see more. - equivalent to “Two heads are better than one.”)
 - Könnyű, mint a tollpihe. (As light as a feather.)
-- Úgy alszik, mint a mormota. (He sleeps like a groundhog. - equivalent to "He sleeps like a log.")
-- Nem látja a fától az erdőt. (He can't see the forest for the trees.)
+- Úgy alszik, mint a mormota. (He sleeps like a groundhog. - equivalent to “He sleeps like a log.”)
+- Nem látja a fától az erdőt. (He can’t see the forest for the trees.)
 
 ## Unique features
 
@@ -449,10 +449,10 @@ Hungarian has many colorful expressions and idioms. Here are a few examples:
 
 7. Distinct forms for alienable and inalienable possession: Hungarian distinguishes between possessions that can be separated from the possessor (alienable) and those that cannot (inalienable, like body parts or relatives).
 
-8. Politeness built into the grammar: The T-V distinction (informal vs. formal "you") is reflected not just in pronouns but in verb conjugations and certain set phrases.
+8. Politeness built into the grammar: The T-V distinction (informal vs. formal “you”) is reflected not just in pronouns but in verb conjugations and certain set phrases.
 
-9. No verb "to have": Possession is expressed using the verb "van" (to be) and the dative case.
-   Example: Nekem van egy kutyám. (I have a dog. - literally "To me is a dog-my")
+9. No verb “to have”: Possession is expressed using the verb “van” (to be) and the dative case.
+   Example: Nekem van egy kutyám. (I have a dog. - literally “To me is a dog-my”)
 
 10. Productive word formation: Hungarian can easily create new words through compounding and derivation, allowing the language to adapt to new concepts quickly.
 
@@ -462,12 +462,12 @@ Hungarian has many colorful expressions and idioms. Here are a few examples:
 
 2. Word order: While flexible, the SOV order and focus position can be challenging for speakers of SVO languages like English.
 
-3. Pronunciation: Some sounds, like gy [ɟ] or ű [yː], don't exist in many other languages and can be difficult to produce.
+3. Pronunciation: Some sounds, like gy [ɟ] or ű [yː], don’t exist in many other languages and can be difficult to produce.
 
 4. Verb prefixes: The separable verb prefixes and their impact on meaning and aspect can be tricky to master.
 
 5. Definite vs. indefinite conjugation: Understanding when to use each conjugation requires a good grasp of Hungarian grammar and can take time to internalize.
 
-6. Idiomatic expressions: Like any language, Hungarian has many idioms that don't translate literally and must be learned separately.
+6. Idiomatic expressions: Like any language, Hungarian has many idioms that don’t translate literally and must be learned separately.
 
 7. Cultural context: Understanding when to use formal vs. informal address and other cultural nuances is crucial for effective communication.

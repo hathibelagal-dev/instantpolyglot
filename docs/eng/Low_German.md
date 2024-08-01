@@ -4,7 +4,7 @@ Low German, also known as Low Saxon or Plattdeutsch, is a West Germanic language
 
 ## History and Classification
 
-Low German descends from Old Saxon, which was spoken in northern Germany and the Netherlands from around 500 to 1100 CE. The term "Low" refers to the flat lowlands where the language originated, in contrast to the more mountainous areas where High German developed.
+Low German descends from Old Saxon, which was spoken in northern Germany and the Netherlands from around 500 to 1100 CE. The term “Low” refers to the flat lowlands where the language originated, in contrast to the more mountainous areas where High German developed.
 
 Historically, Low German was the lingua franca of the Hanseatic League, a powerful medieval trade alliance. This led to its widespread use across Northern Europe and influenced many languages in the region, including the Scandinavian languages.
 
@@ -51,7 +51,7 @@ The consonant system of Low German is similar to that of Standard German, with s
 | Trill | | r | | | |
 
 Notable features:
-- The sound [ç] (as in Standard German "ich") is often realized as [ʃ] in Low German. For example, the word for "I" is often pronounced as [ɪʃ] rather than [ɪç].
+- The sound [ç] (as in Standard German “ich”) is often realized as [ʃ] in Low German. For example, the word for “I” is often pronounced as [ɪʃ] rather than [ɪç].
 - Many dialects lack the [z] sound, using [s] instead. This is particularly common in word-initial positions.
 - The glottal stop [ʔ] is less prominent than in Standard German.
 - The /r/ sound can vary significantly between dialects, ranging from a trilled [r] to an approximant [ɹ] or even a uvular [ʁ] in some areas.
@@ -65,8 +65,8 @@ Notable features:
 
 2. Consonant cluster simplification: Some dialects simplify certain consonant clusters, especially those involving /p/ or /k/ followed by /f/ or /t/.
    Examples:
-   - **Appel** instead of Standard German "Apfel" ('apple')
-   - **Köpen** instead of Standard German "Kaufen" ('to buy')
+   - **Appel** instead of Standard German “Apfel” ('apple')
+   - **Köpen** instead of Standard German “Kaufen” ('to buy')
 
 3. Vowel lengthening: In many dialects, short vowels are lengthened before certain consonants, particularly before /r/, /l/, and sometimes /m/ or /n/.
    Examples:
@@ -88,25 +88,25 @@ Low German lacks a standardized orthography, and spelling can vary significantly
 1. Long vowels are often indicated by doubling the vowel letter:
    **Boom** ('tree'), **Huus** ('house'), **Feet** ('feet')
 
-2. The letter "j" is often used where Standard German uses "g", especially at the end of words:
+2. The letter “j” is often used where Standard German uses “g”, especially at the end of words:
    **Daag** or **Daach** ('day'), **Weeg** ('way')
 
-3. The digraph "ch" is often used for the [x] sound:
+3. The digraph “ch” is often used for the [x] sound:
    **nich** ('not'), **Nacht** ('night')
 
-4. The letter "ß" is not used; "ss" or "s" is used instead:
+4. The letter “ß” is not used; “ss” or “s” is used instead:
    **Water** ('water'), **Straat** ('street')
 
-5. Umlaut letters (ä, ö, ü) are used in some orthographies but not in others. Some writers prefer to use "ae", "oe", and "ue" instead:
+5. Umlaut letters (ä, ö, ü) are used in some orthographies but not in others. Some writers prefer to use “ae”, “oe”, and “ue” instead:
    **gröön** or **groen** ('green'), **Föte** or **Foete** ('feet')
 
-6. The digraph "th" is often simplified to "t":
+6. The digraph “th” is often simplified to “t”:
    **Tiet** ('time'), **Doot** ('death')
 
-7. Some writers use "v" where Standard German uses "f":
+7. Some writers use “v” where Standard German uses “f”:
    **Volk** ('people'), **vull** ('full')
 
-8. The ending "-en" is often written as "-n" after consonants:
+8. The ending “-en” is often written as “-n” after consonants:
    **eten** ('to eat'), but **seggn** ('to say')
 
 It's important to note that these conventions are not universally applied, and individual writers may have their own preferred spellings. This lack of standardization can make reading Low German texts challenging, especially for learners, but it also reflects the language's rich regional diversity.
@@ -121,7 +121,7 @@ Gender:
 - Common gender (combining masculine and feminine): **de Hund** ('the dog'), **de Katt** ('the cat')
 - Neuter gender: **dat Huus** ('the house'), **dat Kind** ('the child')
 
-Unlike Standard German, which has three genders (masculine, feminine, and neuter), Low German has merged masculine and feminine into a single "common" gender. This simplification is similar to what has happened in Dutch and English.
+Unlike Standard German, which has three genders (masculine, feminine, and neuter), Low German has merged masculine and feminine into a single “common” gender. This simplification is similar to what has happened in Dutch and English.
 
 Plural formation varies, but common patterns include:
 
@@ -145,7 +145,7 @@ Plural formation varies, but common patterns include:
    - **Kind** → **Kinner** ('children')
    - **Kalv** → **Kälver** ('calves')
 
-Some nouns may have different plural forms in different dialects. For example, "house" might be pluralized as **Husen**, **Hüser**, or **Hüüs** depending on the dialect.
+Some nouns may have different plural forms in different dialects. For example, “house” might be pluralized as **Husen**, **Hüser**, or **Hüüs** depending on the dialect.
 
 ### Articles
 
@@ -167,7 +167,7 @@ Unlike Standard German, Low German does not change the form of the article based
 
 ### Adjectives
 
-Adjectives in Low German have different forms depending on whether they are used attributively (before nouns) or predicatively (after verbs like "to be").
+Adjectives in Low German have different forms depending on whether they are used attributively (before nouns) or predicatively (after verbs like “to be”).
 
 Attributive adjectives are inflected:
 - Common gender: **de grote Mann** ('the big man')
@@ -282,7 +282,7 @@ Participles:
 - Present participle: **makend** ('making')
 - Past participle: **maakt** ('made')
 
-Strong verbs have vowel changes in their conjugation, similar to English "sing, sang, sung":
+Strong verbs have vowel changes in their conjugation, similar to English “sing, sang, sung”:
 - **driven** ('to drive'): **ik driev**, **ik dreev**, **ik heff dreven**
 - **geven** ('to give'): **ik geev**, **ik gaff**, **ik heff geven**
 - **kamen** ('to come'): **ik kaam**, **ik keem**, **ik bün kamen**
@@ -341,7 +341,7 @@ In compound tenses, the auxiliary verb takes the second position, and the main v
 
 Negation is typically formed with **nich** ('not'):
 
-**Ik eet nich.** ('I don't eat.')
+**Ik eet nich.** ('I don’t eat.')
 
 Low German, like other Germanic languages, follows the V2 (verb-second) rule in main clauses. This means that the finite verb always takes the second position in the sentence, regardless of what comes first:
 
@@ -433,7 +433,7 @@ Subordinating conjunctions:
 - **sodat** ('so that')
 
 Example:
-**Ik weet nich, of he kümmt.** ('I don't know if he's coming.')
+**Ik weet nich, of he kümmt.** ('I don’t know if he's coming.')
 
 ## Vocabulary
 
@@ -533,22 +533,22 @@ Body parts:
 
 Low German has many idiomatic expressions that reflect its rich cultural heritage. Here are a few examples:
 
-1. **Dat geiht mi an de Nieren.** (Literally: "That goes to my kidneys.")
+1. **Dat geiht mi an de Nieren.** (Literally: “That goes to my kidneys.”)
    Meaning: That affects me deeply.
 
-2. **Dor kann'n sik op verlaten as op'n olen Hund.** (Literally: "One can rely on that like on an old dog.")
+2. **Dor kann'n sik op verlaten as op'n olen Hund.** (Literally: “One can rely on that like on an old dog.”)
    Meaning: That's completely reliable.
 
-3. **He hett Haar op de Tähnen.** (Literally: "He has hair on his teeth.")
+3. **He hett Haar op de Tähnen.** (Literally: “He has hair on his teeth.”)
    Meaning: He's assertive or quick-witted.
 
-4. **Dat is nich mien Beer.** (Literally: "That's not my beer.")
+4. **Dat is nich mien Beer.** (Literally: “That's not my beer.”)
    Meaning: That's not my cup of tea / That's not my business.
 
-5. **He is mit'n Klüterbüdel föddt.** (Literally: "He was fed with a rattle bag.")
+5. **He is mit'n Klüterbüdel föddt.** (Literally: “He was fed with a rattle bag.”)
    Meaning: He's a bit simple-minded.
 
-6. **Dat geiht as dat Botterschmiern.** (Literally: "It goes like buttering bread.")
+6. **Dat geiht as dat Botterschmiern.** (Literally: “It goes like buttering bread.”)
    Meaning: It's going very smoothly or easily.
 
 These idiomatic expressions often vary between dialects and regions, adding to the rich tapestry of Low German language and culture.
@@ -565,8 +565,8 @@ Low German encompasses a wide range of dialects, each with its own unique featur
 
 These dialects can differ significantly in vocabulary, pronunciation, and even some grammatical features. For example:
 
-- The word for "girl" can be **Deern**, **Wicht**, or **Mäken** depending on the dialect.
-- The pronoun "you" (plural) can be **ji**, **jü**, or **gü** in different regions.
+- The word for “girl” can be **Deern**, **Wicht**, or **Mäken** depending on the dialect.
+- The pronoun “you” (plural) can be **ji**, **jü**, or **gü** in different regions.
 - Some dialects retain more of the original case system than others.
 
 Despite these differences, speakers of different Low German dialects can usually understand each other, although some adjustments might be necessary.

@@ -294,7 +294,7 @@ Wh-questions use interrogative words at the beginning of the sentence:
 ### Negation
 
 Negation is formed by placing **non** before the verb:
-- **Non parlo italiano.** (I don't speak Italian.)
+- **Non parlo italiano.** (I don’t speak Italian.)
 - **Non ho capito.** (I didn't understand.)
 
 ### Adjective Placement
@@ -401,10 +401,10 @@ Reflexive verbs use reflexive pronouns (mi, ti, si, ci, vi, si) and are conjugat
 
 ### Impersonal Constructions
 
-Impersonal constructions often use "si" with a verb in the third person singular:
+Impersonal constructions often use “si” with a verb in the third person singular:
 
 - **Si mangia bene qui.** (One eats well here. / The food is good here.)
-- **Come si dice "hello" in italiano?** (How do you say "hello" in Italian?)
+- **Come si dice “hello” in italiano?** (How do you say “hello” in Italian?)
 
 ### Gerund and Progressive Tenses
 
@@ -414,7 +414,7 @@ The gerund is formed by adding -ando (for -are verbs) or -endo (for -ere and -ir
 - credere → credendo
 - dormire → dormendo
 
-Progressive tenses use "stare" + gerund:
+Progressive tenses use “stare” + gerund:
 - **Sto parlando.** (I am speaking.)
 - **Stava mangiando quando ho chiamato.** (He/She was eating when I called.)
 
@@ -544,8 +544,8 @@ Months:
 
 Italian has many idiomatic expressions. Here are a few common ones:
 
-- **In bocca al lupo!** (Good luck! Literally: "Into the wolf's mouth!")
-  Response: **Crepi il lupo!** (Thank you! Literally: "May the wolf die!")
+- **In bocca al lupo!** (Good luck! Literally: “Into the wolf's mouth!”)
+  Response: **Crepi il lupo!** (Thank you! Literally: “May the wolf die!”)
 
 - **Che casino!** (What a mess!)
 
@@ -553,7 +553,7 @@ Italian has many idiomatic expressions. Here are a few common ones:
 
 - **Mamma mia!** (My goodness!)
 
-- **Avere le mani in pasta.** (To be involved in something. Literally: "To have one's hands in the dough.")
+- **Avere le mani in pasta.** (To be involved in something. Literally: “To have one's hands in the dough.”)
 
 ### Regional Variations
 
@@ -587,7 +587,7 @@ From Arabic:
 Colloquial Italian often differs from the standard language taught in textbooks:
 
 - **Che figo!** (How cool!) - very informal
-- **Boh!** (I don't know / I don't care)
+- **Boh!** (I don’t know / I don’t care)
 - **Dai!** (Come on! / Oh, please!)
 - **Mica** (used for emphasis in negations)
   **Non è mica facile.** (It's not easy at all.)

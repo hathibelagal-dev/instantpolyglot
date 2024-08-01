@@ -301,7 +301,7 @@ Negation is typically expressed using the particle **نہیں** (nahīṅ) 'not'
 **میں نہیں جاتا۔**
 (maiṅ nahīṅ jātā)
 'I not go'
-'I don't go.'
+'I don’t go.'
 
 ### Questions
 

@@ -275,8 +275,8 @@ Wh-questions use interrogative words:
 
 Negation is formed by using **ma** before the verb and **-x** after it:
 
-- **Ma nafx.** ('I don't know.')
-- **It-tifel ma jiekol-x it-tuffieħa.** ('The boy doesn't eat the apple.')
+- **Ma nafx.** ('I don’t know.')
+- **It-tifel ma jiekol-x it-tuffieħa.** ('The boy doesn’t eat the apple.')
 
 For nouns and adjectives, **mhux** is used:
 

@@ -146,7 +146,7 @@ Tok Pisin verbs do not conjugate for person, number, or tense. Tense and aspect 
    - **Mi save kaikai rais.** ('I usually eat rice.')
 
 Negation is formed by using **no** before the verb:
-- **Mi no save.** ('I don't know.')
+- **Mi no save.** ('I don’t know.')
 
 The imperative is formed by using the bare verb:
 - **Kam hia!** ('Come here!')
@@ -271,7 +271,7 @@ Tok Pisin numbers are largely based on English:
 ### Interjections and discourse markers
 
 - **orait** ('alright', 'okay')
-- **maski** ('never mind', 'it doesn't matter')
+- **maski** ('never mind', 'it doesn’t matter')
 - **nogut** ('bad', also used as a warning: 'lest', 'in case')
 - **tasol** ('but', 'only')
 
@@ -326,7 +326,7 @@ Tok Pisin has different registers depending on the context:
    - **Gavman i mas providim gutpela sevis long ol pipel.** ('The government must provide good services to the people.')
 
 2. Casual Tok Pisin:
-   Used in everyday conversations, often more "pure" Tok Pisin:
+   Used in everyday conversations, often more “pure” Tok Pisin:
    - **Yumi go kaikai na stori liklik.** ('Let's go eat and chat a bit.')
 
 3. Rural vs. Urban Tok Pisin:
@@ -342,14 +342,14 @@ Tok Pisin has different registers depending on the context:
 
 **Taim pikinini i kamap bikpela liklik, em i save helpim lapun meri long mekim ol wok. Tupela i stap gut tru. Tasol wanpela taim, taim pikinini i go long bus bilong painim paiawut, em i bungim wanpela spirit nogut. Dispela spirit i laik kaikai pikinini, tasol pikinini i strong moa. Em i paitim spirit nogut na i ranawe i go bek long ples.**
 
-**Lapun meri i harim stori bilong pikinini na i tok, "Yu mas lukaut gut long bus. I gat planti spirit nogut i stap long hap." Bihain long dispela, pikinini i kamap strongpela man tru na i save lukautim lapun meri gut tru inap long em i dai.**
+**Lapun meri i harim stori bilong pikinini na i tok, “Yu mas lukaut gut long bus. I gat planti spirit nogut i stap long hap.” Bihain long dispela, pikinini i kamap strongpela man tru na i save lukautim lapun meri gut tru inap long em i dai.**
 
 Translation:
 Long, long ago, there was an old woman living in a small village. This woman had no children and lived all alone. One day, when she went to her garden, she heard a noise coming from the forest. She went to look and found a small child. This child had no parents. The old woman took the child to her house and cared for it as if it were her own child.
 
 When the child grew a little bigger, he used to help the old woman with all the work. They lived very well together. But one time, when the child went to the forest to find firewood, he met an evil spirit. This spirit wanted to eat the child, but the child was stronger. He beat the evil spirit and ran away back to the village.
 
-The old woman heard the child's story and said, "You must be very careful in the forest. There are many evil spirits there." After this, the child grew into a very strong man and took very good care of the old woman until she died.
+The old woman heard the child's story and said, “You must be very careful in the forest. There are many evil spirits there.” After this, the child grew into a very strong man and took very good care of the old woman until she died.
 
 2. A news report:
 
@@ -379,7 +379,7 @@ My name is Jack, and I want to tell the story of my first time going to a big ci
 
 The first thing I did was go to a big store. All kinds of things were inside, and I didn't know where to look. I bought an ice cream, and it was very sweet. After that, I went to the beach and saw the ocean. It was very different from our water in the village.
 
-In the evening, I went to my cousin's house. He had been living there for a long time. He showed me many things about the city and taught me about the way of life there. I was very happy about my trip, but I was also tired of the big noise and many people. I think that my place in the bush is good too, because it's easy and there isn't much noise.
+In the evening, I went to my cousin's house. He had been living there for a long time. He showed me many things about the city and taught me about the way of life there. I was very happy about my trip, but I was also tired of the big noise and many people. I think that my place in the bush is good too, because it's easy and there isn’t much noise.
 
 ## Additional Examples of Tok Pisin Features
 

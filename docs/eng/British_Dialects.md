@@ -16,9 +16,9 @@ During this period, several distinct dialects emerged:
 4. Kentish: Spoken in southeastern England
 
 Example of Old English (West Saxon dialect):
-**"Hwæt! We Gardena in geardagum,
+**“Hwæt! We Gardena in geardagum,
 þeodcyninga, þrym gefrunon,
-hu ða æþelingas ellen fremedon."**
+hu ða æþelingas ellen fremedon.”**
 
 (Opening lines of Beowulf)
 
@@ -33,8 +33,8 @@ The Norman Conquest in 1066 brought significant changes to the English language,
 5. Kentish
 
 Example of Middle English (East Midland dialect):
-**"Whan that Aprille with his shoures soote
-The droghte of Marche hath perced to the roote"**
+**“Whan that Aprille with his shoures soote
+The droghte of Marche hath perced to the roote”**
 
 (Opening lines of Chaucer's Canterbury Tales)
 
@@ -43,7 +43,7 @@ The droghte of Marche hath perced to the roote"**
 This period saw the beginning of standardization in written English, but spoken dialects continued to develop distinctly. The Great Vowel Shift occurred during this time, significantly changing the pronunciation of English vowels.
 
 Example of Early Modern English:
-**"To be, or not to be, that is the question"**
+**“To be, or not to be, that is the question”**
 
 (Shakespeare's Hamlet)
 
@@ -55,7 +55,7 @@ Modern British dialects can be broadly categorized into several main groups, eac
 
 #### Received Pronunciation (RP)
 
-Also known as "BBC English" or "the Queen's English," RP is not tied to a specific region but is associated with educated speakers, particularly from southern England.
+Also known as “BBC English” or “the Queen's English,” RP is not tied to a specific region but is associated with educated speakers, particularly from southern England.
 
 Key features:
 - Non-rhotic (r-dropping after vowels)
@@ -63,14 +63,14 @@ Key features:
 - Use of glottal stops in certain positions
 
 Examples:
-- "Farm" pronounced as [fɑːm] rather than [fɑːrm]
-- "Bath" pronounced as [bɑːθ] rather than [bæθ]
-- "Butter" pronounced as [ˈbʌʔə] with a glottal stop
+- “Farm” pronounced as [fɑːm] rather than [fɑːrm]
+- “Bath” pronounced as [bɑːθ] rather than [bæθ]
+- “Butter” pronounced as [ˈbʌʔə] with a glottal stop
 
 Vocabulary peculiar to RP:
-- **"Frightfully"** - very (as in "frightfully good")
-- **"Rather"** - quite (as in "rather lovely")
-- **"Jolly"** - very (as in "jolly good")
+- **“Frightfully”** - very (as in “frightfully good”)
+- **“Rather”** - quite (as in “rather lovely”)
+- **“Jolly”** - very (as in “jolly good”)
 
 #### Estuary English
 
@@ -82,14 +82,14 @@ Key features:
 - Diphthong shift
 
 Examples:
-- "Milk" pronounced as [mɪwk]
-- "Butter" pronounced as [ˈbʌʔə]
-- "Face" pronounced more like [fʌɪs]
+- “Milk” pronounced as [mɪwk]
+- “Butter” pronounced as [ˈbʌʔə]
+- “Face” pronounced more like [fʌɪs]
 
 Vocabulary:
-- **"Innit"** - isn't it
-- **"Basically"** - used as a filler word
-- **"Sort of"** - used frequently as a hedge
+- **“Innit”** - isn’t it
+- **“Basically”** - used as a filler word
+- **“Sort of”** - used frequently as a hedge
 
 #### Cockney
 
@@ -102,16 +102,16 @@ Key features:
 - Distinctive vowel shifts
 
 Examples:
-- "Think" becomes **"fink"** [fɪŋk]
-- "Brother" becomes **"bruvver"** [ˈbrʌvə]
-- "Bottle" becomes **"bo'le"** [ˈbɒʔo]
-- "House" pronounced as [æʊs]
+- “Think” becomes **“fink”** [fɪŋk]
+- “Brother” becomes **“bruvver”** [ˈbrʌvə]
+- “Bottle” becomes **“bo'le”** [ˈbɒʔo]
+- “House” pronounced as [æʊs]
 
 Vocabulary and Rhyming Slang:
-- **"Adam and Eve"** - believe
-- **"Apples and pears"** - stairs
-- **"Boat race"** - face
-- **"Dog and bone"** - phone
+- **“Adam and Eve”** - believe
+- **“Apples and pears”** - stairs
+- **“Boat race”** - face
+- **“Dog and bone”** - phone
 
 #### West Country
 
@@ -123,14 +123,14 @@ Key features:
 - Voicing of initial fricatives
 
 Examples:
-- "Farm" pronounced as [fɑːrm]
-- "Summer" pronounced as [ˈzʌmər]
-- "Finger" often pronounced as [ˈvɪŋgər]
+- “Farm” pronounced as [fɑːrm]
+- “Summer” pronounced as [ˈzʌmər]
+- “Finger” often pronounced as [ˈvɪŋgər]
 
 Vocabulary:
-- **"Proper"** - very (as in "proper good")
-- **"Gert"** - great or very
-- **"Emmet"** - tourist (mainly in Cornwall)
+- **“Proper”** - very (as in “proper good”)
+- **“Gert”** - great or very
+- **“Emmet”** - tourist (mainly in Cornwall)
 
 ### 2. Midlands Dialects
 
@@ -141,36 +141,36 @@ The dialect of Birmingham and the surrounding area.
 Key features:
 - Downward intonation at the end of sentences
 - Distinctive vowel sounds
-- Use of "mom" instead of "mum"
+- Use of “mom” instead of “mum”
 
 Examples:
-- "You" often pronounced as [jəʊ]
-- "Go" often pronounced as [gəʊ]
-- **"He's got a new car"** might sound like **"'E's got a new cor"**
+- “You” often pronounced as [jəʊ]
+- “Go” often pronounced as [gəʊ]
+- **“He's got a new car”** might sound like **“'E's got a new cor”**
 
 Vocabulary:
-- **"Bostin'"** - excellent
-- **"Yampy"** - mad or daft
-- **"Bab"** - term of endearment
+- **“Bostin'”** - excellent
+- **“Yampy”** - mad or daft
+- **“Bab”** - term of endearment
 
 #### East Midlands
 
 Spoken in cities like Leicester, Nottingham, and Derby.
 
 Key features:
-- Distinctive pronunciation of "u" sounds
-- Use of "me" instead of "my" in some contexts
-- Frequent use of "ay up" as a greeting
+- Distinctive pronunciation of “u” sounds
+- Use of “me” instead of “my” in some contexts
+- Frequent use of “ay up” as a greeting
 
 Examples:
-- "Cup" pronounced more like [kʊp]
-- **"Where's me coat?"** instead of "Where's my coat?"
-- **"Ay up, me duck!"** as a friendly greeting
+- “Cup” pronounced more like [kʊp]
+- **“Where's me coat?”** instead of “Where's my coat?”
+- **“Ay up, me duck!”** as a friendly greeting
 
 Vocabulary:
-- **"Cob"** - bread roll
-- **"Mardy"** - grumpy
-- **"Nesh"** - sensitive to cold
+- **“Cob”** - bread roll
+- **“Mardy”** - grumpy
+- **“Nesh”** - sensitive to cold
 
 ### 3. Northern English Dialects
 
@@ -180,18 +180,18 @@ The dialect of Newcastle upon Tyne and the surrounding area.
 
 Key features:
 - Distinctive vowel sounds
-- Use of "wor" for "our"
+- Use of “wor” for “our”
 - Glottalization of /p/, /t/, and /k/
 
 Examples:
-- "House" pronounced as [hʊs]
-- **"Wor lass"** meaning "our girl" or "my girlfriend/wife"
-- "Bottle" pronounced as [ˈbɒʔl̩]
+- “House” pronounced as [hʊs]
+- **“Wor lass”** meaning “our girl” or “my girlfriend/wife”
+- “Bottle” pronounced as [ˈbɒʔl̩]
 
 Vocabulary:
-- **"Howay"** - come on
-- **"Canny"** - good
-- **"Gadgie"** - man
+- **“Howay”** - come on
+- **“Canny”** - good
+- **“Gadgie”** - man
 
 #### Scouse
 
@@ -203,33 +203,33 @@ Key features:
 - Distinctive intonation pattern
 
 Examples:
-- "Red" often sounds more like "raid" [reːd]
-- "The" often pronounced as [də]
-- **"I'm made up"** meaning "I'm very pleased"
+- “Red” often sounds more like “raid” [reːd]
+- “The” often pronounced as [də]
+- **“I'm made up”** meaning “I'm very pleased”
 
 Vocabulary:
-- **"Boss"** - great
-- **"Scran"** - food
-- **"Bevvy"** - alcoholic drink
+- **“Boss”** - great
+- **“Scran”** - food
+- **“Bevvy”** - alcoholic drink
 
 #### Yorkshire
 
 Spoken in the county of Yorkshire, with variations within the region.
 
 Key features:
-- Omission of "the" in some phrases
-- Use of "owt" and "nowt" for "anything" and "nothing"
-- Distinctive pronunciation of long "a" sounds
+- Omission of “the” in some phrases
+- Use of “owt” and “nowt” for “anything” and “nothing”
+- Distinctive pronunciation of long “a” sounds
 
 Examples:
-- **"I'm going t'shop"** instead of "I'm going to the shop"
-- **"There's nowt wrong wi' that"** meaning "There's nothing wrong with that"
-- "Name" pronounced more like [nɛːm]
+- **“I'm going t'shop”** instead of “I'm going to the shop”
+- **“There's nowt wrong wi' that”** meaning “There's nothing wrong with that”
+- “Name” pronounced more like [nɛːm]
 
 Vocabulary:
-- **"Ey up"** - hello
-- **"Sithee"** - goodbye (from "see thee")
-- **"Breadcake"** - bread roll
+- **“Ey up”** - hello
+- **“Sithee”** - goodbye (from “see thee”)
+- **“Breadcake”** - bread roll
 
 #### Lancashire
 
@@ -238,17 +238,17 @@ Spoken in the county of Lancashire, including cities like Manchester and Preston
 Key features:
 - Glottal stop for /t/ in word-final and intervocalic positions
 - Distinctive vowel pronunciations
-- Use of "us" for "me" in some contexts
+- Use of “us” for “me” in some contexts
 
 Examples:
-- "Butter" pronounced as [ˈbʊʔə]
-- "Book" pronounced more like [bʊk]
-- **"Give us a pen"** meaning "Give me a pen"
+- “Butter” pronounced as [ˈbʊʔə]
+- “Book” pronounced more like [bʊk]
+- **“Give us a pen”** meaning “Give me a pen”
 
 Vocabulary:
-- **"Angin'"** - unpleasant
-- **"Chippy"** - fish and chip shop
-- **"Gennel"** - alleyway
+- **“Angin'”** - unpleasant
+- **“Chippy”** - fish and chip shop
+- **“Gennel”** - alleyway
 
 ### 4. Scottish Dialects
 
@@ -257,19 +257,19 @@ Vocabulary:
 Scots is sometimes considered a separate language from English, but is often treated as a dialect continuum with Scottish English.
 
 Key features:
-- Use of "ken" for "know"
+- Use of “ken” for “know”
 - Distinctive vocabulary
 - Different grammatical structures
 
 Examples:
-- **"Aye"** for "yes"
-- **"Wee"** for "small"
-- **"I'm away to my bed"** meaning "I'm going to bed"
+- **“Aye”** for “yes”
+- **“Wee”** for “small”
+- **“I'm away to my bed”** meaning “I'm going to bed”
 
 Vocabulary:
-- **"Bairn"** - child
-- **"Dreich"** - dreary (usually describing weather)
-- **"Sleekit"** - sly or cunning
+- **“Bairn”** - child
+- **“Dreich”** - dreary (usually describing weather)
+- **“Sleekit”** - sly or cunning
 
 #### Scottish English
 
@@ -278,17 +278,17 @@ The variety of English spoken in Scotland, influenced by Scots.
 Key features:
 - Rhotic pronunciation
 - Distinctive vowel sounds
-- Use of "wee" as a diminutive
+- Use of “wee” as a diminutive
 
 Examples:
-- "Girl" pronounced as [gɛrl] rather than [gɜːl]
-- "House" pronounced as [hʌus]
-- **"It's a wee bit cold"** meaning "It's a little bit cold"
+- “Girl” pronounced as [gɛrl] rather than [gɜːl]
+- “House” pronounced as [hʌus]
+- **“It's a wee bit cold”** meaning “It's a little bit cold”
 
 Vocabulary:
-- **"Aye"** - yes
-- **"Bonnie"** - beautiful
-- **"Loch"** - lake
+- **“Aye”** - yes
+- **“Bonnie”** - beautiful
+- **“Loch”** - lake
 
 #### Glaswegian
 
@@ -300,14 +300,14 @@ Key features:
 - L-vocalization in some positions
 
 Examples:
-- "Bottle" pronounced as [ˈbɒʔɫ̩]
-- "Milk" often pronounced as [mɪʊk]
+- “Bottle” pronounced as [ˈbɒʔɫ̩]
+- “Milk” often pronounced as [mɪʊk]
 - Rising intonation at the end of statements, sounding like questions to non-Glaswegians
 
 Vocabulary:
-- **"Weegie"** - a person from Glasgow
-- **"Mince"** - nonsense
-- **"Boggin'"** - dirty or disgusting
+- **“Weegie”** - a person from Glasgow
+- **“Mince”** - nonsense
+- **“Boggin'”** - dirty or disgusting
 
 ### 5. Welsh English
 
@@ -315,18 +315,18 @@ The variety of English spoken in Wales, influenced by the Welsh language.
 
 Key features:
 - Tendency towards sing-song intonation
-- Use of "isn't it?" as a general tag question
+- Use of “isn’t it?” as a general tag question
 - Distinctive vowel sounds
 
 Examples:
 - Rising intonation at the end of statements
-- **"I'm going to the shops now, isn't it?"**
-- "Bird" often pronounced as [bɜːd]
+- **“I'm going to the shops now, isn’t it?”**
+- “Bird” often pronounced as [bɜːd]
 
 Vocabulary:
-- **"Cwtch"** - cuddle
-- **"Tamping"** - angry
-- **"Lush"** - nice or pleasant
+- **“Cwtch”** - cuddle
+- **“Tamping”** - angry
+- **“Lush”** - nice or pleasant
 
 ### 6. Northern Irish Dialects
 
@@ -335,19 +335,19 @@ Vocabulary:
 Spoken primarily in parts of Northern Ireland and influenced by Scots.
 
 Key features:
-- Use of "aye" for "yes"
+- Use of “aye” for “yes”
 - Distinctive vocabulary
 - Rhotic pronunciation
 
 Examples:
-- **"Wee"** for "small"
-- **"Yin"** for "one"
-- "Farm" pronounced as [fɑrm]
+- **“Wee”** for “small”
+- **“Yin”** for “one”
+- “Farm” pronounced as [fɑrm]
 
 Vocabulary:
-- **"Bake"** - mouth
-- **"Thon"** - that
-- **"Fornenst"** - opposite
+- **“Bake”** - mouth
+- **“Thon”** - that
+- **“Fornenst”** - opposite
 
 #### Mid Ulster English
 
@@ -355,18 +355,18 @@ Spoken in much of Northern Ireland.
 
 Key features:
 - Distinctive intonation patterns
-- Use of "yous" as a plural "you"
+- Use of “yous” as a plural “you”
 - Th-stopping in some areas
 
 Examples:
-- **"What about ye?"** as a greeting
-- **"Yous ones"** meaning "you all"
-- "Three" sometimes pronounced as [tri:]
+- **“What about ye?”** as a greeting
+- **“Yous ones”** meaning “you all”
+- “Three” sometimes pronounced as [tri:]
 
 Vocabulary:
-- **"Craic"** - fun or news
-- **"Eejit"** - idiot
-- **"Banjaxed"** - broken or ruined
+- **“Craic”** - fun or news
+- **“Eejit”** - idiot
+- **“Banjaxed”** - broken or ruined
 
 ## Phonological Features
 
@@ -385,8 +385,8 @@ Non-rhotic dialects:
 - Most Midlands and Northern dialects
 
 Example:
-- "Car" in RP: [kɑː]
-- "Car" in West Country: [kɑːr]
+- “Car” in RP: [kɑː]
+- “Car” in West Country: [kɑːr]
 
 ### Vowel Shifts
 
@@ -394,41 +394,41 @@ Different dialects often feature distinctive vowel pronunciations.
 
 #### The BATH-TRAP Split
 
-In RP and some southern dialects, words like "bath," "grass," and "dance" are pronounced with a long [ɑː] vowel, while in northern dialects, they use the short [æ] vowel.
+In RP and some southern dialects, words like “bath,” “grass,” and “dance” are pronounced with a long [ɑː] vowel, while in northern dialects, they use the short [æ] vowel.
 
 Examples:
-- RP: "bath" [bɑːθ], "dance" [dɑːns]
-- Northern: "bath" [bæθ], "dance" [dæns]
+- RP: “bath” [bɑːθ], “dance” [dɑːns]
+- Northern: “bath” [bæθ], “dance” [dæns]
 
 #### The FOOT-STRUT Split
 
-In most southern dialects, there's a distinction between the vowels in "foot" and "strut," while in many northern dialects, these are pronounced the same.
+In most southern dialects, there's a distinction between the vowels in “foot” and “strut,” while in many northern dialects, these are pronounced the same.
 
 Examples:
-- RP: "foot" [fʊt], "strut" [strʌt]
+- RP: “foot” [fʊt], “strut” [strʌt]
 - Northern: both pronounced as [fʊt], [strʊt]
 
 #### The NURSE Merger
 
-In some Scottish dialects, the vowels in "nurse," "fir," and "fur" are all pronounced the same.
+In some Scottish dialects, the vowels in “nurse,” “fir,” and “fur” are all pronounced the same.
 
 Example:
-- Scottish: "nurse" [nɛrs], "fir" [fɛr], "fur" [fɛr]
+- Scottish: “nurse” [nɛrs], “fir” [fɛr], “fur” [fɛr]
 
 #### The NORTH-FORCE Merger
 
-In many British dialects, words like "north" and "force" are pronounced with the same vowel sound, while in some dialects (like Scottish English), they remain distinct.
+In many British dialects, words like “north” and “force” are pronounced with the same vowel sound, while in some dialects (like Scottish English), they remain distinct.
 
 Example:
-- RP: "north" [nɔːθ], "force" [fɔːs] (same vowel)
-- Scottish: "north" [nɔrθ], "force" [fors] (different vowels)
+- RP: “north” [nɔːθ], “force” [fɔːs] (same vowel)
+- Scottish: “north” [nɔrθ], “force” [fors] (different vowels)
 
 #### The CURE-FORCE Merger
 
-In some dialects, words like "pure" and "poor" are pronounced with the same vowel as "force."
+In some dialects, words like “pure” and “poor” are pronounced with the same vowel as “force.”
 
 Example:
-- Traditional RP: "pure" [pjʊə], "poor" [pʊə], "force" [fɔːs]
+- Traditional RP: “pure” [pjʊə], “poor” [pʊə], “force” [fɔːs]
 - Modern RP and many other dialects: all pronounced with [ɔː]
 
 ### Consonant Variations
@@ -438,48 +438,48 @@ Example:
 Common in many working-class accents across England, h-dropping involves omitting the /h/ sound at the beginning of words.
 
 Example:
-- "House" pronounced as [aʊs]
-- "Happy" pronounced as [ˈæpi]
+- “House” pronounced as [aʊs]
+- “Happy” pronounced as [ˈæpi]
 
 #### T-glottalization
 
 The replacement of /t/ with a glottal stop [ʔ], especially common in Cockney and spreading to other dialects.
 
 Example:
-- "Butter" pronounced as [ˈbʌʔə]
-- "Bottle" pronounced as [ˈbɒʔl̩]
+- “Butter” pronounced as [ˈbʌʔə]
+- “Bottle” pronounced as [ˈbɒʔl̩]
 
 #### Th-fronting
 
 The replacement of /θ/ with [f] and /ð/ with [v], common in Cockney and some other urban dialects.
 
 Example:
-- "Think" pronounced as [fɪŋk]
-- "Brother" pronounced as [ˈbrʌvə]
+- “Think” pronounced as [fɪŋk]
+- “Brother” pronounced as [ˈbrʌvə]
 
 #### Th-stopping
 
 In some Irish and Scottish dialects, /θ/ is replaced with [t] and /ð/ with [d].
 
 Example:
-- "Think" pronounced as [tɪŋk]
-- "This" pronounced as [dɪs]
+- “Think” pronounced as [tɪŋk]
+- “This” pronounced as [dɪs]
 
 #### L-vocalization
 
 In some dialects, particularly in London and the southeast, /l/ at the end of syllables is pronounced as a vowel, often [ʊ] or [o].
 
 Example:
-- "Milk" pronounced as [mɪʊk]
-- "Wheel" pronounced as [wiːo]
+- “Milk” pronounced as [mɪʊk]
+- “Wheel” pronounced as [wiːo]
 
 #### Yod-dropping
 
 The omission of /j/ in certain contexts, common in East Anglia and some other areas.
 
 Example:
-- "News" pronounced as [nuːz] instead of [njuːz]
-- "Tune" pronounced as [tuːn] instead of [tjuːn]
+- “News” pronounced as [nuːz] instead of [njuːz]
+- “Tune” pronounced as [tuːn] instead of [tjuːn]
 
 ## Grammatical Features
 
@@ -488,68 +488,68 @@ Example:
 Some dialects, particularly working-class varieties, use double negatives for emphasis.
 
 Example:
-- **"I ain't got no money"** (Cockney)
-- **"He don't know nothing"** (various non-standard dialects)
+- **“I ain't got no money”** (Cockney)
+- **“He don’t know nothing”** (various non-standard dialects)
 
 ### 'Were' Subjunctive
 
-In some northern dialects, "were" is used in place of "was" in certain contexts.
+In some northern dialects, “were” is used in place of “was” in certain contexts.
 
 Example:
-- **"If I were you"** (standard in most dialects)
-- **"I were going to the shop"** (some Northern dialects)
+- **“If I were you”** (standard in most dialects)
+- **“I were going to the shop”** (some Northern dialects)
 
 ### Singular 'They'
 
-While now becoming more standard, the use of "they" as a singular pronoun has long been common in many British dialects.
+While now becoming more standard, the use of “they” as a singular pronoun has long been common in many British dialects.
 
 Example:
-- **"Someone left their umbrella"**
-- **"If anybody calls, tell them I'm out"**
+- **“Someone left their umbrella”**
+- **“If anybody calls, tell them I'm out”**
 
 ### Tag Questions
 
 Different dialects have distinctive ways of forming tag questions.
 
 Examples:
-- **"It's cold, isn't it?"** (Standard)
-- **"It's cold, int it?"** (Yorkshire)
-- **"It's cold, like"** (Geordie)
-- **"It's cold, isn't it no?"** (Scottish)
+- **“It's cold, isn’t it?”** (Standard)
+- **“It's cold, int it?”** (Yorkshire)
+- **“It's cold, like”** (Geordie)
+- **“It's cold, isn’t it no?”** (Scottish)
 
 ### Use of 'Ain't'
 
 Common in many non-standard dialects, particularly in the south of England.
 
 Example:
-- **"I ain't seen him"** for "I haven't seen him"
-- **"He ain't coming"** for "He isn't coming"
+- **“I ain't seen him”** for “I haven't seen him”
+- **“He ain't coming”** for “He isn’t coming”
 
 ### Plural 'You'
 
-Many dialects have a distinct plural form of "you."
+Many dialects have a distinct plural form of “you.”
 
 Examples:
-- **"Yous"** (Liverpool, Glasgow, Northern Ireland)
-- **"You lot"** (various dialects)
-- **"Y'all"** (not common in British dialects, but occasionally used)
+- **“Yous”** (Liverpool, Glasgow, Northern Ireland)
+- **“You lot”** (various dialects)
+- **“Y'all”** (not common in British dialects, but occasionally used)
 
 ### Verb Forms
 
 Some dialects use non-standard verb forms.
 
 Examples:
-- **"I done it"** for "I did it" (various non-standard dialects)
-- **"We was going"** for "We were going" (various non-standard dialects)
-- **"He don't like it"** for "He doesn't like it" (various non-standard dialects)
+- **“I done it”** for “I did it” (various non-standard dialects)
+- **“We was going”** for “We were going” (various non-standard dialects)
+- **“He don’t like it”** for “He doesn’t like it” (various non-standard dialects)
 
 ### Reflexive Pronouns
 
 Some dialects use non-standard forms of reflexive pronouns.
 
 Example:
-- **"Hisself"** for "himself" (various non-standard dialects)
-- **"Theirselves"** for "themselves" (various non-standard dialects)
+- **“Hisself”** for “himself” (various non-standard dialects)
+- **“Theirselves”** for “themselves” (various non-standard dialects)
 
 ## Lexical Features
 
@@ -558,60 +558,60 @@ Different dialects often have unique vocabulary items or use standard words in d
 ### Regional Terms
 
 #### Northern English:
-- **"Lass"** - girl or young woman
-- **"Owt"** - anything
-- **"Nowt"** - nothing
-- **"Ginnel"** - alleyway (Yorkshire)
-- **"Nebby"** - nosy (Northeast)
+- **“Lass”** - girl or young woman
+- **“Owt”** - anything
+- **“Nowt”** - nothing
+- **“Ginnel”** - alleyway (Yorkshire)
+- **“Nebby”** - nosy (Northeast)
 
 #### Scottish:
-- **"Wean"** - child
-- **"Dreich"** - dreary, bleak (weather)
-- **"Bonnie"** - beautiful
-- **"Braw"** - fine, good
-- **"Ken"** - know
+- **“Wean”** - child
+- **“Dreich”** - dreary, bleak (weather)
+- **“Bonnie”** - beautiful
+- **“Braw”** - fine, good
+- **“Ken”** - know
 
 #### Cockney:
-- **"Apples and pears"** - stairs (rhyming slang)
-- **"Adam and Eve"** - believe (rhyming slang)
-- **"Boat race"** - face (rhyming slang)
-- **"Barnet fair"** - hair (rhyming slang)
-- **"Trouble and strife"** - wife (rhyming slang)
+- **“Apples and pears”** - stairs (rhyming slang)
+- **“Adam and Eve”** - believe (rhyming slang)
+- **“Boat race”** - face (rhyming slang)
+- **“Barnet fair”** - hair (rhyming slang)
+- **“Trouble and strife”** - wife (rhyming slang)
 
 #### Welsh English:
-- **"Cwtch"** - cuddle or hug
-- **"Tamping"** - angry
-- **"Lush"** - nice or pleasant
-- **"Tidy"** - good or decent
-- **"Butty"** - friend or work colleague
+- **“Cwtch”** - cuddle or hug
+- **“Tamping”** - angry
+- **“Lush”** - nice or pleasant
+- **“Tidy”** - good or decent
+- **“Butty”** - friend or work colleague
 
 #### Northern Irish:
-- **"Wee"** - small (used very frequently)
-- **"Craic"** - fun, entertainment
-- **"Eejit"** - idiot
-- **"Banjaxed"** - broken or ruined
-- **"Scundered"** - embarrassed
+- **“Wee”** - small (used very frequently)
+- **“Craic”** - fun, entertainment
+- **“Eejit”** - idiot
+- **“Banjaxed”** - broken or ruined
+- **“Scundered”** - embarrassed
 
 ### Dialect-Specific Phrases
 
-- Geordie: **"Howay man!"** - Come on!
-- Scouse: **"Made up"** - very pleased
-- Scottish: **"Aye, right"** - expressing disbelief (equivalent to "yeah, right" said sarcastically)
-- Yorkshire: **"Ee by gum"** - expression of surprise
-- Brummie: **"Alright, bab?"** - How are you?
-- Cockney: **"Cor blimey!"** - expression of surprise
-- Northern Irish: **"What's the craic?"** - What's happening?
+- Geordie: **“Howay man!”** - Come on!
+- Scouse: **“Made up”** - very pleased
+- Scottish: **“Aye, right”** - expressing disbelief (equivalent to “yeah, right” said sarcastically)
+- Yorkshire: **“Ee by gum”** - expression of surprise
+- Brummie: **“Alright, bab?”** - How are you?
+- Cockney: **“Cor blimey!”** - expression of surprise
+- Northern Irish: **“What's the craic?”** - What's happening?
 
 ### Food Terms
 
 Different regions often have their own names for common food items:
 
-- **"Bap"** / **"Cob"** / **"Roll"** / **"Barm"** - all referring to a bread roll, varying by region
-- **"Chips"** - what Americans call "fries"
-- **"Crisps"** - what Americans call "chips"
-- **"Butty"** - sandwich (particularly in Northern England)
-- **"Sarnie"** - sandwich (various regions)
-- **"Scran"** - food (Scouse and some other dialects)
+- **“Bap”** / **“Cob”** / **“Roll”** / **“Barm”** - all referring to a bread roll, varying by region
+- **“Chips”** - what Americans call “fries”
+- **“Crisps”** - what Americans call “chips”
+- **“Butty”** - sandwich (particularly in Northern England)
+- **“Sarnie”** - sandwich (various regions)
+- **“Scran”** - food (Scouse and some other dialects)
 
 ## Sociolinguistic Factors
 
@@ -620,24 +620,24 @@ Different regions often have their own names for common food items:
 In Britain, dialect often correlates with social class. RP, for instance, is associated with the upper and upper-middle classes, while regional accents are often associated with working-class speakers.
 
 Examples:
-- Upper-class speakers might say **"Rather!"** to mean "very much so"
-- Working-class London speakers might say **"Innit!"** as a general tag question
+- Upper-class speakers might say **“Rather!”** to mean “very much so”
+- Working-class London speakers might say **“Innit!”** as a general tag question
 
 ### Urban vs. Rural
 
 Urban dialects often differ from rural dialects in the same region. Urban dialects may incorporate more multicultural influences, while rural dialects may preserve older forms.
 
 Examples:
-- Rural Southwest: **"Where's that to?"** meaning "Where is that?"
-- Urban London: **"Where's that at?"** (influenced by American English)
+- Rural Southwest: **“Where's that to?”** meaning “Where is that?”
+- Urban London: **“Where's that at?”** (influenced by American English)
 
 ### Age Differences
 
 Younger speakers often use different forms than older speakers, even within the same dialect area. This can lead to generational differences in pronunciation and vocabulary.
 
 Example:
-- Older Cockney speakers might say **"apples and pears"** for "stairs," while younger speakers might just use "stairs."
-- Younger speakers across dialects might use **"bare"** to mean "very" or "a lot," influenced by multicultural London English.
+- Older Cockney speakers might say **“apples and pears”** for “stairs,” while younger speakers might just use “stairs.”
+- Younger speakers across dialects might use **“bare”** to mean “very” or “a lot,” influenced by multicultural London English.
 
 ### Multicultural London English (MLE)
 
@@ -649,9 +649,9 @@ Key features:
 - Influence from Caribbean, African, and South Asian languages
 
 Examples:
-- "Face" pronounced more like [fes]
-- **"Man's not hot"** - "I'm not hot" (using "man" as a first-person pronoun)
-- **"Bare"** - very or a lot
+- “Face” pronounced more like [fes]
+- **“Man's not hot”** - “I'm not hot” (using “man” as a first-person pronoun)
+- **“Bare”** - very or a lot
 
 ### Gender Differences
 
@@ -666,11 +666,11 @@ Many British speakers are able to switch between their local dialect and a more 
 
 Example:
 A speaker from Newcastle might use strong Geordie features when talking to friends:
-**"Howay man, let's gan doon the toon for a few bevvies."**
+**“Howay man, let's gan doon the toon for a few bevvies.”**
 (Come on man, let's go to the town center for a few drinks.)
 
 But then switch to a more standard form in a job interview:
-"I'm very interested in this position and believe I have the necessary skills and experience."
+“I'm very interested in this position and believe I have the necessary skills and experience.”
 
 ## Dialect Levelling
 
@@ -682,7 +682,7 @@ The traditional Cockney dialect is being replaced by Multicultural London Englis
 Features that are spreading across dialects:
 - T-glottalization
 - Th-fronting
-- Use of "like" as a discourse marker
+- Use of “like” as a discourse marker
 
 ## Attitudes Towards Dialects
 
@@ -699,8 +699,8 @@ Examples:
 Immigration has had a significant impact on British dialects, particularly in urban areas. This has led to the development of new dialect features and even new dialects.
 
 Examples:
-- Jamaican Patois has influenced urban British dialects, introducing words like **"ting"** (thing) and **"bare"** (very/many)
-- Polish immigration has introduced words like **"sklep"** (shop) in some areas with large Polish communities
+- Jamaican Patois has influenced urban British dialects, introducing words like **“ting”** (thing) and **“bare”** (very/many)
+- Polish immigration has introduced words like **“sklep”** (shop) in some areas with large Polish communities
 
 ## Media Representation
 
@@ -708,7 +708,7 @@ The representation of dialects in media has both reflected and influenced how th
 
 Examples:
 - The use of RP in BBC broadcasts historically reinforced its status
-- TV shows like "Eastenders" (Cockney) and "Coronation Street" (Manchester) have popularized certain dialect features
+- TV shows like “Eastenders” (Cockney) and “Coronation Street” (Manchester) have popularized certain dialect features
 - Comedy shows often exaggerate dialect features for humorous effect, which can reinforce stereotypes but also increase awareness of dialect diversity
 
 ## Dialect in Literature
@@ -716,9 +716,9 @@ Examples:
 Many British authors have used dialect in their writing to create a sense of place or character.
 
 Examples:
-- The Yorkshire dialect in Emily Brontë's "Wuthering Heights"
+- The Yorkshire dialect in Emily Brontë's “Wuthering Heights”
 - The Cockney dialect in Charles Dickens' works
-- The Scottish dialect in Irvine Welsh's "Trainspotting"
+- The Scottish dialect in Irvine Welsh's “Trainspotting”
 
 ## Dialect Preservation and Revitalization
 

@@ -16,12 +16,12 @@ Proto-Germanic underwent several significant sound changes that distinguished it
    - PIE voiced aspirated stops became voiced stops: *bʰ > b, *dʰ > d, *gʰ > g
 
    Example:
-   PIE **pēd-* "foot" > Proto-Germanic **fōt-* > English **foot**, German **Fuß**, Dutch **voet**
+   PIE **pēd-* “foot” > Proto-Germanic **fōt-* > English **foot**, German **Fuß**, Dutch **voet**
 
 2. Verner's Law: Voiceless fricatives became voiced when the preceding syllable was unstressed in PIE:
    
    Example:
-   PIE **bʰreh₂tēr* "brother" > Pre-Germanic **brōþēr* > Proto-Germanic **brōðēr* > English **brother**, German **Bruder**
+   PIE **bʰreh₂tēr* “brother” > Pre-Germanic **brōþēr* > Proto-Germanic **brōðēr* > English **brother**, German **Bruder**
 
 3. Stress shift: Fixed stress on the first syllable of the root
 
@@ -41,7 +41,7 @@ Proto-Germanic retained many Indo-European morphological features but also devel
 
 Example of a reconstructed Proto-Germanic paradigm:
 
-Strong verb "*nemaną* "to take":
+Strong verb “*nemaną* ”to take“:
 
 | Person | Present | Past |
 |--------|---------|------|
@@ -57,28 +57,28 @@ Strong verb "*nemaną* "to take":
 Proto-Germanic developed a distinct vocabulary, including:
 
 1. Inherited PIE roots:
-   ***watōr* "water" (from PIE **wed-*)
-   ***fađēr* "father" (from PIE **ph₂tēr*)
+   ***watōr* ”water“ (from PIE **wed-*)
+   ***fađēr* ”father“ (from PIE **ph₂tēr*)
 
 2. Germanic innovations:
-   ***þingstaz* "thing, assembly" (origin of English "thing")
-   ***haimaz* "home" (origin of English "home", German "Heim")
+   ***þingstaz* ”thing, assembly“ (origin of English ”thing“)
+   ***haimaz* ”home“ (origin of English ”home“, German ”Heim“)
 
 3. Early loanwords:
-   ***kuningaz* "king" (possibly from a pre-Germanic substrate)
+   ***kuningaz* ”king“ (possibly from a pre-Germanic substrate)
 
 ## Common Germanic Period
 
 After the initial Proto-Germanic period, the language began to diverge into different branches. However, some changes affected all or most Germanic languages during this period:
 
 1. West Germanic gemination: Consonants (except r) were doubled before j
-   Example: Proto-Germanic **satjaną* > Old English **settan**, Old High German **sezzen** "to set"
+   Example: Proto-Germanic **satjaną* > Old English **settan**, Old High German **sezzen** ”to set“
 
 2. Rhotacism: Intervocalic *z became r in West and North Germanic
-   Example: Proto-Germanic **ausō* > Old Norse **eyra**, Old English **ēare**, but Gothic **auso** "ear"
+   Example: Proto-Germanic **ausō* > Old Norse **eyra**, Old English **ēare**, but Gothic **auso** ”ear“
 
 3. Loss of final *-z
-   Example: Proto-Germanic **dagaz* > Old Norse **dagr**, Old English **dæg**, Gothic **dags** "day"
+   Example: Proto-Germanic **dagaz* > Old Norse **dagr**, Old English **dæg**, Gothic **dags** ”day“
 
 ## Major Germanic Branches
 
@@ -110,13 +110,13 @@ Old Norse was spoken from around 700 to 1350 CE and is the ancestor of modern Sc
 Key features:
 
 1. U-umlaut: a > ǫ when u or w followed in the next syllable
-   Example: Proto-Germanic **harjaz* > Old Norse **herjr** "army"
+   Example: Proto-Germanic **harjaz* > Old Norse **herjr** ”army“
 
 2. Breaking: e > ja before a or u in the following syllable
-   Example: Proto-Germanic **erþō* > Old Norse **jǫrð** "earth"
+   Example: Proto-Germanic **erþō* > Old Norse **jǫrð** ”earth“
 
 3. Syncope: Loss of unstressed vowels
-   Example: Proto-Germanic **gastiz* > Old Norse **gestr** "guest"
+   Example: Proto-Germanic **gastiz* > Old Norse **gestr** ”guest“
 
 Example of Old Norse text (from Hávamál):
 
@@ -134,13 +134,13 @@ Old English was spoken from about 450 to 1150 CE.
 Key features:
 
 1. Palatalization: k, g > tʃ, j before front vowels
-   Example: Proto-Germanic **kinnu* > Old English **ċinn** "chin"
+   Example: Proto-Germanic **kinnu* > Old English **ċinn** ”chin“
 
 2. Diphthongization: ā > ēa, ō > ēo
-   Example: Proto-Germanic **saiwan* > Old English **sēon** "to see"
+   Example: Proto-Germanic **saiwan* > Old English **sēon** ”to see“
 
 3. I-mutation: Back vowels were fronted when i or j followed in the next syllable
-   Example: Proto-Germanic **mūs* / **mūsiz* > Old English **mūs** / **mȳs** "mouse/mice"
+   Example: Proto-Germanic **mūs* / **mūsiz* > Old English **mūs** / **mȳs** ”mouse/mice“
 
 Example of Old English text (from Beowulf):
 
@@ -155,13 +155,13 @@ Key features:
 
 1. High German Consonant Shift:
    p > pf/ff, t > ts/ss, k > kx/xx
-   Example: Proto-Germanic **applu* > Old High German **apful** "apple"
+   Example: Proto-Germanic **applu* > Old High German **apful** ”apple“
 
 2. Retention of Proto-Germanic *ai and *au as diphthongs
-   Example: Proto-Germanic **stainaz* > Old High German **stein** "stone"
+   Example: Proto-Germanic **stainaz* > Old High German **stein** ”stone“
 
 3. Weakening of unstressed vowels
-   Example: Proto-Germanic **habjaną* > Old High German **habēn** "to have"
+   Example: Proto-Germanic **habjaną* > Old High German **habēn** ”to have“
 
 Example of Old High German text (from the Hildebrandslied):
 
@@ -175,32 +175,32 @@ Example of Old High German text (from the Hildebrandslied):
 Umlaut is a type of vowel mutation where a vowel is influenced by a vowel or semivowel in a following syllable. Different types of umlaut occurred in various Germanic languages:
 
 1. I-umlaut (i-mutation):
-   Old English: **fōt** / **fēt** "foot/feet"
-   Old Norse: **fótr** / **fœtr** "foot/feet"
-   Old High German: **fuoz** / **füezi** "foot/feet"
+   Old English: **fōt** / **fēt** ”foot/feet“
+   Old Norse: **fótr** / **fœtr** ”foot/feet“
+   Old High German: **fuoz** / **füezi** ”foot/feet“
 
 2. U-umlaut:
-   Old Norse: **land** / **lǫnd** "land/lands"
+   Old Norse: **land** / **lǫnd** ”land/lands“
 
 3. A-umlaut:
-   Old English: **helpan** > **healp** "to help" / "helped"
+   Old English: **helpan** > **healp** ”to help“ / ”helped“
 
 ### Breaking
 
 Breaking is the diphthongization of vowels under certain conditions:
 
 Old English: **e** > **eo** before **r**, **l**, **h** + consonant
-Example: Proto-Germanic **erþō* > Old English **eorþe** "earth"
+Example: Proto-Germanic **erþō* > Old English **eorþe** ”earth“
 
 Old Norse: **e** > **ja** before **a**, **u** in the following syllable
-Example: Proto-Germanic **etaną* > Old Norse **jata** "to eat"
+Example: Proto-Germanic **etaną* > Old Norse **jata** ”to eat“
 
 ### Syncope and Apocope
 
 Syncope is the loss of an internal unstressed vowel, while apocope is the loss of a final unstressed vowel:
 
-Old English syncope: **hēafudes** > **hēafdes** "of the head"
-Old Norse apocope: Proto-Germanic **gastiz* > Old Norse **gestr** "guest"
+Old English syncope: **hēafudes** > **hēafdes** ”of the head“
+Old Norse apocope: Proto-Germanic **gastiz* > Old Norse **gestr** ”guest“
 
 ## Morphological Developments
 
@@ -229,7 +229,7 @@ Germanic languages developed a system of strong and weak verbs:
 
 ### Development of Articles
 
-Germanic languages gradually developed definite and indefinite articles from demonstrative pronouns and the numeral "one":
+Germanic languages gradually developed definite and indefinite articles from demonstrative pronouns and the numeral ”one“:
 
 Old English: No articles
 Middle English: **the** (definite), **a/an** (indefinite)
@@ -284,14 +284,14 @@ Germanic languages developed various periphrastic constructions:
 
 Many Proto-Germanic words underwent semantic shifts in daughter languages:
 
-Proto-Germanic ***drankijaną* "to give to drink" > English **drench**, German **tränken** "to water (animals)"
+Proto-Germanic ***drankijaną* ”to give to drink“ > English **drench**, German **tränken** ”to water (animals)“
 
 ### Compound Words
 
 Germanic languages are known for their ability to form compound words:
 
-Old English: **bōc-hūs** "book-house" (library)
-German: **Schadenfreude** "harm-joy" (pleasure derived from another's misfortune)
+Old English: **bōc-hūs** ”book-house“ (library)
+German: **Schadenfreude** ”harm-joy“ (pleasure derived from another's misfortune)
 
 ### Loanwords
 
@@ -325,7 +325,7 @@ Example of a runic inscription (Thorsberg chape, c. 200 CE):
 
 **ᛟᚹᛚᚦᚢᚦᛖᚹᚨᛉ**
 Transliteration: **owlþuþewaz**
-Meaning: "servant of Ullr (a god)"
+Meaning: ”servant of Ullr (a god)"
 
 ## Gothic Bible Translation
 

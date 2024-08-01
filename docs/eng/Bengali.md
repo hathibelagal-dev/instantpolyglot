@@ -123,23 +123,23 @@ Unlike some other Indo-Aryan languages, Bengali does not have phonemic vowel len
 
 Bengali allows consonant clusters, but they are generally limited to two consonants. Examples:
 
-- **স্কুল** [skul] "school"
-- **প্রথম** [prɔt̪ʰom] "first"
-- **স্বাধীনতা** [ʂad̪ʱinot̪a] "independence"
+- **স্কুল** [skul] “school”
+- **প্রথম** [prɔt̪ʰom] “first”
+- **স্বাধীনতা** [ʂad̪ʱinot̪a] “independence”
 
 ### Vowel harmony
 
 Bengali exhibits a form of vowel harmony where the vowels /e/ and /o/ in a word's first syllable can influence the pronunciation of /æ/ in subsequent syllables. For example:
 
-- **দেখা** [d̪ekʰa] "to see" (infinitive)
-- **দেখে** [d̪ekʰe] "sees" (3rd person)
+- **দেখা** [d̪ekʰa] “to see” (infinitive)
+- **দেখে** [d̪ekʰe] “sees” (3rd person)
 
 ### Nasalization
 
 Vowels can be nasalized when followed by ং (anusvara) or ঁ (candrabindu). For example:
 
-- **বাঁশ** [bãɕ] "bamboo"
-- **চাঁদ** [tɕãd̪] "moon"
+- **বাঁশ** [bãɕ] “bamboo”
+- **চাঁদ** [tɕãd̪] “moon”
 
 ## Grammar
 
@@ -156,28 +156,28 @@ Unlike many Indo-European languages, Bengali does not have grammatical gender. N
 Bengali has two numbers: singular and plural. The plural is typically formed by adding -রা (-ra) for animate nouns and -গুলো (-gulo) or -গুলি (-guli) for inanimate nouns.
 
 Examples:
-- **ছেলে** (chele) "boy" → **ছেলেরা** (chelera) "boys"
-- **বই** (boi) "book" → **বইগুলো** (boigulo) "books"
+- **ছেলে** (chele) “boy” → **ছেলেরা** (chelera) “boys”
+- **বই** (boi) “book” → **বইগুলো** (boigulo) “books”
 
 #### Case
 
 Bengali has six cases: nominative, accusative, genitive, dative, locative, and instrumental. The nominative case is unmarked, while other cases are formed by adding postpositions.
 
 Examples:
-- Nominative: **ছেলে** (chele) "boy"
-- Accusative: **ছেলেকে** (cheleke) "to the boy"
-- Genitive: **ছেলের** (cheler) "of the boy"
-- Dative: **ছেলেকে** (cheleke) "to the boy"
-- Locative: **ছেলেতে** (chelete) "in/on the boy"
-- Instrumental: **ছেলে দিয়ে** (chele diye) "by means of the boy"
+- Nominative: **ছেলে** (chele) “boy”
+- Accusative: **ছেলেকে** (cheleke) “to the boy”
+- Genitive: **ছেলের** (cheler) “of the boy”
+- Dative: **ছেলেকে** (cheleke) “to the boy”
+- Locative: **ছেলেতে** (chelete) “in/on the boy”
+- Instrumental: **ছেলে দিয়ে** (chele diye) “by means of the boy”
 
 #### Definiteness
 
 Bengali uses the suffix -টা (-ta) or -টি (-ti) to indicate definiteness for singular nouns, and -গুলো (-gulo) or -গুলি (-guli) for plural nouns.
 
 Examples:
-- **বই** (boi) "book" → **বইটা** (boita) "the book"
-- **বইগুলো** (boigulo) "the books"
+- **বই** (boi) “book” → **বইটা** (boita) “the book”
+- **বইগুলো** (boigulo) “the books”
 
 ### Pronouns
 
@@ -192,27 +192,27 @@ Bengali pronouns are inflected for person, number, and case. Here are the person
 | 3rd | **সে** (se) | **তারা** (tara) |
 
 Demonstrative pronouns:
-- **এটা** (eta) "this"
-- **ওটা** (ota) "that"
-- **এগুলো** (egulo) "these"
-- **ওগুলো** (ogulo) "those"
+- **এটা** (eta) “this”
+- **ওটা** (ota) “that”
+- **এগুলো** (egulo) “these”
+- **ওগুলো** (ogulo) “those”
 
 Interrogative pronouns:
-- **কে** (ke) "who"
-- **কী** (ki) "what"
-- **কোন** (kon) "which"
+- **কে** (ke) “who”
+- **কী** (ki) “what”
+- **কোন** (kon) “which”
 
 ### Adjectives
 
 Bengali adjectives are typically invariable and precede the nouns they modify.
 
 Examples:
-- **লাল বই** (lal boi) "red book"
-- **বড় বাড়ি** (boro bari) "big house"
+- **লাল বই** (lal boi) “red book”
+- **বড় বাড়ি** (boro bari) “big house”
 
-Comparatives and superlatives are formed using **আরো** (aro) "more" and **সবচেয়ে** (sobceye) "most" respectively:
+Comparatives and superlatives are formed using **আরো** (aro) “more” and **সবচেয়ে** (sobceye) “most” respectively:
 
-- **বড়** (boro) "big" → **আরো বড়** (aro boro) "bigger" → **সবচেয়ে বড়** (sobceye boro) "biggest"
+- **বড়** (boro) “big” → **আরো বড়** (aro boro) “bigger” → **সবচেয়ে বড়** (sobceye boro) “biggest”
 
 ### Verbs
 
@@ -231,49 +231,49 @@ Bengali verbs can be divided into several classes based on their stem vowels:
 Bengali has three main tenses: present, past, and future.
 
 Present tense:
-- **আমি যাই** (ami jai) "I go"
-- **তুমি যাও** (tumi jao) "You go"
-- **সে যায়** (se jay) "He/She goes"
+- **আমি যাই** (ami jai) “I go”
+- **তুমি যাও** (tumi jao) “You go”
+- **সে যায়** (se jay) “He/She goes”
 
 Past tense:
-- **আমি গেলাম** (ami gelam) "I went"
-- **তুমি গেলে** (tumi gele) "You went"
-- **সে গেল** (se gelo) "He/She went"
+- **আমি গেলাম** (ami gelam) “I went”
+- **তুমি গেলে** (tumi gele) “You went”
+- **সে গেল** (se gelo) “He/She went”
 
 Future tense:
-- **আমি যাব** (ami jabo) "I will go"
-- **তুমি যাবে** (tumi jabe) "You will go"
-- **সে যাবে** (se jabe) "He/She will go"
+- **আমি যাব** (ami jabo) “I will go”
+- **তুমি যাবে** (tumi jabe) “You will go”
+- **সে যাবে** (se jabe) “He/She will go”
 
 #### Aspects
 
 Bengali has several aspects, including simple, progressive, perfect, and habitual.
 
-Progressive aspect is formed using the verb **থাকা** (thaka) "to stay":
-- **আমি যাচ্ছি** (ami jacchi) "I am going"
+Progressive aspect is formed using the verb **থাকা** (thaka) “to stay”:
+- **আমি যাচ্ছি** (ami jacchi) “I am going”
 
-Perfect aspect is formed using the verb **আছে** (ache) "to have":
-- **আমি গিয়েছি** (ami giyechi) "I have gone"
+Perfect aspect is formed using the verb **আছে** (ache) “to have”:
+- **আমি গিয়েছি** (ami giyechi) “I have gone”
 
 Habitual aspect is formed using the suffix -তাম (-tam) in the past tense:
-- **আমি যেতাম** (ami jetam) "I used to go"
+- **আমি যেতাম** (ami jetam) “I used to go”
 
 #### Moods
 
 Bengali has several moods, including indicative, imperative, and subjunctive.
 
 Imperative mood:
-- **যাও** (jao) "Go!" (informal)
-- **যান** (jan) "Go!" (formal)
+- **যাও** (jao) “Go!” (informal)
+- **যান** (jan) “Go!” (formal)
 
 Subjunctive mood:
-- **যদি আমি যাই** (jodi ami jai) "If I go"
+- **যদি আমি যাই** (jodi ami jai) “If I go”
 
 #### Negation
 
 Verbs are negated by adding **না** (na) after the verb:
-- **আমি যাই না** (ami jai na) "I don't go"
-- **আমি যাব না** (ami jabo na) "I won't go"
+- **আমি যাই না** (ami jai na) “I don’t go”
+- **আমি যাব না** (ami jabo na) “I won’t go”
 
 ### Sentence Structure
 
@@ -282,7 +282,7 @@ Bengali typically follows a Subject-Object-Verb (SOV) word order.
 Example:
 **আমি বই পড়ি।** (ami boi pori)
 I book read
-"I read a book."
+“I read a book.”
 
 However, word order can be flexible for emphasis or in poetry.
 
@@ -290,15 +290,15 @@ However, word order can be flexible for emphasis or in poetry.
 
 Unlike many European languages that use prepositions, Bengali uses postpositions. These come after the noun they modify:
 
-- **বাড়িতে** (barite) "in the house"
-- **টেবিলের উপরে** (tebiler upore) "on the table"
+- **বাড়িতে** (barite) “in the house”
+- **টেবিলের উপরে** (tebiler upore) “on the table”
 
 ### Compounds
 
 Bengali frequently uses compound verbs, where two verb stems are combined to express complex actions or add nuance:
 
-- **খেয়ে ফেলা** (kheye fela) "to eat up" (lit. "eat" + "throw")
-- **বলে দেওয়া** (bole deoa) "to tell" (lit. "say" + "give")
+- **খেয়ে ফেলা** (kheye fela) “to eat up” (lit. “eat” + “throw”)
+- **বলে দেওয়া** (bole deoa) “to tell” (lit. “say” + “give”)
 
 ### Honorifics
 
@@ -308,7 +308,7 @@ Bengali has an extensive system of honorifics, reflected in pronouns, verbs, and
 - Familiar: used with peers and relatives
 - Formal: used with elders, strangers, and in professional settings
 
-Example (verb "to do"):
+Example (verb “to do”):
 - Informal: **তুই কর** (tui koro)
 - Familiar: **তুমি কর** (tumi koro)
 - Formal: **আপনি করেন** (apni koren)
@@ -321,42 +321,42 @@ Bengali vocabulary is primarily derived from Sanskrit, with influences from Pers
 
 A large portion of Bengali vocabulary, especially in formal or literary contexts, comes from Sanskrit:
 
-- **জল** (jol) "water" (from Sanskrit जल jala)
-- **আকাশ** (akash) "sky" (from Sanskrit आकाश ākāśa)
+- **জল** (jol) “water” (from Sanskrit जल jala)
+- **আকাশ** (akash) “sky” (from Sanskrit आकाश ākāśa)
 
 ### Perso-Arabic loanwords
 
 Due to centuries of Muslim rule, Bengali has borrowed many words from Persian and Arabic:
 
-- **দোকান** (dokan) "shop" (from Persian دکان dukkān)
-- **খবর** (khobor) "news" (from Arabic خبر khabar)
+- **দোকান** (dokan) “shop” (from Persian دکان dukkān)
+- **খবর** (khobor) “news” (from Arabic خبر khabar)
 
 ### English loanwords
 
 Modern Bengali has incorporated many English words, especially in technology, business, and popular culture:
 
-- **কম্পিউটার** (kompiutar) "computer"
-- **টেলিফোন** (telefon) "telephone"
-- **অফিস** (ofis) "office"
+- **কম্পিউটার** (kompiutar) “computer”
+- **টেলিফোন** (telefon) “telephone”
+- **অফিস** (ofis) “office”
 
 ### Tatsama and Tadbhava words
 
 Bengali vocabulary can be categorized into two main types based on their derivation from Sanskrit:
 
 1. Tatsama (identical to Sanskrit):
-   - **পুস্তক** (pustok) "book" (from Sanskrit पुस्तक pustaka)
-   - **কমল** (komol) "lotus" (from Sanskrit कमल kamala)
+   - **পুস্তক** (pustok) “book” (from Sanskrit पुस्तक pustaka)
+   - **কমল** (komol) “lotus” (from Sanskrit कमल kamala)
 
 2. Tadbhava (evolved from Sanskrit):
-   - **চাঁদ** (chand) "moon" (from Sanskrit चन्द्र chandra)
-   - **দুধ** (dudh) "milk" (from Sanskrit दुग्ध dugdha)
+   - **চাঁদ** (chand) “moon” (from Sanskrit चन्द्र chandra)
+   - **দুধ** (dudh) “milk” (from Sanskrit दुग्ध dugdha)
 
 ### Reduplication
 
 Bengali frequently uses reduplication to express intensity, continuity, or distribution:
 
-- **ধীরে ধীরে** (dhire dhire) "very slowly"
-- **ছোট ছোট** (choto choto) "very small" or "many small things"
+- **ধীরে ধীরে** (dhire dhire) “very slowly”
+- **ছোট ছোট** (choto choto) “very small” or “many small things”
 
 ### Onomatopoeia
 
@@ -377,83 +377,83 @@ Bengali has several dialects, with the main division being between West Bengali 
 
 Dialects can differ in pronunciation, vocabulary, and sometimes grammar. For example:
 
-Standard Bengali: **আমি যাব** (ami jabo) "I will go"
-Sylheti: **আমি জাইমু** (ami jaimu) "I will go"
+Standard Bengali: **আমি যাব** (ami jabo) “I will go”
+Sylheti: **আমি জাইমু** (ami jaimu) “I will go”
 
 ## Colloquial Bengali
 
 Colloquial Bengali, especially in urban areas, often differs from the standard written form. Some features of colloquial Bengali include:
 
 1. Pronunciation changes:
-   - Final অ (o) is often dropped: **চল** (cholo) becomes **চল** (chol) "let's go"
-   - ণ (ṇ) is often pronounced as ন (n): **প্রাণ** (pran) becomes **প্রান** (pran) "life"
+   - Final অ (o) is often dropped: **চল** (cholo) becomes **চল** (chol) “let's go”
+   - ণ (ṇ) is often pronounced as ন (n): **প্রাণ** (pran) becomes **প্রান** (pran) “life”
 
 2. Contracted forms:
-   - **করেছি** (korechi) becomes **করছি** (korchi) "I have done"
-   - **বলেছে** (boleche) becomes **বলছে** (bolche) "He/She has said"
+   - **করেছি** (korechi) becomes **করছি** (korchi) “I have done”
+   - **বলেছে** (boleche) becomes **বলছে** (bolche) “He/She has said”
 
 3. Simplified verb forms:
-   - **করিতেছি** (koritechhi) becomes **করছি** (korchi) "I am doing"
+   - **করিতেছি** (koritechhi) becomes **করছি** (korchi) “I am doing”
 
 4. Use of informal pronouns:
    - **তুমি** (tumi) is often replaced by **তুই** (tui) among close friends
 
 5. Slang and colloquial expressions:
-   - **জোস** (joss) "awesome"
-   - **ফাটাফাটি** (fatafati) "excellent"
+   - **জোস** (joss) “awesome”
+   - **ফাটাফাটি** (fatafati) “excellent”
 
 ## Idioms and Expressions
 
 Bengali is rich in idioms and expressions. Here are a few examples:
 
-- **মাথা খারাপ** (matha kharap) - literally "bad head", means "crazy"
-- **পেট ভরা** (pet bhora) - literally "full stomach", means "satisfied"
-- **চোখের মণি** (chokher moni) - literally "pupil of the eye", means "very dear"
-- **হাতে স্বর্গ** (hate swargo) - literally "heaven in hand", means "extremely happy"
+- **মাথা খারাপ** (matha kharap) - literally “bad head”, means “crazy”
+- **পেট ভরা** (pet bhora) - literally “full stomach”, means “satisfied”
+- **চোখের মণি** (chokher moni) - literally “pupil of the eye”, means “very dear”
+- **হাতে স্বর্গ** (hate swargo) - literally “heaven in hand”, means “extremely happy”
 
 ## Sentence Particles
 
 Bengali uses various sentence particles to express mood, emphasis, or politeness:
 
 - **তো** (to) - used for emphasis or to soften a statement
-  Example: **তুমি তো জানো** (tumi to jano) "You know, right?"
+  Example: **তুমি তো জানো** (tumi to jano) “You know, right?”
 
 - **না** (na) - used in questions expecting affirmation
-  Example: **তুমি যাবে না?** (tumi jabe na?) "You'll go, won't you?"
+  Example: **তুমি যাবে না?** (tumi jabe na?) “You'll go, won’t you?”
 
 - **কি** (ki) - used to form questions
-  Example: **তুমি কি জানো?** (tumi ki jano?) "Do you know?"
+  Example: **তুমি কি জানো?** (tumi ki jano?) “Do you know?”
 
 ## Verbal Nouns
 
 Bengali frequently uses verbal nouns, formed by adding -আ (-a) to the verb stem:
 
-- **যাওয়া** (jaowa) "going" (from যা- ja- "go")
-- **খাওয়া** (khaowa) "eating" (from খা- kha- "eat")
+- **যাওয়া** (jaowa) “going” (from যা- ja- “go”)
+- **খাওয়া** (khaowa) “eating” (from খা- kha- “eat”)
 
 These are used in various constructions:
-- **আমার যাওয়া হবে না** (amar jaowa hobe na) "I won't be able to go" (lit. "My going will not happen")
+- **আমার যাওয়া হবে না** (amar jaowa hobe na) “I won’t be able to go” (lit. “My going will not happen”)
 
 ## Copula
 
 Bengali often omits the copula (linking verb) in the present tense:
 
-- **আমি ছাত্র** (ami chatro) "I (am) a student"
-- **সে সুন্দর** (se sundor) "He/She (is) beautiful"
+- **আমি ছাত্র** (ami chatro) “I (am) a student”
+- **সে সুন্দর** (se sundor) “He/She (is) beautiful”
 
 In the past tense, the copula **ছিল** (chilo) is used:
 
-- **আমি ছাত্র ছিলাম** (ami chatro chilam) "I was a student"
+- **আমি ছাত্র ছিলাম** (ami chatro chilam) “I was a student”
 
 ## Emphatic Forms
 
 Bengali uses emphatic particles to add emphasis:
 
 - **ই** (i) - used for strong emphasis
-  Example: **আমিই করেছি** (ami-i korechi) "I (myself) have done it"
+  Example: **আমিই করেছি** (ami-i korechi) “I (myself) have done it”
 
 - **ও** (o) - used for inclusive emphasis
-  Example: **তুমিও এসো** (tumi-o eso) "You come too"
+  Example: **তুমিও এসো** (tumi-o eso) “You come too”
 
 ## Numbers and Counting
 
@@ -477,7 +477,7 @@ Larger numbers:
 ১০০ - একশো (ek-sho)
 ১০০০ - হাজার (hazar)
 
-Bengali also has a traditional numbering system called "Kuḍi", based on units of 20, which is still used in some rural areas.
+Bengali also has a traditional numbering system called “Kuḍi”, based on units of 20, which is still used in some rural areas.
 
 ## Time and Date
 

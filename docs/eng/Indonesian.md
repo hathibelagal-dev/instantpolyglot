@@ -10,11 +10,11 @@ Indonesian uses the Latin alphabet and has a relatively straightforward spelling
 
 | Letter | Sound |
 |--------|-------|
-| a | [a] as in "father" |
-| e | [ə] as in "about" or [e] as in "bed" |
-| i | [i] as in "machine" |
-| o | [o] as in "go" |
-| u | [u] as in "flute" |
+| a | [a] as in “father” |
+| e | [ə] as in “about” or [e] as in “bed” |
+| i | [i] as in “machine” |
+| o | [o] as in “go” |
+| u | [u] as in “flute” |
 
 ### Consonants
 
@@ -22,13 +22,13 @@ Most consonants are pronounced similarly to English, with some exceptions:
 
 | Letter | Sound |
 |--------|-------|
-| c | [tʃ] as in "church" |
-| g | always hard [g] as in "go" |
-| j | [dʒ] as in "judge" |
-| ng | [ŋ] as in "sing" |
-| ny | [ɲ] similar to Spanish "ñ" |
+| c | [tʃ] as in “church” |
+| g | always hard [g] as in “go” |
+| j | [dʒ] as in “judge” |
+| ng | [ŋ] as in “sing” |
+| ny | [ɲ] similar to Spanish “ñ” |
 | r | rolled [r] |
-| y | [j] as in "yes" |
+| y | [j] as in “yes” |
 
 ### Diphthongs
 
@@ -36,9 +36,9 @@ Indonesian has several diphthongs:
 
 | Diphthong | Sound |
 |-----------|-------|
-| ai | [ai] as in "eye" |
-| au | [au] as in "now" |
-| oi | [oi] as in "boy" |
+| ai | [ai] as in “eye” |
+| au | [au] as in “now” |
+| oi | [oi] as in “boy” |
 
 ### Stress
 
@@ -121,9 +121,9 @@ Quantity words are used with nouns to indicate number:
 ### Measure words
 
 Indonesian uses measure words (classifiers) with numbers and certain quantifiers:
-- **dua ekor kucing** (two cats, literally "two tails of cat")
-- **tiga buah apel** (three apples, literally "three fruits of apple")
-- **lima orang murid** (five students, literally "five persons of student")
+- **dua ekor kucing** (two cats, literally “two tails of cat”)
+- **tiga buah apel** (three apples, literally “three fruits of apple”)
+- **lima orang murid** (five students, literally “five persons of student”)
 
 Common measure words include:
 - **orang** for people
@@ -148,7 +148,7 @@ Indonesian personal pronouns vary based on formality and social status:
 | 2nd plural | **kalian** | - |
 | 3rd plural | **mereka** | - |
 
-The distinction between inclusive "we" (**kita**, including the listener) and exclusive "we" (**kami**, excluding the listener) is important in Indonesian.
+The distinction between inclusive “we” (**kita**, including the listener) and exclusive “we” (**kami**, excluding the listener) is important in Indonesian.
 
 ### Possessive pronouns
 
@@ -329,7 +329,7 @@ Information questions use question words:
 
 Negation is formed using **tidak** for verbs and adjectives, and **bukan** for nouns:
 
-- **Saya tidak suka kopi.** (I don't like coffee.)
+- **Saya tidak suka kopi.** (I don’t like coffee.)
 - **Dia tidak tinggi.** (He/She is not tall.)
 - **Ini bukan buku saya.** (This is not my book.)
 
@@ -341,7 +341,7 @@ Common conjunctions include:
 - **atau** (or): **teh atau kopi** (tea or coffee)
 - **tetapi** / **tapi** (but): **Mahal, tetapi bagus.** (Expensive, but good.)
 - **karena** (because): **Saya tidak datang karena sakit.** (I didn't come because I was sick.)
-- **jika** / **kalau** (if): **Jika hujan, saya tidak pergi.** (If it rains, I won't go.)
+- **jika** / **kalau** (if): **Jika hujan, saya tidak pergi.** (If it rains, I won’t go.)
 
 ### Topic-comment structure
 
@@ -352,7 +352,7 @@ Indonesian often uses a topic-comment structure, where the topic is introduced f
 
 ## Colloquial Indonesian
 
-Colloquial Indonesian, especially as spoken in Jakarta (often called "bahasa gaul"), differs significantly from standard Indonesian. Some features include:
+Colloquial Indonesian, especially as spoken in Jakarta (often called “bahasa gaul”), differs significantly from standard Indonesian. Some features include:
 
 1. Pronoun changes:
    - **gue** instead of **saya** (I)
@@ -377,7 +377,7 @@ Colloquial Indonesian, especially as spoken in Jakarta (often called "bahasa gau
 Example of colloquial Indonesian:
 - Standard: **Saya tidak mengerti apa yang Anda katakan.**
 - Colloquial: **Gue nggak ngerti apa yang lu omongin.**
-  (I don't understand what you're saying.)
+  (I don’t understand what you're saying.)
 
 ## Loanwords
 
@@ -429,14 +429,14 @@ Indonesian uses various particles and discourse markers to add nuance, emphasis,
 2. **kah**: forms questions
    - **Apakah kamu sudah makan?** (Have you eaten?)
 
-3. **pun**: means "also" or "even"
-   - **Dia pun tidak tahu.** (Even he doesn't know.)
+3. **pun**: means “also” or “even”
+   - **Dia pun tidak tahu.** (Even he doesn’t know.)
 
 4. **sih**: adds casual emphasis or indicates slight annoyance
    - **Apa sih yang kamu mau?** (What is it that you want?)
 
 5. **dong**: softens a request or adds friendly emphasis
-   - **Bantu aku dong.** (Help me, won't you?)
+   - **Bantu aku dong.** (Help me, won’t you?)
 
 6. **kok**: expresses surprise or mild contradiction
    - **Kok bisa?** (How is that possible?)
@@ -486,7 +486,7 @@ Indonesian uses various honorifics and terms of address to show respect or indic
    - **Pak Guru** (Mr. Teacher)
    - **Bu Dokter** (Mrs. Doctor)
 
-5. **Anda**: formal "you" for respectful or professional contexts
+5. **Anda**: formal “you” for respectful or professional contexts
    - **Bagaimana pendapat Anda?** (What is your opinion?)
 
 ## Idiomatic Expressions
@@ -497,13 +497,13 @@ Indonesian has many idiomatic expressions that add color to the language:
    - **Hati-hati, dia panjang tangan.** (Be careful, he's light-fingered.)
 
 2. **Besar kepala** (big head): arrogant
-   - **Jangan besar kepala kalau sudah sukses.** (Don't be arrogant when you're successful.)
+   - **Jangan besar kepala kalau sudah sukses.** (Don’t be arrogant when you're successful.)
 
 3. **Makan garam** (eat salt): to have a lot of experience
    - **Dia sudah banyak makan garam dalam bisnis ini.** (He has a lot of experience in this business.)
 
 4. **Naik darah** (blood rises): to get angry
-   - **Jangan sampai naik darah ya.** (Don't get angry, okay?)
+   - **Jangan sampai naik darah ya.** (Don’t get angry, okay?)
 
 5. **Cuci mata** (wash eyes): window shopping or looking at attractive people
    - **Ayo ke mal, cuci mata sebentar.** (Let's go to the mall for some window shopping.)
@@ -549,7 +549,7 @@ Indonesian uses various words and phrases to connect ideas within and between se
    - **Filmnya membosankan. Meskipun demikian, saya tetap menontonnya sampai selesai.** (The movie was boring. Nevertheless, I watched it until the end.)
 
 4. **Sebaliknya** (on the contrary):
-   - **Dia tidak marah. Sebaliknya, dia malah tertawa.** (He wasn't angry. On the contrary, he laughed.)
+   - **Dia tidak marah. Sebaliknya, dia malah tertawa.** (He wasn’t angry. On the contrary, he laughed.)
 
 5. **Sementara itu** (meanwhile):
    - **Ibu memasak di dapur. Sementara itu, ayah membaca koran.** (Mother is cooking in the kitchen. Meanwhile, father is reading the newspaper.)
@@ -563,7 +563,7 @@ While standard Indonesian is used throughout the country, especially in formal c
    - Addition of **-e** or **-ne** to nouns: **bukune** (the book)
 
 2. Sundanese influence:
-   - Use of **mah** as a topic marker: **Saya mah tidak tahu** (As for me, I don't know)
+   - Use of **mah** as a topic marker: **Saya mah tidak tahu** (As for me, I don’t know)
 
 3. Batak influence:
    - Use of **kek** instead of **seperti** (like): **Kek gini** (Like this)
@@ -590,9 +590,9 @@ Indonesian culture values politeness and indirect communication, which is reflec
    - **Bagaimana kalau kita pergi besok?** (How about if we go tomorrow?) instead of **Ayo pergi besok.** (Let's go tomorrow.)
 
 4. Apologizing before disagreeing:
-   - **Maaf, saya kurang setuju dengan pendapat Anda.** (I'm sorry, I don't quite agree with your opinion.)
+   - **Maaf, saya kurang setuju dengan pendapat Anda.** (I'm sorry, I don’t quite agree with your opinion.)
 
-5. Using inclusive "we" (**kita**) instead of "you":
+5. Using inclusive “we” (**kita**) instead of “you”:
    - **Sebaiknya kita periksa lagi pekerjaannya.** (We'd better check the work again.) instead of **Anda harus memeriksa lagi pekerjaan Anda.** (You should check your work again.)
 
 ## Onomatopoeia
@@ -621,7 +621,7 @@ Indonesian, like many languages, has a rich variety of onomatopoeic words:
 
 ## Slang and Youth Language
 
-Indonesian youth language, often called "bahasa gaul," is constantly evolving. Some examples:
+Indonesian youth language, often called “bahasa gaul,” is constantly evolving. Some examples:
 
 1. Abbreviations:
    - **gaje** from **ga jelas** (unclear, nonsensical)
@@ -637,4 +637,4 @@ Indonesian youth language, often called "bahasa gaul," is constantly evolving. S
 
 4. New slang terms:
    - **baper** from **bawa perasaan** (easily affected emotionally)
-   - **kepo** from Chinese "kaypoh" (nosy, curious)
+   - **kepo** from Chinese “kaypoh” (nosy, curious)

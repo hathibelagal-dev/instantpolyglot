@@ -86,7 +86,7 @@ Lao is a tonal language with six tones in most dialects:
 5. Mid falling (໊)
 6. High falling (໋)
 
-Example: **ເຮືອນ** [hɯ́ːn] "house" (high rising tone)
+Example: **ເຮືອນ** [hɯ́ːn] “house” (high rising tone)
 
 ## Phonology
 
@@ -113,7 +113,7 @@ Diphthongs: /ia, ɯa, ua/
 
 All vowels can be short or long, creating phonemic contrasts.
 
-Example: **ຕີ** [tìː] "to hit" vs. **ຕິ** [tì] "to criticize"
+Example: **ຕີ** [tìː] “to hit” vs. **ຕິ** [tì] “to criticize”
 
 ## Grammar
 
@@ -122,8 +122,8 @@ Example: **ຕີ** [tìː] "to hit" vs. **ຕິ** [tì] "to criticize"
 Lao nouns are not inflected for number, gender, or case. Plurality is typically expressed through context or by using quantifiers.
 
 Example:
-**ໝາ** [mǎː] "dog/dogs"
-**ໝາສອງໂຕ** [mǎː sɔ̌ːŋ tòː] "two dogs" (literally "dog two classifier")
+**ໝາ** [mǎː] “dog/dogs”
+**ໝາສອງໂຕ** [mǎː sɔ̌ːŋ tòː] “two dogs” (literally “dog two classifier”)
 
 ### Classifiers
 
@@ -134,7 +134,7 @@ Lao uses classifiers when counting or specifying quantities of nouns. Common cla
 - **ອັນ** [ʔán] for small objects
 
 Example:
-**ນັກຮຽນສາມຄົນ** [nák hían sǎːm kʰón] "three students"
+**ນັກຮຽນສາມຄົນ** [nák hían sǎːm kʰón] “three students”
 
 ### Pronouns
 
@@ -153,9 +153,9 @@ Lao pronouns vary based on the level of formality and the relationship between s
 Lao verbs do not conjugate for person, number, or tense. Tense and aspect are expressed through context or time markers.
 
 Example:
-**ກິນ** [kìn] "to eat"
-**ກິນແລ້ວ** [kìn lɛ́ːw] "ate" (literally "eat already")
-**ຈະກິນ** [tɕàʔ kìn] "will eat" (literally "will eat")
+**ກິນ** [kìn] “to eat”
+**ກິນແລ້ວ** [kìn lɛ́ːw] “ate” (literally “eat already”)
+**ຈະກິນ** [tɕàʔ kìn] “will eat” (literally “will eat”)
 
 ### Sentence Structure
 
@@ -163,7 +163,7 @@ The basic word order in Lao is Subject-Verb-Object (SVO).
 
 Example:
 **ຂ້ອຍກິນເຂົ້າ** [kʰɔ̂ːj kìn kʰâo]
-"I eat rice"
+“I eat rice”
 
 ### Adjectives
 
@@ -171,15 +171,15 @@ Adjectives in Lao typically follow the noun they modify.
 
 Example:
 **ເຮືອນຫຼັງໃຫຍ່** [hɯ́ːn lǎŋ ɲàj]
-"big house" (literally "house classifier big")
+“big house” (literally “house classifier big”)
 
 ### Comparatives and Superlatives
 
-Comparatives are formed using **ກວ່າ** [kwàː] "more than," while superlatives use **ທີ່ສຸດ** [tʰîː sút] "most."
+Comparatives are formed using **ກວ່າ** [kwàː] “more than,” while superlatives use **ທີ່ສຸດ** [tʰîː sút] “most.”
 
 Example:
-**ໃຫຍ່ກວ່າ** [ɲàj kwàː] "bigger"
-**ໃຫຍ່ທີ່ສຸດ** [ɲàj tʰîː sút] "biggest"
+**ໃຫຍ່ກວ່າ** [ɲàj kwàː] “bigger”
+**ໃຫຍ່ທີ່ສຸດ** [ɲàj tʰîː sút] “biggest”
 
 ### Negation
 
@@ -187,7 +187,7 @@ Negation is typically expressed by placing **ບໍ່** [bɔ̀ː] before the ve
 
 Example:
 **ຂ້ອຍບໍ່ກິນຊີ້ນ** [kʰɔ̂ːj bɔ̀ː kìn sîːn]
-"I don't eat meat"
+“I don’t eat meat”
 
 ### Questions
 
@@ -195,19 +195,19 @@ Yes/no questions are formed by adding the particle **ບໍ່** [bɔ̀ː] at th
 
 Example:
 **ເຈົ້າກິນເຂົ້າແລ້ວບໍ່?** [tɕâo kìn kʰâo lɛ́ːw bɔ̀ː]
-"Have you eaten yet?"
+“Have you eaten yet?”
 
 Wh-questions use question words such as:
 
-- **ຫຍັງ** [ɲǎŋ] "what"
-- **ໃຜ** [pʰǎj] "who"
-- **ຢູ່ໃສ** [jùː sǎj] "where"
-- **ເມື່ອໃດ** [mɯ̂a dàj] "when"
-- **ເປັນຫຍັງ** [pén ɲǎŋ] "why"
+- **ຫຍັງ** [ɲǎŋ] “what”
+- **ໃຜ** [pʰǎj] “who”
+- **ຢູ່ໃສ** [jùː sǎj] “where”
+- **ເມື່ອໃດ** [mɯ̂a dàj] “when”
+- **ເປັນຫຍັງ** [pén ɲǎŋ] “why”
 
 Example:
 **ເຈົ້າຊື່ຫຍັງ?** [tɕâo sɯ̄ː ɲǎŋ]
-"What is your name?"
+“What is your name?”
 
 ## Vocabulary
 
@@ -251,52 +251,52 @@ Lao has several regional dialects, with the main distinction being between Vient
 
 Example of dialectal differences:
 
-Standard Lao: **ເຮັດຫຍັງ** [hét ɲǎŋ] "What are you doing?"
-Southern Lao: **ເຮັດຫຍັງຢູ່** [hét ɲǎŋ jùː] "What are you doing?"
+Standard Lao: **ເຮັດຫຍັງ** [hét ɲǎŋ] “What are you doing?”
+Southern Lao: **ເຮັດຫຍັງຢູ່** [hét ɲǎŋ jùː] “What are you doing?”
 
 ## Colloquial Lao
 
 Colloquial Lao often differs from the formal written language in several ways:
 
 1. Particle usage: Colloquial speech uses more particles for emphasis and mood.
-   Example: **ກິນເຂົ້າແລ້ວບໍ** [kìn kʰâo lɛ́ːw bɔː] "Have you eaten yet?" (formal)
-             **ກິນເຂົ້າແລ້ວບໍເດ** [kìn kʰâo lɛ́ːw bɔː dɤː] "Have you eaten yet?" (colloquial)
+   Example: **ກິນເຂົ້າແລ້ວບໍ** [kìn kʰâo lɛ́ːw bɔː] “Have you eaten yet?” (formal)
+             **ກິນເຂົ້າແລ້ວບໍເດ** [kìn kʰâo lɛ́ːw bɔː dɤː] “Have you eaten yet?” (colloquial)
 
 2. Pronoun dropping: Subjects are often omitted in casual conversation when clear from context.
-   Example: **ໄປໃສ?** [paj sǎj] "Where (are you) going?"
+   Example: **ໄປໃສ?** [paj sǎj] “Where (are you) going?”
 
 3. Contractions: Some words are shortened in casual speech.
-   Example: **ບໍ່ແມ່ນ** [bɔ̀ː mɛ̀ːn] → **ບໍ່ມ່ນ** [bɔ̀ː mǎn] "is not"
+   Example: **ບໍ່ແມ່ນ** [bɔ̀ː mɛ̀ːn] → **ບໍ່ມ່ນ** [bɔ̀ː mǎn] “is not”
 
 4. Loanwords: Colloquial Lao incorporates more loanwords, especially from Thai and English.
-   Example: **ໂອເຄ** [ʔoː kʰeː] "okay" (from English)
+   Example: **ໂອເຄ** [ʔoː kʰeː] “okay” (from English)
 
 ## Idiomatic Expressions
 
 Lao has many idiomatic expressions that reflect cultural values and ways of thinking:
 
 1. **ກິນເຂົ້າແລ້ວບໍ່?** [kìn kʰâo lɛ́ːw bɔ̀ː]
-   Literal: "Have you eaten rice yet?"
-   Meaning: A common greeting, similar to "How are you?"
+   Literal: “Have you eaten rice yet?”
+   Meaning: A common greeting, similar to “How are you?”
 
 2. **ບໍ່ເປັນຫຍັງ** [bɔ̀ː pén ɲǎŋ]
-   Literal: "It's not anything"
-   Meaning: "You're welcome" or "It's no problem"
+   Literal: “It's not anything”
+   Meaning: “You're welcome” or “It's no problem”
 
 3. **ເຮັດໃຈ** [hét tɕaj]
-   Literal: "Make heart"
+   Literal: “Make heart”
    Meaning: To accept or come to terms with something
 
 4. **ຫົວໃຈກິນເຂົ້າ** [hǔa tɕaj kìn kʰâo]
-   Literal: "Heart eats rice"
+   Literal: “Heart eats rice”
    Meaning: To be extremely worried or anxious
 
 5. **ເສຍນ້ຳໃຈ** [sǐa nám tɕaj]
-   Literal: "Lose water heart"
+   Literal: “Lose water heart”
    Meaning: To be disappointed or discouraged
 
 6. **ຕົກໝາກຫຸ່ງ** [tók màːk hùŋ]
-   Literal: "Fall like a papaya"
+   Literal: “Fall like a papaya”
    Meaning: To be startled or shocked
 
 ## Honorifics and Politeness
@@ -306,8 +306,8 @@ Lao culture places great importance on respect and social hierarchy, which is re
 1. Pronouns: Different pronouns are used based on the social status of the speaker and listener.
    
    Example:
-   - **ຂ້ານ້ອຍ** [kʰǎː nɔ̂ːj] - humble "I" used when speaking to monks or royalty
-   - **ຂ້າພະເຈົ້າ** [kʰǎː pʰá tɕâo] - formal "I" used in official settings
+   - **ຂ້ານ້ອຍ** [kʰǎː nɔ̂ːj] - humble “I” used when speaking to monks or royalty
+   - **ຂ້າພະເຈົ້າ** [kʰǎː pʰá tɕâo] - formal “I” used in official settings
 
 2. Titles: Titles are often used before names to show respect.
    
@@ -319,96 +319,96 @@ Lao culture places great importance on respect and social hierarchy, which is re
 3. Particle usage: Particles like **ເດີ** [dɤː] or **ເນາະ** [nɔ́ː] are added to soften statements or requests.
    
    Example:
-   **ຂໍໂທດເດີ** [kʰɔ̌ː tʰôːt dɤː] - "Excuse me" (softer than just **ຂໍໂທດ**)
+   **ຂໍໂທດເດີ** [kʰɔ̌ː tʰôːt dɤː] - “Excuse me” (softer than just **ຂໍໂທດ**)
 
 ## Verbal Aspect and Modality
 
-While Lao verbs don't conjugate for tense, the language has a rich system of aspect and modality markers:
+While Lao verbs don’t conjugate for tense, the language has a rich system of aspect and modality markers:
 
 1. Perfective aspect: **ແລ້ວ** [lɛ́ːw] indicates completed action
-   Example: **ກິນແລ້ວ** [kìn lɛ́ːw] - "have eaten"
+   Example: **ກິນແລ້ວ** [kìn lɛ́ːw] - “have eaten”
 
 2. Progressive aspect: **ກຳລັງ** [kam laŋ] indicates ongoing action
-   Example: **ກຳລັງກິນ** [kam laŋ kìn] - "eating (right now)"
+   Example: **ກຳລັງກິນ** [kam laŋ kìn] - “eating (right now)”
 
 3. Habitual aspect: **ເຄີຍ** [kʰɤːj] indicates habitual action
-   Example: **ເຄີຍໄປ** [kʰɤːj paj] - "used to go"
+   Example: **ເຄີຍໄປ** [kʰɤːj paj] - “used to go”
 
 4. Future marker: **ຈະ** [tɕàʔ] indicates future action
-   Example: **ຈະໄປ** [tɕàʔ paj] - "will go"
+   Example: **ຈະໄປ** [tɕàʔ paj] - “will go”
 
 5. Ability: **ໄດ້** [dâj] indicates ability or possibility
-   Example: **ເວົ້າພາສາລາວໄດ້** [vâw pʰáːsǎː láːw dâj] - "can speak Lao"
+   Example: **ເວົ້າພາສາລາວໄດ້** [vâw pʰáːsǎː láːw dâj] - “can speak Lao”
 
 6. Obligation: **ຕ້ອງ** [tɔ̂ŋ] indicates necessity or obligation
-   Example: **ຕ້ອງໄປ** [tɔ̂ŋ paj] - "must go"
+   Example: **ຕ້ອງໄປ** [tɔ̂ŋ paj] - “must go”
 
 ## Sentence Final Particles
 
 Lao uses a variety of sentence-final particles to express mood, politeness, or emphasis:
 
 1. **ບໍ** [bɔː] - question particle
-   Example: **ເຈົ້າໄປບໍ?** [tɕâo paj bɔː] - "Are you going?"
+   Example: **ເຈົ້າໄປບໍ?** [tɕâo paj bɔː] - “Are you going?”
 
 2. **ແດ່** [dɛ̀ː] - softens commands or suggestions
-   Example: **ກິນແດ່** [kìn dɛ̀ː] - "Please eat"
+   Example: **ກິນແດ່** [kìn dɛ̀ː] - “Please eat”
 
 3. **ເດ** [deː] - emphasizes statements
-   Example: **ແພງຫຼາຍເດ** [pʰɛːŋ lǎːj deː] - "It's really expensive"
+   Example: **ແພງຫຼາຍເດ** [pʰɛːŋ lǎːj deː] - “It's really expensive”
 
 4. **ນໍ** [nɔː] - seeks agreement or confirmation
-   Example: **ງາມນໍ** [ŋáːm nɔː] - "It's beautiful, isn't it?"
+   Example: **ງາມນໍ** [ŋáːm nɔː] - “It's beautiful, isn’t it?”
 
 ## Serial Verb Constructions
 
 Lao frequently uses serial verb constructions, where multiple verbs are strung together without conjunctions:
 
 1. **ໄປກິນເຂົ້າ** [paj kìn kʰâo]
-   Literal: "go eat rice"
-   Meaning: "Go to eat"
+   Literal: “go eat rice”
+   Meaning: “Go to eat”
 
 2. **ເອົາໜັງສືມາອ່ານ** [ʔáw nǎŋ sɯ̌ː maː ʔàːn]
-   Literal: "take book come read"
-   Meaning: "Bring a book to read"
+   Literal: “take book come read”
+   Meaning: “Bring a book to read”
 
 3. **ແລ່ນໜີໄປ** [lɛ̀ːn nǐː paj]
-   Literal: "run escape go"
-   Meaning: "Run away"
+   Literal: “run escape go”
+   Meaning: “Run away”
 
 ## Reduplication
 
 Reduplication is common in Lao for various purposes:
 
 1. Intensification:
-   **ໄວໆ** [vaj vaj] - "very quickly" (from **ໄວ** "quick")
+   **ໄວໆ** [vaj vaj] - “very quickly” (from **ໄວ** “quick”)
 
 2. Pluralization:
-   **ເດັກໆ** [dék dék] - "children" (from **ເດັກ** "child")
+   **ເດັກໆ** [dék dék] - “children” (from **ເດັກ** “child”)
 
 3. Distributive meaning:
-   **ແຕ່ລະໆ** [tɛ̀ː làʔ làʔ] - "each and every" (from **ແຕ່ລະ** "each")
+   **ແຕ່ລະໆ** [tɛ̀ː làʔ làʔ] - “each and every” (from **ແຕ່ລະ** “each”)
 
 4. Approximation:
-   **ແດງໆ** [dɛːŋ dɛːŋ] - "reddish" (from **ແດງ** "red")
+   **ແດງໆ** [dɛːŋ dɛːŋ] - “reddish” (from **ແດງ** “red”)
 
 ## Loanwords
 
 Lao has borrowed words from various languages throughout its history:
 
 1. Pali/Sanskrit (religious and royal terms):
-   **ພະ** [pʰáʔ] - "monk" (from Pali "bhikkhu")
+   **ພະ** [pʰáʔ] - “monk” (from Pali “bhikkhu”)
 
 2. Khmer (administrative and cultural terms):
-   **ກະສັດ** [ká sát] - "king" (from Khmer "kasat")
+   **ກະສັດ** [ká sát] - “king” (from Khmer “kasat”)
 
 3. Thai (modern concepts):
-   **ໂທລະສັບ** [tʰoː lá sáp] - "telephone" (from Thai "thorasap")
+   **ໂທລະສັບ** [tʰoː lá sáp] - “telephone” (from Thai “thorasap”)
 
 4. French (colonial period):
-   **ກາເຟ** [kaː fɛː] - "coffee" (from French "café")
+   **ກາເຟ** [kaː fɛː] - “coffee” (from French “café”)
 
 5. English (technology and modern life):
-   **ຄອມພິວເຕີ** [kʰɔːm pʰíw tɤ̀ː] - "computer"
+   **ຄອມພິວເຕີ** [kʰɔːm pʰíw tɤ̀ː] - “computer”
 
 ## Writing Conventions
 
@@ -427,25 +427,25 @@ Lao has borrowed words from various languages throughout its history:
 
 Lao uses various discourse markers to structure conversation:
 
-1. **ແມ່ນແລ້ວ** [mɛ̀ːn lɛ́ːw] - "That's right"
-2. **ແນວໃດກໍຕາມ** [nɛ́ːw dàj kɔː taːm] - "However"
-3. **ນອກຈາກນັ້ນ** [nɔ̂ːk tɕàːk nán] - "Moreover"
-4. **ເພາະສະນັ້ນ** [pʰɔ́ʔ sá nán] - "Therefore"
+1. **ແມ່ນແລ້ວ** [mɛ̀ːn lɛ́ːw] - “That's right”
+2. **ແນວໃດກໍຕາມ** [nɛ́ːw dàj kɔː taːm] - “However”
+3. **ນອກຈາກນັ້ນ** [nɔ̂ːk tɕàːk nán] - “Moreover”
+4. **ເພາະສະນັ້ນ** [pʰɔ́ʔ sá nán] - “Therefore”
 
 ## Proverbs and Sayings
 
 Lao has many proverbs that reflect cultural wisdom:
 
 1. **ຫມາເຫ່າບໍ່ແມ່ນຫມາກັດ** [mǎː hào bɔ̀ː mɛ̀ːn mǎː kát]
-   Literal: "A barking dog is not a biting dog"
+   Literal: “A barking dog is not a biting dog”
    Meaning: Those who talk the most often do the least
 
 2. **ຢ່າຂຸດຂຸມພາງຮັບແຂກ** [jàː kʰút kʰúm pʰáːŋ háp kʰɛ̀ːk]
-   Literal: "Don't dig a hole to trap your guests"
-   Meaning: Don't set traps for others; it might backfire
+   Literal: “Don’t dig a hole to trap your guests”
+   Meaning: Don’t set traps for others; it might backfire
 
 3. **ກິນໝາກມ່ວງຫ່າມ ຄອຍກິນໝາກມ່ວງສຸກ** [kìn màːk mùaŋ hàːm kʰɔːj kìn màːk mùaŋ súk]
-   Literal: "Eat unripe mangoes, wait to eat ripe mangoes"
+   Literal: “Eat unripe mangoes, wait to eat ripe mangoes”
    Meaning: Be patient and wait for the right time
 
 These aspects of the Lao language showcase its rich linguistic features, cultural embeddedness, and the complex interplay between formal and colloquial usage. Understanding these elements is crucial for gaining a comprehensive grasp of the language and its use in various contexts.

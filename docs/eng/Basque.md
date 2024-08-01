@@ -334,8 +334,8 @@ Questions can be formed by:
 
 Negation is typically formed by placing **ez** before the verb:
 
-- **Ez dakit** (I don't know)
-- **Ez dut ulertzen** (I don't understand)
+- **Ez dakit** (I don’t know)
+- **Ez dut ulertzen** (I don’t understand)
 
 In compound tenses, **ez** comes before the auxiliary:
 
@@ -371,7 +371,7 @@ In the past tense, the potential is expressed with the suffix -ke:
 
 Basque uses the suffix -(e)la for reported speech:
 
-- Direct: **Mikelek esan du: "Bihar etorriko naiz"** (Mikel said: "I will come tomorrow")
+- Direct: **Mikelek esan du: “Bihar etorriko naiz”** (Mikel said: “I will come tomorrow”)
 - Indirect: **Mikelek esan du bihar etorriko dela** (Mikel said that he will come tomorrow)
 
 For reported questions, -(e)n is used:
@@ -383,14 +383,14 @@ For reported questions, -(e)n is used:
 Basque vocabulary is largely unique, though it has borrowed words from neighboring languages throughout its history. Some common sources of loanwords include:
 
 1. Latin and Romance languages (especially Spanish and French):
-   - **liburu** (book) from Latin "librum"
-   - **leiho** (window) from Latin "fenestra"
+   - **liburu** (book) from Latin “librum”
+   - **leiho** (window) from Latin “fenestra”
 
 2. Germanic languages:
-   - **borda** (hut, cabin) from Frankish "borda"
+   - **borda** (hut, cabin) from Frankish “borda”
 
 3. Arabic (via Spanish):
-   - **azoka** (market) from Arabic "as-suq"
+   - **azoka** (market) from Arabic “as-suq”
 
 4. Modern loans from English and other languages:
    - **futbola** (football/soccer)
@@ -425,7 +425,7 @@ Basque has several productive methods of word formation:
 
 - Useful phrases:
   - **Euskaraz ba al dakizu?** (Do you speak Basque?)
-  - **Ez dut ulertzen** (I don't understand)
+  - **Ez dut ulertzen** (I don’t understand)
   - **Nola duzu izena?** (What's your name?)
   - **Nire izena ... da** (My name is ...)
 
@@ -436,10 +436,10 @@ While Euskara Batua (Unified Basque) is the standardized form used in education,
 Some notable differences between dialects:
 
 1. Vocabulary:
-   - "duck": **ahate** (standard), **paita** (Bizkaian), **gita** (Zuberoan)
+   - “duck”: **ahate** (standard), **paita** (Bizkaian), **gita** (Zuberoan)
 
 2. Verb forms:
-   - "I am": **naiz** (standard), **naz** (Bizkaian)
+   - “I am”: **naiz** (standard), **naz** (Bizkaian)
 
 3. Pronunciation:
    - The letter 'j' is pronounced [x] in standard Basque, but [ʝ] in some western dialects and [ʒ] in some eastern dialects.
@@ -474,18 +474,18 @@ Historically, other writing systems have been used for Basque, including:
 
 Basque is a pro-drop language, meaning that pronouns can be omitted when they can be inferred from context:
 
-- **Etxera noa** (I'm going home) - the pronoun "ni" (I) is omitted
+- **Etxera noa** (I'm going home) - the pronoun “ni” (I) is omitted
 
 ### Animacy
 
-Basque makes a distinction between animate and inanimate objects in some contexts. For example, the question words "nor" (who) and "zer" (what) are used for animate and inanimate subjects/objects respectively:
+Basque makes a distinction between animate and inanimate objects in some contexts. For example, the question words “nor” (who) and “zer” (what) are used for animate and inanimate subjects/objects respectively:
 
 - **Nor etorri da?** (Who has come?)
 - **Zer gertatu da?** (What has happened?)
 
-### Inclusive and exclusive "we"
+### Inclusive and exclusive “we”
 
-Unlike many European languages, Basque distinguishes between inclusive "we" (including the addressee) and exclusive "we" (excluding the addressee):
+Unlike many European languages, Basque distinguishes between inclusive “we” (including the addressee) and exclusive “we” (excluding the addressee):
 
 - **gu** (we, general)
 - **gu denok** (we all, inclusive)
@@ -504,7 +504,7 @@ Some linguistic features are believed to be unique to Basque or very rare among 
 Despite its isolation, Basque has had some influence on neighboring languages:
 
 1. Spanish:
-   - Words like "izquierda" (left) from Basque "ezker"
+   - Words like “izquierda” (left) from Basque “ezker”
    - The sound [θ] (spelled 'z' in Spanish) may have originated from Basque influence
 
 2. Gascon (a dialect of Occitan):

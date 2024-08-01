@@ -261,7 +261,7 @@ Example: **Kje si?** (Where are you?)
 ### Negation
 
 Negation is formed by placing **ne** before the verb:
-- **Ne govorim slovensko.** (I don't speak Slovenian.)
+- **Ne govorim slovensko.** (I don’t speak Slovenian.)
 
 ### Clitics
 
@@ -337,7 +337,7 @@ Slovenian has a rich dialectal landscape, with over 40 distinct dialects grouped
 
 These dialects can differ significantly in vocabulary, pronunciation, and even grammar. For example:
 
-- Standard: **Ne vem.** (I don't know.)
+- Standard: **Ne vem.** (I don’t know.)
 - Ljubljana dialect: **Ne vem.** [nəˈʋeːm]
 - Prekmurje dialect: **Ne znan.** [nɛ ˈznaːn]
 
@@ -346,13 +346,13 @@ These dialects can differ significantly in vocabulary, pronunciation, and even g
 Slovenian vocabulary has been influenced by various languages throughout its history:
 
 1. German: due to historical proximity and interaction
-   Example: **šola** (school) from German "Schule"
+   Example: **šola** (school) from German “Schule”
 
 2. Italian: particularly in the western regions
-   Example: **bonbon** (candy) from Italian "bonbon"
+   Example: **bonbon** (candy) from Italian “bonbon”
 
 3. Hungarian: especially in the northeastern regions
-   Example: **čizma** (boot) from Hungarian "csizma"
+   Example: **čizma** (boot) from Hungarian “csizma”
 
 4. Serbo-Croatian: due to shared history in Yugoslavia
    Example: **čevapčiči** (a type of grilled meat dish)
@@ -366,7 +366,7 @@ Many Slavic roots are shared across Slovenian and other Slavic languages, which 
 
 Slovenian has a rich literary tradition dating back to the 16th century. Some key figures in Slovenian literature include:
 
-1. France Prešeren (1800-1849): Considered the greatest Slovenian poet. His poem "Zdravljica" is now the national anthem.
+1. France Prešeren (1800-1849): Considered the greatest Slovenian poet. His poem “Zdravljica” is now the national anthem.
 
 2. Ivan Cankar (1876-1918): A prominent modernist writer known for his critical portrayal of Slovenian society.
 
@@ -594,7 +594,7 @@ Slovenian uses various conjunctions to connect words, phrases, and clauses. Some
 1. Coordinating conjunctions:
    - **in** (and): **Jabolka in hruške** (Apples and pears)
    - **ali** (or): **Kava ali čaj?** (Coffee or tea?)
-   - **ampak** (but): **Rad bi šel, ampak ne morem.** (I'd like to go, but I can't.)
+   - **ampak** (but): **Rad bi šel, ampak ne morem.** (I'd like to go, but I can’t.)
 
 2. Subordinating conjunctions:
    - **ker** (because): **Ne grem ven, ker dežuje.** (I'm not going out because it's raining.)
@@ -611,7 +611,7 @@ Slovenian uses various particles to express nuances in meaning, emphasis, or spe
 4. **saj** (after all, because): **Saj veš.** (You know, after all.)
 5. **le** (only, just): **Le pridi.** (Just come.)
 
-These particles often don't have direct translations and their meaning can vary based on context.
+These particles often don’t have direct translations and their meaning can vary based on context.
 
 ## Word formation
 

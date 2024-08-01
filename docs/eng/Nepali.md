@@ -80,11 +80,11 @@ The vowel /ə/ is not represented in the writing system but occurs in speech.
 
 1. Inherent vowel: Consonants without a vowel diacritic are pronounced with an inherent short 'a' sound, unless they are at the end of a word or followed by another consonant.
 
-   Example: **कमल** is pronounced as "kamala", not "kml".
+   Example: **कमल** is pronounced as “kamala”, not “kml”.
 
 2. Consonant clusters: When two consonants appear together without a vowel in between, they form a cluster.
 
-   Example: **स्कूल** (school) is pronounced "skūl".
+   Example: **स्कूल** (school) is pronounced “skūl”.
 
 3. Final consonants: Unlike in Hindi, Nepali often pronounces final consonants.
 
@@ -289,7 +289,7 @@ Nepali uses postpositions instead of prepositions. These come after the noun or 
 The basic word order in Nepali is Subject-Object-Verb (SOV):
 
 **राम किताब पढ्छ।** (Rām kitāb paḍhcha.)
-(Ram book reads.) "Ram reads a book."
+(Ram book reads.) “Ram reads a book.”
 
 However, due to the case system, word order can be flexible for emphasis or stylistic reasons.
 
@@ -299,22 +299,22 @@ Questions can be formed in several ways:
 
 1. By adding the question particle **के** (ke) at the beginning of a statement:
    **के तिमी नेपाली बोल्छौ?** (Ke timī nepālī bolchau?)
-   "Do you speak Nepali?"
+   “Do you speak Nepali?”
 
 2. By using question words:
    **तिमी कहाँ जान्छौ?** (Timī kahā̃ jānchau?)
-   "Where are you going?"
+   “Where are you going?”
 
 3. By using rising intonation with a statement:
    **तिमी नेपाली बोल्छौ?** (Timī nepālī bolchau?)
-   "You speak Nepali?"
+   “You speak Nepali?”
 
 ### Negation
 
 Negation is typically formed by adding **न** (na) before the verb:
 
 **म नेपाली बोल्दिनँ।** (Ma nepālī boldina̐.)
-"I don't speak Nepali."
+“I don’t speak Nepali.”
 
 ### Honorifics
 
@@ -340,7 +340,7 @@ Example sentence with different levels of respect:
 - Mid: **तिमी कहाँ जान्छौ?** (Timī kahā̃ jānchau?)
 - High: **तपाईं कहाँ जानुहुन्छ?** (Tapāī̃ kahā̃ jānuhuncha?)
 
-All mean "Where are you going?" but with increasing levels of respect.
+All mean “Where are you going?” but with increasing levels of respect.
 
 ## Vocabulary
 
@@ -479,27 +479,27 @@ Nepali undergoes several phonological processes in connected speech:
 1. Simple sentence:
    **म घर जान्छु।** (Ma ghar jānchu.)
    I home go.
-   "I go home."
+   “I go home.”
 
 2. Complex sentence:
    **जब म घर पुगें, तब मेरी आमा खाना पकाउँदै थिइन्।** (Jaba ma ghar pugẽ, taba merī āmā khānā pakāũdai thiin.)
    When I home arrived, then my mother food cooking was.
-   "When I arrived home, my mother was cooking food."
+   “When I arrived home, my mother was cooking food.”
 
 3. Compound sentence:
    **म स्कूल गएँ र मेरो साथी घर गयो।** (Ma skūl gaẽ ra mero sāthī ghar gayo.)
    I school went and my friend home went.
-   "I went to school and my friend went home."
+   “I went to school and my friend went home.”
 
 4. Passive voice:
    **यो किताब मेरो दाजुद्वारा लेखिएको थियो।** (Yo kitāb mero dājudvārā lekhieko thiyo.)
    This book my brother-by written was.
-   "This book was written by my brother."
+   “This book was written by my brother.”
 
 5. Conditional sentence:
    **यदि पानी पर्यो भने, म घरमै बस्नेछु।** (Yadi pānī paryo bhane, ma gharmai basnēchu.)
    If rain fell if, I home-in-indeed will-stay.
-   "If it rains, I will stay at home."
+   “If it rains, I will stay at home.”
 
 ## Discourse Markers
 
@@ -507,19 +507,19 @@ Nepali uses various discourse markers to connect ideas and manage conversation f
 
 1. **अनि** (ani, and then): Used to continue a narrative or add information
    **म बिहान उठें। अनि म काम गर्न गएँ।** (Ma bihān uṭhẽ. Ani ma kām garna gaẽ.)
-   "I woke up in the morning. And then I went to work."
+   “I woke up in the morning. And then I went to work.”
 
 2. **तर** (tara, but): Used to express contrast
    **म जान चाहन्छु, तर मसँग समय छैन।** (Ma jāna chāhanchu, tara masanga samaya chaina.)
-   "I want to go, but I don't have time."
+   “I want to go, but I don’t have time.”
 
 3. **किनभने** (kinabhane, because): Used to give reasons
    **म घर गएँ किनभने म बिरामी थिएँ।** (Ma ghar gaẽ kinabhane ma birāmī thiẽ.)
-   "I went home because I was sick."
+   “I went home because I was sick.”
 
 4. **त्यसैले** (tyasaile, therefore): Used to indicate consequence
    **पानी पर्यो। त्यसैले हामी घरमै बस्यौं।** (Pānī paryo. Tyasaile hāmī gharmai basyaũ.)
-   "It rained. Therefore, we stayed at home."
+   “It rained. Therefore, we stayed at home.”
 
 ## Pragmatics
 
@@ -528,21 +528,21 @@ Nepali, like many languages, has various ways to express politeness, indirectnes
 1. Polite requests:
    Adding **न** (na) at the end of a request softens it:
    **यहाँ आउनुहोस् न।** (Yahā̃ āunuhos na.)
-   "Please come here."
+   “Please come here.”
 
 2. Indirect speech:
    Using **रे** (re) to indicate reported speech:
    **उनी आउँदैनन् रे।** (Unī āũdainan re.)
-   "They say he's not coming."
+   “They say he's not coming.”
 
 3. Emphasis:
    Using **पो** (po) for emphasis or surprise:
    **तिमी पो आएछौ!** (Timī po āechau!)
-   "Oh, it's you who has come!"
+   “Oh, it's you who has come!”
 
 4. Doubt or uncertainty:
    Using **होला** (holā) to express probability:
    **ऊ आउला होला।** (Ū āulā holā.)
-   "He might come."
+   “He might come.”
 
 This overview covers many aspects of the Nepali language, including its phonology, grammar, vocabulary, and usage. It provides a comprehensive introduction for learners and those interested in the language's structure and features.

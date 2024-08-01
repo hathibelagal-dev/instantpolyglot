@@ -46,7 +46,7 @@ Macedonian uses the Cyrillic alphabet, with 31 letters representing 31 distinct 
 
 1. The letters **ѓ** and **ќ** represent palatal stops, similar to soft 'g' and 'k' sounds.
 2. **Љ љ** and **Њ њ** are palatal consonants, pronounced as single sounds.
-3. **Ѕ ѕ** represents the 'dz' sound, as in "adze" in English.
+3. **Ѕ ѕ** represents the 'dz' sound, as in “adze” in English.
 4. The letter **р** (r) can be syllabic, functioning as a vowel in some words.
 
 ### Stress
@@ -516,7 +516,7 @@ Colloquial Macedonian can differ significantly from the standard written languag
 
 6. Slang and idiomatic expressions:
    - **Супер** (Super) - Cool, great
-   - **Гајле ми е** (Gajle mi e) - I don't care
+   - **Гајле ми е** (Gajle mi e) - I don’t care
 
 Example of colloquial speech:
 - Standard: **Што правиш? Како си?** (Što praviš? Kako si?)

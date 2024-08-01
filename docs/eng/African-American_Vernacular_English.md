@@ -63,7 +63,7 @@ AAVE phonology includes several features that distinguish it from Standard Ameri
 
 ### Vowels
 
-1. Pin-pen merger: The vowels in words like "pin" and "pen" are often pronounced the same, typically as [ɪ].
+1. Pin-pen merger: The vowels in words like “pin” and “pen” are often pronounced the same, typically as [ɪ].
 
    Example:
    - **pen** [pɛn] and **pin** [pɪn] → both pronounced as [pɪn]
@@ -93,11 +93,11 @@ AAVE phonology includes several features that distinguish it from Standard Ameri
 
 ### Stress and Intonation
 
-AAVE often exhibits a different stress pattern compared to SAE, with a tendency towards syllable-timing rather than stress-timing. This can result in a perceived "singsong" quality to the speech.
+AAVE often exhibits a different stress pattern compared to SAE, with a tendency towards syllable-timing rather than stress-timing. This can result in a perceived “singsong” quality to the speech.
 
 Example:
-- SAE: "I'm GO-ing to the STORE."
-- AAVE: "I'm go-ING to the STO-re."
+- SAE: “I'm GO-ing to the STORE.”
+- AAVE: “I'm go-ING to the STO-re.”
 
 AAVE also features distinctive intonation patterns, often with a wider pitch range than SAE. This contributes to the perceived musicality of AAVE speech.
 
@@ -125,7 +125,7 @@ Several phonological processes are common in AAVE:
    Example:
    - **cab** [kæb] → [kæp]
 
-5. Neutralization of /ɪ/ and /ɛ/ before nasals: The "pin-pen" merger.
+5. Neutralization of /ɪ/ and /ɛ/ before nasals: The “pin-pen” merger.
 
    Example:
    - **tin** [tɪn] and **ten** [tɛn] both pronounced as [tɪn]
@@ -136,13 +136,13 @@ AAVE grammar has several distinctive features that set it apart from SAE. These 
 
 ### Verbs
 
-1. Habitual "be": The word "be" is used to indicate habitual or recurring actions.
+1. Habitual “be”: The word “be” is used to indicate habitual or recurring actions.
 
    Examples:
    - **He be working late** (He habitually works late)
    - **They be playing basketball on Saturdays** (They regularly play basketball on Saturdays)
 
-2. Absence of copula: The conjugated forms of "to be" are often omitted in the present tense, particularly in contracted positions.
+2. Absence of copula: The conjugated forms of “to be” are often omitted in the present tense, particularly in contracted positions.
 
    Examples:
    - **She nice** (She is nice)
@@ -153,13 +153,13 @@ AAVE grammar has several distinctive features that set it apart from SAE. These 
    - **That's what it is**
    - **He is angry**
 
-3. Use of "done" for completed actions: The word "done" is used as an auxiliary to indicate a completed action.
+3. Use of “done” for completed actions: The word “done” is used as an auxiliary to indicate a completed action.
 
    Examples:
    - **I done told you** (I have already told you)
    - **She done finished her homework** (She has finished her homework)
 
-4. Invariant "be" for future events: "Be" can be used to indicate future events.
+4. Invariant “be” for future events: “Be” can be used to indicate future events.
 
    Examples:
    - **We be there tomorrow** (We will be there tomorrow)
@@ -169,14 +169,14 @@ AAVE grammar has several distinctive features that set it apart from SAE. These 
 
    Examples:
    - **I ain't never seen nobody like that** (I have never seen anybody like that)
-   - **Don't nobody want no trouble** (Nobody wants any trouble)
+   - **Don’t nobody want no trouble** (Nobody wants any trouble)
 
-6. Use of "ain't": "Ain't" is used as a general negator, replacing "am not," "isn't," "aren't," "hasn't," and "haven't."
+6. Use of “ain't”: “Ain't” is used as a general negator, replacing “am not,” “isn’t,” “aren’t,” “hasn’t,” and “haven't.”
 
    Examples:
-   - **He ain't here** (He isn't here)
+   - **He ain't here** (He isn’t here)
    - **I ain't seen him** (I haven't seen him)
-   - **That ain't right** (That isn't right)
+   - **That ain't right** (That isn’t right)
 
 7. Regularization of irregular verbs: Some irregular verbs are conjugated regularly in AAVE.
 
@@ -191,7 +191,7 @@ AAVE grammar has several distinctive features that set it apart from SAE. These 
    - **He walk to work every day** (He walks to work every day)
    - **She like pizza** (She likes pizza)
 
-9. Use of "finna" or "fixing to": These phrases are used to indicate imminent future action.
+9. Use of “finna” or “fixing to”: These phrases are used to indicate imminent future action.
 
    Examples:
    - **I'm finna go to the store** (I'm about to go to the store)
@@ -202,7 +202,7 @@ AAVE grammar has several distinctive features that set it apart from SAE. These 
     Examples:
     - **He come in yesterday and say he ain't got no money** (He came in yesterday and said he didn't have any money)
 
-11. Use of "steady" as an intensifying adverb:
+11. Use of “steady” as an intensifying adverb:
 
     Example:
     - **She steady talking** (She's continuously talking)
@@ -221,23 +221,23 @@ AAVE grammar has several distinctive features that set it apart from SAE. These 
    - **That John car** (That's John's car)
    - **It's they house** (It's their house)
 
-2. "Y'all" as second person plural: "Y'all" (or "ya'll") is commonly used as the second person plural pronoun.
+2. “Y'all” as second person plural: “Y'all” (or “ya'll”) is commonly used as the second person plural pronoun.
 
    Examples:
    - **Y'all coming to the party?** (Are you all coming to the party?)
    - **Where y'all been?** (Where have you all been?)
 
-3. "Them" as demonstrative: "Them" can be used as a demonstrative adjective.
+3. “Them” as demonstrative: “Them” can be used as a demonstrative adjective.
 
    Examples:
    - **Them boys over there** (Those boys over there)
    - **Give me them shoes** (Give me those shoes)
 
-4. Existential "it": "It" can be used instead of "there" in existential sentences.
+4. Existential “it”: “It” can be used instead of “there” in existential sentences.
 
    Examples:
    - **It's a party tonight** (There's a party tonight)
-   - **It ain't no more food** (There isn't any more food)
+   - **It ain't no more food** (There isn’t any more food)
 
 5. Appositive pronouns: Pronouns may be used in apposition to a noun subject.
 
@@ -249,48 +249,48 @@ AAVE grammar has several distinctive features that set it apart from SAE. These 
 1. Absence of auxiliary verb inversion: In questions, the auxiliary verb often remains in its declarative position.
 
    Examples:
-   - **Why you ain't coming?** (Why aren't you coming?)
+   - **Why you ain't coming?** (Why aren’t you coming?)
    - **What he doing?** (What is he doing?)
 
 2. Use of negative inversion: In negative questions, the negative element can be moved to the beginning of the sentence.
 
    Examples:
-   - **Don't nobody want no trouble** (Doesn't anybody want any trouble?)
-   - **Ain't you going to the store?** (Aren't you going to the store?)
+   - **Don’t nobody want no trouble** (Doesn’t anybody want any trouble?)
+   - **Ain't you going to the store?** (Aren’t you going to the store?)
 
 ### Other Grammatical Features
 
-1. Use of "for to" infinitive: "For to" can be used to introduce an infinitive phrase.
+1. Use of “for to” infinitive: “For to” can be used to introduce an infinitive phrase.
 
    Examples:
    - **I'm trying for to help you** (I'm trying to help you)
    - **She went to the store for to buy some milk** (She went to the store to buy some milk)
 
-2. "Come" as a semi-auxiliary verb: "Come" can be used to express indignation.
+2. “Come” as a semi-auxiliary verb: “Come” can be used to express indignation.
 
    Examples:
    - **He come telling me I'm wrong** (He had the nerve to tell me I'm wrong)
-   - **Don't come acting like you don't know** (Don't pretend you don't know)
+   - **Don’t come acting like you don’t know** (Don’t pretend you don’t know)
 
-3. Completive "done": "Done" can be used to emphasize the completed nature of an action.
+3. Completive “done”: “Done” can be used to emphasize the completed nature of an action.
 
    Examples:
    - **I done told you already** (I've already told you)
    - **She done gone home** (She has gone home)
 
-4. Resultative "been": "Been" can be used to indicate that an action began in the distant past and continues into the present.
+4. Resultative “been”: “Been” can be used to indicate that an action began in the distant past and continues into the present.
 
    Examples:
    - **I been knowing him** (I've known him for a long time)
    - **She been married** (She has been married for a long time)
 
-5. Remote past "BIN": A stressed "BIN" (often written as "been" but pronounced differently) indicates an action that happened or began a long time ago.
+5. Remote past “BIN”: A stressed “BIN” (often written as “been” but pronounced differently) indicates an action that happened or began a long time ago.
 
    Examples:
    - **She BIN married** (She has been married for a very long time)
    - **I BIN done my homework** (I finished my homework a long time ago)
 
-6. Preterite "had": "Had" can be used in narrative contexts to describe a simple past event.
+6. Preterite “had”: “Had” can be used in narrative contexts to describe a simple past event.
 
    Example:
    - **We had went to the store** (We went to the store)
@@ -310,7 +310,7 @@ AAVE has a rich vocabulary that includes many words and phrases not commonly fou
 2. Intensifiers and descriptors:
    - **salty**: upset, angry
    - **janky**: of poor quality, suspicious
-   - **bougie**: bourgeois, pretentious (from "bourgeois")
+   - **bougie**: bourgeois, pretentious (from “bourgeois”)
    - **fresh**: cool, stylish
    - **wack**: not good, lame
    - **dope**: excellent, very good
@@ -356,11 +356,11 @@ AAVE has a rich vocabulary that includes many words and phrases not commonly fou
    - **fire**: excellent, impressive
    - **clutch**: crucial, important in a critical situation
    - **snatched**: looking good, well put together
-   - **cap**: lie (e.g., "stop capping" means "stop lying")
+   - **cap**: lie (e.g., “stop capping” means “stop lying”)
    - **sus**: suspicious, questionable
    - **slaps**: refers to music that sounds good
    - **drip**: fashionable outfit or style
-   - **tea**: gossip or drama (e.g., "spill the tea" means "share the gossip")
+   - **tea**: gossip or drama (e.g., “spill the tea” means “share the gossip”)
    - **slay**: to do something exceptionally well
    - **lowkey/highkey**: used to downplay or emphasize a statement
 
@@ -396,7 +396,7 @@ While AAVE follows many of the same syntactic patterns as other varieties of Eng
    - **The coffee, it's too hot** (As for the coffee, it's too hot)
    - **My brother, he works downtown** (As for my brother, he works downtown)
 
-2. Zero copula in complex sentences: In complex sentences, the copula (form of "to be") can be omitted in the main clause but retained in the subordinate clause.
+2. Zero copula in complex sentences: In complex sentences, the copula (form of “to be”) can be omitted in the main clause but retained in the subordinate clause.
 
    Examples:
    - **He Ø nice when he Ø sleeping, but he is mean when he is awake**
@@ -414,30 +414,30 @@ While AAVE follows many of the same syntactic patterns as other varieties of Eng
    - **She come walk in here like she own the place** (She came walking in here as if she owned the place)
    - **I'm a go try find it** (I'm going to try to find it)
 
-5. Aspectual markers: Words like "been," "done," and "finna" are used as aspectual markers to indicate the timing or nature of an action.
+5. Aspectual markers: Words like “been,” “done,” and “finna” are used as aspectual markers to indicate the timing or nature of an action.
 
    Examples:
    - **I been knowing that** (I've known that for a long time)
    - **He done lost his mind** (He has completely lost his mind)
    - **We finna eat** (We're about to eat)
 
-6. Tag questions: AAVE uses distinctive tag questions, often with invariant "ain't."
+6. Tag questions: AAVE uses distinctive tag questions, often with invariant “ain't.”
 
    Examples:
-   - **You coming, ain't you?** (You're coming, aren't you?)
-   - **That's good, ain't it?** (That's good, isn't it?)
+   - **You coming, ain't you?** (You're coming, aren’t you?)
+   - **That's good, ain't it?** (That's good, isn’t it?)
 
-7. Quotative expression: "Be like" is commonly used to introduce reported speech or thoughts.
+7. Quotative expression: “Be like” is commonly used to introduce reported speech or thoughts.
 
    Examples:
-   - **He be like, "I ain't doing that"** (He said, "I'm not doing that")
-   - **She was like, "Where you been at?"** (She said, "Where have you been?")
+   - **He be like, “I ain't doing that”** (He said, “I'm not doing that”)
+   - **She was like, “Where you been at?”** (She said, “Where have you been?”)
 
-8. Existential "it": The use of "it" instead of "there" in existential constructions.
+8. Existential “it”: The use of “it” instead of “there” in existential constructions.
 
    Examples:
    - **It's a party tonight** (There's a party tonight)
-   - **It ain't no more food left** (There isn't any more food left)
+   - **It ain't no more food left** (There isn’t any more food left)
 
 9. Double subjects: The use of a pronoun immediately after the subject for emphasis.
 
@@ -449,7 +449,7 @@ While AAVE follows many of the same syntactic patterns as other varieties of Eng
 
     Examples:
     - **I ain't never seen nobody like that** (I have never seen anybody like that)
-    - **Don't nobody want no problems** (Nobody wants any problems)
+    - **Don’t nobody want no problems** (Nobody wants any problems)
 
 ## Prosody
 
@@ -457,13 +457,13 @@ AAVE has distinctive prosodic features that contribute to its unique sound:
 
 1. Pitch: AAVE often uses a wider pitch range than SAE, contributing to its perceived musicality.
 
-2. Rhythm: AAVE tends towards a more syllable-timed rhythm, as opposed to the stress-timed rhythm of SAE. This means that syllables are given more equal weight, contributing to a perceived "bouncy" quality in the speech.
+2. Rhythm: AAVE tends towards a more syllable-timed rhythm, as opposed to the stress-timed rhythm of SAE. This means that syllables are given more equal weight, contributing to a perceived “bouncy” quality in the speech.
 
 3. Intonation patterns: Distinctive intonation patterns are used for emphasis and to convey meaning.
 
    Examples:
    - Rising intonation on statements to indicate disbelief or challenge: **You did WHAT?**
-   - Fall-rise intonation for emphasis: **I TOLD you** (with a fall on "told" and a rise on "you")
+   - Fall-rise intonation for emphasis: **I TOLD you** (with a fall on “told” and a rise on “you”)
 
 4. Stress patterns: Stress may be placed differently than in SAE for emphasis or rhythmic reasons.
 
@@ -474,7 +474,7 @@ AAVE has distinctive prosodic features that contribute to its unique sound:
 5. Vowel lengthening: Vowels may be lengthened for emphasis or stylistic effect.
 
    Example:
-   - **That's cra::zy** (with a prolonged "a" sound)
+   - **That's cra::zy** (with a prolonged “a” sound)
 
 6. Word-final devoicing: This can affect the rhythm and sound of speech, particularly in combination with consonant cluster reduction.
 
@@ -542,7 +542,7 @@ Code-switching is a complex skill that requires a high level of linguistic compe
 AAVE has had a significant influence on American popular culture, particularly through music (especially hip-hop and R&B), film, and social media. Many AAVE terms and expressions have entered mainstream American English.
 
 1. Music: Hip-hop and R&B, genres deeply rooted in African American culture, have popularized many AAVE terms and grammatical features. Examples include:
-   - Use of habitual "be" in lyrics
+   - Use of habitual “be” in lyrics
    - Incorporation of AAVE slang into song titles and lyrics
    - The rhythmic patterns of rap often reflect AAVE prosody
 
@@ -577,7 +577,7 @@ AAVE is a controversial topic in sociolinguistics and education. Some key points
    - The potential benefits of contrastive analysis in teaching Standard English to AAVE speakers
 
 3. Stigmatization: The negative attitudes often associated with AAVE in mainstream society. This includes:
-   - Misconceptions about AAVE being "broken" or "lazy" English
+   - Misconceptions about AAVE being “broken” or “lazy” English
    - The impact of linguistic discrimination in areas like employment and housing
    - The psychological effects of language stigma on AAVE speakers
 

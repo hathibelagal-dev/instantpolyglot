@@ -60,7 +60,7 @@ Lower Sorbian uses a modified Latin alphabet. The pronunciation is generally reg
 2. Palatalization: Certain consonants change before front vowels.
    Example: **noga** [nɔɡa] ('leg') → **nodze** [nɔdʑɛ] ('leg' locative)
 
-3. The letter "w" is pronounced [w] before vowels and [f] at the end of words or before voiceless consonants.
+3. The letter “w” is pronounced [w] before vowels and [f] at the end of words or before voiceless consonants.
    Example: **woda** [vɔda] ('water'), **kšyw** [kʃɨf] ('roof')
 
 ## Morphology
@@ -576,7 +576,7 @@ Lower Sorbian has many idiomatic expressions, often related to rural life:
 
 - **byś ako wjeŕba pśi droze** ('to be like a willow by the road' - to be in a difficult situation)
 - **měś wšykne ruce połne** ('to have all hands full' - to be very busy)
-- **tšawa njerosćo na kamjenju** ('grass doesn't grow on stone' - said about a bald person)
+- **tšawa njerosćo na kamjenju** ('grass doesn’t grow on stone' - said about a bald person)
 
 ### Code-switching
 

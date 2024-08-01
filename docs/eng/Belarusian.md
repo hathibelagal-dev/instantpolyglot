@@ -12,42 +12,42 @@ The Belarusian alphabet consists of 32 letters:
 
 | Letter | IPA | Description |
 |--------|-----|-------------|
-| А а | [a] | Like 'a' in "father" |
-| Е е | [ɛ] | Like 'e' in "bet" |
-| Ё ё | [jɔ] | Like 'yo' in "yolk" |
-| І і | [i] | Like 'ee' in "see" |
-| О о | [ɔ] | Like 'o' in "got" |
-| У у | [u] | Like 'oo' in "boot" |
-| Ы ы | [ɨ] | Similar to 'i' in "bit", but more back |
-| Э э | [ɛ] | Like 'e' in "bet" |
-| Ю ю | [ju] | Like 'yu' in "youth" |
-| Я я | [ja] | Like 'ya' in "yard" |
+| А а | [a] | Like 'a' in “father” |
+| Е е | [ɛ] | Like 'e' in “bet” |
+| Ё ё | [jɔ] | Like 'yo' in “yolk” |
+| І і | [i] | Like 'ee' in “see” |
+| О о | [ɔ] | Like 'o' in “got” |
+| У у | [u] | Like 'oo' in “boot” |
+| Ы ы | [ɨ] | Similar to 'i' in “bit”, but more back |
+| Э э | [ɛ] | Like 'e' in “bet” |
+| Ю ю | [ju] | Like 'yu' in “youth” |
+| Я я | [ja] | Like 'ya' in “yard” |
 
 ### Consonants
 
 | Letter | IPA | Description |
 |--------|-----|-------------|
-| Б б | [b] | Like 'b' in "bat" |
-| В в | [v] | Like 'v' in "van" |
+| Б б | [b] | Like 'b' in “bat” |
+| В в | [v] | Like 'v' in “van” |
 | Г г | [ɣ] | Voiced velar fricative |
-| Д д | [d] | Like 'd' in "dog" |
-| Ж ж | [ʐ] | Like 'zh' in "measure" |
-| З з | [z] | Like 'z' in "zoo" |
-| Й й | [j] | Like 'y' in "yes" |
-| К к | [k] | Like 'k' in "kit" |
-| Л л | [l] | Like 'l' in "light" |
-| М м | [m] | Like 'm' in "map" |
-| Н н | [n] | Like 'n' in "net" |
-| П п | [p] | Like 'p' in "pat" |
+| Д д | [d] | Like 'd' in “dog” |
+| Ж ж | [ʐ] | Like 'zh' in “measure” |
+| З з | [z] | Like 'z' in “zoo” |
+| Й й | [j] | Like 'y' in “yes” |
+| К к | [k] | Like 'k' in “kit” |
+| Л л | [l] | Like 'l' in “light” |
+| М м | [m] | Like 'm' in “map” |
+| Н н | [n] | Like 'n' in “net” |
+| П п | [p] | Like 'p' in “pat” |
 | Р р | [r] | Rolled 'r' |
-| С с | [s] | Like 's' in "sit" |
-| Т т | [t] | Like 't' in "top" |
-| Ў ў | [w] | Like 'w' in "wet" |
-| Ф ф | [f] | Like 'f' in "fat" |
-| Х х | [x] | Like 'ch' in Scottish "loch" |
-| Ц ц | [ts] | Like 'ts' in "cats" |
-| Ч ч | [tʂ] | Like 'ch' in "chair" |
-| Ш ш | [ʂ] | Like 'sh' in "ship" |
+| С с | [s] | Like 's' in “sit” |
+| Т т | [t] | Like 't' in “top” |
+| Ў ў | [w] | Like 'w' in “wet” |
+| Ф ф | [f] | Like 'f' in “fat” |
+| Х х | [x] | Like 'ch' in Scottish “loch” |
+| Ц ц | [ts] | Like 'ts' in “cats” |
+| Ч ч | [tʂ] | Like 'ch' in “chair” |
+| Ш ш | [ʂ] | Like 'sh' in “ship” |
 | Ь ь | - | Soft sign, palatalizes preceding consonant |
 
 ### Pronunciation Rules
@@ -331,7 +331,7 @@ In contrast to diminutives, augmentative suffixes can be used to indicate large 
 
 Belarusian often uses impersonal constructions where English might use a personal subject:
 
-**Мне не спіцца.** (I can't sleep. Literally: To me it doesn't sleep.)
+**Мне не спіцца.** (I can’t sleep. Literally: To me it doesn’t sleep.)
 **Яму пашанцавала.** (He got lucky. Literally: To him it lucked.)
 
 ### Genitive of Negation
@@ -428,8 +428,8 @@ Stress can also shift in different forms of the same word:
 Belarusian allows for flexible word order to emphasize different parts of the sentence:
 
 **Я купіў кнігу ўчора.** (I bought a book yesterday. - Neutral)
-**Кнігу я купіў учора.** (It was a book that I bought yesterday. - Emphasis on "book")
-**Учора я купіў кнігу.** (It was yesterday that I bought a book. - Emphasis on "yesterday")
+**Кнігу я купіў учора.** (It was a book that I bought yesterday. - Emphasis on “book”)
+**Учора я купіў кнігу.** (It was yesterday that I bought a book. - Emphasis on “yesterday”)
 
 ### Cleft Sentences
 
@@ -458,12 +458,12 @@ Informal: **ты** (you, singular)
 
 There can be significant differences between literary and colloquial Belarusian:
 
-Literary: **Я не ведаю.** (I don't know.)
-Colloquial: **Я не знаю.** (I don't know.)
+Literary: **Я не ведаю.** (I don’t know.)
+Colloquial: **Я не знаю.** (I don’t know.)
 
 ### Russianisms
 
-Due to the historical influence of Russian, many Belarusian speakers mix Russian words into their speech. This phenomenon is sometimes called "трасянка" (trasianka):
+Due to the historical influence of Russian, many Belarusian speakers mix Russian words into their speech. This phenomenon is sometimes called “трасянка” (trasianka):
 
 Standard Belarusian: **бульба** (potato)
 Trasianka: **картошка** (Russian word for potato)
@@ -474,7 +474,7 @@ Belarusian orthography has undergone several reforms:
 
 1. 1933 reform: Aligned Belarusian spelling more closely with Russian
 2. 1957 reform: Simplified some spelling rules
-3. Post-1991: Some attempts to return to pre-1933 spelling norms, leading to the existence of two parallel orthographic traditions (official and "classical")
+3. Post-1991: Some attempts to return to pre-1933 spelling norms, leading to the existence of two parallel orthographic traditions (official and “classical”)
 
 Example:
 Official: **здароўе** (health)
