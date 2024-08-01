@@ -1,5 +1,8 @@
 import os
 import json
+from transformers import pipeline
+
+pipe = pipeline("text-generation", model="microsoft/Phi-3-mini-128k-instruct")
 
 path = "docs/eng/"
 files = os.listdir(path)
